@@ -1,0 +1,1622 @@
+menu_start_game_0|Prepare-se para se aventurar em um mundo de mentiras e traições.
+mno_introduccion|Introdução
+mno_continue|Continuar...
+mno_go_back|Retornar.
+menu_start_phase_2|{s2}
+mno_westeros_start|Eu estou indo para Westeros
+mno_essos_start|Eu estou indo para Essos
+menu_start_game_3|Escolha seu cenário:
+menu_tutorial|Você se aproxima do campo onde os locais estão praticando com suas armas. Você pode praticar aqui para melhorar suas habilidades de combate.
+mno_go_back_dot|Retornar.
+menu_reports|Renome do personagem: {reg5}^Medidor de honra: {reg6}^Moral do grupo: {reg8}^Tamanho máximo do grupo: {reg7}^
+mno_dplmc_show_economic_report|Ver relatório de prosperidade.
+mno_spy_report|Ver relatório espionagem.
+mno_troop_quarters|Quartel das Tropas.
+mno_reset_static_wars|Desligar as Guerras Estáticas.
+mno_lord_relations|Ver lista de lordes conhecidos segundo relação.
+mno_courtship_relations|Ver as relações de cortejo.
+mno_Companions_overview|Visão geral dos companheiros
+mno_view_faction_relations_report|Ver relatório da relação com as facções.
+mno_view_player_companion_report|Ver relatório do Jogador e Companheiros.
+mno_resume_travelling|Seguir viagem.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|A batalha acabou. {s1} Seu grupo matou {reg5} inimigos e perdeu {reg6} soldados durante a batalha. Você pessoalmente matou {reg7} homens na batalha.
+menu_set_up_game|Por favor, escolha sua preferência. Isso mudará os nomes e as consequências de vários resultados no jogo.
+mno_yara_greyjoy|Prefiro que os personagens sejam nomeados de acordo com a série de TV da HBO, GoT
+mno_asha_greyjoy|Prefiro que os personagens sejam nomeados de acordo com os livros de ASOIAF
+menu_set_up_wars|Escolha seu cenário:^^Guerras estáticas: as facções de Westeros estarão travadas na diplomacia de acordo com as Guerras dos Cinco Reis.^^Mundo aberto: O mesmo que acima, mas todas as facções (exceto a Patrulha da Noite) são livres para declarar guerra e paz como quiserem. Muito parecido com Warband normal.
+mno_static_wars|Guerras Estáticas
+mno_normal_wars|Mundo Aberto
+menu_set_up_wounds|Você é um homem ou um rato:^^Sistema de ferimentos realista: Esta é a forma como o mod deve ser jogado e representa sua verdadeira natureza. Também exige uma camada extra de estratégia.^^Sistema básico de ferimentos: seja para sempre conhecido como um covarde, um ratinho fracote.^^Escolha bem, pois isso não pode ser alterado durante o jogo.
+mno_yes_wounds|Sou um homem.
+mno_no_wounds|Sou um rato.
+menu_set_up_start_location_man|Para onde você está indo:^^Westeros: Comece em Westeros e tenha a oportunidade de jogar a linha principal de missões.^^Essos: Comece em Essos, mas perca a linha principal de missões.
+menu_set_up_start_location_mouse|Para onde o ratinho covarde está indo: ^^Westeros: Comece em Westeros e tenha a oportunidade de jogar na linha de principal missões.^^Essos: Comece em Essos, mas perca a linha de principal missões.
+menu_start_game_1|Bem-vindo, aventureiro, a Um Mundo de Gelo e Fogo. Antes de ser lançado nesse mundo de torturas e traições, você deve criar seu personagem.
+mno_start|Criar Personagem.
+mno_quit|Cancelar.
+menu_start_character_1|Você nasceu há muito tempo. Seu pai era...
+mno_start_noble|Um nobre empobrecido.
+mno_start_merchant|Um mercador ambulante.
+mno_start_guard|Um guerreiro veterano.
+mno_start_forester|Um Dothraki.
+mno_start_nomad|Do Povo Livre.
+mno_start_thief|Um ladrão.
+menu_start_character_2|{s10}^^Você começou a aprender sobre o mundo quase ao mesmo tempo em que aprendeu a caminhar e falar. Passou sua infância...
+mno_page|Como pajem na corte de um nobre.
+mno_apprentice|Como aprendiz de artesão.
+mno_stockboy|Como ajudante em uma loja.
+mno_urchin|Fazendo travessuras.
+mno_nomad|Como um caçador.
+menu_start_character_3|{s11}^^Então, como sempre acontece, sua vida mudou ao chegar na adolescência. Você tornou-se...
+mno_squire|Um escudeiro..
+mno_lady|Uma dama de honra.
+mno_troubadour|{reg3?Uma trovadora:Um trovador}.
+mno_student|{reg3?Uma:Um} estudante na universidade.
+mno_peddler|{reg3?Uma:Um} mascate.
+mno_craftsman|{reg3?Uma ferreira:Um ferreiro}.
+mno_poacher|{reg3?Uma caçadora furtiva:Um caçador furtivo}.
+menu_start_character_4|{s12}^^Mas as coisas mudaram e você decidiu abandonar tudo para aventurar-se no mundo. A razão de tal decisão foi...
+mno_revenge|Uma vingança pessoal.
+mno_death|A perda de um ente querido.
+mno_wanderlust|Sua sede por aventuras.
+mno_disown|O fato de lhe obrigarem a deixar sua casa.
+mno_greed|A sede de dinheiro e poder.
+menu_choose_skill|{s13}
+mno_begin_adventuring|Torne-se um aventureiro e cavalgue em direção ao seu destino.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|Você armou campo. O que você quer fazer?
+mno_camp_action|Escolha uma ação.
+mno_camp_wait_here|Espere aqui por um tempo.
+menu_camp_action_rest|Acampar permite que seus homens descansem um tempo e se recuperem da dura vida de viagens. Também permite que você colete recursos aumentando sua comida. Isso é de bastante ajuda quando estamos em campanha em território inimigo, onde é difícil comprar suprimentos.
+menu_build_refuge_new|Seus homens esperam suas ordens para começar a construção de seu assentamento. Há material suficiente coletado e o que está faltando pode ser comprado nas aldeias próximas.^^Custo total: 5000 veados de prata.^.Tempo necessário: 6 horas.
+mno_refuge_here|Ok, vá em frente.
+menu_camp_cheat|Selecionar uma trapaça:
+mno_testing_cheats|Trapaças de uso rápido.
+mno_camp_cheat_change_weather|Mudar clima.
+menu_cheat_testing_cheats1|Selecionar uma trapaça:
+mno_back_to_camp_menu|Voltar ao menu do acampamento 
+menu_camp_action|Escolha uma ação:
+mno_action_prebattle_custom_divisions|Gerenciar atribuições e divisões de tropas.
+mno_action_export_import|Exportar/importar NPCs.
+mno_camp_cheat|MENU DE TRAPAÇAS.
+mno_jump_to_scene|debug: test scene menu
+mno_camp_smoke_food|Defumar um pouco de comida crua do seu inventário.
+mno_camp_action_4|Voltar ao menu do acampamento.
+menu_camp_recruit_prisoners|Você oferece liberdade aos seus prisioneiros se eles concordarem em se juntar às suas fileiras como soldados. {s18}
+mno_camp_recruit_prisoners_accept|Aceitá-los.
+mno_camp_recruit_prisoners_reject|Rejeitá-los.
+menu_camp_no_prisoners|Você não tem prisioneiros para recrutar.
+menu_camp_fishing|Tentar pegar alguns peixes.^^Pescadores podem ser presas fáceis de bandidos, mas há rumores de todos os tipos de tesouros perdidos sendo retirados dos oceanos por aqueles que são corajosos o suficiente para procurar e encontrá-los.
+mno_fish_yes|Sim.
+mno_fish_no|Não.
+menu_camp_action_read_book|Escolha um livro para ler:
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_export_import_npcs|Escolha um NPC e pressione a tecla C para visualizar e exportar/importar este personagem.^^Você escolheu {reg0?{S0}:nenhum}.
+mno_export_import_back|Voltar
+mno_export_import_npc1|{s0}
+mno_export_import_npc2|{s0}
+mno_export_import_npc3|{s0}
+mno_export_import_npc4|{s0}
+mno_export_import_npc5|{s0}
+mno_export_import_npc6|{s0}
+mno_export_import_npc7|{s0}
+mno_export_import_npc8|{s0}
+mno_export_import_npc9|{s0}
+mno_export_import_npc10|{s0}
+mno_export_import_npc11|{s0}
+mno_export_import_npc12|{s0}
+mno_export_import_npc13|{s0}
+mno_export_import_next|Próxima página
+menu_export_import_npcs_2|Escolha um NPC e pressione a tecla C para visualizar e exportar/importar este personagem.^^Você escolheu {reg0?{S0}:nenhum}.
+mno_export_import_prev|Página anterior
+mno_export_import_npc14|{s0}
+mno_export_import_npc15|{s0}
+mno_export_import_npc16|{s0}
+mno_export_import_npc17|{s0}
+mno_export_import_npc18|{s0}
+mno_export_import_npc19|{s0}
+mno_export_import_npc20|{s0}
+mno_export_import_npc21|{s0}
+mno_export_import_npc22|{s0}
+mno_export_import_npc23|{s0}
+mno_export_import_npc24|{s0}
+mno_export_import_npc25|{s0}
+mno_export_import_npc26|{s0}
+menu_retirement_verify|Você está no dia {reg0}. Sua sorte atual é {reg1}. Você tem certeza que quer se aposentar?
+mno_retire_yes|Sim.
+mno_retire_no|Não.
+menu_end_game|A decisão está feita e você resolve desistir de sua vida de aventureiro e aquietar-se. Você vende suas armas e sua armadura, junta todo o dinheiro e caminha em direção ao por-do-Sol...
+mno_end_game_bye|Até logo.
+menu_cattle_herd|Você encontra um rebanho de gado.
+mno_cattle_drive_away|Guiar o gado adiante.
+mno_cattle_stop|Parar o rebanho para descansar.
+mno_cattle_kill|Abater alguns dos animais.
+mno_leave|Sair.
+menu_cattle_herd_kill|Quantos animais você quer abater?
+mno_cattle_kill_1|Um.
+mno_cattle_kill_2|Dois.
+mno_cattle_kill_3|Três.
+mno_cattle_kill_4|Quatro.
+mno_cattle_kill_5|Cinco.
+mno_cattle_kill_20|Vinte.
+menu_arena_duel_fight|Um duelo é uma coisa muito séria, especialmente se é até a morte. Dois entram no círculo, mas apenas um sai dele...^^Corpo e mente reagem ao estresse e ao perigo. Você sente o suor gelado debaixo das axilas, o tipo que vem independente se está quente ou não. É o suor da luta, e a sua presença significa... você está pronto.
+menu_duel_menu|{s1}{s2}
+mno_start_fight|Começar o duelo.
+menu_simple_encounter|{s2}^^ Você tem {reg10} tropas prontas para batalhar contra {reg11} tropas inimigas.^^{s7}^{s4}^{s15}
+mno_change_commander_simple_encounter|Mudar comandante (Atual: {s7}).
+mno_encounter_attack_deployment|Escolher quem vai se juntar a você na batalha.
+mno_encounter_attack_plan|Planejar sua batalha com o inimigo.
+mno_encounter_attack_do_plan|Chega de planejamento. Para a batalha!
+mno_encounter_attack_clear_plan|Reavaliar a situação.
+mno_encounter_attack_hold|Manter posição na batalha.
+mno_encounter_attack_follow|Liderar suas tropas.
+mno_playerambush_attack|Ataque de emboscada!
+mno_ambush_attack|Defesa de emboscada!
+mno_encounter_attack|{s7} o inimigo.
+mno_encounter_order_attack|Ordenar a suas tropas para atacar sem você.
+mno_tactical_nuevo|Opções do comandante.
+mno_encounter_leave|Sair.
+mno_encounter_retreat|Fugir deixando alguns soldados para trás para cobrir sua fuga.
+mno_encounter_surrender|Render-se.
+mno_force_presentation|Avaliar as forças próximas.
+mno_begin_duel|Começar o duelo
+menu_encounter_retreat_confirm|Como membro do grupo com a maior habilidade tática, {reg2}, {reg3?você idealiza:{s3} idealiza um plano que permitirá que você e seus homens escapem salvos, mas você terá que deixar {reg4} soldados para trás para prevenir que os inimigos façam a perseguição.
+mno_leave_behind|Vá em frente. O sacrifício desses homens salvará o resto.
+mno_dont_leave_behind|Não. Nós não deixamos ninguém para trás.
+menu_encounter_retreat|Você diz para {reg4} de suas tropas para segurar o inimigo enquanto você recua com o resto do seu grupo.
+menu_order_attack_begin|Suas tropas se preparam para atacar o inimigo.
+mno_order_attack_begin|Ordenar o ataque.
+mno_call_back|Chamá-los de volta.
+menu_order_attack_2|{s4}^^Suas baixas: {s8}^^Baixas inimigas: {s9}
+mno_order_attack_continue|Ordenar a seus soldados a continuar o ataque.
+mno_order_retreat|Chamar seus soldados de volta.
+menu_battle_debrief|{s11}^^Suas baixas: {s8}{s10}^^Baixas inimigas: {s9}^^Contagem de mortes:{s12}^^{s3}
+menu_total_victory|Você não deve estar lendo isso... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|Você se depara com uma batalha entre {s2} e {s1}.Você decide...
+mno_pre_join_help_attackers|Mover-se para ajudar o {s2}.
+mno_pre_join_help_defenders|Correr para o ajudar o {s1}.
+mno_pre_join_leave|Não se envolver.
+menu_join_battle|Você está ajudando o {s2} contra o {s1}. Você tem {reg10} tropas preparadas para a batalha contra {reg11} tropas inimigas. {s4}
+mno_change_commander_join_battle|Mudar comandante (Atual: {s7}).
+mno_join_attack_deployment|Escolher quem vai se juntar a você na batalha.
+mno_join_attack_plan|Planejar sua batalha com o inimigo.
+mno_join_attack_do_plan|Chega de planejamento. Para a batalha!
+mno_join_attack_clear_plan|Reavaliar a situação.
+mno_join_attack_hold|Take the field.
+mno_join_attack_follow|Liderar suas tropas.
+mno_join_attack|{s7} o inimigo.
+mno_join_order_attack|Ordenar as suas tropas para se juntarem a seus aliados, enquanto você fica para trás.
+mno_join_leave|Deixar.
+mno_join_wounded|Você está muito ferido para lutar.
+menu_join_order_attack|{s4}^^Suas baixas: {s8}^^Baixas aliadas: {s9}^^Baixas inimigas: {s10}
+menu_zendar|Você entra na cidade de Zendar.
+mno_zendar_enter| 
+mno_zendar_enter_door|Porta para o centro da cidade.
+mno_zendar_tavern| 
+mno_zendar_tavern_door|Porta para a taverna.
+mno_zendar_merchant| 
+mno_zendar_merchant_door|Porta para o mercador.
+mno_zendar_arena| 
+mno_zendar_arena_door|Porta para a arena.
+mno_town_1_leave| 
+menu_banquete_moral_refuge|Ordene que seus homens guardem suas armas e os convide para o grande salão, para que se sente à sua mesa em ordem. Os mais íntimos e queridos perto de você. Algumas mulheres servem carne e hidromel em grandes porções.^^Você gastou uma pequena fortuna com este banquete, pois seus homens merecem. Eles são seus seguidores fiéis.^^A tarde avança. Muitos de seus homens estão bêbados como gambás. Eles berram e cantam. Alguns correm para fora para vomitar, enquanto outros brigam como galos de briga para chamar a atenção de alguma mulher. Atrás de você, um bardo canta canções sobre poder e feitos gloriosos.^^Você age com um caudilho. Você é um caudilho… um 'pastor de homens'. 
+mno_banquete_okr|Você bebe, ri e berra enquanto eles entram.
+mno_banquete_ok2r|Você permanece sóbrio, experimenta a bebida, mas não mais do que o necessário.
+mno_banquete_ok3r|Você chama seus homens e lhes dá anéis e braceletes (2000 veados de prata).
+menu_player_lair_menus|Você está em {s10}, seu próprio abrigo, um retiro escondido livre de inimigos, onde pode se esconder quando as coisas vão mal, descansar das viagens ou guardar seus tesouros mais pessoais.^^{s11}^^{s13}
+mno_banquete_refugemead|Meus homens merecem um banquete em meu refúgio.
+mno_guarida_rename|Renomear seu retiro.
+mno_lair_interior|Ir para o salão do refúgio.
+mno_lair_interior_door|Portão para o refúgio.
+mno_visit_tavern_lair|Ir para a taverna.
+mno_visit_tavern_lair_door|Porta para a taverna.
+mno_lair_buildings_improve|Falar com o seu capitão.
+mno_lair_buildings_improve_door|Portão para o refúgio.
+mno_hirelair_staff|Contratar pessoal.
+mno_lair_inspect|Caminhar pelo seu refúgio.
+mno_lair_inspect_door|Ir à praça.
+mno_mylair_station_troops|Gerenciar a guarnição.
+mno_demoler_lair|Demolir seu refúgio pessoal.
+mno_lair_wait|Esperar aqui por um tempo.
+mno_see_ships|Verificar seus navios. (WIP)
+mno_embarkre|Embarcar.
+mno_lair_leave|Sair...
+mno_lair_leave_door|Sair da Área.
+menu_demoler_lairm|Tem certeza de que deseja demolir seu refúgio?
+mno_demoler_yes|Sim ({reg1} veados).
+mno_demoler_no|Retornar.
+menu_salt_mine|Você chega a um pequeno acampamento de mineração. As Terras Ocidentais não são a parte maior, mais populosa ou mais fértil do reino, mas são as mais ricas. Cheia de colinas e penhascos, a terra está pontilhada de minas, das quais se derramam ouro e prata em quantidades surpreendentes.^^^{s1}
+mno_enter|Andar pelo acampamento.
+mno_enter_door|Sair para o acampamento.
+mno_work_mines|Voluntário para trabalhar nas minas{s1}.
+mno_add_prisoners|Deixe alguns prisioneiros para trabalhar nas minas ou posicione alguns guardas aqui.
+menu_slave_labor|{s1}
+menu_iron_mine|Você chega a um pequeno acampamento de mineração de ferro.^^^ {s1}
+menu_slave_labor2|{s1}
+menu_obsidian_spot|{s2}
+mno_set_up_mine_yes|Quero começar a construir a mina.
+menu_obsidian_mine|Você chega na mina de obsidiana.
+mno_mine_wait|Descansar um pouco aqui.
+menu_hollow_hill|Você chega em Monte Oco.
+mno_service_recruit|Perguntar se alguém está disposto a se juntar a você e seus homens.
+menu_wildling_farm|{s3}
+menu_wildling_farm_safe|Você chega a uma fazenda.
+mno_farm_wait|Descansar um pouco aqui.
+menu_water_gardens|Você chega aos Jardins de Água. Um retiro privado para os governantes de Dorne. Os Jardins de Água são agradáveis no outono, com dias quentes e noites frescas. A brisa salgada sopra do mar, e há fontes e piscinas para se admirar e brincar.
+menu_warlords_camp|{s3}
+menu_reed_slavers_camp|{s3}
+menu_freeing_a_brother_failed|{s2}
+mno_continue1|Continuar...
+menu_crasters_keep_quest|Você chega na Fortaleza de Craster.
+menu_crasters_keep|Você chega na Fortaleza de Craster.
+mno_crasters_keep_wait|Descansar um pouco aqui.
+menu_red_wedding_interior|{s3}
+menu_red_wedding_exterior|Você chegou nas Gêmeas.
+menu_bridge_of_skulls|{s3}
+menu_inn_of_the_kneeling_man|Você chegou na Estalagem do Ajoelhado.
+mno_inn_wait|Descansar um pouco aqui {s1}.
+menu_old_stone_bridge|Você chegou na Velha Ponte de Pedra.
+menu_illyrios_manse|Você chegou na mansão de Illyrio Mopatis.
+menu_ruined_castle|Você encontrou um castelo em ruínas. Existem muitos espalhados por todo o mundo conhecido, a maioria destruída pelos Valirianos usando todo o poder de seus dragões na tentativa de erradicar seus inimigos. Há muito tempo, este castelo era conhecido como Qarthigar e sua aldeia Taelon.^Usando as ferramentas e o conhecimento correto, você pode reconstruir este aqui. Porém, tenha cuidado, invasores ou escravizadores podem estar usando este lugar como se fosse deles. 
+mno_choice_1_1|Reivindique este lugar para si e tente reconstruí-lo.
+mno_choice_1_2|Deixe este lugar em paz..
+menu_harbours|{s0}
+mno_harbour_scene|Dar uma volta pelo porto.
+menu_natural_harbours|{s0}
+mno_natural_harbour_scene|Dar uma volta pelo porto.
+menu_shandystone|Pedramarela é uma fortaleza que foi abandonada quando o poço secou. Possui colunas caneladas e arcos triplos.
+menu_crasters_keep_old|A Fortaleza de Craster fica no topo de uma colina baixa com um fosso de terra ao redor. Há pelo menos um portão no lado sudoeste do complexo e um riacho corre ao redor da extremidade norte da colina. No interior do fosso existe também uma pilha de estrume, um chiqueiro e um curral. A fortaleza em si é um salão comprido e baixo, feito de toras e coberto com grama, e grande o suficiente para abrigar de trinta a cinquenta homens, no máximo. A porta do corredor é feita de duas cortinas de couro de veado. O corredor é um quarto individual, com um sotão de dormir acima, alcançado por um par de escadas lascadas. Apenas Craster tem uma cadeira dentro, e todos os outros se sentam em bancos.
+menu_queenscrown|Coroadarrainha é uma torre abandonada. Os merlões da torre são pintados de ouro e os restos de uma pousada e de uma aldeia ainda podem ser vistos.
+menu_boneway|A Caminho do Espinhaço é o nome popular do que é formalmente conhecido como Caminho de Pedra. Existem apenas duas passagens pelas montanhas vermelhas de Dorne, sendo esta uma delas.
+menu_brokenarm|Você chegou ao Braço Quebrado. Uma longa ponta de terra que se estende até o mar estreito.^A lenda diz que, antes de ser quebrado, o Braço era uma ponte de terra conectando Westeros e Essos, mas os Filhos da Floresta invocaram as águas em uma tentativa de conter o fluxo dos Primeiros Homens de Essos para Westeros.
+menu_naggashill|Você cruzou o Monte de Nagga. É sabido que foi construído com os restos mortais do primeiro dragão do mar morto pelo Rei Cinzento. O Monte de Nagga é o local do Salão do Rei Cinzento, onde os nascidos do ferro uma vez escolheram seus reis através da Assembleia de Homens Livres.
+menu_oldstones|Você descobre os restos de um antigo castelo que pertenceu à Casa Mudd. Seu nome original há muito se perdeu, embora os moradores locais tenham lhe dado um novo nome, Pedravelhas.
+menu_morne|Morne foi a residência de pequenos reis que governaram a partir da costa oriental de Tarth no que hoje são as terras da Tempestade. Depois de examinar as ruínas do castelo, Meistre Hubert escreve no Parente do Veado que Morne era de origem Ândala, não de Primeiros Homens.
+menu_tumbledown|Você descobriu a Torre Arruinada, uma antiga torre de vigia que está abandonada há muito tempo. As pedras que formam a torre caíram de seus lugares e estão cobertas de musgo e hera.
+menu_hoare_castle|Você descobre os restos de um antigo castelo que pertenceu à Casa Hoare quando eles governavam como reis das Ilhas de Ferro.^^O Rei Harmund III Hoare foi deposto pelos sacerdotes do Deus Afogado, que aprisionou o rei no Castelo Hoare, coroou seu irmão, Hagon, e mutilou sua mãe, a rainha Lelia Lannister. Em retaliação, a Casa Lannister invadiu as Ilhas de Ferro. O comandante Lannister, Sor Aubrey Crakehall, derrotou o Rei Hagon, o Terrível, deu o presente da misericórdia a Harmund na masmorra e ordenou que o castelo fosse arrasado.
+menu_castamere|Você descobriu Castamere, um castelo em ruínas que já foi a residência da Casa Reyne.^^Com o nome de uma piscina próxima de água azul, Castamere começou como uma mina, assim como Rochedo Casterly. Depois de construir cortinas de muralhas para proteger a entrada com duas torres robustas, os Reynes construíram fortalezas e salões. À medida que o ouro e a prata secavam, a mina abaixo foi ampliada e convertida em salões, galerias, aposentos e um vasto salão de baile subterrâneo. Enquanto as fortificações de superfície se assemelhavam às de um senhor menor ou cavaleiro com terras, nove décimos do castelo eram subterrâneos.
+menu_tarbeck_hall|Você descobriu o Salão Tarbeck, que já foi a sede da Casa Tarbeck. Você observa os restos de uma antiga fortaleza, torres e uma cortina de muralha.
+menu_whitewalls|Você descobre os restos de um antigo castelo que pertenceu à Casa Butterwell.^^Dizem que o castelo foi caro de se construir e foi apelidado de Castelo de Leite por aqueles que viviam perto, principalmente devido às suas muralhas de pedra branca.^As muralhas, fortaleza e torres eram feitas de pedra branca extraída do Vale de Arryn, enquanto seus pisos e pilares eram feitos de mármore branco com veios de ouro e as vigas esculpidas em troncos de represeiros. O castelo tinha um grande salão, um septo, uma casa de guarda, pátios, um canil, cozinhas, uma adega e um poço.
+menu_dragon_1|Você encontrou o covil de Asaprata, a dragão-fêmea de Alysanne Targaryen e Ulf, o Branco.^^Asaprata era um dos quatro dragões ainda vivos no final da Dança dos Dragões. Embora acostumada com os homens, Asaprata tornou-se selvagem durante o reinado de Aegon III Targaryen, e eventualmente fez seu covil aqui, em uma ilha no Lago Vermelho.
+menu_mammoth|Você encontrou alguns restos de um grande mamute.^^Os mamutes são grandes, com grandes presas. Eles são grandes o suficiente para serem montados por gigantes ou para carregar altas torres de madeira com pessoas dentro. Eles são conhecidos por vagar pela floresta para lá da muralha, mas embora houvesse muitos mamutes em Westeros, agora apenas algumas centenas ainda existem.
+menu_tower_of_joy|Você chegou às ruínas da Torre da Alegria.
+menu_wildling_cave|Você chegou a uma caverna...
+menu_iniau_hideout|Você chegou na floresta profunda.
+menu_quarry1|Você chegou em uma pedreira.
+mno_work_quarry|Desejo trabalhar na pedreira{s1}.
+menu_temple_visit|Você chegou em um templo de R'hllor.
+mno_enter_interior|Visitar os salões do templo.
+mno_enter_interior_door|Ir para o salão do templo.
+mno_monasterio_recruit|Perguntar se alguém aqui se juntará a você.
+mno_pray|Orar e doar 150 veados de prata ao templo.
+mno_donate|Orar e fazer uma doação generosa de 500 veados para o templo.
+mno_convertir|Se converter para R'hllor. Isso exigirá vários dias e 4000 veados.
+mno_pillage_monastery|Saquear o templo de R'hllor.
+menu_septry_visit|Você chegou em um Septo. É possível ver à distância cada rosto de Deus delicadamente retratados com arte e pedras finas.
+menu_wolf_den|Você chegou em uma toca de lobo. Parece que algo morreu aqui recentemente. Conforme você se aproxima, pode começar a ouvir sons, se movendo por entre os arbustos e o vento uivando por entre as árvores. Você se arrisca a continuar...
+mno_enter_player_is_stark|Continuar...
+menu_giants_lair|Você chega a um covil. Conforme você se aproxima, você pode começar a ouvir ruídos, grandes baques no chão e um rugido enorme. Você se arrisca a continuar...
+mno_enter_player_is_wildling|Continuar...
+menu_Crossroads_visit|Você chegou na Estalagem do Entroncamento, também às vezes chamada de Velha Estalagem.
+menu_test_scene|Você entra na cena de teste.
+mno_jump|Pular para a cena
+menu_join_siege_outside|{s1} está sendo {reg6?sitiada:sitiado} pelas {s2}.
+mno_approach_besiegers|Aproximar-se do campo de cerco.
+mno_pass_through_siege|Atravessar as linhas do cerco e entrar em {s1}.
+menu_cut_siege_without_fight|Os sitiantes deixam você se aproximar dos portões sem contestação.
+menu_besiegers_camp_with_allies|{s1} permanence sob cerco. Os estandartes das {s2} ondeiam sobre o acampamento dos sitiadores, onde você e seus homens são bem-vindos.
+mno_talk_to_siege_commander|Solicitar uma audiência com o comandante.
+mno_change_commander_besiegers_camp_with_allies|Mudar comandante(Atual: {s7}).
+mno_siege_attack_deployment|Escolher quem vai se juntar a você na batalha.
+mno_siege_attack_plan|Planejar seu assalto.
+mno_join_siege_with_allies|Unir-se ao próximo assalto.
+mno_join_siege_stay_back|Ordenar a seus soldados para unir-se ao próximo assalto sem você.
+menu_castle_outside|Você se encontra nos arredores de {s2}.{s11} {s3} {s4}
+mno_approach_gates|Aproximar-se dos portões e saudar os guardas.
+mno_town_sneak|Disfarçar-se e tentar entrar despercebido na fortaleza.
+mno_castle_start_siege|Sitiar {reg6?a cidade:o castelo}.
+mno_castle_leave|Deixar.
+menu_castle_guard|Você se aproxima dos portões.^Os homens a postos nos muros lhe vigiam.^^{s10}
+mno_request_shelter|Solicitar sua entrada ao castelo.
+mno_persuade_center_surrender_with_town_lord|Você e {s11} persuadiram eles a se renderem.
+mno_take_lord_as_hostage|Você oferece um acordo, a rendição de {s12} pelo retorno seguro de {s11}
+mno_request_meeting_commander|Solicitar uma audiência com alguém.
+mno_guard_leave|Deixar.
+menu_castle_entry_granted|Após uma breve espera, os guardas abrem os portões e permitem a sua passagem.
+menu_castle_entry_denied|O lorde deste castelo proibiu sua entrada e o sargento da guarda lhe informa que dará ordem de disparo caso você se aproxime ainda mais.
+menu_castle_meeting|Com quem deseja falar?
+mno_forget_it|Esquecer isso.
+menu_castle_meeting_selected|Sua petição é transmitida e finalmente o {S6} aparece no pátio para falar com você.
+menu_port_attack|Você está atacando o porto de {s1}. Você tem {reg10} tropas prontas para a batalha contra o inimigo de {reg11}.*
+mno_lead_attack|Liderar seus soldados em um ataque costeiro.
+mno_attack_stay_back|Ordenar seus soldados para atacar, enquanto você fica para trás...
+mno_lift_siege|Abandonar o ataque.
+menu_persuade_center_surrender|{reg30?Você e {s11} tiveram sucesso. O Comandante de {s12} se rendeu sem derramamento de sangue!:     Suas tentativas de pressionar o Comandante de {s12} a se render foram infrutíferas. Parece que {s11} não cooperou com você.({reg13}).}
+menu_persuade_center_surrender_2|{s20}^^{reg30?{s12} concordou em se render em troca do retorno seguro de {s11}:     O Comandante em {s12} rejeitou sua oferta de troca.}
+menu_castle_besiege|Você está sitiando {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
+mno_siege_request_meeting|Solicitar uma audiência com o comandante do castelo.
+mno_siege_warfare_p|Batalha de Cerco (Planejamento Cerco).
+mno_siege_assault_p|Batalha de Cerco (Preparando Assalto).
+mno_siege_assault_camp|Seu Acampamento de Cerco.
+mno_wait_24_hours|Esperar até amanhã.
+menu_siege_plan|Você se encontra com seus conselheiros para planejar o cerco e tentar conquistar {s4} com o menor número de vítimas possível. Sua estratégia será causar fome e diminuir a moral.^^{s15} {s17} {s18} {s19} {s20}
+mno_build_circunvalation|Defesas: construir postos de controle em torno de {s4}.
+mno_close_circunvalation|Postos de controle finalizados. Agora ordene uma vigilância ativa.
+mno_town_investigar|Investigar as defesas: tentar entrar sorrateiramente. (Rastreamento)
+mno_traicion_interna|Encontrar um traidor dentro das defesas de {s4}.
+mno_traicion_interna3|Alguma notícia dos homens enviados em busca de um traidor?
+mno_infiltracion_interna|Enviar alguns homens para se infiltrar no lugar.
+mno_infiltracion_interna3|Alguma notícia dos homens enviados para se infiltrar?
+mno_build_varios|Ordenar a construção do saneamento para prevenir doenças.
+mno_destruir_campos_a|Saquear e destruir plantações e fazendas próximas.
+mno_destruir_campos_b|Alguma notícia dos homens enviados para saquear as fazendas?
+menu_siege_assault|O tempo é essencial e você teme a chegada de reforços inimigos. Assaltar as muralhas significará pesadas baixas, mas você já se decidiu.^^{s17} {s18} {s19}
+mno_scout_investigar|Chamar os batedores para um relatório sobre {s4}.
+mno_poniendo_elementos_mantles|Ordenar à vanguarda para colocar os manteletes.
+mno_poniendo_elementos|Ordenar à vanguarda para preparar o assalto.
+mno_change_commander_castle_besiege|Mudar comandante(Atual: {s7}).
+mno_castle_lead_attack|A hora chegou. Liderar os soldados no ataque!
+mno_build_mantlet|Construir manteletes.
+mno_build_ladders|Construir instalações e limpar o terreno para o assalto.
+mno_build_siege_tower|Construir uma torre de cerco e outras aparelhagens para atacar a fortaleza. Assaltos podem resultar em muitas baixas.
+mno_build_battering_ram|Construir um aríete e prepará-lo para o assalto à fortaleza. Assaltos são imprevisíveis e podem resultar em muitas baixas.
+menu_siege_attack_meets_sally|Os defensores saem de encontro ao seu assalto.
+menu_nofood_siege_defenders_sally|A falta de comida obriga os defensores de {s4} a sair e atacar, numa tentativa desesperada de quebrar o cerco.
+menu_surrender_siege_defenders_starved|Os defensores de {s4} não podem resistir mais. A falta de comida os debilitou. Os mais fracos já morreram de fome e, em alguns casos, a necessidade levou ao canibalismo.^{s4} está pronto para se render...
+menu_deer_herd|Você encontrou um bando de veados.
+mno_deer_kill|Caçar alguns dos animais.
+menu_deer_herd_kill_end|Você não deveria estar lendo isso.
+menu_coat_herd|Você encontrou um bando de cabras. Elas pertencem ao rebanho de um pastor que balança um estilingue na sua direção até que você vá embora.
+menu_coatb_herd_kill_end|Você não deveria estar lendo isso.
+menu_coatb_herd|Você encontrou um rebanho de cabras.
+mno_coatb_kill|Caçar alguns dos animais.
+menu_boar_herd|Você encontrou alguns javalis.
+mno_boar_kill|Caçar alguns dos animais.
+menu_boar_herd_kill_end|Você não deveria estar lendo isso.
+menu_wolf_herd|Você encontrou uma matilha de lobos.
+mno_wolf_kill|Caçar alguns dos animais.
+menu_wolf_herd_kill_end|Você não deveria estar lendo isso.
+menu_wilddonkey_herd|Você encontrou uma manada de Burros Selvagens.
+mno_wilddonkey_kill|Caçar alguns dos animais.
+menu_wilddonkey_herd_kill_end|Você não deveria estar lendo isso.
+menu_castle_besiege_inner_battle|{s1}
+menu_build_mantles2|Os manteletes ajudam a proteger seus homens quando precisam usar aparelhagens de assalto. Eles salvam muitas vidas. Como membro do seu exército com maior habilidade de Egenharia, ({reg2}), {reg3?você estima:{s3} estima} que levará {reg4} horas para construir os manteletes.
+mno_build_mantles|Faça.
+menu_construct_ladders|Como membro do seu exército com maior habilidade de Engenharia ({reg2}), {reg3?você estima:{s3} estima} que levará {reg4} horas para construir aparelhagens suficientes para o ataque.
+mno_build_ladders_cont|Faça.
+menu_construct_siege_tower|Como membro do seu exército com maior habilidade de Engenharia ({reg2}), {reg3?você estima:{s3} estimata} que a construção de uma torre de cerco e outras aparelhagens para o assalto vai levar {reg4} horas.
+mno_build_siege_tower_cont|Começar a construir.
+menu_battering_ram|Como membro do seu exército com maior habilidade de Engenharia ({reg2}), {reg3?você estima:{s3} estima} que construir um aríete e prepará-lo para o assalto levará {reg4} horas.
+mno_build_battering_ram_cont|Começar a construir o aríete.
+menu_castle_attack_walls_simulate|{s4}^^Suas baixas: {s8}^^Baixas inimigas: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Suas baixas: {s8}^^Baixas aliadas: {s9}^^Baixas inimigas: {s10}
+menu_castle_attack_walls_simulate2|{s4}^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+menu_sneak_into_town_suceeded2|Disfarçado e sob a cobertura da escuridão, você se infiltra em {S4}. É hora de explorar as suas defesas.
+menu_construct_saneamiento|Saneamento é importante para a prevenção de ratos e doenças. É possível construir latrinas e dutos para evitar o acúmulo de lama e sujeira da chuva, e cavar um reservatório para ter uma fonte de água disponível. Você quer fazer isso?^Vai demorar 4 horas.
+mno_build_saneamiento|Faça.
+menu_construct_circunvalation|Construir defesas protege suas tropas durante o cerco, ajuda a evitar algumas escaramuças inimigas, e impede a entrada de alimentos e reforços. Também reduz o moral do inimigo e te ajudará a negociar a rendição do lugar.^^Como membro do seu exército com maior habilidade Engenharia, ({reg2}), {?reg3?você estima:{s3} estima} que a construção das defesas levará {reg4} horas.
+mno_build_circun_cont|Faça.
+menu_traicion_interna2|Suas obras de cerco começaram a desmoralizar os defensores. Alguns de seus soldados estão dispostos a entrar em contato com a guarnição ou os habitantes de {s4} e investigar se alguém estaria disposto a cometer traição e facilitar a conquista. Eles precisam de 500 veados para o trabalho.
+mno_intentar_traicion|Permitir que esses homens procurem por um traidor.
+menu_traicion_resultado1|Eles voltaram sem notícias. Ninguém está disposto a se tornar um traidor.
+mno_back_behind|Bem, que péssima sorte.
+menu_traicion_resultado2|Sor! Nossos homens foram descobertos perto da muralha. Eles estão lutando no caminho para fora de {s4}. Olhe ali no porto de ataque. Eles estão tentando fugir, mas estão cercados...
+mno_ayudar_infiltrados|Ordem: enviar um grupo adicional de homens em seu auxílio.
+mno_leave_men|Deixe os homens irem à seu destino. Eles sabiam o que estava por vir.
+menu_traicion_resultado3|Seus homens voltaram. Um traidor dentro do local ateou fogo em celeiros e em breve fugirá de {s4} para se juntar ao seu exército. O inimigo vai perder grande parte do seu estoque de alimentos por causa disso.
+mno_back_to_siege|Muito bem.
+menu_traicion_resultado4|Seus homens voltaram. Eles relataram que há um traidor que conhece as rotinas da guarnição, e ele está disposto a liderar um pequeno grupo para emboscar o inimigo quando eles forem buscar água em um riacho próximo, fora das muralhas...*
+mno_atacar_emboscada_player|Ir junto com seus companheiros mais próximos.
+mno_atacar_emboscada|Ordem: enviar um grupo de homens com o traidor para realizar a emboscada.
+menu_emboscada_player|Movendo-se através da vegetação, você pegou seus inimigos de surpresa. Agora a guarnição vai pensar duas vezes antes de enviar homens para fora.
+mno_emboscada_playerok|Vitória!
+menu_emboscada_nada|Seus homens se movem sob a cobertura da vegetação, longe dos olhos vigilantes nas muralhas, mas quando eles chegam no ponto de encontro, não há ninguém. O suposto traidor foi descoberto ou se arrependeu. Seus homens voltam decepcionados.
+mno_emboscada_nanai|Não se preocupe. Haverá outra oportunidade.
+menu_emboscada_lose|Alarme! Traição! O suposto traidor lidera seus homens em uma emboscada. Eles estão lutando desesperadamente, deixando muitos homens no campo.
+mno_regreso_lucha|Os seus piores pesadelos tornaram-se realidade.
+menu_emboscada_victory|O traidor leva seus homens durante a noite a uma colina que controla o caminho para um poço. Seus homens ocupam posições na vegetação, em silêncio, seus rostos manchado preto. Ao amanhecer, seus homens notam um grande grupo de inimigos na água.^^Um grito de batalha preenche o vale, com seus soldados caindo como uma onda de morte sobre inimigo... matando muitos.
+menu_traicion_resultado5|Quando seus homens voltaram, disseram que entraram em contato com um homem que está no controle das rações, e ele prometeu aumentar o preço dos alimentos para seus concidadãos para semear o descontentamento, tornando-os mais propensos a abandonar a fortaleza.
+mno_traicion_moral|Perfeito!
+menu_traicion_lucha|Seus homens e o inimigo lutam até a morte ao pé da muraha, onde tudo é desfavorável para suas tropas. Você os vê lutando e recuando em sua direção. Muitos corpos são deixados para trás.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_regreso_luchar|Bem, ninguém é deixado para trás.
+menu_infiltracion_resultado1|Eles voltaram sem notícias. Não foram capazes de entrar no estabelecimento.
+mno_back_behindi|Apenas má sorte, eu acho.
+menu_infiltracion_resultado2|Sor! Nossos homens foram descobertos em {s4}. Infelizmente, nenhum deles retornou. Eles foram todos mortos ou capturados.
+mno_muertos_infiltrado|Notícia terrível.
+menu_infiltracion_resultado3|Vitória! Eles conseguiram queimar várias estoques de alimentos. O inimigo está desmoralizado. Talvez seja hora de solicitar a sua rendição.
+mno_back_to_siegei|Bem, dê a eles um barril de hidromel.
+menu_infiltracion_resultado3_c|Vitória! Eles mataram muito gado e contaminaram as reservas de água. O inimigo está desmoralizado e seu lorde perdeu algum renome. Talvez seja hora de solicitar a sua rendição.
+mno_back_to_siegein|Bem, dê a eles um barril de hidromel.
+menu_infiltracion_resultado4|Seus homens voltaram. Eles disseram que alguns guerreiros estão insatisfeitos, e alguns foram convencidos a mudar para o seu lado. Se você concordar, eles vão deixar a cidade à noite e se juntar ao seu exército. Antes de saírem, eles prometem causar agitação para facilitar a rendição do lugar.
+mno_aceptar_si|Eles são bem-vindos.
+mno_leave_men1|Isso me deixa desconfortável. Esqueça isso.
+menu_infiltracion_resultado4_c|Seus homens voltaram. Eles disseram que envenenaram a água de alguns poços e riachos próximos. Isso deve adoecer muitos na guarnição.
+mno_aceptar_oki|Isso é uma boa notícia. Vai deixar menos homens para defender a muralha.
+menu_infiltracion_resultado5|Oh, sor. O inimigo enviou um saco com as cabeças dos seus homens. Alguns de nossos soldados viram, e o medo corre pelo acampamento.
+mno_infiltracion_morali|Covardes! Como pode um par de cabeças afundar a moral de um exército? Eles são gado ou homens?
+menu_campos_cercanos1|{reg59?Milady:Sor}, plantações e fazendas foram queimadas, mas uma vez que não estamos em época de colheita, não foi possível obter alimentos.
+mno_back_behind_d|Muito bem, não se preocupe.
+menu_campos_cercanos2|{reg59?Milady:Sor}, plantações e fazendas foram queimadas, e uma vez que estamos em época de colheita, encontramos uma abundância de alimentos.
+mno_back_behind_c|Muito bem, comida é sempre bem-vinda.
+menu_campos_cercanos2_c|{reg59?Miladyady:Sor}, plantações e fazendas foram queimadas. Os grãos ainda estão verdes, mas comestíveis. Encontramos uma abundância de alimentos.
+mno_back_behind_cc|Bem feito, comida é sempre bem-vinda.
+menu_campos_cercanos3|{reg59?Milady:Sor}, nós queimamos os campos, mas como já se passou a época da colheita, não havia grãos o suficiente. No entanto, os agricultores deixaram alguns de seus rebanhos para trás.
+mno_back_behind_bc|Muito bem, comida é sempre bem-vinda.
+menu_campos_cercanos4|Nós temos problemas. Os campos foram queimados, mas os agricultores atacaram de volta com o apoio de alguns membros da guarnição.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_back_behind_ac|Péssimas notícias!
+menu_poner_escaleras|Sua vanguarda avança, trazendo escadas, pás e outros equipamentos úteis de cerco... Uma exibição de homens armados com armas de longo alcance vai adiante, atraindo os projéteis do inimigo. Seu coração dispara em sua jaula óssea. De alguma forma, todas as batalhas parecem ser as primeiras.^A emoção, o terror e o suor estão lá, sempre. Seus homens fazem uma formação de escudos para se protegerem...^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_back_behind_esc1|Seus homens encontraram o inimigo. É a sua vez...
+menu_poner_escaleras_mantlets|Sua vanguarda avança, trazendo escadas, manteletes, pás e outros equipamentos úteis de cerco... Uma exibição de homens armados com armas de longo alcance vai adiante, protegidos pelos manteletes, atraindo os projéteis do inimigo. Seu coração dispara em sua jaula óssea. De alguma forma, todas as batalhas parecem ser as primeiras.^A emoção, o terror e o suor estão lá, sempre. Seus homens formam uma formação de escudos para se protegerem, e usar os manteletes salva ainda mais vidas.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_back_behind_esc2|Seus homens encontraram o inimigo. É a sua vez...
+menu_informacion_ciudad|Um batedor aparece antes de você: '{s11}^{s12}{s1}{s5}{s17}'
+mno_regreso_luchain|Obrigado. Suas informações são importantes!
+menu_castle_taken_without_bloodshed|Nada para ver aqui.
+menu_castle_taken|A batalha por {s60} está quase no fim. Suas tropas estão ansiosas para começar a saquear {reg2?a cidade:o castelo}. {s10}^Você pode apenas querer encher um pouco a sua bolsa e deixar o lugar saqueado para o inimigo. Por fim, você também pode decidir devastar o lugar completamente para obter o máximo de pilhagem possível, escravizar os habitantes e torná-lo inútil para seu dono.
+mno_saqueo_noallowed|Conquistar {reg2?a cidade:o castelo}, mas proibir o saque.
+mno_keep_plunder|Conquistar e saquear {reg2?a cidade:o castelo}.
+mno_saqueo_normal|Saquear {reg2?a cidadee deixá-la:o castelo e deixá-lo}.
+mno_saqueo_total|Devastar o lugar e deixá-lo.
+menu_castle_taken_plunder|{reg2?A cidade foi saqueada:O castelo foi saqueado}. {reg7} veados foram coletados.
+menu_castle_taken_native|{s3} caiu para suas tropas, e agora você tem o controle total {reg2?da cidade:do castelo}. {reg1? Você pode estabelecer uma estação de tropas aqui para defender o lugar dos inimigos que podem tentar recapturá-lo. Além disso, você deve selecionar agora se você vai manter {reg2?a cidade para si ou dá-la:o castelo para si ou dá-lo} a um vassalo fiel...:}
+menu_castle_taken_keepplunder|{s3} caiu para suas tropas, e agora você tem o controle total {reg2?da cidade:do castelo}. Suas tropas correm pelas ruas saqueando tanta coisa quanto eles podem carregar. {reg2?A cidade foi saqueada:O castelo foi saqueado}. {reg7} veados foram coletados. {reg1? Você pode estabelecer uma estação de tropas aqui para defender o lugar dos inimigos que podem tentar recapturá-lo. Além disso, você deve decidir agora se você vai manter {reg2?a cidade:o castelo} para si mesmo ou dar para um de seus vassalos...:}
+menu_castle_taken_2|{s3} caiu para suas tropas, e agora você tem total controle do castelo. É hora de mandar uma mensagem para {s9} sobre sua vitória. {s5}
+mno_castle_taken_claim|Pedir que {s3} seja entregue a você.
+mno_castle_taken_claim_2|Pedir que {s3} seja concedido {reg59?ao seu marido:à sua esposa}.
+mno_castle_taken_no_claim|Não pedir recompensas.
+menu_saqueo_loot_continue|Este assentamento não foi recuperado desde que foi saqueado por você.
+menu_requested_castle_granted_to_another|Você recebe uma mensagem de seu monarca, {s3}.^^'Fiquei muito satisfeito ao ouvir de seus valentes esforços na captura de {s2}. Sua vitória alegrou todos os nossos corações. Você também me pediu para lhe dar a posse do castelo, mas esse é um favor que temo não poder conceder, uma vez que você já possui propriedades significativas no meu reino. Em vez disso eu te enviei {reg6} veados de prata para cobrir as despesas de sua campanha, no entanto, {s2} eu dou a {s5}.' 
+mno_accept_decision|Aceitar a decisão.
+mno_leave_faction|Você foi injustiçado! Renuncie o juramento ao seu soberano!
+menu_requested_castle_granted_to_another_female|Você recebe uma mensagem de seu monarca, {s3}.^^'Fiquei muito satisfeito ao ouvir de seus valentes esforços na captura de {s2}. Sua vitória alegrou todos os nossos corações. Você também me pediu para dar a posse do castelo para o seu esposo, mas esse é um favor que eu temo não poder conceder, uma vez que ele já possui propriedades significativas em meu reino. Em vez disso, te enviarei {reg6} veados de prata para cobrir as despesas da sua campanha, no entanto, {s2} eu dou a {s5}.'
+menu_leave_faction|Renunciar ao seu juramento é um ato grave. Seu senhor pode condená-lo e confiscar suas terras e propriedades. No entanto, se você devolvê-los por sua própria vontade, ele pode deixar a traição passar sem lutar.
+mno_leave_faction_give_back|Renunciar ao seu juramento e desistir de suas posses.
+mno_leave_faction_hold|Renunciar ao seu juramento e governar suas terras, incluindo {s2}, Em seu próprio nome.
+mno_leave_faction_cancel|Permanecer leal e aceitar a decisão.
+menu_give_center_to_player|Seu senhor se oferece para aumentar seus feudos! {s1} manda um recado de que está disposto a conceder {s2} a você em pagamento por seus leais serviços, adicionando-o às suas posses. Qual é sua resposta?
+mno_give_center_to_player_accept|Aceitar a oferta.
+mno_give_center_to_player_reject|Rejeitar a oferta. Você não tem nenhum interesse em manter {s2}.
+menu_give_center_to_player_2|Com uma breve cerimônia, você é oficialmente confirmado como o novo senhor de {s2}{reg3? e sua aldeia ligada {s4}:}. {reg3?Eles irão:Isso irá} compor uma boa parte dos seus domínios. Agora você pode reivindicar as rendas e receitas de suas propriedades pessoais lá, convocar soldados da população e administrar as terras da forma que achar adequado. No entanto, também é esperadoo que você defenda seu feudo e seu povo, bem como mantenha o estado de direito e a ordem.
+menu_oath_fulfilled|Você tinha um contrato com {s1} para servi-lo durante um certo período. Seu contrato expirou. O que você vai fazer?
+mno_renew_oath|Renovar seu contrato com {s1} por mais um mês.
+mno_dont_renew_oath|Se libertar do seu vínculo.
+menu_siege_started_defender|{s1} está iniciando um assalto contra as muralhas de {s2}. Você tem {reg10} tropas preparadas para a batalha contra {reg11} do inimigo. Você decide... {s4}
+mno_dplmc_negotiate_with_besieger|Negociar com o sitiante.
+mno_change_commander_siege_defender|Mudar comandante (Atual: {s7}).
+mno_siege_defender_deployment|Escolher quem vai se juntar a você na batalha.
+mno_siege_defender_plan|Planejar sua defesa.
+mno_siege_defender_join_battle|Juntar-se à batalha.
+mno_siege_defender_troops_join_battle|Ordenar seus homens para se juntar à batalha sem você.
+menu_siege_join_defense|{s4}^^Suas baixas: {s8}^^Baixas aliadas: {s9}^^Baixas inimigas: {s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
+mno_village_manage|Gerenciar esta aldeia.
+mno_dplmc_village_elder_meeting|Conhecer o Ancião da Aldeia.
+mno_dplmc_village_elder_meeting_denied|Você ainda não conheceu o ancião da aldeia.
+mno_recruit_volunteers|Recrutamento voluntário.
+mno_recruit_forzosamente|Recrutamento forçado.
+mno_village_center|Ir ao centro da aldeia.
+mno_village_center_door|Centro da Aldeia.
+mno_village_buy_food|Comprar suprimentos dos camponeses.
+mno_comprar_cattle|Quero comprar algumas cabeças de gado.
+mno_village_attack_bandits|Atacar os bandidos.
+mno_village_wait|Esperar aqui por um tempo.
+mno_village_guest_wait|Os aldeões o convidam para descansar aqui como um convidado de honra.
+mno_dplmc_village_counter_insurgency|Conter a revolta.
+mno_dplmc_village_negotiate|Começar as negociações.
+mno_collect_taxes_qst|{reg5?Seguir coletando impostos:Coletar impostos}.
+mno_train_peasants_against_bandits_qst|Treinar os camponeses.
+mno_village_hostile_action|Empreender uma ação hostil.
+mno_village_perform_basic_work|Realizar alguns trabalhos básicos para a aldeia (ser um agricultor).
+mno_village_leave|Sair...
+menu_village_basic_work|{s3}
+menu_village_hostile_action|Que ação você tem em mente?
+mno_village_take_food|Forçar os camponeses a te dar suprimentos.
+mno_village_steal_cattle|Roubar gado.
+mno_enslave_villagers|Escravizar os aldeões.
+mno_village_loot|Saquear e incendiar esta aldeia.
+mno_continue_not_enough_gold|Não tenho veados suficientes...
+mno_recruit_them|Recrutar eles ({reg6} veados de prata).
+menu_recruit_volunteers1|Seus homens capturam os aldeões à força.
+mno_let_them_keep_it|Continuar
+menu_recruit_volunteers2|{s18}
+menu_village_hunt_down_fugitive_defeated|Um golpe forte do fugitivo leva você ao chão, e sua visão gira e escurece. O tempo passa. Quando abre os olhos novamente, você se encontra machucado e ensanguentado, mas felizmente nenhuma das feridas parece ser letal.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|Em uma batalha digna de uma canção, você e seus homens expulsam os bandidos da aldeia, tornando-a segura mais uma vez. Os aldeões têm pouco sobrando em termos de riqueza depois do que passaram, mas oferecem tudo o que podem encontrar.
+mno_village_bandits_defeated_accept|Aceitar, é apenas o que lhe é devido.
+mno_village_bandits_defeated_cont|Recusar, eles precisam mais do que você.
+menu_center_manage|{s19}^{reg6?^^Você está atualmente construindo {s7}. A contrução estará pronta em {reg8} dias{reg9?s:}.:}
+mno_center_build_manor|Construir uma mansão.
+mno_center_build_fish_pond|Construir um moinho.
+mno_center_build_watch_tower|Construir uma torre de vigia.
+mno_center_build_school|Construir uma escola.
+mno_center_build_messenger_post|Construir um posto de mensagens.
+mno_center_build_prisoner_tower|Construir uma torre de prisioneiros.
+mno_center_build_sod1|Incitar o povo a adorar o Deus Afogado..
+mno_center_build_sod2|Plantar um represeiro.
+mno_center_build_sod3|Construir um templo para adorar R'hllor.
+mno_center_build_sod5|Construir um Septo para adorar o Deus das Sete Faces.
+mno_center_build_sod10|Construir um Septo para adorar o Deus das Sete Faces.
+mno_center_build_sod16|Incitar o povo a adorar o Deus Afogado.
+mno_center_build_sod17|Plantar um represeiro para adorar os Deuses Antigos.
+mno_center_build_sod18|Construir um santuário para R'hllor.
+mno_center_build_sod41|Construir um ferreiro.
+mno_center_build_sod42|Construir um salão da guilda.
+mno_center_build_sod43|Construir uma biblioteca.
+menu_center_improve|{s19} Como membro do seu exército com a maior habilidade de engenharia ({reg2}), {reg3?você estima:{s3} estima} que construir o {s4} custará {reg5} veados de prata e levará {reg6} dias.
+mno_dplmc_improve_cont|Continuar. (Retirar do Tesouro)
+mno_improve_cont|Continuar.
+mno_improve_not_enough_gold|Não tenho dinheiro para isso.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|Os bandidos caem frente a você como o trigo ante a foice! Logo, você pára nas ruas desertas enquanto todos os seus atacantes jazem inconscientes, mortos ou agonizantes. Ao buscar entre os corpos, você encontra uma bolsa que deve ter pertencido a alguma outra vítima desses brutos. Ou talvez lhes foi entregue por alguém que tenha pago por sua morte.
+menu_village_steal_cattle_confirm|Como membro do seu exército com maior habilidade para pilhagem ({reg2}), {reg3?você estima:{s1} estima} que pode roubar umas {reg4} cabeças de gado da aldeia.
+mno_village_steal_cattle_confirm|Continuar.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|Será difícil forçar e ameaçar os camponeses para que lhe entreguem seus preciosos suprimentos. Você acredita que isso levará pelo menos uma hora.
+mno_village_take_food_confirm|Começar.
+menu_village_take_food|Os camponeses relutantemente, trazem para fora o que eles têm para você.
+mno_take_supplies|Tomar os suprimentos.
+mno_let_them_keep_it_2|Desistir de tomá-los.
+menu_village_start_attack|Alguns dos camponeses irritados tomam suas ferramentas e se preparam para a resistência. Parece que você terá uma batalha em suas mãos se continuar com seus planos.
+mno_village_raid_attack|Atacar.
+mno_village_raid_leave|Deixar a aldeia em paz.
+menu_village_raid_villagers_toslaves|Deseja caçar os camponeses como animais e fazê-los escravos?
+mno_villagers_slaves|Levar todos os camponeses como prisioneiros!
+menu_village_loot_no_resist|Os camponeses são poucos e estão assustados. Eles rapidamente partem em fuga e se dispersam, mas seus homens tratam de capturar alguns deles. A aldeia agora está em suas mãos.
+mno_village_enslave|Escravizar os camponeses.
+mno_take_supplies1|Tomar os suprimentos.
+menu_village_loot_no_resist_population_flee|A maioria dos camponeses fugiram quando viram o seu exército. A aldeia está à sua mercê.
+mno_village_lootflee|Saquear a aldeia e arrasá-la.
+mno_take_supplies1flee|Tomar os suprimentos.
+mno_village_raid_leaveflee|Deixar a aldeia em paz.
+menu_village_loot_complete|Você ordena a suas tropas para saquear a aldeia, tomar tudo de valor e em seguida atear fogo às casas. Das moedas e objetos de valor, sua parte é {reg1} veados de prata.
+menu_village_loot_defeat|Lutando com coragem e determinação, os moradores conseguem manter-se unidos e expulsar suas forças.
+menu_village_loot_continue|Deseja continuar saqueando a aldeia?
+mno_yosi_yes|Sim.
+mno_yono_no|Não.
+menu_close|Nada.
+menu_town|{s30}
+mno_castle_castle|Visitar o salão do senhor.
+mno_castle_castle_door|Ir para o salão do senhor
+mno_join_tournament|Unir-se à competição.
+mno_town_castle|Visitar o salão do senhor.
+mno_town_castle_door|Ir para o salão do senhor
+mno_town_center|Caminhar pelas ruas.
+mno_town_center_door|Para o centro da cidade
+mno_town_tavern|{s1}
+mno_town_tavern_door|Para a taverna
+mno_town_merchant|Falar com um mercador.
+mno_town_merchant_door|Para o mercador
+mno_town_arena|Visitar os campos de treinamento.
+mno_town_arena_door|Para a arena
+mno_town_dungeon|Nunca: Entrar na prisão.
+mno_town_dungeon_door|Para a prisão
+mno_castle_inspect|Caminhar pelo pátio.
+mno_castle_inspect_door|Sair
+mno_town_enterprise|Visitar {s3}.
+mno_town_enterprise_door|Para sua empresa
+mno_visit_lady|Tentar visitar uma donzela.
+mno_visit_lady_door|Para o jardim
+mno_trade_with_merchants|Negociar com os locais.
+mno_travel|Viajar para outro porto.
+mno_travel_door|Equipar seu grupo.
+mno_walled_center_manage|Gerenciar {reg0?cidade:castelo}.
+mno_walled_center_move_court|Mover sua corte para cá.
+mno_castle_station_troops|Gerenciar guarnição.
+mno_castle_wait|Esperar um pouco aqui.
+mno_castle_wait_door|Cama.
+mno_town_alley|Outras atividades.
+mno_town_visit_port|Olhar os barcos.
+mno_banquete_mead|Meus homens merecem um banquete. Comprar hidromel e comida.
+mno_banquete_mead_door|Comprar hidromel e comida.
+mno_set_sail|Zarpar do porto.
+mno_set_sail_door|Zarpar.
+mno_town_leave|Sair.
+mno_town_leave_door|Deixar esta área.
+menu_cannot_enter_court|Há um banquete em andamento, mas você não tem status suficiente para ser convidado a entrar. Talvez aumentar seu renome faria com que você fosse permitido, ou você também pode tentar se destacar em um torneio enquanto o banquete está acontecendo...
+menu_lady_visit|Quem você deseja visitar?
+mno_visit_lady_1|Visitar {s12}
+mno_visit_lady_2|Visitar {s12}
+mno_visit_lady_3|Visitar {s12}
+mno_visit_lady_3_door|Porta para o jardim.
+mno_visit_lady_4|Visitar {s12}
+mno_visit_lady_5|Visitar {s12}
+mno_visit_lady_6|Visitar {s12}
+mno_visit_lady_7|Visitar {s12}
+mno_visit_lady_8|Visitar  {s12}
+menu_town_tournament_lost|Você foi eliminado do torneio.{s8}
+menu_town_masopciones|A cidade está borbulhando de atividade. Você deseja...
+mno_boar_king|Apresentar o javali morto ao pequeno conselho.
+mno_town_bank|Verificar os registros do Banco de Ferro.
+mno_bank_of_braavos|Entrar no Banco de Ferro.
+mno_town_land|Visitar o registro de terras.
+mno_town_brothel_braavos|Visitar o Porto Feliz.
+mno_town_brothel_winterfell|Visitar o Bordel.
+mno_town_brothel_kings_landing|Visitar o Bordel de Chataya.
+mno_town_brothel_stoney_sept|Visitar o Pêssego.
+mno_oldtown_citadel|Visitar a Cidadela.
+mno_sept_of_baelor|Visitar o Grande Septo de Baelor
+mno_alchemists_guild|Visitar o Salão da Guilda dos Alquimistas.
+mno_house_of_black_and_white|Visitar a Casa do Preto e Branco.
+mno_town_recruit|Perguntar se alguém deseja se juntar a você.
+mno_entertaiment|Tentar fazer uma apresentação musical ou um discurso.
+mno_dplmc_guild_master_meeting|Conhecer o Mestre da Guilda.
+mno_dplmc_guild_master_meeting_denied|Você ainda não conheceu o Mestre da Guilda.
+menu_town_tournament_won|Você venceu o torneio de {s3}! Você se sente cheio de orgulho enquanto a multidão grita seu nome. Além da honra, fama e gloria, você recebeu um prêmio de {reg9} veados de prata. {s8}
+menu_town_tournament_won_by_another|Como o único {reg3?lutador:homem} a permanecer sem ser derrotado, {s1} ganha a vitória e glória desse torneio.
+menu_town_tournament|{s1}Você está no nível {reg0} da competição, com {reg1} participante restantes. Na próxima rodada, haverá {reg2} equipes com {reg3} {reg4?lutadores:lutador} cada.
+mno_tournament_view_participants|Ver participantes.
+mno_tournament_bet|Apostar em si mesmo.
+mno_tournament_join_next_fight|Lutar na próxima rodada.
+mno_tournament_opciones|Opções do Torneio.
+mno_leave_tournament|Retirar-se do torneio.
+menu_tournament_withdraw_verify|Tem certeza que deseja sair do torneio?
+mno_tournament_withdraw_yes|Sim. Isto não faz sentido.
+mno_tournament_withdraw_no|Não. Não enquanto houver chance de eu vencer!
+menu_tournament_bet|As apostas contra você são de {reg5} a {reg6}.{reg1? Você já apostou {reg1} denares e, se ganhar, obterá {reg2} denares.:} Quanto você quer apostar?
+mno_bet_100_denars|500 veados de prata.
+mno_bet_50_denars|100 veados de prata.
+mno_bet_20_denars|50 veados de prata.
+mno_bet_10_denars|25 veados de prata.
+mno_bet_5_denars|10 veados de prata.
+menu_tournament_bet_confirm|Se apostar {reg1} veados de prata, irá receber {reg2} veados de prata caso consiga a vitória no torneio. Você concorda?
+mno_tournament_bet_accept|Continuar.
+mno_tournament_bet_cancel|Esquecer isso.
+menu_tournament_participants|Você pergunta para um dos homens o nome dos participantes do torneio. Eles são:^{s11}
+menu_collect_taxes|Como membro do seu exército com maior habilidade para barganha ({reg2}), {reg3?você espera:{s1} espera} que a arrecadação de impostos dure {reg4} dias...
+mno_start_collecting|Começar a arrecadação.
+mno_collect_later|Adiá-la por um certo tempo.
+menu_collect_taxes_complete|Você arrecadou {reg3} veados de prata dos impostos de {s3}. O {s19} espera que leve o dinheiro para ele.
+menu_collect_taxes_rebels_killed|Sua rápida resposta e mãos de ferro acabaram com a revolta. Seguramente, se ainda resta alguém querendo se rebelar contra você, pensará duas vezes a partir de agora.
+menu_collect_taxes_failed|Você conseguiu coletar apenas {reg3} veados de prata como impostos de {s3} antes do início da revolta. O {s1} não ficará contente, mas qualquer prata é melhor que nada...
+menu_monasterio_saqueado|O sangue dos septões encharcou o solo e seus corpos alimentarão os corvos. Uma vitória fácil, uma grande recompensa... mas você criou novos inimigos entre a Fé.
+menu_collect_taxes_revolt_warning|A população de {s3} está indignada com suas demandas e as consideram uma extorsão. Todos estão muito agitados e podem reagir mal se você continuar os pressionando.
+mno_continue_collecting_taxes|Ignorá-los e prosseguir.
+mno_halve_taxes|Concordar em reduzir a arrecadação pela metade. (O {s1} pode não gostar)
+menu_collect_taxes_revolt|Você é interrompido durante a arrecadação dos impostos de {s3}. Um grande grupo de {reg9?camponeses:plebeus} irritados se aproximam, gritando e portando tochas e armas. Parece que pretendem lutar contra você!
+menu_train_peasants_against_bandits|Como membro do seu exército com maior habilidade para instrução ({reg2}), {reg3?você estima:{s1} estima} que preparar alguns camponeses para as práticas levará {reg4} horas.
+mno_make_preparation|Treiná-los.
+mno_train_later|Adiar para mais tarde.
+menu_train_peasants_against_bandits_ready|Você treina os camponeses em conhecimentos básicos sobre soldadesca, disciplina e obediência. Você acredita que {reg0} deles {reg1?aprenderam:aprendeu} o suficiente e {reg1?estão prontos:está pronto} para iniciar as práticas.
+mno_peasant_start_practice|Começar as práticas de luta.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|Enquanto se prepara para continuar com o treinamento, um sentinela da aldeia corre até você, dando o alarme. Bandidos foram vistos no horizonte, cavalgando velozmente para {s3}. O ancião insiste para que você prepare suas tropas recém-treinadas e os confronte.
+mno_peasants_against_bandits_attack_resist|Preparar para a batalha!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|Os bandidos foram derrotados! Os poucos que restam estão fugindo com o rabo entre as pernas, aterrorizados pelos camponeses e seu novo campeão. Pouco restou aos aldeões após tal provação, mas eles lhe oferecem tudo o que encontram como forma de gratidão.
+menu_loot_options|A batalha acabou. O que você quer fazer com o saque?
+mno_loot_0|Dividir o saque por igual.
+mno_loot_1|Reivindicar todo o saque para si.
+mno_loot_2|Deixar todo o saque para os seus homens.
+mno_loot_3|Deixar o saque, mas dedicar um tempo para enterrar os mortos.
+menu_landing_point_encounter|Deseja desembarcar?
+mno_disembark_no|Não.
+menu_landet_ships_encounter|Deseja embarcar?
+mno_reembark_no|Não.
+menu_ferry_encounter|O capitão da balsa levará você para o outro lado por {reg7} veados.
+mno_back|Retornar.
+menu_port_encounter|Você encontrou o porto de {s2}. {s3}
+mno_attack|Atacar.
+mno_merge|Mesclar a frota.
+menu_center_reports|Nome da Cidade: {s1}^Renda do Aluguel: {reg1} veados de prata^Renda da Tarifa: {reg2} veados de prata^Estoque de Alimento: por {reg3} dias
+mno_to_price_and_productions|Mostrar preços e produções.
+menu_price_and_production|Produção:^(Nota: base/modificação por matérias-primas/modificação por materiais e prosperidade)^{s1}^^Os fatores de preços são:^{s2}
+menu_town_trade|Você se dirige ao mercado.
+mno_assess_prices|Avaliar os preços locais.
+mno_trophies|Negociar seus troféus de batalha.
+mno_trade_with_arms_merchant|Negociar com o mercador de armas.
+mno_trade_with_armor_merchant|Negociar com o mercador de armaduras.
+mno_trade_with_faction_merchant|Negociar com o ferreiro da facção.
+mno_trade_with_horse_merchant|Negociar com o mercador de cavalos.
+mno_trade_with_goods_merchant|Negociar com o mercador de bens.
+mno_back_to_town_menu|Retornar.
+menu_trophy_trade|Você negociou seus troféus de batalha..
+mno_trade_trophy_a|Trade in your battle trophy.*
+mno_trade_trophy_b|Trade in your war trophy.*
+mno_trade_trophy_c|Trade in your epic trophy.*
+menu_town_trade_assessment_begin|Você ouve várias conversas sobre o preço dos bens nesta área e presta muita atenção, tentando encontrar as melhores ofertas.
+menu_town_trade_assessment|Como membro do seu exército com maior habilidade para barganha ({reg2}), {reg3?você tenta:{s1} tenta} encontrar os melhores bens para o comércio. {s2}
+menu_sneak_into_town_suceeded|Disfarçando-se de pobre peregrino, você consegue enganar os guardas e entrar na cidade.
+menu_sneak_into_town_caught|Ao tentar entrar sem chamar a atenção, um dos guardas lhe reconhece e dá o alarme! Você deve fugir através dos portões antes que outros guardas lhe alcancem!
+mno_sneak_caught_fight|Tentar lutar!
+mno_sneak_caught_surrender|Render-se.
+menu_sneak_into_town_caught_dispersed_guards|Você afugentou os guardas e cobriu seus rastros ao escapar, despistando seus perseguidores entre o labirinto de ruas.
+menu_sneak_into_town_caught_ran_away|Você vai embora através dos portões e rapidamente se retira para a segurança das colinas.{s11}
+menu_enemy_offer_ransom_for_prisoner|O {s2} oferece uma soma de {reg12} veados de prata se você aceitar vender o {s1}.
+mno_ransom_accept|Aceitar a oferta.
+mno_ransom_reject|Rejeitar a oferta.
+menu_training_ground|Você se aproxima de um campo de treinamento, onde pode praticar suas habilidades de combate. Que tipo de habilidade deseja praticar?
+mno_camp_trainer|Falar com o treinador.
+mno_camp_train_melee|Praticar o corpo a corpo.
+mno_camp_train_archery|Praticar com armas a distância.
+mno_camp_train_mounted|Praticar montaria.
+menu_training_ground_selection_details_melee_1|Quantos oponentes você vai enfrentar?
+mno_camp_train_melee_num_men_1|Um.
+mno_camp_train_melee_num_men_2|Dois.
+mno_camp_train_melee_num_men_3|Três.
+mno_camp_train_melee_num_men_4|Quatro.
+menu_training_ground_selection_details_melee_2|Escolha seu oponente #{reg1}:
+mno_training_ground_selection_details_melee_random|Escolher aleatoriamente.
+menu_training_ground_selection_details_mounted|Com que tipo de arma deseja treinar?
+mno_camp_train_mounted_details_1|Arma de uma mão.
+mno_camp_train_mounted_details_2|Arma de haste.
+mno_camp_train_mounted_details_3|Arco.
+mno_camp_train_mounted_details_4|Arma de arremesso.
+menu_training_ground_selection_details_ranged_1|Com que tipo de arma à distância deseja treinar?
+mno_camp_train_ranged_weapon_bow|Arco e flecha.
+mno_camp_train_ranged_weapon_crossbow|Besta.
+mno_camp_train_ranged_weapon_thrown|Adagas de arremesso.
+menu_training_ground_selection_details_ranged_2|A que distância deseja praticar?
+mno_camp_train_ranged_details_1|10 Jardas.
+mno_camp_train_ranged_details_2|20 Jardas.
+mno_camp_train_ranged_details_3|30 Jardas.
+mno_camp_train_ranged_details_4|40 Jardas.
+mno_camp_train_ranged_details_5|50 Jardas.
+mno_camp_train_ranged_details_6|60 Jardas.
+mno_camp_train_ranged_details_7|70 Jardas.
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|O {s15} em breve elegerá um novo marechal para o {s23}. Alguns dos lordes sugeriram seu nome como um possível candidato.
+mno_marshal_candidate_accept|Dizer ao {s15} que aceitaria ser o marechal.
+mno_marshal_candidate_reject|Dizer a todos que está muito ocupado ultimamente.
+menu_captivity_avoid_wilderness|De repente, o mundo a sua volta fica escuro. Várias horas depois, você retorna a consciência e se encontra no mesmo local onde caiu. Seus inimigos devem ter pensado que estava morto e lhe deixaram ali. Porém, parece que nenhum de seus ferimentos foi letal, e, mesmo que se sinta mal, você percebe que ainda consegue andar. Você se levanta e procura por outros sobreviventes do seu grupo.
+menu_captivity_start_wilderness|Bilhete
+menu_captivity_start_wilderness_surrender|Bilhete
+menu_captivity_start_wilderness_defeat|Seus inimigos lhe aprisionam.
+menu_captivity_start_castle_surrender|Bilhete
+menu_captivity_start_castle_defeat|Bilhete
+menu_captivity_start_under_siege_defeat|Seus inimigos lhe aprisionam.
+menu_player_executed|{s2}
+menu_captivity_wilderness_taken_prisoner|{s2}
+menu_captivity_wilderness_check|Bilhete
+menu_captivity_end_wilderness_escape|Após sofrer dias terríveis em poder de seus captores, surge uma oportunidade de escapar e você aproveita!
+menu_captivity_castle_taken_prisoner|Os guardas rapidamente lhe cercam e lhe desarmam. Entre insultos e empurrões você é jogado ao calabouço, onde passa os miseráveis dias de duração do seu cativeiro.
+menu_captivity_rescue_lord_taken_prisoner|Você mantém seu disfarce durante todo o tempo possível antes de revelar sua identidade. Os guardas, indignados, golpeiam-lhe violentamente antes deixá-lo novamente na cela, por Deus sabe quanto tempo...
+menu_captivity_castle_check|Bilhete
+menu_captivity_end_exchanged_with_prisoner|Finalmente, após dias de encarceramento, devolvem sua liberdade. Seus captores lhe trocaram por outro prisioneiro.
+menu_captivity_end_propose_ransom|Você passa longas horas na úmida escuridão da masmorra, mais do que pode contar. De repente, um de seus captores entra em sua cela com uma oferta. Propõe lhe libertar em troca de {reg5} denares da sua fortuna escondida. O que fará?
+mno_captivity_end_ransom_accept|Aceitar a oferta.
+mno_captivity_end_ransom_deny|Recusar e esperar por algo melhor.
+menu_captivity_castle_remain|Seguem passando-se os dias na escuridão de sua cela. Você tenta lidar com isso da melhor forma possível, suportando agressões e insultos dos guardas, vendo como seu corpo desnutrido murcha ainda mais...
+menu_kingdom_army_quest_report_to_army|O {s8} lhe envia uma mensagem. Deseja que você una-se a sua nova campanha militar. Você precisará levar ao menos {reg13} soldados para o exército e recrutar mais homens o quanto antes, caso não tenha o suficiente número.
+menu_kingdom_army_quest_messenger|O {s8} lhe envia uma mensagem comunicando que deseja falar com você sobre um trabalho. Pede que vá a seu encontro o quanto antes.
+menu_kingdom_army_quest_join_siege_order|O {s8} lhe envia uma mensagem comunicando que você deve unir-se ao cerco de {s9} em preparação para o assalto final. Suas tropas devem tomar {s9} a qualquer custo.
+menu_kingdom_army_follow_failed|Você falhou em seguir o {s8}. O marechal assume que você está comprometido com outro assunto, mas ele teria apreciado o seu apoio.
+menu_invite_player_to_faction_without_center|Você recebeu uma oferta de vassalagem!^^O {s8} do {s9} enviou um arauto real com o convite em mãos. Você fará a honra de converter-se em {lorde vassalo/dama vassala} do {s9} e, por sua vez, o {s8} pede que jure-lhe lealdade e lute em suas campanhas militares, embora não lhe ofereça títulos ou terras. Sem dúvida se mostrará muito ofendido se você não aceitar sua oferta...
+mno_faction_accept|Aceitar!
+mno_faction_reject|Rejeitar o convite.
+menu_invite_player_to_faction|Você recebeu uma oferta de vassalagem!^^O {s8} do {s9} enviou um arauto real com o convite em mãos. Você fará a honra de converter-se em {lorde vassalo/dama vassala} do {s9} e, por sua vez, o {s8} pede que jure-lhe lealdade e lute em suas campanhas militares. Ele está lhe oferecendo o feudo de {s2} como recompensa por seus serviços. Sem dúvida, se mostrará muito ofendido se você não aceitar sua oferta...
+menu_invite_player_to_faction_accepted|Para converter-se em seu vassalo, você deve jurar lealdade ao {s3}. Deve encontrá-lo e oferecer seu juramento pessoalmente. {s5}
+menu_question_peace_offer|Oferta de paz^^O {s1} lhe oferece um tratado de paz. Qual é sua resposta?
+mno_peace_offer_accept|Aceitar.
+mno_dplmc_peace_offer_terms|Ditar os termos de paz.
+mno_peace_offer_reject|Recusar.
+menu_notification_truce_expired|A trégua terminou!^^A trégua entre o {s1} e o {s2} chegou ao fim.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|Inimigo avistado: Inimigos foram vistos fora dos muros de {s4}, e o {s5} e outros estão se preparando para um ataque. Você pode unir-se a eles se assim desejar.
+menu_notification_casus_belli_expired|Reino não responde^^O {s1} não respondeu as provocações do {s2}, e {s3} sofre uma clara perda de prestígio entre seus vassalos mais hostis...
+menu_notification_lord_defects|Deserção: {s4} abandonou o {s5} e juntou-se ao {s7}, levando suas propriedades consigo.
+menu_notification_treason_indictment|Acusação de traição^^{s9}
+menu_notification_border_incident|Incidente na fronteira^^Chegam a você notícias de que {s9}. Embora não saiba se os rumores são verdadeiros, uma coisa é certa: este incidente entusiasmou o {s4}, por isso será mais fácil convencê-los a ir à guerra contra o {s3}, se assim desejarem...
+menu_notification_player_faction_active|A partir de agora você possui terras em seu nome, sem estar vinculad{o/a} a nenhum outro reino. Isto lhe converte em monarca por direito próprio, com sua corte por hora localizada em {s12}. No entanto, os outros reis em Calradia já lhe consideram uma clara ameaça, pois se qualquer novo-rico senhor da guerra pode ascender a um trono, a própria legitimidade daqueles cai em dúvida.^^Talvez seja do seu interesse dedicar-se a consolidar a posição de seu novo reino. Se você deseja continuar como monarca soberano destas terras, então sua primeira prioridade deveria ser estabelecer suas próprias leis. Neste sentido, você pode consolidar seu direito de governar por distintas vias: casar-se com uma família de alta patente, recrutar novos lordes vassalos, governar suas terras, firmar acordos com outros reis, ou enviar seus seguidores em diferentes missões.^^De qualquer forma, seu primeiro passo deveria ser nomear um primeiro-ministro eleito dentre seus companheiros mais leais para que este {o/a} ajude a gerir os assuntos de Estado, e para isso você deve levar em conta suas distintas capacidades.^^Você pode nomear novos ministros de vez em quando. Também pode mudar a localização de sua corte, falando com o ministro.
+mno_appoint_spouse|Nomear sua esposa, {s10}...
+mno_appoint_npc1|Nomear {s10}
+mno_appoint_npc2|Nomear {s10}
+mno_appoint_npc3| Nomear {s10}
+mno_appoint_npc4| Nomear {s10}
+mno_appoint_npc5| Nomear {s10}
+mno_appoint_npc6| Nomear {s10}
+mno_appoint_npc7| Nomear {s10}
+mno_appoint_npc8| Nomear {s10}
+mno_appoint_npc9| Nomear {s10}
+mno_appoint_npc10| Nomear {s10}
+mno_appoint_npc11| Nomear {s10}
+mno_appoint_kurleket|Nomear {s10}
+mno_appoint_thoros|Nomear {s10}
+mno_appoint_dacey|Nomear {s10}
+mno_appoint_wunwun|Nomear {s10}
+mno_appoint_dongo|Nomear {s10}
+mno_appoint_son|Nomear {s10}
+mno_appoint_daughter|Nomear {s10}
+mno_appoint_fat_son|Nomear {s10}
+mno_appoint_brog_matter|Nomear {s10}
+mno_appoint_reed_matter|Nomear {s10}
+mno_appoint_obara_sand|Nomear {s10}
+mno_appoint_nymeria_sand|Nomear {s10}
+mno_appoint_tyrene_sand|Nomear {s10}
+mno_appoint_khiarai|Nomear {s10}
+mno_appoint_bronson|Nomear {s10}
+mno_appoint_dirk|Nomear {s10}
+mno_appoint_default|Nomear um cidadão proeminente da área...
+menu_minister_confirm|{s9} se encontra em sua corte, em {s12}. Você deve consultá-lo com frequência, para evitar que se acumulem problemas não resolvidos que dependem da sua autoridade...
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|Seu reino não possui mais terras.
+menu_notification_player_wedding_day|{s8} lhe informa que os preparativos para seu casamento em {s10} estão prontos, de modo que espera-se sua presença com a maior brevidade.
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s1} foi cercado por {s2} do {s3}! ^^O feudo está cercado e sob cerco. Its warriors must cower behind the walls rather than face the enemy with blades in their hands!*
+menu_notification_village_raided|Os inimigos arrasaram um feudo^^{s1} foi assaltada pelo {s2} do {s3}!
+menu_notification_village_raid_started|Sua aldeia está sendo atacada!^^O {s2} do {s3} está arrasando {s1}.
+menu_notification_one_faction_left|Os Sete Reinos e Essos foram Conquistados por Um Governante^^{s1} derrotou todos os seus rivais. Você agora é Rei de todo o Mundo Conhecido!
+menu_notification_oath_renounced_faction_defeated|Sua antiga facção foi derrotada^^Você ganhou a batalha contra o {s1}! Isto encerra sua rixa, que começou quando renunciou a seu juramento.
+menu_notification_center_lost|Propriedade perdida^^Você perdeu {s1} frente ao {s2}.
+menu_notification_troop_left_players_faction|Traição!^^O {s1} abandonou o {s2} e se uniu ao {s3}.
+menu_notification_troop_joined_players_faction|Boas novas!^^O {s1} abandonou o {s2} e se uniu ao {s3}.
+menu_notification_war_declared|Declaração de guerra^^O {s1} declarou guerra ao {s2}!^{s57}^^Ferreiros deixaram de produzir enxadas para forjar espadas e lanças. A guerra foi declarada!
+menu_notification_peace_declared|Tratado de paz^^O {s1} e o {s2} fizeram as pazes!^{s57}^^Esses dois reinos puseram fim à guerra. Pode ser apenas uma trégua temporária até que um deles se prepare para outra guerra, ou talvez seja algo sincero e duradouro.
+menu_notification_alliance_declared|Tratado de Aliança^^O {s1} e o {s2} formaram uma aliança!^{s57}^^Os dois reinos selaram os seus destinos e certamente estão mais poderosos agora.
+menu_notification_alliance_offer|O {s1} oferece um acordo de aliança a você. Qual é a sua resposta?
+mno_offer_accept|Aceitar.
+mno_offer_reject|Rejeitar.
+menu_notification_kingdom_reborn|Rebelião!^^O povo do derrotado {s13} juntaram suas armas, e {s14} tomou terras do {s12}. O {s13} foi restaurado! Vida longa ao rei!
+menu_notification_faction_defeated|Facção eliminada^^O {s1} não existe mais!
+menu_notification_rebels_switched_to_faction|Rebelião bem sucedida^^Sua rebelião foi vitoriosa! Sua facção tem o legítimo e indiscutível direito para reclamar o trono do {s11}, com o {s12} como seu único soberano.
+menu_notification_player_should_consult|{reg0?Seu ministro:{s11}} envia-lhe uma carta na qual afirma que existem problemas no reino que, se deixados de lado, poderiam abater a sua autoridade. Você deve consultá-lo o mais rápido possível.
+menu_notification_player_feast_in_progress|Banquete em preparação^^{Sua esposa/Seu marido} iniciou os preparativos para celebrar um banquete em seu salão em {s11}.
+menu_notification_lady_requests_visit|Uma criada anciã aproxima-se de seu exército e entrega uma carta a um dos seus homens, selada com cera comum. Está dirigida a você. Você rompe o selo que a lacra, observa que vem de {s15} e lê... "Gostei muito da sua última visita. {s14} Atualmente me encontro em {s10}.{s12}
+mno_continue_woman1|Responder informando que você irá em breve.
+mno_continue_woman2|Responder informando que você está indisposto.
+menu_garden|{s12}
+mno_nurse|Acompanhar a criada.
+mno_nurse_1|Esperar pela primavera.
+menu_kill_local_merchant_begin|Você encontra sua vítima e a segue, observando como ela vira para uma viela escura. Seguramente esta será a melhor oportunidade que tenha para atacar.
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+menu_skirmish_party|   Os escaramuçadores voltaram de sua missão. ^O lider do grupo relata que {reg5} homens foram perdidos em serviço.*
+menu_spy_party|   Um de seus espiões retornou.
+menu_spy_report|{s1}
+menu_spy_sabotage|{s4}
+mno_cancel_mission| Voltar 
+mno_rescue_town_center| 
+mno_rescue_town_center_door|Porta para o centro da cidade.
+menu_rescue_defeat|Após sabe-se lá quanto tempo na masmorra de {s8}, {s9}
+menu_spy_confirm|Seu espião em {s1} avisa que executará a missão nas próximas 12 horas.
+menu_wilderness_trade|Seu mensageiro está pronto para negociar com {s7}.
+mno_trade_with_party|Negociar.
+menu_wilderness_duel_win|Você derrotou {s1} em um duelo, provando ser um oponente honrado e formidável.^Os lordes do reino certamente notarão sua vitória.
+menu_wilderness_duel_lose|Você foi derrotado em um duelo com {s1}.^Embora tenha defendido sua honra, sua reputação com os lordes do reino foi prejudicada.
+menu_messenger_return|toco
+menu_banquete_moral|Você ordena que seus homens deixem as armas do lado de fora e os convida para o seu Grande Salão, para se sentarem à suas fileiras de mesas. O mais próximo e querido perto de você.^Algumas garotas servem carne e hidromel em grandes quantidades. Você gastou muito dinheiro nesta festa porque seus homens merecem.^Eles são aqueles que sangram com você, que o ajudaram a conquistar seus domínios. Eles são seus seguidores fiéis.^A noite avança, muitos homens estão bêbados como gambás, gritando e cantando tão alto quanto suas vozes permitem. Alguns fogem para vomitar e outros lutam como galos de rinha para atrair a atenção de uma garota.^Outros saem de fininho para pagar pela companhia de mulheres, você vê seus generais mais ricos com três ou talvez quatro prostitutas ao mesmo tempo.^Atrás de você, um bardo canta sobre seu poder e grandes feitos. Você age como um lorde, você é um senhor... um "pastor de homens".
+mno_banquete_ok|Você bebe, ri e grita. Você não é do tipo que deixa passar um bom momento.
+mno_banquete_ok2|Você permanence sóbrio, prova a bebida mais próxima de você, mas não mais do que o necessário.
+menu_comprar_cattle2|Há {reg5} cabeças de gado, cada uma por {reg6} veados de prata. Quantas você quer comprar?
+mno_cattle_ok|Uma.
+mno_cattle_ok2|Cinco.
+mno_cattle_ok3|Esqueça.
+menu_auto_return_to_map|toco
+mno_continue_1|Atacar o acampamento...
+mno_leave_no_attack|Sair...
+mno_leave_victory|Continuar...
+mno_leave_defeat|Continuar...
+menu_notification_player_faction_political_issue_resolved|Após consultar-se com os pares do reino, o {s10} decidiu conceder {s11} ao {s12}.
+menu_notification_player_faction_political_issue_resolved_for_player|Após consultar-se com os pares do reino, o {s10} decidiu lhe conceder {s11}. Você pode recusar tal honra, mas isso significa que provavelmente não receberá novas gratificações durante um tempo.{s12}
+mno_accept|Aceitar a honra.
+mno_decline|Recusar a honra.
+menu_start_phase_3|{s16}^Aquele breve momento bom logo passa quando de repente você ouve o som de soldados marchando, homens, mulheres e crianças gritando. O cheiro da morte é forte e você demorou o suficiente para se encontrar no meio da carnificina...
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_establish_court|Para estabelecer sua corte em {s4} serão necessárias certas reformas. Você precisará principalmente de um jogo de ferramentas e um rolo de veludo. Também levará algum tempo até que todos os seus seguidores se transfiram para cá. Deseja continuar?
+mno_establish|Estabelecer sua corte em {s4}.
+menu_notification_relieved_as_marshal|{s4} deseja informá-l{o/a} de que seus serviços como marechal já não são necessários. Para honrar seus valorosos esforços a favor do reino nos últimos {reg4} dias, contudo, {reg8?ela:ele} lhe oferece uma bolsa com {reg5} veados de prata.
+menu_introduccion_1|Se deseja sobreviver neste mundo, recomendo que ouça com atenção...^^Westeros, tempos sombrios se abateram sobre esta terra outrora bela, levando o continente novamente ao caos. Com o cheiro podre da morte por toda parte, rios fluindo vermelhos pelo sangue de inimigos caídos e vítimas torturadas.^^Ao norte deste vasto continente está o Rei Robb Stark. Senhor de Winterfell e chefe da Casa Stark. Ele agora está governando e foi declarado Rei do Norte e do Tridente. Em guerra com os Lannisters e o Rei Joffrey, ele almeja Porto Real ao sul. Embora os Lannisters sejam governados por Tywin Lannister, Porto Real é governado pelo Rei Joffrey Baratheon, atualmente o Rei dos Sete Reinos, Rei dos Ândalos, dos Roinares, dos Primeiros Homens e Protetor do Território. O Rei Joffrey é considerado arrogante e sádico, descrito por Tyrion Lannister como um rei idiota e cruel.
+mno_introduccion_yes|Continuar...
+menu_introduccion_1_1|Localizado no Vale, uma parte montanhosa isolada de Westeros, fica Lorde Robin, Defensor do Vale e Protetor do Leste. Lorde Robin é um menino pequeno e o único filho sobrevivente e herdeiro de Lorde Jon Arryn. Neste momento, a Casa Arryn está neutra na guerra.^^Seguindo para o sul, o Rei Renly Baratheon, Protetor do Sul, Marechal Supremo da Campina e Lorde de Ponta Tempestade planeja tomar o trono para si.^^Rei do Sal e da Rocha, Filho do Vento Marinho e Senhor Ceifeiro de Pyke é o Rei Balon Greyjoy governando nas Ilhas de Ferro pronto para invadir o norte. Rei Stannis Baratheon, o Primeiro de Seu Nome. O Rei no Mar Estreito, Senhor de Pedra do Dragão, Senhor Supremo das Terras da Tempestade e Rei de Westeros está governando no leste. O Rei Stannis recentemente enviou corvos ao reino alegando que o Rei Joffrey Baratheon não é o herdeiro legítimo de Robert Baratheon, mas o filho de Sor Jaime Lannister.
+mno_introduccion_yes2|Continuar...
+menu_introduccion_2|UMA APRESENTAÇÃO, GAME OF THRONES:
+mno_introduccion_yes3|Continuar...
+mno_introduccion_yes4|Voltar.
+menu_introduccion_3|Este caos continua além dos litorais de Westeros indo através do Mar Estreito até Essos, um continente infestado por guerreiros nômades, as Hordas Dothraki conhecidas como Khalasars!^^Os Dothraki pegam o que precisam por meio de pilhagem e saque e dizem não confiar nos oceanos pois seus cavalos não podem beber sua água.^^O estupro e a morte são comuns por essas partes e seria bom ficar bem longe...^Bem-vindo ao Game of Thrones e esperamos que suas aventuras o levem a fins melhores do que o da maioria das pessoas nos continentes de Westeros e Essos!
+menu_dplmc_economic_report|{s0}
+mno_dplmc_backec|Continuar...
+menu_camp_smoking_food|Que comida você vai defumar? Parte dela pode se perder no processo, e isso levará algum tempo.
+mno_smoke_fish|Vou defumar minha carne.
+mno_smoke_boar_meat|Vou defumar minha carne de javali.
+mno_smoke_wolf_meat|Vou defumar minha carne de lobo.
+mno_smoke_coat_meat|Vou defumar minha carne de cabra.
+mno_smoke_coat_2_meat|Vou defumar minha carne de cabra.
+mno_smoke_cattle_meat|Vou defumar minha carne de boi.
+mno_smoke_venison|Vou defumar minha carne de veado.
+mno_smoke_pork|Vou defumar minha carne de porco.
+mno_smoke_pollo|Vou defumar minha carne de frango.
+menu_world_map_soldier|O que você precisa fazer, soldado?
+mno_join_commander_battle|Seguir o comandante para a batalha.
+mno_enter_town|Entrar na cidade estacionada.
+mno_commander|Solicitar uma audiência com o comandante.
+mno_revolt|Revoltar-se contra o comandante!
+mno_revolt_disabled|Você não pode se revoltar agora. Espere a sua vez.
+mno_report|Relatório do Comandante
+mno_return_to_duty|Voltar ao trabalho.
+menu_commander_aud|Sua solicitação foi retransmitida para o acampamento de seu comandante e, finalmente, {s6} aparece de sua tenda para falar com você.
+mno_reject_talk_lord|Não importa.
+menu_ask_revolt|Tem certeza que deseja se revoltar?
+mno_confirm_revolt|Sim, o {s6} causará a morte de todos, é hora de agir!
+mno_reject_revolt|Não, sou leal ao {s6}.
+menu_revolt|Deseja libertar os prisioneiros para que ajudem seus homens?
+mno_revolt_prisoners|Sim, assumirei o risco por uma maior vantagem.
+mno_revolt_no_prisoners|Não, não confio em prisioneiros.
+menu_ask_desert|Você quer desertar?
+mno_confirm_desert|Sim, meu trabalho aqui não tem sentido.
+mno_reject_desert|Não, sou leal ao meu comandante.
+menu_desert|Durante seu tempo de serviço você fez bons amigos. Alguns possivelmente lhe seguiriam.
+mno_desert_party|Tentar convencê-los a seguir você.
+mno_desert_alone|Não, tenho melhores chances sozinho.
+menu_upgrade_path|Em reconhecimento aos excelentes serviços prestados, você foi promovid{o/a}!
+mno_upgrade_path_1|{s66}
+mno_upgrade_path_2|{s67}
+menu_encontrar_guarida|Menu de Gerenciamento da Fortificação.
+mno_camp_build_watchtower|Construir um Posto Avançado. Custa 25000 Veados de Prata para construir um Posto Avançado.
+mno_fort_rename|Renomear Posto Avançado.
+mno_camp_demolish_watchtower|Remover o Posto Avançado. Isso custará 5000 Veados de Prata.
+mno_camp_end_watchtower|Voltar para o acampamento.
+menu_contratar_personal|Menu de Recrutamento de Pessoal para Fortificação.
+mno_contratar_hoar|Contratar uma prostituta. Isso vai custar 1500 Veados de Prata.
+mno_despedir_hoar|Mandar a prostituta embora. Você precisará pagar 500 Veados de Prata para ela.
+mno_hire_maester|Contratar um meistre. Isso vai custar 2000 Veados de Prata.
+mno_sack_maester|Demitir o meistre. Você deve pagar 500 Veados de Prata.
+mno_contratar_sacerdote|Contratar um Septão. Isso vai custar 1200 Veados de Prata.
+mno_despedir_sacerdote|Dispensar o Septão. Você precisará pagar 500 Veados de Prata.
+mno_contratar_pagano|Contratar um seguidor dos Deuses Antigos. Isso vai custar 1200 Veados de Prata.
+mno_dismiss_pagano|Dispensar o seguidor dos Deuses Antigos. Você precisará pagar 500 Veados de Prata para ele.
+mno_hire_drowned_man|Contratar um seguidor do Deus Afogado. Isso vai custar 1200 Veados de Prata.
+mno_dismiss_drowned_man|Dispensar o seguidor do Deus Afogado. Você precisará pagar 500 Veados de Prata para ele.
+mno_hire_lol|Contratar um Sacerdote Vermelho. Isso vai custar 1200 Veados de Prata.
+mno_dismiss_lol|Dispensar o Sacerdote Vermelho. Você deve pagar 500 Veados de Prata para ele..
+mno_return_principal|Retornar.
+menu_choose_music|O que você quer fazer?
+mno_simple|Quero apresentar uma peça musical medíocre. (Isso levará 1 hora)
+mno_medium|Quero apresentar uma música simples. (Isso levará 3 horas)
+mno_complex|Quero apresentar uma peça musical complexa. (Isso levará 5 horas)
+mno_lordly|Quero apresentar uma música nobre. (Isso levará 15 horas)
+mno_royal|Quero apresentar uma peça musical real. (Isso levará 35 horas)
+mno_speech|Quero fazer um discurso. (Isso levará 3 horas)
+mno_leave_atras|Sair.
+menu_perform_music|{s0}
+menu_saquear_monasterio|Sangue e tesouro. Aqueles de seus homens com menos escrúpulos prosseguem em direção a {s3}, matando qualquer um em seu caminho e saqueando suas riquezas. Muito fogo e morte varrem o lugar. Você saqueou espólios de guerra que valem {reg3} veados.^^{s4}^
+mno_backho|Deixar o local.
+menu_panel_comandante|Antes da batalha começar você decide...
+mno_choice_1|Inspirar seus homens com um discurso empolgante.
+mno_choice_2|Chamar seu inimigo para um duelo de honra.
+mno_choice_3|Escaramuçadores: enviar seus homens para impedir o avanço do inimigo.
+mno_choice_5|Fazer nada.
+menu_escaramuza_1|{reg59?Lady:Sor}, o comandante inimigo superou suas habilidades táticas. Antes de estarmos preparados, fomos surpreendidos por tropas inimigas. Eles causaram inúmeras baixas.^^Suas baixas: {s8}
+mno_defendiendo_1e|Droga!
+menu_escaramuza_2|Nossos homens foram posicionados a tempo, surpreendendo o inimigo e causando muitas baixas, antes de retornar.^^Baixas inimigas: {s8}
+mno_defendiendo_2e|Muito bem.
+menu_escaramuza_3|Ao se aproximarem do inimigo, nossos homens descobriram que o comandante inimigo havia posicionado tropas para proteger o avanço de seu exército. Para evitar a perda de homens, seus soldados não atacaram e retornaram.
+mno_defendiendo_3e|Certo.
+menu_lucha_2_no|Parece não ter ninguém disposto a duelar.
+mno_defendiendo_4|Voltar.
+menu_lucha_1_d|Um guerreiro inimigo se move em direção ao seu exército e para a poucos passos de distância. Ele pega uma pele de cordeiro cheia de hidromel do pescoço e a joga no chão. Você o vê pular para aquecer os músculos. Ele joga a manto de lado, tira a túnica e as botas e fica nu, equipado apenas com uma lança e um escudo. Ele é o campeão deles e aponta para seu exército desafiando seus homens a enfrentá-lo.^^Antes que você possa falar, um garoto sai correndo das fileiras. Ele não é um veterano ou o mais capaz de suas tropas, mas certamente é corajoso.^^Seu guerreiro, seu campeão, avança para o inimigo. Eles circulam um ao outro, estudando os movimentos um do outro. Os nervos do seu guerreiro falham e ele dá um golpe com a lança, baixando o escudo. O campeão inimigo aproveita a oportunidade e mergulha rapidamente a lâmina de sua lança no coração de seu guerreiro...^^Você perdeu o duelo.
+mno_defendiendo_5|Voltar.
+menu_lucha_2_v|Um de seus homens se afasta das fileiras e caminha em direção ao inimigo, depois se vira, puxa o sobretudo até a metade e mostra o traseiro. Um campeão inimigo corre em direção a ele, enfurecido, e lança um javelin. É um arremesso selvagem que cai a poucos metros de seu guerreiro. O inimigo então desembainha sua espada e ataca com um grito.^^Seu homem se prepara rapidamente e se mantém firme, esperando com uma lança balançando na mão. Cada campeão golpeia o escudo do outro em um esforço para acertar o alvo.^^Observando atenciosamente, você nota o primeiro sangue derramado, e depois o último, enquanto seu campeão enfia sua lança na boca de seu oponente. Depois de recuperar o fôlego, seu campeão se vira e grita para seus homens: "Acho que sou mais do que ele engolir!"^^Você venceu o duelo.
+mno_defendiendo_6|Voltar.
+menu_lucha_1_p|O general do seu inimigo se destaca na frente de seu exército e aponta para você, convidando-o para um duelo.
+mno_defendiendo_7|Aceitar.
+mno_defendiendo_8|Voltar.
+menu_sacrificio_off|Os deuses permanecem em silêncio para suas orações e sacrifícios.
+mno_sacri_1|Voltar.
+menu_sacrificio_1|As vísceras dos animais abatidos estão cheias de vermes. Um mau presságio.^Talvez você não deva lutar hoje.
+menu_sacrificio_2|Ao olhar para o sangue do animal abatido, um de seus homens aponta para o horizonte, onde uma águia voa com uma cobra em suas garras. De fato, um bom presságio.^É hora de atacar o inimigo.
+menu_sacrificio_3|Quando você enfia a faca de sacrifícios no pescoço do animal, ele escapa e corre alguns metros antes de cair, de frente para o inimigo. Um mau presságio.^Talvez você não deva lutar hoje.
+menu_sacrificio_4|Abrindo os intestinos do animal abatido, você descobre um anel de prata. Um bom presságio.^Você está pronto para a batalha.
+menu_discurso_off|Você também dá um passo à frente e tenta fazer comentários condescendentes, mas não são convincentes, seus nervos o traem e você é incapaz de articular uma única palavra.
+mno_defendiendo_1|Voltar.
+menu_discurso_1|Você inspeciona as tropas e caminha entre elas. Enquanto fala, você olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"De hoje até o fim dos tempos nós seremos lembrados. Nós, os afortunados, nós os irmãos. Pois aquele que hoje sangra comigo será o meu irmão!
+menu_discurso_2|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Quando os jovens e as belas mulheres de sua aldeia perguntarem onde você conseguiu suas cicatrizes de batalha, diga a eles, sob os estandartes do maior exército, com o maior general que o Mundo Conhecido já viu!
+menu_discurso_3|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"E pensar que agora, através das terras Conhecidas, covardes e velhos estão pastoreando suas cabras, cuidando de suas colheitas, trabalhando e suando por nada! No entanto, aqui estamos nós, homens livres, nosso trabalho prestes a começar, nosso próprio suor e sangue prestes a correr, e para quê? Pela honra! Pela glória! Pelo seu Rei!
+menu_discurso_4|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Por todo o mundo conhecido temos viajado para encontrar nossos destinos neste campo de batalha, neste momento no tempo. Muito depois de termos deixados de existir, homens cantarão nossos nomes nas canções sobre nossa grandeza, feitas aqui nestes campos!
+menu_discurso_5|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Meus irmãos! Uma vez que você nasceu; mais tarde, se tornou homem. Ontem marchamos. Hoje nós lutamos! Hoje derramamos o sangue de nosso anfitrião e o levamos à ruína. Hoje nós quebraremos seus escudos. Todos os dias de suas vidas os trouxeram para este momento. Hoje vencemos ou caímos juntos, como irmãos. Esta noite vamos festejar à mesa do inimigo!
+menu_discurso_6|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Homens! Meus irmãos! Marchamos muitos dias, seu prêmio espera por você. O prêmio, da glória, está próximo aos gritos de dor do inimigo! Agora vá! Vá para o seu destino! Pegue seu prêmio! Lutem! Lutem!
+menu_discurso_7|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento: ^^"Meus amigos! Ouçam-me! Agora é o dia em que as canções de nossos lares serão escritas com o sangue de nossos inimigos! Vocês são homens livres! Ninguém pode atacar nossas terras e viver para contar a história. O anfitrião diante de nós é grande, mas eles não lutam por suas casas, mas para saquear as suas. Eles vão cair! Preparem suas lanças! Segurem firme e nunca cedam! Nenhum homem cederá sua terra ou sua glória a esses covardes da ralé diante de nós. Lutar! Morrer, mas nunca ceder! Nunca, nunca, nunca!
+menu_discurso_8|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Estamos diante de nosso inimigo, prontos para a batalha. Desembainhem suas espadas! Segurem suas lanças! Esta parede de escudos é nossa casa. Vamos dar as boas-vindas ao nosso inimigo! Deixem ele vir! Que caiam as paredes de escudos! Tudo o que é necessário é seu braço e seu o coração. Dentro desta parede de escudos vocês permanecerão, meus irmãos. Eu sei que dentro do peito de cada homem aqui há um fogo tão brilhante que eu sei que essas paredes protegem nossos inimigos e não nós! Nosso destino será a glória! Nenhum homem pode pegá-lo a menos que vocês dêem a ele.
+menu_discurso_9|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Venham, homens! Vamos seguir em frente e enfrentar nosso inimigo no Campo de Batalha! Com homens como vocês, nossa parede de escudos nunca quebrará ou cairá para aqueles cães covardes que vêm contra nós! Como os heróis dos tempos antigos, vamos fazer uma  carnificina, cada homem um herói, cada homem um Verdadeiro Homem! Hoje vamos estripar os corvos!
+menu_discurso_10|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"Lembre-se dos seus filhos e das suas esposas. Lembrem-se das suas casas e dos seus ancestrais. Lembrem-se dos seus deuses e de tudo pelo que hoje lutamos. Estamos aqui para construir um mundo melhor! Os homens que enfrentamos sabem disso e temem nossa determinação. Eles têm tanto medo ao ponto mijar nas calças e tremer como folhas, incapazes de segurar suas lanças. Homens! Estou com vocês, com minha espada e meu escudo, sangrando e suando, orgulhoso de estar ombro a ombro com meus Titãs. Homens! O destino nos espera, é hora de agarrá-lo!
+menu_discurso_11|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento: ^^"Vamos sair deste lugar em chamas e enfrentar nossos inimigos. Quem morrer, estará com o nosso deus. Quem não morrer, terá seu nome honrado. Eu irei primeiro, e o que eu fizer, vocês farão. E Deus é minha testemunha, nunca os deixarei, meus irmãos e cavaleiros!
+menu_discurso_12|Você inspeciona suas tropas e caminha entre elas. Enquanto fala, olha nos olhos de cada homem, procurando transmitir a intensidade do momento:^^"O sol irá se pôr sobre nosso inimigo esta noite, e nós triunfaremos como raios de sol em um dia de primavera. Vocês podem estar nervosos e tremendo agora, mas suas mãos trêmulas não são nada comparadas às deles. Eles são apenas folhas de outono ao vento, e nós somos a tempestade uivante que as espalhará pelos prados, para nunca mais ser vistas. Empunhem suas lanças e sejam o trovão que destruirá a árvore deles. Esta terra é nossa, estas florestas, estas colinas, estes campos, e assim será estação após estação, ano após ano, para todo o sempre!
+menu_viking_duel_win|O duelo acabou e você derrotou {s1}. Os bardos falarão sobre sua vitória e a fama de seu feito se espalhará boca a boca.
+menu_viking_duel_lose|O {s1} era um oponente muito habilidoso. Você foi derrotado. Enquanto a fama de {s1} crescerá com a vitória, graças às canções dos bardos, os homens se lembrarão de seu nome apenas como aquele que foi derrotado.
+menu_town_recruit_troops|Há um grupo de nobres reunidos na praça principal. {s18} Você tem {reg15} veados de prata para tentar contratá-los.
+menu_town_recruit_troops2|Ninguém está disponível para contratar.
+menu_town_recruit_troops3|Um Lorde local e sua comitiva estão disponíveis para serem contratados. Você conta 11 homens no custo total de 7000 Veados.
+mno_acept_them|Contratar.
+menu_refugee_recruit_troops1|Há algumas viúvas e órfãos interessados em se juntar para tentar encontrar uma nova vida com seus soldados.
+menu_refugee_recruit_troops2|Ninguém quer se juntar a você.
+menu_refugee_recruit_troops3|Há alguns pastores e agricultores interessados em se juntar ao seu exército. Eles vão custar 60 Veados.
+menu_refugee_recruit_troops4|Há alguns homens da Irmandade interessados em se juntar ao seu exército. Eles vão custar 450 Veados.
+menu_refugee_recruit_troops12|Há algumas viúvas e órfãos gostariam de se juntar a você.
+menu_refugee_recruit_troops22|Ninguém quer se juntar a você.
+menu_refugee_recruit_troops32|Há alguns pastores e agricultores interessados em se juntar ao seu exército. Eles custarão 60 Veados.
+menu_refugee_recruit_troops42|Há um Septão e alguns outros homens que adoram os Sete interessados em se juntar ao seu exército. Eles custarão 400 Veados.
+menu_recruit_red_priests|Há alguns sacerdotes vermelhos que estão dispostos a se juntar a você por 400 veados de prata.
+menu_crossroads_recruit_troops12|Um Lorde local e sua comitiva estão disponíveis para contratação. Você conta 11 homens no custo total de 4000 Veados.
+menu_crossroads_recruit_troops22|Parece que ninguém quer se juntar a você.
+menu_crossroads_recruit_troops32|Há alguns pastores e agricultores interessados em se juntar ao seu exército. Eles vão custar 60 Veados.
+menu_crossroads_recruit_troops42|Um Lorde local e sua comitiva estão disponíveis para contratação. Você conta 16 homens montados, que custam um total de 7000 Veados.
+menu_notification_kingdom_restoration|Rebelião!!!^^Pessoas do reino derrotado de {s13} pegaram em suas armas e {s14} pegou um feudo de {s12}, {s13} foi restaurado! Vida longa ao Rei!
+menu_dplmc_notification_alliance_declared|Acordo de Aliança^^{s1} e {s2} formaram uma aliança!^{s57}
+mno_dplmc_continue|Continuar...
+menu_dplmc_notification_defensive_declared|Pacto Defensivo^^{s1} e {s2} formaram um pacto de defesa!^{s57}
+menu_dplmc_notification_trade_declared|Acordo Comercial^^{s1} e {s2} firmaram um acordo comercial!^{s57}
+menu_dplmc_notification_nonaggression_declared|Tratado de Não-agressão^^{s1} e {s2} firmaram um tratado de não-agressão!^{s57}
+menu_dplmc_question_alliance_offer|Você Recebeu uma Oferta de Aliança^^{s1} quer formar uma aliança com você. Qual é a sua resposta?
+mno_dplmc_alliance_offer_accept|Aceitar
+mno_dplmc_alliance_offer_reject|Recusar
+menu_dplmc_question_defensive_offer|Você Recebeu uma Oferta de Pacto Defensivo^^{s1} propõe um pacto defensivo. Qual é a sua resposta?
+mno_dplmc_defensive_offer_accept|Aceitar
+mno_dplmc_defensive_offer_reject|Recusar
+menu_dplmc_question_trade_offer|Você Recebeu uma Oferta de Acordo Comercial^^{s1} propõe um acordo comercial. Qual é a sua resposta?
+mno_dplmc_trade_offer_accept|Aceitar
+mno_dplmc_trade_offer_reject|Recusar
+menu_dplmc_question_nonaggression_offer|Você Recebeu uma Oferta de Tratado de Não-agressão^^{s1} propõe um tratado de não-agressão. Qual é a sua resposta?
+mno_dplmc_nonaggression_offer_accept|Aceitar
+mno_dplmc_nonaggression_offer_reject|Recusar
+menu_dplmc_notification_alliance_expired|Uma Aliança Expirou^^A aliança entre o {s1} e {s2} expirou e reduziu-se a um pacto defensivo.
+menu_dplmc_notification_defensive_expired|Um Pacto Defensivo Expirou^^O pacto de defesa entre o {s1} e {s2} expirou e reduziu-se a um acordo comercial.
+menu_dplmc_notification_trade_expired|Um Acordo Comercial Expirou^^O acordo comercial entre o {s1} e {s2} expirou e reduziu-se a um tratado de não-agressão.
+menu_dplmc_dictate_terms|Ditar seus termos de paz.
+mno_dplmc_demand_4000|Demandar 4000 veados de prata
+mno_dplmc_demand_8000|Demandar 8000 veados de prata
+mno_dplmc_demand_castle|Demandar {s2}.
+mno_dplmc_go_back|veados de prata
+menu_dplmc_deny_terms|{s1} recusa seus termos e rompe as negociações.
+menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_removed|Em uma sangrenta batalha, você e seus homens massacraram os rebeldes e recuperaram o controle da aldeia. Mas não restou muito o que controlar.
+menu_dplmc_riot_negotiate|Você se aproxima da multidão furiosa e começa a negociar. O líder da revolta demanda {reg0} veados de prata. Ele concorda em largar as armas se você estiver disposto a pagar tal valor.
+mno_dplmc_pay_riot_treasury|Dizer ao Mestre da Moeda que pague com o dinheiro do tesouro.
+mno_dplmc_pay_riot_cash|Pagar com seu dinheiro.
+mno_dplmc_back|Voltar...
+menu_dplmc_notification_riot|Os camponeses de {s1} se revoltaram contra você! Em um ataque surpresa, homens leais a você foram assassinados. O restante se uniu à multidão enfurecida.
+menu_dplmc_notification_appoint_chamberlain|Como senhor de um feudo você pode nomear um Mestre da Moeda que residirá em sua corte por um salário semanal de 15 veados de prata. Ele se encarregará de todos os assuntos financeiros, como o recolhimento e a fixação da taxa de impostos, pagamento de salários e a gestão do seu patrimônio. Ademais, supervisionará as transferências de dinheiro entre reinos, dando a você mais opções diplomáticas.
+mno_dplmc_appoint_default|Nomear um proeminente nobre da região.
+menu_dplmc_chamberlain_confirm|Você encontrará o Mestre da Moeda em sua corte. Consulte-o se quiser conselhos sobre algum tema financeiro ou caso precise de mais dinheiro. Você deverá sempre se assegurar de que haja dinheiro suficiente no tesouro para tomar algumas decisões políticas.
+menu_dplmc_notification_appoint_constable|Como senhor de um feudo, você pode nomear um Mestre das Leis que residirá em sua corte por um salário semanal de 15 veados de prata. Ele recrutará novas tropas e proverá informações sobre seu exército.
+menu_dplmc_constable_confirm|Você encontrará o Mestre das Leis em sua corte. Consulte-o se quiser recrutar mais tropas ou obter informações detalhadas sobre seu exército.
+menu_dplmc_notification_appoint_chancellor|Como senhor de um feudo, você pode nomear um Mestre dos Sussurros que residirá em sua corte por um salário semanal de 20 veados de prata. Ele será encargado das correspondências entre você e outras pessoas importantes.
+menu_dplmc_chancellor_confirm|Você encontrará o Mestre dos Sussurros em sua corte. Consulte-o se quiser enviar mensagens ou presentes.
+menu_dplmc_deserters|Alguns dos seus homens não acreditam que você possa pagar seus salários e por isso desertaram. Perda total: {s11} homens.
+menu_dplmc_negotiate_besieger|Você aparece com uma bandeira branca no alto do muro. Depois de um tempo, um negociador de {s11} se aproxima. Ele demanda {s6} e todas as aldeias associadas, bem como {reg0} denares de salvo conduto.
+mno_dplmc_comply_treasury|Concordar e dizer ao Mestre da Moeda que pague com o dinheiro do tesouro.
+mno_dplmc_comply|Concordar e pagar com seu próprio dinheiro.
+mno_dplmc_break_off|Romper as negociações.
+menu_dplmc_messenger|Senhor, encontrei {s10} e entreguei sua mensagem. Sua resposta foi {s11}.
+menu_dplmc_scout|Seu espião regressou de {s10}^^{s11}{s12}
+menu_dplmc_domestic_policy|Agora você pode eleger a política interna do seu reino. Deseja alterar sua política interna agora?
+mno_dplmc_yes|Sim, quero alterar a política interna.
+mno_dplmc_no|Não, eu não quero alterar a política interna.
+menu_torneo_opciones|Preferências
+mno_disable_avdificultad|Clique para Desativar a dificuldade Especialista.
+mno_enable_avdificultad|Clique para Ativar a dificuldade Especialista.
+mno_tonero_back|Voltar...
+menu_threaten_war|{s1} ameaça guerra.^^{s3} do {s1} envia uma carta dizendo que {reg4?ela:ele} declarará guerra ao seu reino se você não entregar {s2} imediatamente para {reg4?ela:ele}. Atualmente {s2} está sob a posse de {s4}.
+mno_give|Concordar em desistir da cidade.
+mno_dontgive|Recuse-se a ser intimidado.
+menu_event_01|Um bardo compôs uma canção sobre seus nobres feitos.
+mno_choice_01_1|Excelente!
+mno_choice_01_2|Recompensá-lo com 200 veados de prata. Deixe sua música ser tocada por todo os lugares.
+mno_choice_01_3|Feitos nobres? Uma canção? Traga-me a cabeça desse idiota!
+menu_event_02|Contos de sua honra se espalharam pelo mundo conhecido. Onde quer que você vá, sua procissão é cercada de mendigos.
+mno_choice_02_1|Dedicar 200 veados de prata para um fundo de esmolas.
+mno_choice_02_2|Ignorá-los.
+mno_choice_02_3|Mendigos hein? Guardas! Traga-me a cabeça de cada um em uma bandeja!
+menu_event_03|Um jovem nobre espalha boatos de que você é um bastardo inútil. Acusações assim podem não ser boas para a sua imagem.
+mno_choice_03_1|Eu o desafio para um duelo!
+mno_choice_03_2|Não me importo com essas acusações.
+mno_choice_03_3|Enviar um assassino para se livrar dele, custará 300 Veados.
+menu_event_04|Você encontra a esposa de um de seus soldados. Ela implora que você libere o marido do contrato. A colheita foi ruim este ano e o salário dele não é suficiente para alimentar toda a família. Se ele pudesse voltar e trabalhar no campo, eles poderiam sobreviver.
+mno_choice_04_1|Isso é inaceitável! Aqui, pegue 200 veados de prata.
+mno_choice_04_2|Um contrato não pode ser quebrado!
+mno_choice_04_3|Por que morrer de fome quando meu exército poderia usar os serviços de uma jovem tão bonita?
+menu_event_05|Um pessimista local está espalhando falsos rumores sobre você. Embora a maioria das histórias seja pura bobagem, mais cedo ou mais tarde as pessoas acreditarão nessas histórias.
+mno_choice_05_1|Deixá-lo falar o que quiser. Todo homem tem seus direitos.
+mno_choice_05_2|Dizer ao pequeno conselho para espalhar rumores opostos para conter suas mentiras. (300 veados de prata).
+mno_choice_05_3|Pedir para ele parar. 100 veados de prata podem ajudá-lo a esquecer o que disse.
+mno_choice_05_4|Jogá-lo na masmorra. Me insultar é um crime.
+mno_choice_05_5|Silenciá-lo permanentemente e confiscar sua casa e propriedades.
+menu_event_06|Uma multidão de moradores furiosos {s1} está reclamando de cobradores de impostos corruptos. Eles exigem justiça. A situação está piorando a cada minuto. Parece que um motim está prestes a começar, a menos que você faça algo.
+mno_choice_06_1|Começar uma investigação e indenizar os camponeses por suas perdas.
+mno_choice_06_2|Apressar os guardas da cidade para impedir que a multidão se espalhe e se transforme em um motim.
+mno_choice_06_3|Exigir o silêncio dos camponeses e recolher os impostos atrasados.
+menu_event_07|Um único cavaleiro, pobre e desarmado, se aproxima de seu grupo. Interceptado por seus homens, ele se apresenta como um trovador de {s1} e pede sua permissão para compor um poema sobre sua magnificência e generosidade. Seus homens trocam olhares e depois olham para você esperando uma resposta. Você...
+mno_choice_07_1|Conceder essa permissão ao trovador e encher os bolsos do homem com ouro (1000 veados de prata).
+mno_choice_07_2|Conceder permissão e entregar uma bolsa com 100 veados de prata para o homem.
+mno_choice_07_3|Deixar o trovador compor o poema, mas não lhe oferecer pagamento.
+mno_choice_07_4|Ordenar seus homens que removam o mendigo da sua vista.
+menu_event_08|Você vê um único homem cavalgando em direção ao seu grupo. Com um gesto de sua mão, seus homens correm para encontrá-lo. Interceptado por seus homens, ele se apresenta como um emissário de {s1} e sem demora informa você que um homem influente morreu {s2} e que sua família pede que você concorde em declarar um dia oficial de luto em {s1} em sua homenagem . Você...
+mno_choice_08_1|Concordar com o pedido.
+mno_choice_08_2|Recusar do pedido.
+menu_event_09|Você está viajando pela floresta e de repente avista uma lebre selvagem, presa em uma armadilha. O que você faz?
+mno_choice_09_1|Libertar o animal.
+mno_choice_09_2|Desarmar a armadilha e matar o animal!
+mno_choice_09_3|Passar pelo animal e ignorá-lo.
+menu_event_10|Você está viajando pela floresta e avista um camponês amarrado a uma árvore, provavelmente por um bandido. O que você faz?
+mno_choice_10_1|Libertar o camponês.
+mno_choice_10_2|Ignorar o camponês.
+mno_choice_10_3|Matar o camponês.
+menu_event_101|Você recebe a notícia de que um grupo de jovens nobres deseja se juntar a você. Mas eles querem ser pagos mais do que o resto de suas tropas por serem nobres.
+mno_choice_101_1|Eles são bem-vindos.
+mno_choice_101_2|Não preciso de mais tropas.
+mno_choice_101_3|Matar eles. Parecem ter um bom saque.
+menu_event_102|Você é um líder famoso e recebe notícias de um grupo de mulheres que expressam interesse em se tornarem seguidoras de acampamento.
+mno_choice_102_1|Elas são bem-vindas.
+mno_choice_102_2|Não preciso de mais tropas.
+menu_event_103|Você é um líder famoso e recebe a notícia de que um grupo de bardos deseja se juntar a você e tornar o caminho mais alegre.
+mno_choice_103_1|Eles são bem-vindos.
+mno_choice_103_2|Não preciso de mais tropas.
+menu_event_11|O parente de um soldado (um homem livre comum) morto em uma de suas batalhas abre um processo contra você, solicitando uma compensação de 200 veados de prata. O que você faz?
+mno_choice_11_1|Pagar a compensação.
+mno_choice_11_2|Recusar-se a pagar.
+mno_choice_11_3|Recusar-se a responder o caso.
+menu_event_12|O parente do bêbado morto por seus homens em uma briga abre um processo contra você, solicitando uma indenização de 500 veados de prata. O que você faz?
+mno_choice_12_1|Pagar a indenização.
+mno_choice_12_2|Recusar-se a pagar.
+mno_choice_12_3|Recusar-se a responder o caso.
+menu_event_13|Você se depara com alguns desertores da Patrulha da Noite.
+mno_choice_13_1|Oferecer a eles um lugar no seu grupo.
+mno_choice_13_2|Ignorá-los e seguir em frente.
+mno_choice_13_3|Mandá-los de volta para a muralha.
+menu_event_14|Um fazendeiro está diante de você na estrada, uma garota chorando atrás dele. Ele aponta o dedo acusadoramente para um de seus homens, dizendo que estuprou sua filha e exige justiça.
+mno_choice_14_1|Você não tolerará indecência entre seus homens! Marque o homem e expulse-o do seu grupo.
+mno_choice_14_2|Dar uma surra no acusado e considerar o assunto encerrado.
+mno_choice_14_3|É um mundo difícil, e um homem pegará o que puder. Diga ao fazendeiro que ele teve sorte por ter sido só isso que o homem fez!
+menu_event_15|Durante a viagem, você de repente avista alguns cogumelos. O que você faz?
+mno_choice_15_1|Pegar e comer um pouco.
+mno_choice_15_2|Dar para seus homens comerem.
+mno_choice_15_3|Ignorá-los.
+menu_event_16|Durante a viagem, você de repente avista alguns cogumelos. O que você faz?
+mno_choice_16_1|Pegar e comer um pouco.
+mno_choice_16_2|Dar para seus homens comerem.
+mno_choice_16_3|Ignorá-los.
+menu_event_17|Durante a viagem, você de repente avista alguns cogumelos. O que você faz?
+mno_choice_17_1|Pegar e comer um pouco.
+mno_choice_17_2|Dar para seus homens comerem.
+mno_choice_17_3|Ignorá-los.
+menu_event_18|A esposa de um Septão quer ver você sozinho enquanto o marido dela está fora.
+mno_choice_18_1|Concordar.
+mno_choice_18_2|Enviar um de seus homens em seu lugar.
+mno_choice_18_3|Recusar.
+menu_event_19|Você tropeça em um grupo de Septões que está sendo atacado por bandidos.
+mno_choice_19_1|Correr para ajudar os Septões e ensinar aqueles bandidos bastardos a não perturbar os negócios dos Sete.
+mno_choice_19_2|Ajudar os bandidos a massacrar a escória dos Sete.
+menu_event_20|Você encontra uma bolsa cheia de moedas.
+mno_choice_20_1|Você deu a bolsa de presente para a Patrulha da Noite.
+mno_choice_20_2|Você fica com a bolsa para você.
+menu_event_21|Você se depara com uma prostituta e o filho bastardo dela.
+mno_choice_21_1|É apenas uma puta e um bastardo, mate-os!
+mno_choice_21_2|Dar 150 Veados de Prata para ajudá-los em seu caminho.
+mno_choice_21_3|Deixe-os em paz.
+menu_event_22|Você se depara com um bandido atacando um comerciante.
+mno_choice_22_1|Afugentar o bandido.
+mno_choice_22_2|Ajudar o bandido.
+menu_event_23|Sua fama e popularidade atraiu alguns cavaleiros livres para sua causa.
+mno_choice_23_1|Aceitar que se juntem ao seu grupo.
+mno_choice_23_2|Não preciso de mais homens.
+menu_event_24|Você avista um pobre homem na estrada, ele parece cansado. Você envia um de seus homens para perguntar por que ele está sozinho no meio do nada. Ele diz que homens o roubaram e que se ele não conseguir dinheiro logo para comprar comida, vai morrer de fome. Ele diz que serviu no exército uma vez e será um guerreiro leal.
+mno_choice_24_1|Este mundo é cruel, não dê nada a ele.
+mno_choice_24_2|Dê a ele moedas suficientes para uma pequena refeição, pelo menos ele viverá. 50 veados.
+mno_choice_24_3|Dê a ele moedas suficientes para comer por uma semana. 350 veados.
+mno_choice_24_4|Dê a ele moedas suficientes para comer por um mês. 1400 veados.
+mno_choice_24_5|Sugira que ele se junte ao seu exército, onde será alimentado em troca de seus serviços.
+menu_event_25|Você encontra um garoto vestido em trapos e que parece estar com muita fome. Ele se aproxima de você e implora por um pouco de comida; as colheitas de sua família não produziram safras e eles não têm dinheiro.
+mno_choice_25_1|A vida não é justa, não dê nada a ele.
+mno_choice_25_2|Dê ao menino um punhado de ouro. 100 veados.
+mno_choice_25_3|Dê ao menino um saco de ouro. 600 veados
+menu_event_26|Um grupo de Homens de Ferro se aproxima de seu acampamento. Eles estão esfarrapados e ensanguentados por causa de seu último saque. Enquanto seus homens pegam suas armas, os nascidos do ferro largam as deles e dizem que vêm em paz. O capitão deles se aproxima de você e pergunta se eles podem se juntar a você.
+mno_choice_26_1|Claro! Qualquer pessoa é bem-vinda para se juntar a mim e aos meus homens.
+mno_choice_26_2|Sinto muito, não temos espaço para sua espécie!
+mno_choice_26_3|Provem-se dignos arrasando uma aldeia e trazendo-me a cabeça do chefe!
+mno_choice_26_4|Matem todos!
+menu_event_27|Um Irmão Mendicante segue seu exército.
+mno_choice_27_1|Agradeça aos Sete Deuses. Deixe-o em paz!
+mno_choice_27_2|Ofereça-lhe um lugar na sua companhia!
+mno_choice_27_3|Escória! Matem ele e tragam-me sua cabeça!
+menu_event_28|Um cachorro de rua corre na sua frente, choramingando. Parece desnutrido, fraco e coberto de sujeira. O que você deveria fazer?
+mno_choice_28_1|É apenas um cachorro aleatório, continue andando e ignore-o.
+mno_choice_28_2|Você é um sádico e odeia animais. Bata nele até o fim de sua vida e deixe-o na beira da estrada.
+mno_choice_28_3|Suas tropas estão com fome e você sente que elas ficarão com raiva caso você perca a oportunidade de lhes dar uma boa refeição.
+mno_choice_28_4|Leve o cachorro como seu animal de estimação, talvez ele possa se tornar um bom cão de guerra algum dia.
+menu_event_29|Você se depara com um acampamento que abriga alguns refugiados.
+mno_choice_29_1|Ignorar o acampamento.
+mno_choice_29_2|Dar algumas moedas aos refugiados. 200 veados.
+mno_choice_29_3|Saquear o acampamento, estuprar as mulheres e massacrar o resto!
+menu_event_30|Você se depara com alguns Sacerdotes Vermelhos orando para o seu senhor e queimando um homem vivo... Você pode ouvir os gritos do homem à distância...
+mno_choice_30_1|Continuar e tentar ignorar o que está acontecendo.
+mno_choice_30_2|Ir e prestar homenagem ao Senhor da Luz. 200 veados.
+mno_choice_30_3|Em uma tentativa de resgatar o homem, você mata os Sacerdotes Vermelhos e apaga o fogo!
+menu_event_31|Alguns de seus inimigos se refugiaram em um Septo próximo, depois de serem derrotados em batalha. Parece que o Septão lhes deu abrigo.
+mno_choice_31_1|Bah! Você já tem prisioneiros e pilhagens o suficiente.
+mno_choice_31_2|Oferecer uma promessa de segurança aos seus inimigos. Garanta que você os tratará bem. Ofereça uma doação para as Sete Faces de Deus. 100 veados.
+mno_choice_31_3|O que? Vá para dentro e mate-os, mate qualquer Septão que interferir. Você não pode permitir que esses cães escapem da sua justiça!
+menu_event_32|Você se depara com o túmulo de um velho guerreiro esquecido.
+mno_choice_32_1|Saquear e roubar a sepultura.
+mno_choice_32_2|Pagar por uma nova lápide.
+mno_choice_32_3|Cuidar da sepultura e prestar homenagem.
+menu_event_33|Durante a viagem, você se depara com um jovem estudioso que afirma que seu mestre está narrando os grandes e notáveis eventos desta terra. Ele se oferece para convencer seu mestre a ignorar sua notoriedade por estupros incessantes, pilhagem e devassidão em geral e, em vez disso, descrever você como algo mais próximo de um santo virtuoso, um cruzado dos pobres e oprimidos ou um campeão heróico, o que você preferir. Por uma pequena taxa, é claro.
+mno_choice_33_1|Você decide ignorar sua balbuciação. Se contenta em deixar a história ser o juiz.
+mno_choice_33_2|Você paga ao jovem estudioso 300 veados e menciona que estará de volta no tempo devido para inspecionar o manuscrito.
+mno_choice_33_3|Você paga 500 veados ao estudioso, um pouco mais por seus problemas.
+mno_choice_33_4|Depois de ouvir o estudioso com impaciência, você o repreende, dizendo que nunca ouviu um golpe mais patético em sua vida.
+menu_event_34|Você passa por uma aldeia local que parece já ter tido dias melhores. Para dar um impulso à aldeia, você anuncia que patrocinará um concurso de costura e bordado para as gentis donzelas da aldeia e recompensará generosamente aquela que puder produzir a melhor, mais bonita e elegante túnica, mas adequadamente viril.
+mno_choice_34_1|Recompensar a aldeia com 500 veados por seus esforços e declarar a garota mais bonita da aldeia a vencedora, instruindo-a onde está sua tenda.
+mno_choice_34_2|Você lança um olhar decepcionante, repreende o ancião da aldeia por não levaar o assunto a sério, declarando que esses trapos não são adequados nem para panos de cozinha, você vai embora da aldeia em um piscar de olhos.
+mno_choice_34_3|Você recebe várias túnicas coloridas e divertidamente pensa consigo mesmo que elas seriam boas para vestir seus cães no inverno ou para algum tipo de cão de corrida, você elogia o ancião da aldeia.
+menu_event_35|Enquanto analisa os últimos relatórios de reconhecimento com seus tenentes, você sutilmente percebe que olhar para a bela paisagem te faz desejar um dia poder jogar de lado sua espada, se estabelecer em sua própria terra com alguma prostituta local e passar o resto dos seus dias fodendo com sua esposa e caçando javalis. Até que um maldito tenente espertinho retruca falando que isso é improvável de acontecer, já que seu odor corporal é lendário, forçando-os a pagar o dobro para cada senhora da noite que você já fodeu e todos sabem que você incapaz de pegar até um resfriado, quanto mais caçar um javali.
+mno_choice_35_1|Dar gargalhadas do gracioso comentário dele, enquanto secretamente faz uma anotação mental de que você deve enviá-lo para as profundezas do território inimigo em uma "missão importante".
+mno_choice_35_2|Você encara seu jovem tenente e seu humor de repente piora, embora mais tarde, ao refletir, você perceba que ele provavelmente estava certo.
+mno_choice_35_3|Você consegue forçar um sorriso enquanto o riso de seus companheiros o rodeia. Você decide que esse jovem comediante seria mais engraçado com a cabeça na ponta de uma lança.
+menu_event_36|Você se depara com o que são, evidentemente, gado perdido de uma aldeia próxima.
+mno_choice_36_1|Devolver os animais à aldeia e não pedir recompensa.
+mno_choice_36_2|Devolver os animais. Por um preço.
+mno_choice_36_3|Jantar! Reúna e abata os animais.
+menu_event_37|Um viajante informa onde encontrar um pequeno grupo de colonos.
+mno_choice_37_1|Você ataca o pequeno grupo, massacrando facilmente seus infelizes inimigos em uma emboscada, deixando poucos sobreviventes.
+mno_choice_37_2|Exija pagamento por cruzarem a SUA terra.
+mno_choice_37_3|Dispersar o grupo e reivindicar todos os seus bens como seus, deixando-os apenas com suas vidas.
+mno_choice_37_4|Ajudá-los em seu caminho, dando-lhes comida e 200 veados e vê-los irem embora.
+mno_choice_37_5|Ignorá-los. Eles seguem seu caminho sem saber do perigo que poderia ter se abatido sobre eles.
+menu_event_38|Você se depara com uma família sendo estuprada e saqueada por soldados.
+mno_choice_38_1|Você se junta, dando atenção especial à adolescente com longos cabelos loiros. Uma vez contente, você abate o resto.
+mno_choice_38_2|Passar por eles ignorando os gritos e pedidos de ajuda.
+mno_choice_38_3|Dispersar os soldados e deixá-los partir com suas vidas.
+mno_choice_38_4|Você abate os soldados e ajuda a família em seu caminho, dando-lhes comida e ouro.
+menu_event_39|Um viajante diz a você onde encontrar um bando de colonos Qohorik.
+mno_choice_39_1|Você ataca a pequena caravana, massacrando facilmente os infelizes camponeses em uma emboscada, deixando poucos sobreviventes.
+mno_choice_39_2|Exigir pagamento por cruzarem suas terras.
+mno_choice_39_3|Dispersar o grupo e reivindicar todos os seus bens como seus, deixando-os apenas com suas vidas.
+mno_choice_39_4|Ajudá-los em seu caminho, dando-lhes comida e 200 veados.
+mno_choice_39_5|Ignorá-los. Eles seguem seu caminho sem saber do perigo que poderia ter se abatido sobre eles.
+menu_event_40|Um de seus soldados estupra a filha de um ancião local.
+mno_choice_40_1|Ignorar a situação.
+mno_choice_40_2|Punir o soldado.
+mno_choice_40_3|Executar o soldado e pedir desculpas pelo incidente.
+mno_choice_40_4|Pagar uma compensação ao ancião local.
+menu_event_41|Um de seus soldados sucumbe aos ferimentos de uma batalha anterior.
+mno_choice_41_1|Pegar seus equipamentos e seu ouro, ele era apenas um soldado, um mero peão e tudo o que ele possui pertence a você.
+mno_choice_41_2|Dar os pertences do soldado para sua família.
+mno_choice_41_3|Dar os pertences do soldado para sua família e fazer um funeral em seu nome pelo custo de 250 veados.
+menu_event_42|Um de seus novos recrutas morre de uma doença. Ele carrega um símbolo de Fé dos Sete e um símbolo de um coração de fogo. Ninguém sabe com quem ele estava mais alinhado.
+mno_choice_42_1|Você coloca a espada em sua mão e o queima?
+mno_choice_42_2|Coloque-o para descansar e e faça um oração ao Deus das Sete Faces.
+mno_choice_42_3|Apenas deixe-o deitado com medo de fazer algo errado.
+menu_event_siege_01|Um de seus conselheiros diz que encontrou ratos nas provisões que seus homens estão comendo. Isso poderia ter sido evitado com saneamento!
+mno_choice_01_1a|Isso é terrível! Destruir os suprimentos contaminados.
+mno_choice_01_2a|Meus homens devem comer. Matar tantos ratos quanto possível.
+menu_ratas_siege|Antes de todos os ratos serem exterminados, muitos de seus homens adoecem e morrem.^^Suas baixas:. {s8}
+mno_back_to_siegea|Feito.
+menu_event_siege_02|A falta de higiene em seu acampamento levou à disenteria. Seus homens estão morrendo agora. Isso poderia ter sido evitado com saneamento!
+mno_choice_02_1b|Contratar um meistre por 1000 veados para tentar ajudar os enfermos.
+mno_choice_02_2b|Não há nada que eu possa fazer.
+mno_choice_02_3b|Ore para seu Deus.
+mno_choice_02_4b|Eu ou meus companheiros podemos curá-los.
+menu_enfermedad_siege|A morte governa seu acampamento. Muitos de seus homens estão doentes e morrendo.^^Suas baixas:. {s8}
+mno_back_to_siegeb|Droga.
+menu_enfermedad2_siege|Alguns homens morrem da doença, mas a maioria consegue se recuperar graças ao meistre que você contratou.^^Suas baixas: {s8}
+menu_enfermedad3_siege|A morte governa seu acampamento. Muitos de seus homens estão doentes e morrendo. Talvez o seu deus tenha salvado algumas vidas.^^Suas baixas: {s8}
+mno_back_to_sieged|Feito.
+menu_enfermedad4_siege|Graças às suas habilidades de cura, você conseguiu salvar muitos homens, mas alguns ainda morreram.^^Suas baixas: {s8}
+mno_back_to_siegees|Voltar ao cerco.
+menu_event_siege_03|A praga se espalhou pelo seu acampamento por causa dos ratos. Muitos de seus homens morreram e o resto está muito infeliz. Isso poderia ter sido evitado com saneamento!
+mno_choice_03_4c|Vou dar um discurso inspirador para ganhar tempo.
+mno_choice_03_2c|Vou ver o que eu posso fazer.
+menu_event_siege_04|Alguns inimigos conseguiram se infiltrar na noite e queimar alguns de seus suprimentos. Parte dos seus alimentos foram destruídos.
+mno_choice_04_1d|Punir os homens que estavam de plantão naquela noite.
+mno_choice_04_2d|Não fazer nada!
+menu_event_siege_05|Durante a noite, seus homens capturaram e executaram um grupo de inimigos que tentavam infiltrar-se e queimar suprimentos.^^Baixas inimigas: {s8}
+mno_choice_05_1e|Parabenizá-los por fazer um bom trabalho.
+mno_choice_05_2e|Recompensá-los com um bracelete de guerreiro (300 veados).
+mno_choice_05_3e|Recompensá-los com uma noite de folga e dinheiro para gastar no bordel mais próximo. 200 veados de prata podem ajudar.
+mno_choice_05_4e|Não fazer nada. Você é um líder cuzão.
+menu_event_siege_06|{reg59?Lady:Sor}, nossas rotas de suprimento de alimentos podem estar em perigo. Nossos batedores descobriram invasores inimigos atrás de nossas linhas.^^Podemos evitar esses problemas criando bloqueios.^^Você quer enviar homens para proteger as rotas e perseguir o inimigo?
+mno_choice_06_1f|Enviar homens.
+mno_choice_06_2f|Enviar mensageiros com 500 veados para pagá-los.
+mno_choice_06_3f|Não fazer nada.
+menu_encuentro_avituallamiento|Você envia um grupo de homens para proteger e perseguir os inimigos que assolam suas rotas de suprimentos. Seus homens tentam encurralar o inimigo para forçá-lo a lutar até a morte. Há algumas perdas, mas seus homens conseguem vencer a batalha e garantir as rotas de suprimentos.^^Suas baixas: {s8} ^^ Baixas inimigas: {s10}
+mno_back_to_siegeg2|Bem feito.
+mno_back_to_siegeg3|Muito bem.
+menu_event_siege_07|Nossos batedores descobriram que os defensores envenenaram a água com animais mortos. Você quer comprar água e pedir aos mercadores para trazê-la através da nossa rota de suprimentos?
+mno_choice_07_1g|Sim (600 veados).
+mno_choice_07_2g|Não. Racionar água e cavar poços.
+mno_choice_07_3g|Sem água, não podemos continuar. Abandonar o cerco.
+menu_sed_siege|A água está acabando e seus homens estão enfraquecidos. Levados pela loucura da sede, alguns deles bebem água envenenada e morrem. Finalmente, um poço é concluído e você obtém água por enquanto. Você pode continuar o cerco.^^Suas baixas pela da água envenenada: {s8}
+mno_back_to_siegeh|O destino é inexorável.
+menu_event_siege_08|Más notícias: um de nossos homens desertou para o inimigo. Pode ser por causa da sua moral baixa ou porque eles lhe ofereceram dinheiro. Seja o que for, o inimigo pode conhecer nossos planos.
+mno_choice_08_1h|Oferecer 400 veados. Eu não quero mais deserções.
+mno_choice_08_2h|Oferecer 800 veados para minimizar a tentação.
+mno_choice_08_3h|Não se preocupe. Eu sempre posso mudar planos.
+menu_event_siege_09|Um desertor do inimigo juntou nossas fileiras. Ele nos informou que {s2}.
+mno_choice_09_1i|Ele é bem-vindo às nossas fileiras.
+mno_choice_09_2i|Eu não quero desertores entre meus homens. Mate ele.
+mno_choice_09_3i|Tenho certeza que é um espião. Devolva ele para o inimigo.
+menu_event_siege_10|Nossos homens e o inimigo se insultam cada vez menos e às vezes até conversam. Isso pode afetar o espírito de luta durante o ataque. O que devemos fazer?
+mno_choice_10_1j|Permitir. O espírito de luta do inimigo também é afetado.
+mno_choice_10_2j|O que? Proibir e punir os infratores.
+menu_event_siege_11|O frio no norte é forte e logo cobra seu preço. Alguns homens morreram de resfriado, gripe e outras doenças leves.^^Suas baixas: {s8}
+mno_choice_11_1j|Continuar.
+menu_event_siege_12|Um agricultor chega até você e diz que um de seus homens estuprou sua filha, que vive em uma aldeia perto de seu acampamento de cerco. O agricultor deseja compensação de 100 veados. O que você faz?
+mno_choice_12_1j|Pagar ao fazendeiro sua compensação.
+mno_choice_12_2j|Pagar a compensação e punir seu guerreiro.
+mno_choice_12_3j|Recusar-se a pagar por danos causados ao inimigo.
+mno_choice_12_4j|Matar o fazendeiro e sua filha.
+menu_no_paymentandkill|Em vingança, os homens das aldeias próximas se uniram e atacaram seu grupo de forrageamento.^^Suas baixas:  {s8}
+mno_choice_nppayment_2j|Droga!
+menu_event_siege_13|Um grupo de inimigos atacou nossos homens de surpresa e então se retirou rapidamente.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_choice_13_1b|Seja mais cauteloso (Solução: construir defesas).
+menu_event_siege_14|Enquanto forrageava, um grupo de inimigos encontrou um grupo dos nossos homens.^^Suas baixas: Baixas inimigas: {s10}
+mno_choice_14_1b|Seja mais cauteloso (Solução: construir defesas).
+menu_event_siege_15|Fomos atacados por uma força inimiga enquanto invadíamos aldeias próximas. Os aldeões se juntaram ao inimigo, nos causando muitas baixas. ^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_choice_15_1b|Seja mais cauteloso (Solução: bloqueio do lugar).
+menu_event_siege_16|O inimigo e nossos homens se encontraram perto de um rio, e a luta pela água causou numerosas vítimas em ambos os lados.^^Suas vítimas: {s8}^^Baixas inimigas: {s10}
+mno_choice_16_1b||Seja mais cauteloso (Solução: construir defesas).
+menu_event_siege_17|O inimigo saiu por uma passagem secreta, nos atacando antes de recuar rapidamente para a proteção de suas muralhas.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_choice_17_1b||Seja mais cauteloso (Solução: construir defesas).
+menu_event_siege_18|Alguns de seus homens raptaram mulheres das aldeias vizinhas e as trouxeram para o acampamento de cerco para um pouco de diversão.
+mno_choice_18_1b|Você pede que a mulher mais bela seja enviada à sua tenda.
+mno_choice_18_2b|Ordenar a libertação das mulheres e punir os sequestradores.
+menu_event_siege_19|O inimigo está tentando quebrar nossas defesas, e nossos homens estão tentando contê-los.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_choice_19_1b|Envie alguns homens enquanto eu levo outros para forçá-los a se retirar.
+mno_choice_19_2b|Envie todos os homens para proteger essa parte do perímetro.
+mno_choice_19_3b|Não se preocupe. Nossas muralhas são fortes.
+menu_no_defendiendo|O inimigo superou nossas defesas e queimou nossos pequenos acampamentos e postos de controle.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1bnd|Devemos construir novamente as defesas.
+menu_defendiendo_circunvallation|Conseguimos repelir o inimigo, que voltou para a proteção de suas muralhas...^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1dcir|Muito bom.
+menu_defendiendo_mal|Outro grupo de inimigos se aproveitou de nossas tropas estarem aqui e incendiou outra parte de nossas defesas.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1mal|Droga!
+menu_event_siege_20|O inimigo está tentando queimar nosso equipamento de assalto.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_choice_20_1b|Envie alguns homens enquanto eu levo outros para forçá-los a se retirar.
+mno_choice_20_2b|Rápido. Envie todos os homens para proteger o equipamento.
+mno_choice_20_3b|Não se preocupe. Nossos homens vão protegê-lo
+menu_no_defendiendo_equip|O inimigo superou nossas defesas e queimou nossos equipamentos.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1bnde|Devemos começar a construção de novo.
+menu_defendiendo_equip|Conseguimos repelir o inimigo, que voltou à proteção de suas muralhas.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1heq|Bom trabalho.
+menu_defendiendo_mal_equip|Outro grupo de inimigos cercou nossas posições e incendiou nosso equipamento de cerco do outro lado.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1vmal|Droga!
+menu_event_siege_21|Seus guardas descobriram vários homens tentando fugir à noite para escapar de suas defesas.
+mno_choice_21_1b|Permitir que eles escapem.
+mno_choice_21_2b|Matar eles.
+menu_event_siege_22|À noite, os guardas relatam que eles observaram um grupo de inimigos vestidos de ovelhas em direção a um córrego próximo. Neste momento, eles estão enchendo sacos de couro com água para trazer de volta para o assentamento.
+mno_atacar_emboscada_player2|Vá lá com quaisquer companheiros que querem se juntar.
+mno_choice_22_1b|Enviar homens para emboscar o inimigo de ovelhas.
+mno_choice_22_2b|Não fazer nada.
+menu_victoria_ovejas|Seus soldados cercaram o inimigo vestido em peles de carneiro e caíram sobre eles de surpresa, espalhando a morte.^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1lovej|Perfeito!
+menu_derrota_ovejas|É uma armadilha! {reg59?Lady:Sor}, os homens vestidos em peles de carneiro eram um truque para trazer nossos homens à tona e emboscá-los. Muitos foram mortos antes de voltar à proteção do nosso perímetro. ^^Suas baixas: {s8}^^Baixas inimigas: {s10}
+mno_defendiendo_1poveja|Isso é terrivel.
+menu_tablas_ovejas|Seus soldados foram mobilizados para cercar o inimigo, mas eles foram muito lentos e barulhentos. Os homens vestidos em peles de carneiro sentiram a ameaça e voltaram para o assentamento rapidamente.
+mno_defendiendo_1oveja2|Bem, da próxima vez.
+menu_event_siege_23|Hoje, um mercenário que quer se juntar às nossas fileiras chegou às nossas defesas. Ele diz ser um exilado do assentamento que estamos sitiando e quer se vingar de seus mestres.
+mno_choice_23_1b|Permitir que ele se junte ao seu grupo.
+mno_choice_23_2b|Não preciso de mais homens.
+menu_event_siege_24|Temos acumulado as cabeças dos inimigos e dos camponeses mortos. Você quer lançá-las sobre as muralhas para minar a moral do inimigo e causar doenças?
+mno_choice_24_1b|O que? Você é um maníaco louco. Não faça isso!
+mno_choice_24_2b|Claro, será útil ao negociar sua rendição.
+menu_cabezas_moral|As cabeças são lançadas no assentamento. De fora, ouvem-se os gritos e lágrimas dos cidadãos quando eles reconhecem algum ente querido. A guerra é cruel, e você provou que é o mais terrível dos inimigos.
+mno_defendiendo_1q|Isso irá ajudá-los a desistir ... ou morrer ...
+menu_event_siege_25|Um mercador oferece um grupo de dançarinas para entreter seud homens durante a noite.
+mno_choice_25_1b|Isto só vai distrair e cansar meus homens.
+mno_choice_25_2b|Contratar dançarinas apenas para você, custando 100 veados.
+mno_choice_25_3b|Contratar dançarinas para seus homens, custando 500 veados.
+menu_event_siege_26|Um grupo de bandidos se aproxima de seu acampamento. Enquanto seus homens pegam suas armas, os bandidos largam as deles e dizem que vêm em paz. O líder dos bandidos dá um passo à frente e pergunta se eles podem se juntar a você.
+mno_choice_26_1b|É claro! Homens tão promissores são sempre bem-vindos!
+mno_choice_26_2b|Sinto muito. Nós não temos espaço para o seu tipo!
+mno_choice_26_3b|Provem que são dignos, invadindo e arrasando uma aldeia e trazendo-me a cabeça de ancião!
+mno_choice_26_4b|Matem todos!
+menu_sanguinario_p|Após duas horas, os bandidos voltam com algum saque e a cabeça de alguém...
+menu_event_siege_27|Vários mercadores se aproximam de você querendo vender bens no acampamento que se formou perto de seu com as esposas dos soldados, prostitutas, refugiados, crianças e outros seguidores do exército.
+mno_choice_27_1b|Eles (e seu dinheiro) são bem-vindos.
+mno_choice_27_2b|Já há mercadores suficientes.
+mno_choice_27_3b|Matá-los e roubar seu dinheiro.
+menu_event_siege_28|Para fazer a comida durar mais tempo, os defensores expulsaram suas mulheres, crianças e idosos. Você pode vê-los se movendo em direção ao seu perímetro, implorando por comida.
+mno_choice_28_1b|Enviar soldados para matar as crianças e idosos, mantendo as mulheres.
+mno_choice_28_2b|Comprar comida para eles (1000 veados). Em seguida, deixá-los partir.
+mno_choice_28_3b|Não lhes dê nada. Deixe-os morrer de fome.
+menu_event_siege_29|Um dos seus soldados, irritados com o longo cerco, estupra a esposa de um de seus oficiais.
+mno_choice_29_1b|Ignorar a situação.
+mno_choice_29_2b|Punir o soldado.
+mno_choice_29_3b|Executar o soldado.
+mno_choice_29_4b|Pagar a compensação ao oficial (1000 veados).
+menu_lucha_oficial|Seu oficial mata o soldado e há uma rixa entre alguns amigos do soldado e aqueles leais a seu oficial, deixando alguns mortos.
+mno_defendiendo_1z|Isso é terrivel.
+menu_event_01_juicio|Dois fazendeiros, um muito alto e magro, o outro baixo e atarracado, foram apresentados a você para discutir a propriedade de um bezerro. Aparentemente, seus campos eram fronteiriços e o fazendeiro alto tinha um touro que engravidou uma auroque pertencente ao outro fazendeiro. O fazendeiro atarracado disse que o bezerro era dele porque era sua auroque que dava à luz. O fazendeiro alto afirmou que o bezerro era dele, sendo a prole de seu melhor touro, ou que pelo menos deveria receber uma compensação financeira.
+mno_choice_01_1n|O fazendeiro atarracado está correto. O bezerro é dele, assim como a auroque é dele.
+mno_choice_01_2n|O fazendeiro alto está correto. O touro é dele e o bezerro também.
+mno_choice_01_3n|O proprietário da auroque fica com o bezerro e paga uma compensação de 30 veados de prata ao proprietário do touro.
+mno_choice_01_4n|Nenhum dos fazendeiros está certo. Eu fico com o bezerro!
+mno_choice_01_5n|Nenhum dos fazendeiros está certo. Mate o bezerro e distribua sua carne para os dois.
+menu_event_02_juicio|Meu senhor, capturamos alguns homens responsáveis pelo ataque a um de seus mensageiros, que agora está gravemente ferido na cama. Isso nos coloca em posição ruim, o mensageiro estava sob sua proteção. O atacante, entretanto, tem uma história interessante. Seu desejo era contar isso a você antes de sua execução.^^O prisioneiro diz: Milorde, eu nunca teria pensado em atacar seu mensageiro, mas... Aquele homem queria dormir com minha jovem filha esta noite, é claro que a oferta foi recusada, não somos bárbaros! Entretanto, ele nunca aceitou a resposta, entrou em minha casa com seus três amigos e roubou minha querida filha, rindo que meu rei nunca acreditaria na palavra de um plebeu. Tentei o que pude e, embora lamente por tê-lo machucado gravemente enquanto ele estava sob sua proteção pessoal, um pai deve proteger sua única filha! Por favor, seja razoável com seu humilde servo!
+mno_choice_02_1n|O mensageiro estava sob minha proteção. Você e sua família serão executados ao amanhecer, todos os seus pertences confiscados!
+mno_choice_02_2n|O mensageiro é importante, mas eu serei razoável com você: sua família não será punida, só você será enforcado.
+mno_choice_02_3n|Embora o mensageiro seja importante, eu teria feito o mesmo. Você pode ir, o rei falou!
+mno_choice_02_4n|Uma vergonha! Fora com aquele mensageiro bastardo de minha cidade, como ele pode abusar de meus leais seguidores?!
+menu_event_03_juicio|Você convoca dois homens para decidir uma disputa entre eles. Um é um lorde, enquanto o outro é um homem juramentado a este lorde. Parece que o Lorde não tinha tributo suficiente para pagar seu homem, então o homem juramentado levou a filha de seu Lorde para sua própria cama e coisou com ela.
+mno_choice_03_1n|Punir o homem juramentado, ele violou a honra de seu Lorde.
+mno_choice_03_2n|Punir o Lorde, ele falhou em seu dever como Lorde.
+mno_choice_03_3n|Pedir para ver a filha, e quando a trazem, você decide que já foi punição o suficiente que o juramentado tenha dormido com ela. Contrate o homem do juramentado para o seu exército.
+mno_choice_03_4n|Compensar o Lorde por este crime, e pagar o homem juramentado pelo descumprimento do dever do Lorde. Isto lhe custará 500 veados.
+menu_event_04_juicio|Um de seus homens juramentados se aproxima de você. Ele afirma seus receios de que entre os homens haja muita insatisfação. Ele afirma que você é muito pacífico e que há muito pouco ouro e honra para ser conquistado sob seu serviço.
+mno_choice_04_1n|Pagar os homens e dar a eles anéis caros. Isto custará 1000 Veados.
+mno_choice_04_2n|Dizer aos homens que eles estão liberados de seus juramentos caso sejam estúpidos e selvagens o bastante para questionar a sabedoria de sua liderança.
+mno_choice_04_3n|Matar o homem que se aproximou de você na frente de seus homens e afirmar que não se falará mais em insubordinação.
+mno_choice_04_4n|Prometer mudar seu estilo de liderança e que de agora em diante todos os espólios serão compartilhados em favor de seus homens.
+menu_event_05_juicio|Depois de muito festejar com seus senhores e sua afeição pelo vinho tinto da árvore, as pessoas começaram a notar que sua saúde está piorando. Seu conselheiro avisa que seus inimigos podem ver isso como fraqueza e uma desculpa para tentar se livrar dos seus "problemas".
+mno_choice_05_1n|Continuar sendo você mesmo. Além disso, quem são esses conselheiros tentando me dizer o que é certo!
+mno_choice_05_2n|Você decide que é hora de se desintoxicar e aumentar sua programação de treinamento. Você paga 300 veados por treinamento extra.
+mno_choice_05_3n|Existindo inteiramente em tigelas de feijão e lentilhas, você desenvolve um péssimo temperamento e muitas vezes executa homens que comentam sobre sua saúde.
+menu_event_06_juicio|Sua esposa passa tempo demais com um jovem de pele macia e cabelos cacheados. Na verdade, sua esposa até o chama de jovem garanhão, dizem os boatos. Embora seja normal que você pratique seu ofício com a espada entre a população, sua esposa manchar seu casamento de tal maneira é...
+mno_choice_06_1n|Deixe sua esposa em paz, ela está feliz e você não vê necessidade de arruinar tal esplendor (talvez o herdeiro do trono não seja seu filho).
+mno_choice_06_2n|Nenhum homem desonra o Rei, faça com que o jovens seja castrado e morto.
+mno_choice_06_3n|Ponha sua mãe para ficar de olho na rainha (talvez o herdeiro do trono não seja seu filho).
+menu_event_07_juicio|As plantações deste ano, até o momento, murcharam miseravelmente sob o sol. Há muitos que temem que, se as coisas não melhorarem, a fome possa tomar conta. O que devemos fazer, milorde?
+mno_choice_07_1n|Não posso abrir mão de nenhum grão, pois tenho que alimentar minha casa... além disso, há festas a serem feitas.
+mno_choice_07_2n|Distribuir algumas carroças de grãos para o meu povo, é o máximo que eu posso oferecer.
+mno_choice_07_3n|Importar grãos do outro lado do Mar Estreito, para que haja o suficiente para todo o meu povo. Foi informado que isto vai custar 1100 Veados.
+mno_choice_07_4n|Deixe-os apodrecer! É o que merecem por não cuidarem de suas colheitas como deviam!
+menu_event_08_juicio|Um de seus senhores se aproxima de você dizendo que tem um filho bastardo (que ele favorece) que deseja se juntar à sua guarda pessoal. Você concorda em conhecer o rapaz, pois seria indecoroso rejeitar um nobre. Quando você o encontra, porém, fica claro que ele é bastante desajeitado e certamente não um homem de guerra. Frente a este rapaz gordo e sorridente, você...
+mno_choice_08_1n|Permite que ele se junte à sua guarda pessoal, chocando assim seus outros guarda-costas.
+mno_choice_08_2n|Pede um pagamento para fechar o negócio.
+mno_choice_08_3n|Recusa, afirmando abertamente que o menino não tem lugar na guerra.
+menu_event_09_juicio|Um dia, duas propostas lhe são apresentadas. Um deles é um jovem maester acadêmico chamado Maester Gilhurst que propõe a construção de mais Cidadelas e um fundo a ser reservado para comprar e manter livros de conhecimento, embora seu caso seja eloqüente, a entrega é menos eloqüente. Outro homem se apresenta. Um grande guerreiro barbudo de que faz o meistre visivelmente estremecer em sua sombra. Ele sugere que os fundos serão melhor alocados na compra de armas, cavalos e escudos, coisas que podem ser usadas hoje e que não são meramente fantasias.
+mno_choice_09_1n|Escolher o Meistre Gilhurst, afirmando que um rei sábio precisa muito mais de livros do que da espada. Isso custará 1200 Veados.
+mno_choice_09_2n|Escolher o guerreiro, afirmando que os livros não têm lugar nestes tempos de guerra. Isso custará 800 Veados.
+mno_choice_09_3n|Declarar que um reino precisa tanto de homens de conhecimento quanto de homens de guerra. Isso custará 2200 Veados.
+mno_choice_9_4n|Não estou interessado.
+menu_event_10_juicio|A população local de {s1} raptou e, por misericórdia, matou uma criança pelo fato dela ter escamagris. O pai está desesperado e implora que você tome uma atitude! Ele explica que estava tentando conseguir ajuda para a criança quando os aldeões locais invadiram sua casa e levaram sua filha. O que você vai fazer?
+mno_choice_10_1n|A menina estava praticamente morta, esqueça isso e diga ao homem para ir para casa.
+mno_choice_10_2n|Você se recusa a tolerar tal ato bárbaro e, portanto, reúne os responsáveis e os enforca na praça da aldeia.
+mno_choice_10_3n|Isso não é da sua conta.
+menu_event_11_juicio|O som de um cavalo galopando atravessa a fria manha fria, e você corre para fora para encontrar um batedor. Ele diz que um navio estranho carregando homens que falam uma língua estranha naufragou perto da sua costa. O que você faz?
+mno_choice_11_1n|Envie imediatamente uma patrulha para investigar e procurar objetos de valor; se houver sobreviventes, mate-os.
+mno_choice_11_2n|Envie imediatamente uma patrulha para investigar e buscar objetos de valor; se houver sobreviventes, recrute-os.
+mno_choice_11_3n|Não faça nada.
+menu_event_12_juicio|Um mensageiro chega à sua corte. Você permite que ele fale, e ele começa a contar notícias terríveis. "Milorde, nossa aldeia está em grande perigo! A população tem algum tipo de doença estranha, eles mal conseguem se mover, apenas suam e vomitam. Os meistres locais não têm uma cura e o lorde da aldeia não deixará ninguém sair até que você envie suas ordens!
+mno_choice_12_1n|Notícias terríveis, de fato! A quarentena deve continuar, mas enviarei meu melhor meistre para ajudar.
+mno_choice_12_2n|Notícias terríveis, de fato! Não podemos arriscar nosso melhor meistre. A quarentena deve ser mantida e examinaremos os sobreviventes quando a epidemia acabar.
+menu_event_13_juicio|Seus guardas lhe trazem um homem acusado de estuprar uma criança. Ele foi muito espancado, mas ainda não está claro se ele cometeu o crime ou não. O que você deve fazer com ele?
+mno_choice_13_1n|Pendure-o pelo pescoço!
+mno_choice_13_2n|Você sente que o homem já sofreu o suficiente e permite que ele seja livre.
+mno_choice_13_3n|Dedique tempo e recursos dando ao homem um julgamento justo. Isso vai custar 500 Veados.
+menu_event_14_juicio|Um dia, um nobre e leal guerreiro vem até você com um pedido. "Meu senhor, estou em uma situação muito ruim. Gastei todo o meu dinheiro em equipamentos e tropas adequadas, para poder servi-lo bem. No entanto, minha primeira filha está prestes a se casar e não posso dar um presente adequado a ela e ao marido".
+mno_choice_14_1n|Aqui estão 800 Veados. Pegue esta pequena quantidade de ouro pelo seu serviço fiel.
+mno_choice_14_2n|Todos deveriam planejar com antecedência, você deveria saber que é hora de casar sua filha. Vou ajudá-lo agora, embora esta seja a última vez. Aqui estão 400 Veados.
+mno_choice_14_3n|Não, você deve pagar por conta própria!
+menu_event_15_juicio|Uma pequena trupe de pobres companheiros que seguem a fé dos sete pede refúgio e, em troca, dizem que se juntarão ao seu exército. Um deles explica que eles foram atacados e fogem de uma grande força.
+mno_choice_15_1n|Bah, não teremos esse tipinho envenenando os homens e mulheres do meu exército. Mande-os embora.
+mno_choice_15_2n|Infelizmente, mal temos comida suficiente para nos alimentarmos, desculpe.
+mno_choice_15_3n|Certo, lhe daremos refúgio e boa alimentação. Você estima que isto lhe custará 2000 Veados.
+menu_event_16_juicio|Você estava tendo um banquete com seus companheiros quando um mensageiro da corte dos mestres da guilda veio até você. "Meu grande rei, há uma situação na cidade que precisa de seu conselho". Você sai do lugar levando sua arma com você.^^Existe uma grande confusão na multidão, mas quando você aparece, o silêncio recai sobre a platéia. Um homem se curva diante de você e pede permissão para falar, da qual você dá permissão. Ele continua a dizer: "Meu senhor, por favor, ouça um caso digno da sabedoria de um rei. Há duas mulheres que afirmam ser a mãe desta criança, nenhuma delas desiste."^Você diz à multidão: "Me mostrem as mulheres e deixem isso comigo". Duas mulheres aparecem, uma em roupas simples e outra em trapos. Você diz "Já que não chegam a um consenso, ambas terão a criança". Você instrui seus guardas a cortar a criança ao meio e dar uma metade a uma mulher e a outra metade à outra. A mulher em trapos grita e diz "Não, por favor, meu grande rei, deixe a outra mulher ficar com a criança. Por favor, não a machuque". Você olha para ela e diz "Você é a mãe legítima e esta criança pertence a você", já a outra mulher...
+mno_choice_16_1n|Será presa por mentir, pois é o maior pecado.
+mno_choice_16_2n|Vai perder a cabeça, não há misericórdia para os mentirosos.
+mno_choice_16_3n|Dar a ela e à multidão um discurso sobre honestidade e honra e deixe-a viver.
+menu_event_17_juicio|Seu conselheiro, coberto de sujeira e queimado de sol, chega depois de inspecionar a colheita. "Meu Senhor, a colheita deste ano é fraca. Se você não reduzir os impostos, com certeza haverá fome".
+mno_choice_17_1n|Se eu reduzir os impostos, terei que libertar os homens de seus juramentos, e nossos inimigos nos invadiriam. Melhor um intestino vazio do que uma garganta cortada.
+mno_choice_17_2n|Então, reduza os impostos. Isto custará 2000 Veados.
+menu_event_18_juicio|Uma feliz viúva é acusa	da de bruxaria depois de vários homens jurados Um camponês de uma aldeia próxima vem até você como um suplicante. Ele relata sem fôlego que homens armados de um reino próximo invadiram suas propriedades, levando mulheres, gado e grãos. Ele está salpicado de sangue e fede a palha queimada.
+mno_choice_18_1n|Reúna meus homens! Vamos vingar esse insulto com o sangue deles! (Incursões são caras).
+mno_choice_18_2n|Não há nada que se possa fazer aqui. Fora daqui, vira-lata!
+mno_choice_18_3n|Haverá guerra. Você fez bem em relatar isso para mim. Pegue este dinheiro e reconstrua sua aldeia.
+mno_choice_18_4n|Como posso ter certeza de que não foi um bando de foras-da-lei ou piratas? Há pouco que eu possa fazer por você. Tome isto para compensar algumas de suas perdas.
+menu_event_19_juicio|Um irmão mendicante tem sido visto pregando nesta área. Os habitantes locais estão descontentes com isso e esperam que sejam tomadas medidas.
+mno_choice_19_1n|Banir o irmão mendicante, exilando-o para as terras de seu inimigo.
+mno_choice_19_2n|Torturar o irmão mendicante e, em seguida, colocar sua cabeça em um espigão.
+mno_choice_19_3n|Permitir que ele continue.
+menu_event_20_juicio|Um Septão se aproxima de você e diz que a maioria dos habitantes de uma vila sua, onde ele estava apresentando O Deus das Sete Faces, pegaram em armas e atacaram a ele e a seus seguidores. Ele explica que queria "remover" uma árvore que eles adoravam feito tolos dos Deuses Antigos.
+mno_choice_20_1n|Este Septão está certo. Transforme esta árvore em espigões e dê um troféu àqueles tolos que adoram os Deuses Antigos colocando suas cabeças neles!
+mno_choice_20_2n|Este Septão está errado. Corte a cabeça dele e de seus seguidores em apoio aos Deuses Antigos.
+mno_choice_20_3|Este Septão está errado. Exija que a Fé dos Sete deixe a aldeia em paz.
+mno_choice_20_4n|Não fazer nada.
+menu_event_21_juicio|Um homem vindo das arenas de luta de Meereen viajou para o seu reino, mas ele escapou de seu mestre e está procurando por salvação. O que você vai fazer com ele.
+mno_choice_21_1n|Você sente que ele deve ser um bom guerreiro uma vez que conseguiu escapar tão longe com vida, então você decide recrutá-lo para seu exército.
+mno_choice_21_2n|O homem é um covarde e você manda chamar seu mestre.
+mno_choice_21_3n|A escravidão não é algo que você deseja encorajar. Deixe o homem viver uma vida livre em seu reino e lide com as consequências do mestre.
+menu_event_22_juicio|Uma mulher de uma aldeia próxima vem até você alegando que um de seus homens, que morreu recentemente, era o marido dela. Ela pediu ajuda para cuidar do marido falecido.
+mno_choice_22_1n|Dê a ela ajuda monetária e mande chamar um meistre. Você decide ajudá-la com 500 veados.
+mno_choice_22_2n|Não fazer nada
+menu_event_23_juicio|Seu conselheiro se aproxima de você com um pedido: "Meu senhor, não seria uma demonstração de sua grande misericórdia e honra ao prover àqueles que sofreram enquanto serviam sob seu comando? Temos dúzias de soldados mutilados, aleijados e idosos pedindo moedas nas ruas. E também há muitas famílias que perderam pais e maridos em suas batalhas. Precisamos recompensar e proteger seus leais seguidores ou então os homens poderão hesitar no futuro em se juntar a você em batalha.
+mno_choice_23_1n|Bah! Esses órfãos e guerreiros eram muito pouco qualificados para se defenderem, eles merecem apodrecer.
+mno_choice_23_2n|Mande meus cumprimentos a esses coitados, mas lamento que não haja nada que eu possa fazer por eles.
+mno_choice_23_3n|Concordo que devemos ajudar nossos veteranos e suas famílias, só desta vez, pois me sinto generoso. Você envia 500 Veados.
+mno_choice_23_4n|Isto é uma tragédia! Abra imediatamente meus cofres e faça com que todas as famílias recebam o apoio do Rei. Você concorda em enviar 2000 Veados.
+menu_event_24_juicio|Um caso aparentemente simples é apresentado a você. Ontem, o acusado invadiu a casa da vítima e retirou grandes quantias de bens valiosos. Muitas pessoas o viram e os itens perdidos foram encontrados em sua casa. Mas a vítima era um apoiador influente do lorde anterior, tinha na verdade servido como conselheiro e era conhecido por sua lealdade duvidosa, enquanto o acusado era um de seus maiores apoiadores e havia doado muito dinheiro para sua causa.
+mno_choice_24_1n|Ignorando as evidências, você se estabelece a favor de seu homem, na verdade dizendo que ele estava agindo sob suas ordens.
+mno_choice_24_2n|As provas são claras, o júri concorda, e o acusado é considerado culpado e tem suas mãos decepadas por roubo.
+mno_choice_24_3n|Você alega que ambas as partes estão erradas, exilando os homens e confiscando todo o material referente ao caso.
+menu_troop_camp|Um pequeno acampamento é estabelecido para as tropas que você deseja deixar neste lugar por enquanto.^^(Selecione as tropas que deseja deixar neste acampamento.)
+mno_station_troops|Dê uma olhada nas tropas.
+menu_landing_point_encounter_as_marshal|Você é atualmente o marechal. Você tenta desembarcar. {s1} {s2}^^Quer desembarcar agora ou esperar?
+mno_disembark_yeslp|Desembarcar.
+mno_disembark_nolp|Esperar.
+menu_landet_ships_encounter_as_marshal|Você é atualmente o marechal. Você tenta embarcar. {s1} {s2}^^Quer embarcar agora ou esperar?
+mno_reembark_yesls|Embarcar.
+mno_reembark_nols|Esperar.
+menu_ferry_encounter_as_marshal|Você é atualmente o marechal. Você tenta alugar um navio. {s1} {s2}^^Quer embarcar agora ou esperar?
+mno_reembark_yesls1|Embarcar.
+mno_reembark_nols1|Esperar.
+menu_ship_capture|Você é capaz de capturar uma das embarcações inimigas. É um {s2}, mas devido à luta, o "{s1}" está em péssimas condições. Quer adicionar este navio à sua frota mesmo assim?
+mno_capture|Adicionar o navio a sua frota.
+menu_start_sea_travel|Você está iniciando uma viagem marítima.
+menu_mutiny_start|A moral de algumas tropas está baixa. Começou um motim.
+menu_mutiny_end|Após o motim, a situação se acalma.
+menu_print_ships|Seus navios por tipo de navio, nome, qualidade e tipo de madeira: ^{s10}
+menu_stannis_quest_event_menu|Você vê um corvo cair à distância. Parece que pode ter se ferido.^Deveria ir investigar?
+mno_starting_quest_choice_1|Pode ser importante, vou procurar o corvo.
+mno_starting_quest_choice_2|É como se tivesse sido atingido por uma flecha, melhor eu me manter afastado.
+menu_mutiny_at_crasters_keep_request|Você recebeu uma mensagem do Senhor Comandante da Patrulha da Noite. Ele perguntou se você se encontraria com ele.^Você deveria ir?
+mno_crasters_quest_choice_1|Claro, vamos lá.
+mno_crasters_quest_choice_2|Estou muito ocupado.
+menu_find_raven_event_menu|Você encontra o corvo e percebe há um pequeno pedaço de pergaminho com o selo da Mão do Rei amarrado nele.^A carta diz: ^^Esta carta é para a atenção urgente de Lorde Stannis Baratheon.^^    
+mno_find_raven_choice_1|Levar a carta ao Rei Stannis Baratheon.
+mno_find_raven_choice_2|Jogar a carta fora e nunca mais mencioná-la novamente.
+mno_find_raven_choice_3|Levar a carta ao Lorde Tywin Lannister.
+menu_ned_dead_event_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de pergaminho envolto em um fio dourado.^^     A carta diz:^^^     Declaro que o Lorde Eddard Stark, Senhor de Winterfell e Guardião do Norte foi decapitado devido a atos de traição para com seu Rei. Dessa forma, o herdeiro de Eddard, Lorde Robb Stark, foi declarado o Rei do Norte.
+menu_red_wedding_event_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de papel esfarrapado amarrado a ele.^^     A carta diz:^^^     O Senhor Supremo Edmure Tully deverá se casar nas Gêmas dentro dos próximos dias. Com a participação do anfitrião, o Rei Robb Stark, estaremos realizando um banquete em comemoração. Este é um convite formal para {playername} participar destas festividades.^  Deve-se notar que todos os convidados de honra serão bem-vindos dentro das muralhas de Lord Walder Frey e em sua mesa. Ele estende a você sua hospitalidade e proteção à luz dos Sete.^^^Você participará como um leal a...
+mno_red_wedding_choice_1|Tully ou Stark.
+mno_red_wedding_choice_2|Frey.
+menu_red_wedding_event_complete_menu|Parece que o ataque foi suprimido.
+menu_red_wedding_event_complete2_menu|O Rei do Norte, o Rei Robb Stark, incluindo todos os seus anfitriões, foram assassinados nas Gêmeas. O Casamento Vermelho é como o chamam.^À luz destes recentes eventos, Lorde Walder Frey é agora conhecido como Senhor Supremo das Terras Fluviais e todos os Tullys foram proclamados traidores e inimigos jurados de todos os reinos de Westeros. O Lorde Roose Bolton, como o herdeiro mais adequado do Lorde Robb Stark, foi nomeado Protetor do Norte e agora deverá residir em Winterfell.
+mno_red_wedding_event_complete2_menu_choice_1|Continuar.
+menu_red_wedding_event_missed_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de papel esfarrapado amarrado a ele.^^     A carta diz:^^^     O Rei do Norte, O Rei Robb Stark, incluindo todos os seus anfitriões foram mortos nas Gêmeas. Casamento vermelho, é como chamam.^  À luz desses eventos recentes, Lorde Walder Frey é agora conhecido como Senhor Supremo das Terra Fluviais e todos os Tullys foram proclamados traidores e inimigos jurados de todos os reinos de Westeros.  Lorde Roose Bolton, como o herdeiro mais adequado do Lorde Robb Stark, foi nomeado Protetor do Norte e agora deverá residir em Winterfell.
+mno_red_wedding_event_missed_menu_choice_1|Continuar.
+menu_varys_invasion|Um de seus comandantes recebeu notícias de um corvo. Ele começa a ler...^^  O Rei Aegon Targaryen desembarcou com suas tropas nas Terras da Tempestade! Ele busca recuperar o Trono de Ferro, que é seu por direito. Ele afirmou que será generoso com seus apoiadores e com qualquer outra pessoa que tenha o privilégio de ser leal à Casa Targaryen.
+mno_varys_invasion_choice_1|Continuar.
+menu_varys_invasion_dany|Um de seus comandantes recebeu notícias de um corvo. Ele começa a ler...^^  Eu sou Daenerys Nascida da Tormenta da Casa Targaryen, legítima herdeira do Trono de Ferro, legítima rainha dos Ândalos e dos Primeiros Homens. Protetora dos Sete Reinos, Mãe dos Dragões, Khaleesi do Grande Mar de Grama, A Não Queimada, Quebradora de Correntes.^Sua Rainha o convida a Pedra do Dragão para dobrar os joelhos e jurar lealdade à Casa Targaryen.
+menu_varys_dual_invasion_dany|Um de seus comandantes recebeu notícias de um corvo. Ele começa a ler...^^   Eu sou Daenerys Nascida da Tormenta da Casa Targaryen, legítima herdeira do Trono de Ferro, legítima rainha dos Ândalos e dos Primeiros Homens. Protetora dos Sete Reinos, Mãe dos Dragões, Khaleesi do Grande Mar de Grama, A Não Queimada, Quebradora de Correntes.^Sua Rainha o convida a Pedra do Dragão para dobrar os joelhos e jurar lealdade à Casa Targaryen.
+menu_white_walkers_invade|Um de seus comandantes recebeu notícias de um corvo. Ele começa a ler...^^  Criaturas conhecidas como Caminhantes Brancos foram avistadas com hordas de mortos-vivos. Eles estão indo em direção à Muralha. Qualquer homem que possa empunhar uma espada, lança ou machado deverá se reunir no norte e aguardar novas instruções. O inverno chegou!
+mno_white_walker_invasion_choice_1|Continuar.
+menu_free_folk_event_menu|Seu capitão capturou um corvo que passava e notou amarrado a ele um pedaço de papel.^^     O papel diz:^^^     Os Selvagens assumiram o controle da muralha e das terras ao redor. Tememos que eles continuem marchando mais para o sul; a ajuda deve ser enviada antes que sejamos oprimidos. Você ouve alguém gritar "Pelos deuses antigos e novos, o inverno está chegando!
+mno_free_folk_event_menu_choice_1|Continuar.
+menu_robb_stark_marraige|Você captura um corvo que passava. Ele contém uma carta que diz:^^   A Casa Stark do Norte gostaria de anunciar que nosso Rei Robb Stark Rei do Norte casou-se com uma mulher que se dizia ser de Volantis com o nome de Talisa Maegyr.
+menu_boar_king_quest|Ao apresentar o javali morto ao pequeno conselho, você é considerado um herói!^   Disseram que as pessoas cantarão seu nome daqui até os confins do mundo conhecido e você será conhecido como o herói que vingou a morte de um rei. Você recebe uma pequena doação por sua lealdade ao trono.
+mno_boar_king_choice_1|Continuar.
+menu_riverrun_taken_by_westerlands|Correrrio caiu nas forças das Terras Ocidentais, fazendo com que os Frey virassem a casaca e renunciassem a sua aliança com o Norte.
+menu_ironborn_start_war_north|Parece que o Lorde Balon Greyjoy se coroou como Rei das Ilhas de Ferro e mais uma vez se senta na Cadeira de Pedra do Mar. Consequentemente, ele começou a enviar grupos de invasão para atacar a costa norte.
+menu_westerlands_start_war_riverlands|As Terras Ocidentais invadiram as Terras Fluviais em retaliação ao sequestro de Tyrion Lannister. Batedores e mercenários de Lannister foram vistos causando destruição nas Terras Fluviais.
+menu_westerlands_start_peace_reach|O Lorde Petyr Baelish negociou uma nova aliança entre as Terras Ociedentais e a Campina.
+menu_dragonstone_start_war_westerlands|Lorde Stannis Baratheon decidiu atacar as Terras Ocidentais e recuperar a coroa que ele acredita ser sua por direito.
+menu_king_of_seven_kingdoms|{s2}
+menu_not_king_of_seven_kingdoms|Você perdeu a Capital dos Sete Reinos e, portanto, perdeu sua reivindicação ao Trono de Ferro.
+menu_wolf_den_stark|Conforme se aproxima, você ver um lobo olhando para você. Você percebe que este é diferente dos outros lobos que já tenha visto, ele parece mais forte e muito maior.^ Você percebe que este é um Lobo Gigante e decide levá-lo com você, afinal, ele pode se tornar útil.
+menu_wolf_den_win|Você vai acabar com o último dos lobos e remover qualquer carne disponível.
+menu_wolf_den_lose|Você foi gravemente ferido pelos lobos.^^Seus companheiros conseguiram arrastá-lo para um lugar seguro.
+menu_giants_lair_wildling|Os gigantes foram derrotados! ^Enquanto olha entre as baixas, você percebe que alguns gigantes ainda estão vivos. Eles estão impressionados com sua vitória e gostariam de se juntar a você.
+menu_giants_lair_win|Você acaba com qualquer gigante que ainda respire.
+menu_giants_lair_lose|Você foi gravemente ferido pelos gigantes.^^Seus companheiros conseguem arrastá-lo para um lugar seguro.
+menu_static_wars_off_menu|Tem certeza de que deseja desativar as guerras estáticas?^Lembre-se de que elas não podem ser ativadas novamente.
+mno_yes|Sim, tenho certeza.
+mno_no|Na verdade, mudei de ideia.
+menu_war_for_the_dawn|Você é abordado por um grande grupo de homens vestidos com as vestes vermelhas de Rhllor. Um dos homens se separa dos outros e se aproxima para falar com você em particular.
+menu_warlord_to_justice|Você é abordado por um grupo de camponeses desesperados. Um velho abatido, mas de aparência nobre, se afasta do grupo e vem até você.
+menu_freeing_a_brother|Brog vem galopando ao seu lado com um olhar frenético.
+menu_special_wildling_recruitment|Saindo da neve crescente, um grupo de gigantes se aproxima. Parece que sua lenda cresceu e contos de suas vitórias e coragem se espalharam além da Muralha.^O grupo de gigantes está interessado em se juntar ao seu grupo de guerra.
+menu_special_dorne_recruitment|Você vê a poeira sendo levantada da areia à distância. Parece que sua lenda cresceu e contos se espalharam por todo o sul sobre suas vitórias e coragem.^Surgindo da poeira estão vários guerreiros interessados em se juntar ao seu grupo de guerra.
+menu_messenger_system|Seu meistre se aproxima com notícias urgentes:^^"Recebemos um corvo, ele carrega uma mensagem que diz: O mensageiro que você enviou foi encontrado morto na beira da estrada. Lamentamos informar que sua mensagem nunca chegou ao destino. Estarei à sua disposição para qualquer outra mensagem que necessite enviar. Você sabe onde me encontrar.
+mno_error_1|Continuar.
+menu_messenger_system2|Seu meistre se aproxima com notícias urgentes:^^"Recebemos um corvo, ele carregava uma mensagem que diz: O mensageiro que você enviou para {s9} foi encontrado morto na beira da estrada. Lamentamos informar que sua mensagem nunca chegou ao destino. Estarei à sua disposição para qualquer outra mensagem que necessite enviar. Você sabe onde me encontrar.
+mno_finish_m|Sorte de merda.
+menu_messenger_system_res_failure|Seu meistre se aproxima com notícias urgentes:^^"Recebemos um corvo, ele carregava uma mensagem que diz: O mensageiro que você enviou foi encontrado morto na beira da estrada. Lamentamos informar que sua mensagem nunca chegou ao destino. Estarei à sua disposição para qualquer outra mensagem que necessite enviar. Você sabe onde me encontrar.
+mno_finish_m2|Sorte de merda.
+mno_Continue_msse|Obrigado por seus serviços.
+mno_Continue_mess2|Bem.
+mno_Continue_mess3|Bem.
+mno_Continue_mess4|Bem.
+mno_Continue_mess5|Bem.
+mno_Continue_mess6|Obrigado por seus serviços.
+mno_Continue_mess7|Obrigado por seus serviços.
+mno_Continue_messeng1|Obrigado por seus serviços.
+mno_Continue_messeng2|Obrigado por seus serviços.
+mno_Continue_messeng3|Eu tenho minha guerra.

@@ -1,0 +1,3084 @@
+itm_no_item|ITEM INVÁLIDO
+itm_no_item_pl|ITEM INVÁLIDO
+itm_tutorial_spear|Lança
+itm_tutorial_spear_pl|Lança
+itm_tutorial_club|Clava
+itm_tutorial_club_pl|Clava
+itm_tutorial_battle_axe|Machado Batalha
+itm_tutorial_battle_axe_pl|Machado Batalha
+itm_tutorial_arrows|Flechas
+itm_tutorial_arrows_pl|Flechas
+itm_tutorial_bolts|Dardos
+itm_tutorial_bolts_pl|Dardos
+itm_tutorial_short_bow|Arco Curto
+itm_tutorial_short_bow_pl|Arco Curto
+itm_tutorial_crossbow|Besta
+itm_tutorial_crossbow_pl|Besta
+itm_tutorial_throwing_daggers|Adagas de Arremesso
+itm_tutorial_throwing_daggers_pl|Adagas de Arremesso
+itm_tutorial_saddle_horse|Cavalo Selado
+itm_tutorial_saddle_horse_pl|Cavalo Selado
+itm_tutorial_shield|Escudo Redondo
+itm_tutorial_shield_pl|Escudo Redondo
+itm_tutorial_staff_no_attack|Bastão
+itm_tutorial_staff_no_attack_pl|Bastão
+itm_tutorial_staff|Bastão
+itm_tutorial_staff_pl|Bastão
+itm_tutorial_sword|Espada
+itm_tutorial_sword_pl|Espada
+itm_tutorial_axe|Machado
+itm_tutorial_axe_pl|Machado
+itm_tutorial_dagger|Adaga
+itm_tutorial_dagger_pl|Adaga
+itm_horse_meat|Carne de Cavalo
+itm_horse_meat_pl|Carne de Cavalo
+itm_practice_sword|Espada de Treino
+itm_practice_sword_pl|Espada de Treino
+itm_heavy_practice_sword|Espada Pesada de Treino
+itm_heavy_practice_sword_pl|Espada Pesada de Treino
+itm_practice_dagger|Adaga de Treino
+itm_practice_dagger_pl|Adaga de Treino
+itm_practice_axe|Machado de Treino
+itm_practice_axe_pl|Machado de Treino
+itm_arena_axe|Machado
+itm_arena_axe_pl|Machado
+itm_arena_sword|Espada
+itm_arena_sword_pl|Espada
+itm_arena_sword_two_handed|Espada de Duas Mãos
+itm_arena_sword_two_handed_pl|Espada de Duas Mãos
+itm_arena_lance|Lança de Cavalaria
+itm_arena_lance_pl|Lança de Cavalaria
+itm_practice_staff|Bastão de Treino
+itm_practice_staff_pl|Bastão de Treino
+itm_practice_lance|Lança de Cavalaria de Treino
+itm_practice_lance_pl|Lança de Cavalaria de Treino
+itm_practice_shield|Escudo de Treino
+itm_practice_shield_pl|Escudo de Treino
+itm_practice_bow|Arco de Treino
+itm_practice_bow_pl|Arco de Treino
+itm_practice_crossbow|Besta de Treino
+itm_practice_crossbow_pl|Besta de Treino
+itm_practice_javelin|Javelins de Treino
+itm_practice_javelin_pl|Javelins de Treino
+itm_practice_javelin_melee|Javelin de Treino Corpo a Corpo
+itm_practice_javelin_melee_pl|Javelin de Treino Corpo a Corpo
+itm_practice_throwing_daggers|Adagas de Arremesso
+itm_practice_throwing_daggers_pl|Adagas de Arremesso
+itm_practice_throwing_daggers_100_amount|Adagas de Arremesso
+itm_practice_throwing_daggers_100_amount_pl|Adagas de Arremesso
+itm_practice_horse|Cavalo de Treino
+itm_practice_horse_pl|Cavalo de Treino
+itm_practice_arrows|Flechas de Treino
+itm_practice_arrows_pl|Flechas de Treino
+itm_practice_bolts|Dardos de Treino
+itm_practice_bolts_pl|Dardos de Treino
+itm_practice_arrows_10_amount|Flechas de Treino
+itm_practice_arrows_10_amount_pl|Flechas de Treino
+itm_practice_arrows_100_amount|Flechas de Treino
+itm_practice_arrows_100_amount_pl|Flechas de Treino
+itm_practice_bolts_9_amount|Dardos de Treino
+itm_practice_bolts_9_amount_pl|Dardos de Treino
+itm_practice_boots|Botas de Treino
+itm_practice_boots_pl|Botas de Treino
+itm_arena_shield_red|Escudo
+itm_arena_shield_red_pl|Escudo
+itm_arena_shield_blue|Escudo
+itm_arena_shield_blue_pl|Escudo
+itm_arena_shield_green|Escudo
+itm_arena_shield_green_pl|Escudo
+itm_arena_shield_yellow|Escudo
+itm_arena_shield_yellow_pl|Escudo
+itm_arena_armor_white|Armadura Branca da Arena
+itm_arena_armor_white_pl|Armadura Branca da Arena
+itm_arena_armor_red|Armadura Vermelha da Arena
+itm_arena_armor_red_pl|Armadura Vermelha da Arena
+itm_arena_armor_blue|Armadura Azul da Arena
+itm_arena_armor_blue_pl|Armadura Azul da Arena
+itm_arena_armor_green|Armadura Verde da Arena
+itm_arena_armor_green_pl|Armadura Verde da Arena
+itm_arena_armor_yellow|Armadura Amarela da Arena
+itm_arena_armor_yellow_pl|Armadura Amarela da Arena
+itm_arena_tunic_white|Túnica Desgastada
+itm_arena_tunic_white_pl|Túnica Desgastada
+itm_arena_tunic_red|Túnica Vermelha da Arena
+itm_arena_tunic_red_pl|Túnica Vermelha da Arena
+itm_arena_tunic_blue|Túnica Azul da Arena
+itm_arena_tunic_blue_pl|Túnica Azul da Arena
+itm_arena_tunic_green|Túnica Verde da Arena
+itm_arena_tunic_green_pl|Túnica Verde da Arena
+itm_arena_tunic_yellow|Túnica Amarela da Arena
+itm_arena_tunic_yellow_pl|Túnica Amarela da Arena
+itm_arena_helmet_red|Elmo Vermelho da Arena
+itm_arena_helmet_red_pl|Elmo Vermelho da Arena
+itm_arena_helmet_blue|Elmo Azul da Arena
+itm_arena_helmet_blue_pl|Elmo Azul da Arena
+itm_arena_helmet_green|Elmo Verde da Arena
+itm_arena_helmet_green_pl|Elmo Verde da Arena
+itm_arena_helmet_yellow|Elmo Amarelo da Arena
+itm_arena_helmet_yellow_pl|Elmo Amarelo da Arena
+itm_steppe_helmet_white|Elmo Branco da Estepe
+itm_steppe_helmet_white_pl|Elmo Branco da Estepe
+itm_steppe_helmet_red|Elmo Vermelho da Estepe
+itm_steppe_helmet_red_pl|Elmo Vermelho da Estepe
+itm_steppe_helmet_blue|Elmo Azul da Estepe
+itm_steppe_helmet_blue_pl|Elmo Azul da Estepe
+itm_steppe_helmet_green|Elmo Verde da Estepe
+itm_steppe_helmet_green_pl|Elmo Verde da Estepe
+itm_steppe_helmet_yellow|Elmo Amarelo da Estepe
+itm_steppe_helmet_yellow_pl|Elmo Amarelo da Estepe
+itm_tourney_helm_white|Elmo Branco de Torneios
+itm_tourney_helm_white_pl|Elmo Branco de Torneios
+itm_tourney_helm_red|Elmo Vermelho de Torneios
+itm_tourney_helm_red_pl|Elmo Vermelho de Torneios
+itm_tourney_helm_blue|Elmo Azul de Torneios
+itm_tourney_helm_blue_pl|Elmo Azul de Torneios
+itm_tourney_helm_green|Elmo Verde de Torneios
+itm_tourney_helm_green_pl|Elmo Verde de Torneios
+itm_tourney_helm_yellow|Elmo Amarelo de Torneios
+itm_tourney_helm_yellow_pl|Elmo Amarelo de Torneios
+itm_arena_turban_red|Turbante da Arena
+itm_arena_turban_red_pl|Turbante da Arena
+itm_arena_turban_blue|Turbante da Arena
+itm_arena_turban_blue_pl|Turbante da Arena
+itm_arena_turban_green|Turbante da Arena
+itm_arena_turban_green_pl|Turbante da Arena
+itm_arena_turban_yellow|Turbante da Arena
+itm_arena_turban_yellow_pl|Turbante da Arena
+itm_book_tactics|História das Guerras Roinares
+itm_book_tactics_pl|História das Guerras Roinares
+itm_book_persuasion|O Livro dos Livros Perdidos
+itm_book_persuasion_pl|O Livro dos Livros Perdidos
+itm_book_leadership|As Linhagens e Histórias das Grandes Casas dos Sete Reinos
+itm_book_leadership_pl|As Linhagens e Histórias das Grandes Casas dos Sete Reinos
+itm_book_intelligence|Anais do Centauro Negro
+itm_book_intelligence_pl|Anais do Centauro Negro
+itm_book_trade|O Compêndio Comercial de Westeros e Essos
+itm_book_trade_pl|O Compêndio Comercial de Westeros e Essos
+itm_book_weapon_mastery|A Conquista de Dorne
+itm_book_weapon_mastery_pl|A Conquista de Dorne
+itm_book_engineering|A História dos Grandes Cercos de Westeros
+itm_book_engineering_pl|A História dos Grandes Cercos de Westeros
+itm_book_wound_treatment_reference|Livro de Poções do Meistre
+itm_book_wound_treatment_reference_pl|Livro de Poções do Meistre
+itm_book_training_reference|Compêndio de Jade
+itm_book_training_reference_pl|Compêndio de Jace
+itm_book_surgery_reference|Uma Sinopse do Meistre
+itm_book_surgery_reference_pl|Uma Sinopse do Meistre
+itm_relic|Livro de Westeros da Antiguidade
+itm_relic_pl|Livro de Westeros da Antiguidade
+itm_spice|Especiarias
+itm_spice_pl|Especiarias
+itm_salt|Sal
+itm_salt_pl|Sal
+itm_oil|Óleo
+itm_oil_pl|Óleo
+itm_pottery|Cerâmica
+itm_pottery_pl|Cerâmica
+itm_raw_flax|Pacote de Linho
+itm_raw_flax_pl|Pacote de Linho
+itm_linen|Linho
+itm_linen_pl|Linho
+itm_wool|Lã
+itm_wool_pl|Lã
+itm_wool_cloth|Pano de Lã
+itm_wool_cloth_pl|Pano de Lã
+itm_raw_silk|Seda
+itm_raw_silk_pl|Seda
+itm_raw_dyes|Tinturas
+itm_raw_dyes_pl|Tinturas
+itm_velvet|Veludo
+itm_velvet_pl|Veludo
+itm_iron|Ferro
+itm_iron_pl|Ferro
+itm_stone|Pedra
+itm_stone_pl|Pedra
+itm_tools|Ferramentas
+itm_tools_pl|Ferramentas
+itm_raw_leather|Couro Curtido
+itm_raw_leather_pl|Couro Curtido
+itm_leatherwork|Couro
+itm_leatherwork_pl|Couro
+itm_timber|Madeira
+itm_timber_pl|Madeira
+itm_furs|Peles
+itm_furs_pl|Peles
+itm_wine|Vermelho Doce
+itm_wine_pl|Vermelho Doce
+itm_ale|Barril de Cerveja
+itm_ale_pl|Barril de Cerveja
+itm_mead|Barril de Hidromel
+itm_mead_pl|Barril de Hidromel
+itm_smoked_fish|Peixe Defumado
+itm_smoked_fish_pl|Peixe Defumado
+itm_cheese|Queijo
+itm_cheese_pl|Queijo
+itm_honey|Mel
+itm_honey_pl|Mel
+itm_sausages|Salsichas
+itm_sausages_pl|Salsichas
+itm_cabbages|Rebolhos
+itm_cabbages_pl|Rebolhos
+itm_dried_meat|Carne Seca
+itm_dried_meat_pl|Carne Seca
+itm_apples|Pessêgos e Maçãs
+itm_apples_pl|Pessêgos e Maçãs
+itm_raw_grapes|Uvas
+itm_raw_grapes_pl|Uvas
+itm_raw_olives|Azeitonas
+itm_raw_olives_pl|Azeitonas
+itm_grain|Saco de Grãos
+itm_grain_pl|Saco de Grãos
+itm_cattle_meat|Carne de Auroque
+itm_cattle_meat_pl|Carne de Auroque
+itm_bread|Pão
+itm_bread_pl|Pão
+itm_chicken|Frango
+itm_chicken_pl|Frango
+itm_pork|Porco
+itm_pork_pl|Porco
+itm_butter|Manteiga
+itm_butter_pl|Manteiga
+itm_deer_meat|Carne de Veado
+itm_deer_meat_pl|Carne de Veado
+itm_boar_meat|Carne de Javali
+itm_boar_meat_pl|Carne de Javali
+itm_wolf_meat|Carne de Lobo
+itm_wolf_meat_pl|Carne de Lobo
+itm_coat_meat|Carne de Cabra
+itm_coat_meat_pl|Carne de Cabra
+itm_coat_2_meat|Carne de Cabra
+itm_coat_2_meat_pl|Carne de Cabra
+itm_wilddonkey_meat|Carne de Burro
+itm_wilddonkey_meat_pl|Carne de Burro
+itm_human_meat|Carne Humana
+itm_human_meat_pl|Carne Humana
+itm_dog_meat|Carne de Cachorro
+itm_dog_meat_pl|Carne de Cachorro
+itm_siege_supply|Suprimentos
+itm_siege_supply_pl|Suprimentos
+itm_quest_wine|Vinho
+itm_quest_wine_pl|Vinho
+itm_quest_ale|Cerveja
+itm_quest_ale_pl|Cerveja
+itm_scroll|Scroll*
+itm_scroll_pl|Scroll
+itm_valyrian_rock|Aço Valiriano
+itm_valyrian_rock_pl|Aço Valiriano
+itm_valyrian_rock_fake|Rocha Peculiar
+itm_valyrian_rock_fake_pl|Rocha Peculiar
+itm_sumpter_horse|Pônei
+itm_sumpter_horse_pl|Pônei
+itm_normal_horse11|Corcel
+itm_normal_horse11_pl|Corcel
+itm_normal_horse12|Corcel
+itm_normal_horse12_pl|Corcel
+itm_normal_horse14|Corcel
+itm_normal_horse14_pl|Corcel
+itm_normal_horse22|Corcel
+itm_normal_horse22_pl|Corcel
+itm_normal_horse27|Corcel
+itm_normal_horse27_pl|Corcel
+itm_normal_horse24|Corcel
+itm_normal_horse24_pl|Corcel
+itm_normal_horse25|Corcel
+itm_normal_horse25_pl|Corcel
+itm_normal_horse26|Corcel
+itm_normal_horse26_pl|Corcel
+itm_arabian_horse_b|Rounsey
+itm_arabian_horse_b_pl|Rounsey
+itm_arabian_horse_b2|Rounsey
+itm_arabian_horse_b2_pl|Rounsey
+itm_arabian_horse_a3|Rounsey
+itm_arabian_horse_a3_pl|Rounsey
+itm_arabian_horse_b3|Rounsey
+itm_arabian_horse_b3_pl|Rounsey
+itm_arabian_horse_a4|Rounsey
+itm_arabian_horse_a4_pl|Rounsey
+itm_courser4|Rounsey
+itm_courser4_pl|Rounsey
+itm_arabian_horse_b4|Rounsey
+itm_arabian_horse_b4_pl|Rounsey
+itm_normal_horse18|Rounsey
+itm_normal_horse18_pl|Rounsey
+itm_normal_horse19|Rounsey
+itm_normal_horse19_pl|Rounsey
+itm_normal_horse23|Rounsey
+itm_normal_horse23_pl|Rounsey
+itm_normal_horse28|Rounsey
+itm_normal_horse28_pl|Rounsey
+itm_saddle_horse1|Cavalo Selado
+itm_saddle_horse1_pl|Cavalo Selado
+itm_saddle_horse2|Cavalo Selado
+itm_saddle_horse2_pl|Cavalo Selado
+itm_saddle_horse3|Cavalo Selado
+itm_saddle_horse3_pl|Cavalo Selado
+itm_saddle_horse4|Cavalo Selado
+itm_saddle_horse4_pl|Cavalo Selado
+itm_horse_light_a|Garanhão Dothraki
+itm_horse_light_a_pl|Garanhão Dothraki
+itm_horse_light_b|Garanhão Dothraki
+itm_horse_light_b_pl|Garanhão Dothraki
+itm_horse_light_c|Garanhão Dothraki
+itm_horse_light_c_pl|Garanhão Dothraki
+itm_wildling_horse|Garrano
+itm_wildling_horse_pl|Garrano
+itm_heavy_wildling_horsea|Garrano
+itm_heavy_wildling_horsea_pl|Garrano
+itm_heavy_wildling_horseb|Garrano
+itm_heavy_wildling_horseb_pl|Garrano
+itm_wildling_horse_heavy|Garrano
+itm_wildling_horse_heavy_pl|Garrano
+itm_dothraki_horse_a|Garanhão
+itm_dothraki_horse_a_pl|Garanhão
+itm_dothraki_horse_b|Garanhão
+itm_dothraki_horse_b_pl|Garanhão
+itm_khal_horse_a|Garanhão
+itm_khal_horse_a_pl|Garanhão
+itm_khal_horse_b|Garanhão
+itm_khal_horse_b_pl|Garanhão
+itm_e_saddle_horse1|Cavalo Selado
+itm_e_saddle_horse1_pl|Cavalo Selado
+itm_e_saddle_horse2|Cavalo Selado
+itm_e_saddle_horse2_pl|Cavalo Selado
+itm_e_saddle_horse3|Cavalo Selado
+itm_e_saddle_horse3_pl|Cavalo Selado
+itm_e_saddle_horse4|Cavalo Selado
+itm_e_saddle_horse4_pl|Cavalo Selado
+itm_e_saddle_horse5|Cavalo Selado
+itm_e_saddle_horse5_pl|Cavalo Selado
+itm_e_saddle_horse6|Cavalo Selado
+itm_e_saddle_horse6_pl|Cavalo Selado
+itm_e_saddle_horse7|Cavalo Selado
+itm_e_saddle_horse7_pl|Cavalo Selado
+itm_e_saddle_horse8|Cavalo Selado
+itm_e_saddle_horse8_pl|Cavalo Selado
+itm_essos_scout_1|Rounsey
+itm_essos_scout_1_pl|Rounsey
+itm_essos_scout_2|Camelo de Guerra
+itm_essos_scout_2_pl|Camelo de Guerra
+itm_sand_steed1|Corcel de Areia
+itm_sand_steed1_pl|Corcel de Areia
+itm_sand_steed2|Corcel de Areia
+itm_sand_steed2_pl|Corcel de Areia
+itm_sand_steed3|Corcel de Areia
+itm_sand_steed3_pl|Corcel de Areia
+itm_sand_steed4|Corcel de Areia
+itm_sand_steed4_pl|Corcel de Areia
+itm_sand_steed5|Corcel de Areia
+itm_sand_steed5_pl|Corcel de Areia
+itm_sand_steed6|Corcel de Areia
+itm_sand_steed6_pl|Corcel de Areia
+itm_sand_steed7|Corcel de Areia
+itm_sand_steed7_pl|Corcel de Areia
+itm_northerner_horse_black|Corcel de Batalha
+itm_northerner_horse_black_pl|Corcel de Batalha
+itm_northerner_horse_white|Corcel de Batalha
+itm_northerner_horse_white_pl|Corcel de Batalha
+itm_northerner_horse_hunter|Corcel de Batalha
+itm_northerner_horse_hunter_pl|Corcel de Batalha
+itm_warhorse1|Corcel de Batalha
+itm_warhorse1_pl|Corcel de Batalha
+itm_warhorse2|Corcel de Batalha
+itm_warhorse2_pl|Corcel de Batalha
+itm_warhorse3|Corcel de Batalha
+itm_warhorse3_pl|Corcel de Batalha
+itm_padded_red_horse|Corcel de Batalha Acolchoado
+itm_padded_red_horse_pl|Corcel de Batalha Acolchoado
+itm_padded_white_horse|Corcel de Batalha Acolchoado
+itm_padded_white_horse_pl|Corcel de Batalha Acolchoado
+itm_mail_red_horse|Corcel de Batalha com Malha
+itm_mail_red_horse_pl|Corcel de Batalha com Malha
+itm_mail_white_horse|Corcel de Batalha com Malha
+itm_mail_white_horse_pl|Corcel de Batalha com Malha
+itm_plated_horse|Corcel de Batalha com Placas
+itm_plated_horse_pl|Corcel de Batalha com Placas
+itm_reach_plated_horse|Corcel de Batalha com Placas
+itm_reach_plated_horse_pl|Corcel de Batalha com Placas
+itm_westerlands_plated_horse|Cavalo de Batalha com Placas
+itm_westerlands_plated_horse_pl|Cavalo de Batalha com Placas
+itm_donkey|Burro
+itm_donkey_pl|Burro
+itm_donkey_mount|Burro
+itm_donkey_mount_pl|Burro
+itm_scabby_donkey|Burro com Sarna
+itm_scabby_donkey_pl|Burro com Sarna
+itm_mule|Mula
+itm_mule_pl|Mula
+itm_camel1|Camelo
+itm_camel1_pl|Camelo
+itm_caravan_camel|Camelo de Carga
+itm_caravan_camel_pl|Camelos de Carga
+itm_cow1|Vaca
+itm_cow1_pl|Vaca
+itm_cow2|Vaca 
+itm_cow2_pl|Vaca
+itm_arrows|Flechas de Ponta Larga
+itm_arrows_pl|Flechas de Ponta Larga
+itm_obsidian_arrow|Flechas de Obsidiana
+itm_obsidian_arrow_pl|Flechas de Obsidiana
+itm_khergit_arrows|Flechas de Ponta Larga
+itm_khergit_arrows_pl|Flechas de Ponta Larga
+itm_handmade_arrows|Flechas de Ponta Larga Feitas à mão
+itm_handmade_arrows_pl|Flechas de Ponta Larga Feitas à mão
+itm_fire_arrows|Flechas de Fogo
+itm_fire_arrows_pl|Flechas de Fogo
+itm_bodkin_arrows|Flechas Perfurantes
+itm_bodkin_arrows_pl|Flechas Perfurantes
+itm_barbed_arrows|Flechas Farpadas
+itm_barbed_arrows_pl|Flechas Farpadas
+itm_bolts|Dardos
+itm_bolts_pl|Dardos
+itm_heavy_bolt|Dardos de Aço
+itm_heavy_bolt_pl|Dardos de Aço
+itm_pierced_heavy_bolt|Dardos de Aço
+itm_pierced_heavy_bolt_pl|Dardos de Aço
+itm_pilgrim_disguise|Trapos
+itm_pilgrim_disguise_pl|Trapos
+itm_pilgrim_hood|Capuz
+itm_pilgrim_hood_pl|Capuz
+itm_thin_leather_gloves|Luvas de Couro
+itm_thin_leather_gloves_pl|Luvas de Couro
+itm_leather_gloves|Manoplas de Couro
+itm_leather_gloves_pl|Manoplas de Couro
+itm_lordly_leather_gloves|Luvas de Couro
+itm_lordly_leather_gloves_pl|Luvas de Couro
+itm_leather_gloves_nw|Manoplas de Couro
+itm_leather_gloves_nw_pl|Manoplas de Couro
+itm_lannister_gloves|Luvas de Couro
+itm_lannister_gloves_pl|Luvas de Couro
+itm_wildling_gloves|Luvas de Pele
+itm_wildling_gloves_pl|Luvas de Pele
+itm_wildling_gloves_giant|Luvas de Pele
+itm_wildling_gloves_giant_pl|Luvas de Pele
+itm_white_walker_glove|Manoplas
+itm_white_walker_glove_pl|Manoplas
+itm_mail_mittens|Luvas de Malha
+itm_mail_mittens_pl|Luvas de Malha
+itm_westerlands_scale_mittens|Luvas em Escamas
+itm_westerlands_scale_mittens_pl|Luvas em Escamas
+itm_sand_snake_mittens|Luvas em Escamas
+itm_sand_snake_mittens_pl|Luvas em Escamas
+itm_goldcloak_gauntlets|Luvas em Escamas
+itm_goldcloak_gauntlets_pl|Luvas em Escamas
+itm_scale_mittens|Luvas em Escamas
+itm_scale_mittens_pl|Luvas em Escamas
+itm_plate_mittens|Manoplas de Placas
+itm_plate_mittens_pl|Manoplas de Placas
+itm_heavy_plate_mittens|Manoplas de Placas
+itm_heavy_plate_mittens_pl|Manoplas de Placas
+itm_wrapping_boots|Perneiras
+itm_wrapping_boots_pl|Perneiras
+itm_hide_boots|Botas de Pele
+itm_hide_boots_pl|Botas de Pele
+itm_wildling_boots|Botas de Pele
+itm_wildling_boots_pl|Botas de Pele
+itm_wildling_boots_giant|Botas de Pele Gigantes
+itm_wildling_boots_giant_pl|Botas de Pele Gigantes
+itm_boot_light_crusader_a|Botins
+itm_boot_light_crusader_a_pl|Botins
+itm_boot_light_crusader_b|Botins
+itm_boot_light_crusader_b_pl|Botins
+itm_woolen_hose_1|Calças de Lã
+itm_woolen_hose_1_pl|Calças de Lã
+itm_woolen_hose_2|Calças de Lã
+itm_woolen_hose_2_pl|Calças de Lã
+itm_hosen_blue|Calças
+itm_hosen_blue_pl|Calças
+itm_hosen_brown|Calças
+itm_hosen_brown_pl|Calças
+itm_hosen_grey|Calças
+itm_hosen_grey_pl|Calças
+itm_hosen_green|Calças
+itm_hosen_green_pl|Calças
+itm_hosen_red|Calças
+itm_hosen_red_pl|Calças
+itm_hosen_yellow|Calças
+itm_hosen_yellow_pl|Calças
+itm_hunter_boots|Botas de Caçador
+itm_hunter_boots_pl|Botas de Caçador
+itm_rus_shoes|Botins
+itm_rus_shoes_pl|Botins
+itm_rus_cav_boots|Botas de Couro
+itm_rus_cav_boots_pl|Botas de Couro
+itm_leather_boots_a|Botas de Couro Boiled
+itm_leather_boots_a_pl|Botas de Couro Boiled
+itm_leather_boots|Botas de Couro
+itm_leather_boots_pl|Botas de Couro
+itm_boot_average_crusader_a|Botas de Couro Boiled
+itm_boot_average_crusader_a_pl|Botas de Couro Boiled
+itm_boot_average_crusader_b|Botas de Couro Cravejado
+itm_boot_average_crusader_b_pl|Botas de Couro Cravejado
+itm_boot_light_crusader_d|Botins
+itm_boot_light_crusader_d_pl|Botins
+itm_saracin_light_boot_a|Botas de Pano
+itm_saracin_light_boot_a_pl|Botas de Pano
+itm_saracin_light_boot_b|Botas de Pano
+itm_saracin_light_boot_b_pl|Botas de Pano
+itm_saracin_medium_boot_a|Botas de Couro Boiled
+itm_saracin_medium_boot_a_pl|Botas de Couro Boiled
+itm_saracin_medium_boot_b|Botas de Couro Boiled
+itm_saracin_medium_boot_b_pl|Botas de Couro Boiled
+itm_sandals|Sandálias
+itm_sandals_pl|Sandálias
+itm_saracin_hard_boot_a|Botas de Couro Cravejado
+itm_saracin_hard_boot_a_pl|Botas de Couro Cravejado
+itm_civil_poor_boots_a|Sandálias
+itm_civil_poor_boots_a_pl|Sandálias
+itm_white_walker_boots|Botas
+itm_white_walker_boots_pl|Botas
+itm_dothraki_female_sandals|Sandálias
+itm_dothraki_female_sandals_pl|Sandálias
+itm_dothraki_female_boots|Botas de Couro
+itm_dothraki_female_boots_pl|Botas de Couro
+itm_dothraki_boots|Botas de Couro
+itm_dothraki_boots_pl|Botas de Couro
+itm_greyjoy_boots|Botas de Couro
+itm_greyjoy_boots_pl|Botas de Couro
+itm_greyjoy_heavy_boots|Botas de Couro Boiled
+itm_greyjoy_heavy_boots_pl|Botas de Couro Boiled
+itm_north_fur_boots|Botas de Pele
+itm_north_fur_boots_pl|Botas de Pele
+itm_stark_hanter_boot|Botas de Couro Boiled
+itm_stark_hanter_boot_pl|Botas de Couro Boiled
+itm_saracin_hard_boot_b|Botas de Couro Decorated 
+itm_saracin_hard_boot_b_pl|Botas de Couro Decorated
+itm_dorn_draftee_boot|Botas de Pano
+itm_dorn_draftee_boot_pl|Botas de Pano
+itm_dorn_footman_boots|Botas de Couro Boiled
+itm_dorn_footman_boots_pl|Botas de Couro Boiled
+itm_dorn_marksman_boots|Botas de Couro
+itm_dorn_marksman_boots_pl|Botas de Couro
+itm_dorn_skilled_huntsman_boots|Botas de Couro Boiled
+itm_dorn_skilled_huntsman_boots_pl|Botas de Couro Boiled
+itm_dorn_tracker_boots|Botas de Couro
+itm_dorn_tracker_boots_pl|Botas de Couro
+itm_dorn_levy_boot|Botas de Couro Boiled
+itm_dorn_levy_boot_pl|Botas de Couro Boiled
+itm_civil_rich_boots_a|Botas Acolchoadas
+itm_civil_rich_boots_a_pl|Botas Acolchoadas
+itm_unsullied_boots|Sandálias de Couro
+itm_unsullied_boots_pl|Sandálias de Couro
+itm_leng_boots|Botas de Couro Boiled
+itm_leng_boots_pl|Botas de Couro Boiled
+itm_gc_pants1a|Botas de Couro
+itm_gc_pants1a_pl|Botas de Couro
+itm_gc_pants1b|Botas de Couro
+itm_gc_pants1b_pl|Botas de Couro
+itm_gc_pants2a|Botas de Couro
+itm_gc_pants2a_pl|Botas de Couro
+itm_gc_pants2b|Botas de Couro
+itm_gc_pants2b_pl|Botas de Couro
+itm_mail_boots|Botas de Malha
+itm_mail_boots_pl|Botas de Malha
+itm_mail_boots_lord|Botas de Malha
+itm_mail_boots_lord_pl|Botas de Malha
+itm_mail_chausses|Calças de Malha
+itm_mail_chausses_pl|Calças de Malha
+itm_splint_greaves|Grevas
+itm_splint_greaves_pl|Grevas
+itm_steel_greaves2|Grevas de Aço
+itm_steel_greaves2_pl|Grevas de Aço
+itm_splinted_greaves_spurs|Grevas Lamelares
+itm_splinted_greaves_spurs_pl|Grevas Lamelares
+itm_shoes_crusader|Botas de Malha
+itm_shoes_crusader_pl|Botas de Malha
+itm_shoes_crusader_knight|Botas de Malha
+itm_shoes_crusader_knight_pl|Botas de Malha
+itm_goldcloak_boots|Botas de Placas e Malha
+itm_goldcloak_boots_pl|Botas de Placas e Malha
+itm_dorn_sand_snakes_boots|Grevas
+itm_dorn_sand_snakes_boots_pl|Grevas
+itm_dorn_viper_boot|Grevas
+itm_dorn_viper_boot_pl|Grevas
+itm_iron_greaves_a|Iron Grevas
+itm_iron_greaves_a_pl|Iron Grevas
+itm_plate_boots|Botas de Placas
+itm_plate_boots_pl|Botas de Placas
+itm_steel_greaves|Grevas de Aço
+itm_steel_greaves_pl|Grevas de Aço
+itm_plate_boots_non_civilian|Botas de Placas
+itm_plate_boots_non_civilian_pl|Botas de Placas
+itm_brogg_boots|Grevas de Aço
+itm_brogg_boots_pl|Grevas de Aço
+itm_reed_boots|Grevas de Aço
+itm_reed_boots_pl|Grevas de Aço
+itm_long_nomad_armor|Túnica Longa
+itm_long_nomad_armor_pl|Túnica Longa
+itm_long_khergit_armor|Túnica Longa
+itm_long_khergit_armor_pl|Túnica Longa
+itm_fur_coat1|Casaco de Peles
+itm_fur_coat1_pl|Casaco de Peles
+itm_blue_essos_clothing|Roupa de Pano
+itm_blue_essos_clothing_pl|Roupa de Pano
+itm_white_essos_clothing|Roupa de Pano
+itm_white_essos_clothing_pl|Roupa de Pano
+itm_orange_essos_clothing|Roupa de Pano
+itm_orange_essos_clothing_pl|Roupa de Pano
+itm_brown_essos_clothing|Roupa de Pano
+itm_brown_essos_clothing_pl|Roupa de Pano
+itm_white_wc_clothing|Roupa de Pano
+itm_white_wc_clothing_pl|Roupa de Pano
+itm_green_wc_clothing|Roupa de Pano
+itm_green_wc_clothing_pl|Roupa de Pano
+itm_brown_wc_clothing|Roupa de Pano
+itm_brown_wc_clothing_pl|Roupa de Pano
+itm_white_wc_clothing2|Roupa de Pano
+itm_white_wc_clothing2_pl|Roupa de Pano
+itm_green_essos_dress|Vestido de Pano
+itm_green_essos_dress_pl|Vestido de Pano
+itm_brown_essos_dress|Vestido de Pano
+itm_brown_essos_dress_pl|Vestido de Pano
+itm_d_brown_essos_dress|Vestido de Pano
+itm_d_brown_essos_dress_pl|Vestido de Pano
+itm_d_green_essos_dress|Vestido de Pano
+itm_d_green_essos_dress_pl|Vestido de Pano
+itm_blue_wc_dress|Vestido de Pano
+itm_blue_wc_dress_pl|Vestido de Pano
+itm_white_wc_dress|Vestido de Pano
+itm_white_wc_dress_pl|Vestido de Pano
+itm_green_wc_dress|Vestido de Pano
+itm_green_wc_dress_pl|Vestido de Pano
+itm_dorne_noble_a|Traje Nobre
+itm_dorne_noble_a_pl|Traje Nobre
+itm_dorne_noble_b|Traje Nobre
+itm_dorne_noble_b_pl|Traje Nobre
+itm_dorne_noble_c|Traje Nobre
+itm_dorne_noble_c_pl|Traje Nobre
+itm_dorne_noble_d|Traje Nobre
+itm_dorne_noble_d_pl|Traje Nobre
+itm_dorne_noble_e|Traje Nobre
+itm_dorne_noble_e_pl|Traje Nobre
+itm_worn_robe_red|Manto
+itm_worn_robe_red_pl|Manto
+itm_worn_robe_green|Manto
+itm_worn_robe_green_pl|Manto
+itm_worn_robe_blue|Manto
+itm_worn_robe_blue_pl|Manto
+itm_worn_robe_white|Manto
+itm_worn_robe_white_pl|Manto
+itm_stormlands_noble1|Traje Nobre
+itm_stormlands_noble1_pl|Traje Nobre
+itm_stormlands_noble2|Traje Nobre
+itm_stormlands_noble2_pl|Traje Nobre
+itm_stormlands_noble3|Traje Nobre
+itm_stormlands_noble3_pl|Traje Nobre
+itm_krag_noble1|Traje Nobre
+itm_krag_noble1_pl|Traje Nobre
+itm_krag_noble2|Traje Nobre
+itm_krag_noble2_pl|Traje Nobre
+itm_krag_noble3|Traje Nobre
+itm_krag_noble3_pl|Traje Nobre
+itm_krag_noble4|Traje Nobre
+itm_krag_noble4_pl|Traje Nobre
+itm_jacok_baelishtunic_1_black_fancy|Traje Nobre
+itm_jacok_baelishtunic_1_black_fancy_pl|Traje Nobre
+itm_jacok_baelishtunic_1_black_simple|Traje Nobre
+itm_jacok_baelishtunic_1_black_simple_pl|Traje Nobre
+itm_jacok_baelishtunic_2_black_simple|Traje Nobre
+itm_jacok_baelishtunic_2_black_simple_pl|Traje Nobre
+itm_jacok_baelishtunic_1_green_simple|Traje Nobre
+itm_jacok_baelishtunic_1_green_simple_pl|Traje Nobre
+itm_jacok_baelishtunic_1_red_simple|Traje Nobre
+itm_jacok_baelishtunic_1_red_simple_pl|Traje Nobre
+itm_jacok_lorastunic_1_leather_black|Traje Nobre
+itm_jacok_lorastunic_1_leather_black_pl|Traje Nobre
+itm_jacok_lorastunic_1_leather_brown|Traje Nobre
+itm_jacok_lorastunic_1_leather_brown_pl|Traje Nobre
+itm_jacok_lorastunic_2_tunic_black|Traje Nobre
+itm_jacok_lorastunic_2_tunic_black_pl|Traje Nobre
+itm_jacok_lorastunic_2_tunic_purple|Traje Nobre
+itm_jacok_lorastunic_2_tunic_purple_pl|Traje Nobre
+itm_tavern_keeper_red|Avental
+itm_tavern_keeper_red_pl|Avental
+itm_tavern_keeper|Avental
+itm_tavern_keeper_pl|Avental
+itm_surgeon_clothes|Túnica
+itm_surgeon_clothes_pl|Túnica
+itm_nobleman_surgeon|Túnica
+itm_nobleman_surgeon_pl|Túnica
+itm_dane_tunic1|Túnica
+itm_dane_tunic1_pl|Túnica
+itm_wessex_tunic1|Túnica de Lã
+itm_wessex_tunic1_pl|Túnica de Lã
+itm_pict_tunic5|Túnica de Lã 
+itm_pict_tunic5_pl|Túnica de Lã 
+itm_pict_tunic6|Túnica 
+itm_pict_tunic6_pl|Túnica 
+itm_pict_tunic7|Túnica 
+itm_pict_tunic7_pl|Túnica 
+itm_poor_mans_tunic|Túnica
+itm_poor_mans_tunic_pl|Túnica
+itm_poor_mans_tunic_2|Túnica
+itm_poor_mans_tunic_2_pl|Túnica
+itm_poor_mans_tunic_3|Túnica
+itm_poor_mans_tunic_3_pl|Túnica
+itm_shirtb|Túnica
+itm_shirtb_pl|Túnica
+itm_shirtc|Túnica
+itm_shirtc_pl|Túnica
+itm_shirtd|Túnica
+itm_shirtd_pl|Túnica
+itm_shirte|Túnica
+itm_shirte_pl|Túnica
+itm_armor_8|Túnica de Linho
+itm_armor_8_pl|Túnica de Linho
+itm_armor_9|Túnica de Linho
+itm_armor_9_pl|Túnica de Linho
+itm_peasant_g|Túnica de Pano
+itm_peasant_g_pl|Túnica de Pano
+itm_linen_tunic|Túnica de Linho
+itm_linen_tunic_pl|Túnica de Linho
+itm_linen_tunic2|Túnica de Linho
+itm_linen_tunic2_pl|Túnica de Linho
+itm_linen_tunic3|Túnica de Linho
+itm_linen_tunic3_pl|Túnica de Linho
+itm_rough_padded_leather|Túnica de Couro
+itm_rough_padded_leather_pl|Túnica de Couro
+itm_peasant_g_noble|Túnica de Pano
+itm_peasant_g_noble_pl|Túnica de Pano
+itm_upper_linen_tunic|Túnica de Linho
+itm_upper_linen_tunic_pl|Túnica de Linho
+itm_upper_linen_tunic2|Túnica de Linho
+itm_upper_linen_tunic2_pl|Túnica de Linho
+itm_upper_linen_tunic3|Túnica de Linho
+itm_upper_linen_tunic3_pl|Túnica de Linho
+itm_red_tunic|Túnica
+itm_red_tunic_pl|Túnica
+itm_green_tunic|Túnica
+itm_green_tunic_pl|Túnica
+itm_blue_tunic|Túnica
+itm_blue_tunic_pl|Túnica
+itm_leather_elite_roman_helm_a|Túnica
+itm_leather_elite_roman_helm_a_pl|Túnica
+itm_woolen_hood|Túnica
+itm_woolen_hood_pl|Túnica
+itm_farming_clothes_a|Túnica de Agricultor
+itm_farming_clothes_a_pl|Túnica de Agricultor
+itm_farming_clothes_b|Túnica de Agricultor
+itm_farming_clothes_b_pl|Túnica de Agricultor
+itm_farming_clothes_c|Túnica de Agricultor
+itm_farming_clothes_c_pl|Túnica de Agricultor
+itm_peasant_man_c|Túnica de Agricultor
+itm_peasant_man_c_pl|Túnica de Agricultor
+itm_peasant_man_d|Túnica de Agricultor
+itm_peasant_man_d_pl|Túnica de Agricultor
+itm_peasant_man_e|Túnica de Agricultor
+itm_peasant_man_e_pl|Túnica de Agricultor
+itm_peasant_man_f|Túnica de Agricultor
+itm_peasant_man_f_pl|Túnica de Agricultor
+itm_farming_clothes_d|Túnica de Agricultor
+itm_farming_clothes_d_pl|Túnica de Agricultor
+itm_tunic_with_green_cape|Túnica
+itm_tunic_with_green_cape_pl|Túnica
+itm_vae_thick_coat1|Casaco de Pele
+itm_vae_thick_coat1_pl|Casaco de Pele
+itm_vae_thick_coat2|Casaco de Pele
+itm_vae_thick_coat2_pl|Casaco de Pele
+itm_vae_thick_coat3|Casaco de Pele
+itm_vae_thick_coat3_pl|Casaco de Pele
+itm_vae_thick_coat6|Casaco de Pele
+itm_vae_thick_coat6_pl|Casaco de Pele
+itm_vae_thick_coat10|Casaco de Pele
+itm_vae_thick_coat10_pl|Casaco de Pele
+itm_merchant_white|Túnica de Mercador
+itm_merchant_white_pl|Túnica de Mercador
+itm_merchant_red|Túnica de Mercador
+itm_merchant_red_pl|Túnica de Mercador
+itm_merchant_green|Túnica de Mercador
+itm_merchant_green_pl|Túnica de Mercador
+itm_merchant_brown|Túnica de Mercador 
+itm_merchant_brown_pl|Túnica de Mercador 
+itm_merchant_yellow|Túnica de Mercador
+itm_merchant_yellow_pl|Túnica de Mercador
+itm_merchant_blue|Túnica de Mercador
+itm_merchant_blue_pl|Túnica de Mercador
+itm_merchant_poor|Túnica de Mercador
+itm_merchant_poor_pl|Túnica de Mercador
+itm_leather_apron|Avental de Couro
+itm_leather_apron_pl|Avental de Couro
+itm_nomad_vest|Veste Nômade
+itm_nomad_vest_pl|Veste Nômade
+itm_leather_jacket|Jaqueta de Couro
+itm_leather_jacket_pl|Jaqueta de Couro
+itm_ironborn_noble_cloth1|Túnica de Pano
+itm_ironborn_noble_cloth1_pl|Túnica de Pano
+itm_ironborn_noble_cloth2|Túnica de Pano
+itm_ironborn_noble_cloth2_pl|Túnica de Pano
+itm_ironborn_noble_cloth3|Túnica de Pano
+itm_ironborn_noble_cloth3_pl|Túnica de Pano
+itm_ironborn_noble_cloth4|Túnica de Pano
+itm_ironborn_noble_cloth4_pl|Túnica de Pano
+itm_ironborn_noble_cloth5|Túnica de Pano
+itm_ironborn_noble_cloth5_pl|Túnica de Pano
+itm_shirt_blu|Túnica
+itm_shirt_blu_pl|Túnica
+itm_shirt_grn|Túnica
+itm_shirt_grn_pl|Túnica
+itm_shirt_ylw|Túnica
+itm_shirt_ylw_pl|Túnica
+itm_shirt_tel|Túnica
+itm_shirt_tel_pl|Túnica
+itm_shirt_blk|Túnica
+itm_shirt_blk_pl|Túnica
+itm_shirt_red|Túnica
+itm_shirt_red_pl|Túnica
+itm_fattiglinenskjortir|Camisa
+itm_fattiglinenskjortir_pl|Camisa
+itm_mercia_tunic1|Túnica
+itm_mercia_tunic1_pl|Túnica
+itm_blue_linen_tunic|Túnica Curta
+itm_blue_linen_tunic_pl|Túnica Curta
+itm_wessex_tunic3|Túnica
+itm_wessex_tunic3_pl|Túnica
+itm_bl_tunicsleather|Túnica
+itm_bl_tunicsleather_pl|Túnica
+itm_bl_tunicsleather_3|Túnica
+itm_bl_tunicsleather_3_pl|Túnica
+itm_bluevikingshirt|Camisa
+itm_bluevikingshirt_pl|Camisa
+itm_redvikingshirt|Linen Camisa
+itm_redvikingshirt_pl|Linen Camisa
+itm_blue_linen_tunic2|Túnica de Linho
+itm_blue_linen_tunic2_pl|Túnica de Linho
+itm_mercia_tunic10|Túnica de Linho
+itm_mercia_tunic10_pl|Túnica de Linho
+itm_wessex_tunic4|Túnica de Linho
+itm_wessex_tunic4_pl|Túnica de Linho
+itm_nobleman_outfit|Traje de Nobre
+itm_nobleman_outfit_pl|Traje de Nobre
+itm_clansmen_cloth_1|Traje de Nobre
+itm_clansmen_cloth_1_pl|Traje de Nobre
+itm_clansmen_cloth_2|Traje de Nobre
+itm_clansmen_cloth_2_pl|Traje de Nobre
+itm_wildling_noble|Jaqueta de Pele
+itm_wildling_noble_pl|Jaqueta de Pele
+itm_vae_tunica_larga5|Camisa Comprida
+itm_vae_tunica_larga5_pl|Camisa Comprida
+itm_vae_tunica_larga1|Camisa Comprida
+itm_vae_tunica_larga1_pl|Camisa Comprida
+itm_vae_tunica_larga2|Camisa Comprida
+itm_vae_tunica_larga2_pl|Camisa Comprida
+itm_vae_tunica_larga3|Camisa Comprida
+itm_vae_tunica_larga3_pl|Camisa Comprida
+itm_vae_tunica_larga4|Camisa Comprida
+itm_vae_tunica_larga4_pl|Camisa Comprida
+itm_vae_tunica_larga7|Camisa Comprida
+itm_vae_tunica_larga7_pl|Camisa Comprida
+itm_vae_tunica_larga8|Camisa Comprida
+itm_vae_tunica_larga8_pl|Camisa Comprida
+itm_vae_tunica_larga6|Camisa Comprida
+itm_vae_tunica_larga6_pl|Camisa Comprida
+itm_dothraki_female_a|Vestido
+itm_dothraki_female_a_pl|Vestido
+itm_dothraki_female_b|Vestido
+itm_dothraki_female_b_pl|Vestido
+itm_dothraki_female_c|Vestido
+itm_dothraki_female_c_pl|Vestido
+itm_dothraki_female_d|Vestido
+itm_dothraki_female_d_pl|Vestido
+itm_briton_dress_b|Vestido
+itm_briton_dress_b_pl|Vestido
+itm_briton_dress_c|Vestido de Lã
+itm_briton_dress_c_pl|Vestido de Lã
+itm_briton_dress_e|Vestido
+itm_briton_dress_e_pl|Vestido
+itm_woolen_dress|Vestido de Lã
+itm_woolen_dress_pl|Vestido de Lã
+itm_peasant_dress_b_new|Vestido Feminino
+itm_peasant_dress_b_new_pl|Vestido Feminino
+itm_pros_body|Corpo
+itm_pros_body_pl|Corpo
+itm_red_dress|Vestido
+itm_red_dress_pl|Vestido
+itm_brown_dress|Vestido
+itm_brown_dress_pl|Vestido
+itm_green_dress|Vestido
+itm_green_dress_pl|Vestido
+itm_khergit_lady_dress|Vestido
+itm_khergit_lady_dress_pl|Vestido
+itm_khergit_lady_dress_b|Vestido de Couro
+itm_khergit_lady_dress_b_pl|Vestido de Couro
+itm_sarranid_lady_dress|Vestido
+itm_sarranid_lady_dress_pl|Vestido
+itm_sarranid_lady_dress_b|Vestido
+itm_sarranid_lady_dress_b_pl|Vestido
+itm_sarranid_lady_dress_c|Vestido
+itm_sarranid_lady_dress_c_pl|Vestido
+itm_sarranid_common_dress|Vestido
+itm_sarranid_common_dress_pl|Vestido
+itm_sarranid_common_dress_b|Vestido
+itm_sarranid_common_dress_b_pl|Vestido
+itm_coloured_robe|Manto
+itm_coloured_robe_pl|Manto
+itm_coloured_robe2|Manto
+itm_coloured_robe2_pl|Manto
+itm_westerland_noble_dress|Vestido
+itm_westerland_noble_dress_pl|Vestido
+itm_green_noble_dress|Vestido
+itm_green_noble_dress_pl|Vestido
+itm_black_noble_dress|Vestido
+itm_black_noble_dress_pl|Vestido
+itm_red_general_dress|Vestido
+itm_red_general_dress_pl|Vestido
+itm_blue_general_dress|Vestido
+itm_blue_general_dress_pl|Vestido
+itm_blue_dress_new|Vestido
+itm_blue_dress_new_pl|Vestido
+itm_westerland_style_1|Vestido
+itm_westerland_style_1_pl|Vestido
+itm_westerland_style_2|Vestido
+itm_westerland_style_2_pl|Vestido
+itm_westerland_style_3|Vestido
+itm_westerland_style_3_pl|Vestido
+itm_reach_1|Vestido
+itm_reach_1_pl|Vestido
+itm_vale_1|Vestido
+itm_vale_1_pl|Vestido
+itm_vale_2|Vestido
+itm_vale_2_pl|Vestido
+itm_north_1|Vestido
+itm_north_1_pl|Vestido
+itm_north_common|Vestido
+itm_north_common_pl|Vestido
+itm_riverlands_common|Vestido
+itm_riverlands_common_pl|Vestido
+itm_missandei|Vestido
+itm_missandei_pl|Vestido
+itm_tavern_common|Vestido
+itm_tavern_common_pl|Vestido
+itm_priest_robe|Manto de Monge
+itm_priest_robe_pl|Manto de Monge
+itm_red_priest_robe|Manto de Sacerdote Vermelho
+itm_red_priest_robe_pl|Manto de Sacerdote Vermelho
+itm_bishop_robes|Manto de Bispo
+itm_bishop_robes_pl|Manto de Bispo
+itm_septon_robes|Manto de Septão
+itm_septon_robes_pl|Manto de Septão
+itm_drowned_man_robe|Trapos de Homem Afogado
+itm_drowned_man_robe_pl|Trapos de Homem Afogado
+itm_maester_robe|Manto de Meistre
+itm_maester_robe_pl|Manto de Meistre
+itm_aemon_robes|Manto de Aemon
+itm_aemon_robes_pl|Manto de Aemon
+itm_kindly_man_robe|Manto
+itm_kindly_man_robe_pl|Manto
+itm_old_robes|Manto
+itm_old_robes_pl|Manto
+itm_old_robes2|Manto
+itm_old_robes2_pl|Manto
+itm_dothraki_armour_nomad|Calças Nômade
+itm_dothraki_armour_nomad_pl|Calças Nômade
+itm_dothraki_armour_warrior|Calças Nômade
+itm_dothraki_armour_warrior_pl|Calças Nômades
+itm_dothraki_armour_warrior_b|Couro Dothraki
+itm_dothraki_armour_warrior_b_pl|Couro Dothraki
+itm_dothraki_armour_blood_rider|Couro Dothraki
+itm_dothraki_armour_blood_rider_pl|Couro Dothraki
+itm_dothraki_armour_blood_rider_b|Couro Dothraki
+itm_dothraki_armour_blood_rider_b_pl|Couro Dothraki
+itm_dothraki_armour_blood_rider_b2|Couro Dothraki
+itm_dothraki_armour_blood_rider_b2_pl|Couro Dothraki
+itm_dothraki_armour_khal_generic|Couro Dothraki
+itm_dothraki_armour_khal_generic_pl|Couro Dothraki
+itm_dothraki_armour_khal_drogo|Couro Dothraki
+itm_dothraki_armour_khal_drogo_pl|Couro Dothraki
+itm_northern_noble_jerkin|Gibão de Couro
+itm_northern_noble_jerkin_pl|Gibão de Couro
+itm_north_light_1_noble|Gibão de Couro
+itm_north_light_1_noble_pl|Gibão de Couro
+itm_northern_noble_jerkin_with_cloak|Gibão de Couro
+itm_northern_noble_jerkin_with_cloak_pl|Gibão de Couro
+itm_westerland_overcoat|Sobretudo Lannister
+itm_westerland_overcoat_pl|Sobretudo Lannister
+itm_ragged_leather_jerkin|Gibão de Couro
+itm_ragged_leather_jerkin_pl|Gibão de Couro
+itm_westerland_noble|Gibão de Couro
+itm_westerland_noble_pl|Gibão de Couro
+itm_lannister_overcoat|Sobretudo Lannister
+itm_lannister_overcoat_pl|Sobretudo Lannister
+itm_lannister_noble|Couro Leve
+itm_lannister_noble_pl|Couro Leve
+itm_lannister_noble_jerkin|Gibão Nobre
+itm_lannister_noble_jerkin_pl|Gibão Nobre
+itm_dorne_armour_light|Manto
+itm_dorne_armour_light_pl|Manto
+itm_dorne_light_elite|Manto
+itm_dorne_light_elite_pl|Manto
+itm_dorne_noble|Manto
+itm_dorne_noble_pl|Manto
+itm_stormland_light|Jaqueta Acolchoada
+itm_stormland_light_pl|Jaqueta Acolchoada
+itm_baratheon_light|Couro Leve
+itm_baratheon_light_pl|Couro Leve
+itm_krag_reach_gambeson_short|Jaquetão
+itm_krag_reach_gambeson_short_pl|Jaquetão
+itm_vale_gambeson_short|Jaquetão
+itm_vale_gambeson_short_pl|Jaquetão
+itm_vale_gambeson_long|Jaquetão
+itm_vale_gambeson_long_pl|Jaquetão
+itm_krag_vale_gambeson_short_noble|Jaquetão
+itm_krag_vale_gambeson_short_noble_pl|Jaquetão
+itm_long_padded_jacket|Jaqueta Acolchoada
+itm_long_padded_jacket_pl|Jaqueta Acolchoada
+itm_long_padded_jacket1|PaddedJaqueta Acolchoada
+itm_long_padded_jacket1_pl|Jaqueta Acolchoada
+itm_ironborn_ranged|Couro Greyjoy
+itm_ironborn_ranged_pl|Couro Greyjoy
+itm_ironborn_light_footman|Couro Greyjoy
+itm_ironborn_light_footman_pl|Couro Greyjoy
+itm_taureg_armor|Armadura de Linho
+itm_taureg_armor_pl|Armadura de Linho
+itm_taureg_blue_armor|Armadura de Linho
+itm_taureg_blue_armor_pl|Armadura de Linho
+itm_taureg_gold_armor|Armadura de Linho
+itm_taureg_gold_armor_pl|Armadura de Linho
+itm_light_leather|Couro Leve
+itm_light_leather_pl|Couro Leve
+itm_normal_light_leather|Couro Leve
+itm_normal_light_leather_pl|Couro Leve
+itm_green_leather|Jaqueta de Couro
+itm_green_leather_pl|Jaqueta de Couro
+itm_brown_noble_leather|Tecido de Couro
+itm_brown_noble_leather_pl|Tecido de Couro
+itm_baelish_jacket|Jaqueta de Couro
+itm_baelish_jacket_pl|Jaqueta de Couro
+itm_normal_light_leather_noble|Couro Leve
+itm_normal_light_leather_noble_pl|Couro Leve
+itm_nomad_armor|Armadura Nômade
+itm_nomad_armor_pl|Armadura Nômade
+itm_khergit_armor|Armadura Nômade
+itm_khergit_armor_pl|Armadura Nômade
+itm_merc_padded|Jaqueta Acolchoada
+itm_merc_padded_pl|Jaqueta Acolchoada
+itm_padded_cloth2|Jaquetão Acolchoado
+itm_padded_cloth2_pl|Jaquetão Acolchoado
+itm_aketon|Armadura Acolchoada
+itm_aketon_pl|Armadura Acolchoada
+itm_padded_jacket|Jaqueta Acolchoada
+itm_padded_jacket_pl|Jaqueta Acolchoada
+itm_padded_jacket1|Jaqueta Acolchoada
+itm_padded_jacket1_pl|Jaqueta Acolchoada
+itm_forester|Jaqueta Acolchoada
+itm_forester_pl|Jaqueta Acolchoada
+itm_leather_armor|Armadura de Couro
+itm_leather_armor_pl|Armadura de Couro
+itm_white_walker_armor_a|Armadura
+itm_white_walker_armor_a_pl|Armadura
+itm_white_walker_armor_b|Armadura
+itm_white_walker_armor_b_pl|Armadura
+itm_clansmen_leather_1|Tecido de Couro
+itm_clansmen_leather_1_pl|Tecido de Couro
+itm_clansmen_leather_2|Tecido de Couro
+itm_clansmen_leather_2_pl|Tecido de Couro
+itm_lamellar_vest|Casaco Acolchoado em Escamas
+itm_lamellar_vest_pl|Casaco Acolchoado em Escamas
+itm_aketon_kneecops|Armadura de Placas Acolchoada
+itm_aketon_kneecops_pl|Armadura de Placas Acolchoada
+itm_pelt_coat|Casacp de Pele
+itm_pelt_coat_pl|Casacp de Pele
+itm_pelt_coat2|Casacp de Pele
+itm_pelt_coat2_pl|Casacp de Pele
+itm_wildling_armour_1|Casaco de Pele Bruta
+itm_wildling_armour_1_pl|Casaco de Pele Bruta
+itm_wildling_armour_2|Casaco de Pele Bruta
+itm_wildling_armour_2_pl|Casaco de Pele Bruta
+itm_wildling_armour_3|Casaco de Pele Bruta
+itm_wildling_armour_3_pl|Casaco de Pele Bruta
+itm_wildling_armour_4|Casaco de Pele Bruta
+itm_wildling_armour_4_pl|Casaco de Pele Bruta
+itm_wildling_armour_5|Casaco de Pele Bruta
+itm_wildling_armour_5_pl|Casaco de Pele Bruta
+itm_krag_dany_dress|Vestido Nascido da Tormenta
+itm_krag_dany_dress_pl|Vestido Nascido da Tormenta
+itm_greyjoy_leather|Couro
+itm_greyjoy_leather_pl|Couro
+itm_greyjoy_boiled_leather|Couro Fervido
+itm_greyjoy_boiled_leather_pl|Couro Fervido
+itm_tyrell_gamebeson_1|Jaquetão da Campina
+itm_tyrell_gamebeson_1_pl|Jaquetão da Campina
+itm_tyrell_gambeson_2|Jaquetão da Campina
+itm_tyrell_gambeson_2_pl|Jaquetão da Campina
+itm_krag_tully_scale|Escamas Leves Tully
+itm_krag_tully_scale_pl|Escamas Leves Tully
+itm_riverlands_light_k|Couro das Terras Fluviais
+itm_riverlands_light_k_pl|Couro das Terras Fluviais
+itm_riverlands_standard|Couro das Terras Fluviais
+itm_riverlands_standard_pl|Couro das Terras Fluviais
+itm_riverlands_light|Couro das Terras Fluviais
+itm_riverlands_light_pl|Couro das Terras Fluviais
+itm_riverlands_light1|Couro das Terras Fluviais
+itm_riverlands_light1_pl|Couro das Terras Fluviais
+itm_riverlands_medium|Couro das Terras Fluviais
+itm_riverlands_medium_pl|Couro das Terras Fluviais
+itm_north_stark_standard|Couro Acolchoado
+itm_north_stark_standard_pl|Couro Acolchoado
+itm_north_archer|Arqueiro Nortenho
+itm_north_archer_pl|Arqueiro Nortenho
+itm_north_archer_cloaked|Arqueiro Nortenho
+itm_north_archer_cloaked_pl|Arqueiro Nortenho
+itm_north_hunter|Caçador Nortenho
+itm_north_hunter_pl|Caçador Nortenho
+itm_north_infantry|Couro Nortenho
+itm_north_infantry_pl|Couro Nortenho
+itm_north_infantry_non_civilian|Couro Fervido Nortenho
+itm_north_infantry_non_civilian_pl|Couro Fervido Nortenho
+itm_north_infantry_noble|Couro Fervido Nortenho
+itm_north_infantry_noble_pl|Couro Fervido Nortenho
+itm_north_infantry1|Couro Fervido Nortenho
+itm_north_infantry1_pl|Couro Fervido Nortenho
+itm_north_elite_hunter|Couro de Caça Nortenho
+itm_north_elite_hunter_pl|Couro de Caça Nortenho
+itm_north_cav|Couro Fervido Nortenho
+itm_north_cav_pl|Couro Fervido Nortenho
+itm_westerland_light|Armadura de Couro
+itm_westerland_light_pl|Armadura de Couro
+itm_nightswatch_a|Couro da Patrulha da Noite
+itm_nightswatch_a_pl|Couro da Patrulha da Noite
+itm_nightswatch_b|Couro da Patrulha da Noite
+itm_nightswatch_b_pl|Couro da Patrulha da Noite
+itm_dragonstone_noble|Armadura Acolchoada
+itm_dragonstone_noble_pl|Armadura Acolchoada
+itm_dragonstone_padded|Armadura Acolchoada
+itm_dragonstone_padded_pl|Armadura Acolchoada
+itm_dragonstone_regular|Armadura Acolchoada
+itm_dragonstone_regular_pl|Armadura Acolchoada
+itm_stormland_medium|Jaquetão Acolchoado
+itm_stormland_medium_pl|Jaquetão Acolchoado
+itm_targ_archer_padded|Jaqueta Acolchoada
+itm_targ_archer_padded_pl|Jaqueta Acolchoada
+itm_targ_inf_padded_black|Jaquetão em Escamas do Dragão
+itm_targ_inf_padded_black_pl|Jaquetão em Escamas do Dragão
+itm_targ_inf_padded_gray|Jaquetão em Escamas do Dragão
+itm_targ_inf_padded_gray_pl|Jaquetão em Escamas do Dragão
+itm_targ_inf_padded_red|Jaquetão em Escamas do Dragão
+itm_targ_inf_padded_red_pl|Jaquetão em Escamas do Dragão
+itm_targ_leather|Couro
+itm_targ_leather_pl|Couro
+itm_idi_furjacket1|Jaqueta de Peles
+itm_idi_furjacket1_pl|Jaqueta de Peles
+itm_idi_furjacket2|Jaqueta de Peles
+itm_idi_furjacket2_pl|Jaqueta de Peles
+itm_idi_furjacket3|Jaqueta de Peles
+itm_idi_furjacket3_pl|Jaqueta de Peles
+itm_idi_furjacket4|Jaqueta de Peles
+itm_idi_furjacket4_pl|Jaqueta de Peles
+itm_gatheredcloaks1|Manto
+itm_gatheredcloaks1_pl|Manto
+itm_gatheredcloaks2|Manto
+itm_gatheredcloaks2_pl|Manto
+itm_gatheredcloaks3|Manto
+itm_gatheredcloaks3_pl|Manto
+itm_merchant_robe|Manto Nobre
+itm_merchant_robe_pl|Manto Nobre
+itm_dorne_elite|Manto Pesado
+itm_dorne_elite_pl|Manto Pesado
+itm_dorne_low_elite|Manto de Couro
+itm_dorne_low_elite_pl|Manto de Couro
+itm_dorne_armour_areo|Malha Dornesa
+itm_dorne_armour_areo_pl|Malha Dornesa
+itm_dorne_armour_medium|Malha Dornesa
+itm_dorne_armour_medium_pl|Malha Dornesa
+itm_dorne_armour_heavy|Armadura de Placas Dornesa
+itm_dorne_armour_heavy_pl|Armadura de Placas Dornesa
+itm_dorn_sand_snakes_armor|Armadura Dornesa
+itm_dorn_sand_snakes_armor_pl|Armadura Dornesa
+itm_clansman_fur_armour_1|Armadura de Pele dos Clãs
+itm_clansman_fur_armour_1_pl|Armadura de Pele dos Clãs
+itm_clansman_fur_armour_2|Armadura de Pele dos Clãs
+itm_clansman_fur_armour_2_pl|Armadura de Pele dos Clãs
+itm_clansman_lamellar_1|Lamelar dos Clãs
+itm_clansman_lamellar_1_pl|Lamelar dos Clãs
+itm_clansman_lamellar_2|Lamelar dos Clãs
+itm_clansman_lamellar_2_pl|Lamelar dos Clãs
+itm_vale_light|Cota de Malha do Vale
+itm_vale_light_pl|Cota de Malha do Vale
+itm_vale_bowman|Cota de Malha do Vale
+itm_vale_bowman_pl|Cota de Malha do Vale
+itm_metal_scale_vest|Armadura em Escamas
+itm_metal_scale_vest_pl|Armadura em Escamas
+itm_metal_scale_vest_cloak|Armadura em Escamas
+itm_metal_scale_vest_cloak_pl|Armadura em Escamas
+itm_nord_scale_hauberk|Hauberk em Escamas
+itm_nord_scale_hauberk_pl|Hauberk em Escamas
+itm_nord_scale_hauberk_cloak|Hauberk em Escamas
+itm_nord_scale_hauberk_cloak_pl|Hauberk em Escamas
+itm_macle_shirt|Hauberk em Escamas
+itm_macle_shirt_pl|Hauberk em Escamas
+itm_macle_shirt_cloak|Hauberk em Escamas
+itm_macle_shirt_cloak_pl|Hauberk em Escamas
+itm_baratheon_militia|Couro Miliciano
+itm_baratheon_militia_pl|Couro Miliciano
+itm_robert_armor|Sobretudo Baratheon
+itm_robert_armor_pl|Sobretudo Baratheon
+itm_stormland_medium2|Jaquetão Acolchoado
+itm_stormland_medium2_pl|Jaquetão Acolchoado
+itm_renly_armour|Sobretudo das Terras da Tempestade
+itm_renly_armour_pl|Sobretudo das Terras da Tempestade
+itm_renly_armour_plain|Sobretudo das Terras da Tempestade
+itm_renly_armour_plain_pl|Sobretudo das Terras da Tempestade
+itm_renly_elite|Sobretudo das Terras da Tempestade
+itm_renly_elite_pl|Sobretudo das Terras da Tempestade
+itm_stormlands_noble|Gibão de Couro
+itm_stormlands_noble_pl|Gibão de Couro
+itm_stormlands_noble1_armour|Armadura Nobre
+itm_stormlands_noble1_armour_pl|Armadura Nobre
+itm_stormlands_noble2_armour|Armadura Nobre
+itm_stormlands_noble2_armour_pl|Armadura Nobre
+itm_stormlands_noble3_armour|Armadura Nobre
+itm_stormlands_noble3_armour_pl|Armadura Nobre
+itm_obsidian_troop_1|Placas de Couro
+itm_obsidian_troop_1_pl|Placas de Couro
+itm_obsidian_troop_2|Placas de Couro
+itm_obsidian_troop_2_pl|Placas de Couro
+itm_obsidian_troop_3|Placas de Couro
+itm_obsidian_troop_3_pl|Placas de Couro
+itm_stannis_armour|Placas Stannis
+itm_stannis_armour_pl|Placas Stannis
+itm_dragonstone_chain|Cota de Malha Acolchoada
+itm_dragonstone_chain_pl|Cota de Malha Acolchoada
+itm_dragonstone_medium_1|Armadura de Placas Acolchoada
+itm_dragonstone_medium_1_pl|Armadura de Placas Acolchoada
+itm_dragonstone_medium_3|Armadura de Placas Acolchoada
+itm_dragonstone_medium_3_pl|Armadura de Placas Acolchoada
+itm_dragonstone_medium_2|Armadura Acolchoada
+itm_dragonstone_medium_2_pl|Armadura Acolchoada
+itm_seaworth_chain|Armadura Acolchoada
+itm_seaworth_chain_pl|Armadura Acolchoada
+itm_nightswatch_c|Brigantina da Patrulha da Noite
+itm_nightswatch_c_pl|Brigantina da Patrulha da Noite
+itm_nightswatch_d|Loriga da Patrulha da Noite
+itm_nightswatch_d_pl|Loriga da Patrulha da Noite
+itm_nightswatch_d_cloaked|Loriga da Patrulha da Noite
+itm_nightswatch_d_cloaked_pl|Loriga da Patrulha da Noite
+itm_westerland_medium|Couro Fervido
+itm_westerland_medium_pl|Couro Fervido
+itm_westerlands_medium_standard|Armadura Lannister
+itm_westerlands_medium_standard_pl|Armadura Lannister
+itm_lannister_lord|Armadura Nobre Lannister
+itm_lannister_lord_pl|Armadura Nobre Lannister
+itm_north_lordguard|Cota de Malha Nortenha
+itm_north_lordguard_pl|Cota de Malha Nortenha
+itm_north_heavycav|Couro Fervido Nortenho
+itm_north_heavycav_pl|Couro Fervido Nortenho
+itm_north_stark_knight|Armadura Pesada Stark
+itm_north_stark_knight_pl|Armadura Pesada Stark
+itm_north_stark_captain|Malha e Couro
+itm_north_stark_captain_pl|Malha e Couro
+itm_north_stark_infantry|Malha e Couro
+itm_north_stark_infantry_pl|Malha e Couro
+itm_north_stark_noble|Malha e Couro
+itm_north_stark_noble_pl|Malha e Couro
+itm_north_bolton_standard|Bolton Couro
+itm_north_bolton_standard_pl|Couro Bolton
+itm_north_bolton_standard_cloaked|Couro Bolton
+itm_north_bolton_standard_cloaked_pl|Couro Bolton
+itm_north_bolton_lord_civilian|Armadura Nobre Bolton
+itm_north_bolton_lord_civilian_pl|Armadura Nobre Bolton
+itm_north_karstark_light|Couro Karstark
+itm_north_karstark_light_pl|Couro Karstark
+itm_north_karstark_medium_cloaked|Couro Karstark
+itm_north_karstark_medium_cloaked_pl|Couro Karstark
+itm_north_karstark_medium|Couro Karstark
+itm_north_karstark_medium_pl|Couro Karstark
+itm_rikard_karstark_armor|Cota de Malha Karstark
+itm_rikard_karstark_armor_pl|Cota de Malha Karstark
+itm_north_karstark_knight_heavy|Armadura Pesada Karstark
+itm_north_karstark_knight_heavy_pl|Armadura Pesada Karstark
+itm_north_umbar|Couro e Malha Umbar
+itm_north_umbar_pl|Couro e Malha Umbar
+itm_north_umbar_cloaked|Couro e Malha Nobre Umbar
+itm_north_umbar_cloaked_pl|Couro e Malha Nobre Umbar
+itm_riverlands_med_heavy|Couro Fervido das Terras Fluviais
+itm_riverlands_med_heavy_pl|Couro Fervido das Terras Fluviais
+itm_riverlands_medium2|Couro das Terras Fluviais
+itm_riverlands_medium2_pl|Couro das Terras Fluviais
+itm_riverlands_noble|Couro das Terras Fluviais
+itm_riverlands_noble_pl|Couro das Terras Fluviais
+itm_riverlands_edmure|Armadura Nobre das Terras Fluviais
+itm_riverlands_edmure_pl|Armadura Nobre das Terras Fluviais
+itm_riverlands_heavy2|Armadura Pesada das Terras Fluviais
+itm_riverlands_heavy2_pl|Armadura Pesada das Terras Fluviais
+itm_riverlands_heavy_neck|Armadura Pesada das Terras Fluviais
+itm_riverlands_heavy_neck_pl|Armadura Pesada das Terras Fluviais
+itm_krag_tully_scale_veteren|Escamas Tully
+itm_krag_tully_scale_veteren_pl|Escamas Tully
+itm_krag_tully_scale_elite|Escamas Tully
+itm_krag_tully_scale_elite_pl|Escamas Tully
+itm_frey_light|Brigantina Frey
+itm_frey_light_pl|Brigantina Frey
+itm_frey_medium|Brigantina Frey
+itm_frey_medium_pl|Brigantina Frey
+itm_frey_medium2|Brigantina Frey
+itm_frey_medium2_pl|Brigantina Frey
+itm_frey_medium_normal|Couro Frey
+itm_frey_medium_normal_pl|Couro Frey
+itm_frey_medium_standard|Couro Fervido Frey
+itm_frey_medium_standard_pl|Couro Fervido Frey
+itm_frey_lordly|Couro Nobre Frey
+itm_frey_lordly_pl|Couro Nobre Frey
+itm_frey_heavy1|Couro e Placas Frey
+itm_frey_heavy1_pl|Couro e Placas Frey
+itm_frey_heavy2|Couro e Placas Frey
+itm_frey_heavy2_pl|Couro e Placas Frey
+itm_lysa_armour|Malha do Vale
+itm_lysa_armour_pl|Malha do Vale
+itm_vale_medium|Jaquetão Acolchoado
+itm_vale_medium_pl|Jaquetão Acolchoado
+itm_vale_medium1|Jaquetão Acolchoado
+itm_vale_medium1_pl|Jaquetão Acolchoado
+itm_vale_heavy|Placas do Vale
+itm_vale_heavy_pl|Placas do Vale
+itm_vale_heavy_neck|Placas Nobre do Vale
+itm_vale_heavy_neck_pl|Placas Nobre do Vale
+itm_vale_plate|Placas Pesada do Vale
+itm_vale_plate_pl|Placas Pesada do Vale
+itm_vale_gambeson_heavy|Jaquetão com Placas
+itm_vale_gambeson_heavy_pl|Jaquetão com Placas
+itm_reach_gambeson|Jaquetão com Placas da Campina
+itm_reach_gambeson_pl|Jaquetão com Placas da Campina
+itm_tyrell_brigandine_1|Brigantina
+itm_tyrell_brigandine_1_pl|Brigantina
+itm_tyrell_brigandine_1_non_civil|Brigantina
+itm_tyrell_brigandine_1_non_civil_pl|Brigantina
+itm_tyrell_lordly|Brigantina
+itm_tyrell_lordly_pl|Brigantina
+itm_tyrell_plate_poor|Placas Tyrell
+itm_tyrell_plate_poor_pl|Placas Tyrell
+itm_tyrell_brigandine_2|Brigantina com Placas
+itm_tyrell_brigandine_2_pl|Brigantina com Placas
+itm_reach_medium|Jaquetão Acolchoado
+itm_reach_medium_pl|Jaquetão Acolchoado
+itm_tyrell_gambeson_3|Jaquetão Acolchoado
+itm_tyrell_gambeson_3_pl|Jaquetão Acolchoado
+itm_grey_lightplate|Placas Leve
+itm_grey_lightplate_pl|Placas Leve
+itm_grey_lightplate_shoulderpads|Placas Leve
+itm_grey_lightplate_shoulderpads_pl|Placas Leve
+itm_ironborn_footman|Couro Fervido Greyjoy
+itm_ironborn_footman_pl|Couro Fervido Greyjoy
+itm_greyjoy_vanguard|Couro Fervido Greyjoy
+itm_greyjoy_vanguard_pl|Couro Fervido Greyjoy
+itm_greyjoy_captain_cape|Couro Fervido Greyjoy
+itm_greyjoy_captain_cape_pl|Couro Fervido Greyjoy
+itm_greyjoy_captain|Greyjoy Plate
+itm_greyjoy_captain_pl|Greyjoy Plate
+itm_grey_mediumplate|Greyjoy Medium Plate
+itm_grey_mediumplate_pl|Greyjoy Medium Plate
+itm_ironborn_noble|Greyjoy Couro
+itm_ironborn_noble_pl|Greyjoy Couro
+itm_targ_dragonscale_black|Escamas de Dragão
+itm_targ_dragonscale_black_pl|Escamas de Dragão
+itm_targ_dragonscale_gray|Escamas de Dragão
+itm_targ_dragonscale_gray_pl|Escamas de Dragão
+itm_targ_dragonscale_red|Escamas de Dragão
+itm_targ_dragonscale_red_pl|Escamas de Dragão
+itm_targ_plated_dragonscale_black|Escamas de Dragão com Placas
+itm_targ_plated_dragonscale_black_pl|Escamas de Dragão com Placas
+itm_targ_plated_dragonscale_gray|Escamas de Dragão com Placas
+itm_targ_plated_dragonscale_gray_pl|Escamas de Dragão com Placas
+itm_targ_plated_dragonscale_red|Escamas de Dragão com Placas
+itm_targ_plated_dragonscale_red_pl|Escamas de Dragão com Placas
+itm_targ_gambeson_black|Jaquetão Acolchoado
+itm_targ_gambeson_black_pl|Jaquetão Acolchoado
+itm_targ_gambeson_gray|Jaquetão Acolchoado
+itm_targ_gambeson_gray_pl|Jaquetão Acolchoado
+itm_targ_gambeson_red|Jaquetão Acolchoado
+itm_targ_gambeson_red_pl|Jaquetão Acolchoado
+itm_targ_med_dragonscale_black|Escamas de Dragão com Placas
+itm_targ_med_dragonscale_black_pl|Escamas de Dragão com Placas
+itm_targ_med_dragonscale_gray|Escamas de Dragão com Placas
+itm_targ_med_dragonscale_gray_pl|Escamas de Dragão com Placas
+itm_targ_med_dragonscale_red|Escamas de Dragão com Placas
+itm_targ_med_dragonscale_red_pl|Escamas de Dragão com Placas
+itm_unsullied_armour|Couro Imaculado
+itm_unsullied_armour_pl|Couro Imaculado
+itm_bronn_armour|Armadura Leve
+itm_bronn_armour_pl|Armadura Leve
+itm_merc_padded_mail|Armadura Acolchoada
+itm_merc_padded_mail_pl|Armadura Acolchoada
+itm_turk_bandit_c|Couro Cravejado
+itm_turk_bandit_c_pl|Couro Cravejado
+itm_turk_bandit_d|Malha
+itm_turk_bandit_d_pl|Malha
+itm_turk_bandit_b|Lammellar
+itm_turk_bandit_b_pl|Lammellar
+itm_militia_leather|Couro Miliciano
+itm_militia_leather_pl|Couro Miliciano
+itm_rough_ring_fured|Armadura de Argolas
+itm_rough_ring_fured_pl|Armadura de Argolas
+itm_rough_leather_metal_plates|Placa de Couro
+itm_rough_leather_metal_plates_pl|Placa de Couro
+itm_gc_armour1|Armadura em Escamas
+itm_gc_armour1_pl|Armadura em Escamas
+itm_gc_armour2|Couro Fervido
+itm_gc_armour2_pl|Couro Fervido
+itm_pirates_light_armour1|Armadura Leve
+itm_pirates_light_armour1_pl|Armadura Leve
+itm_pirates_light_armour2|Armadura Leve
+itm_pirates_light_armour2_pl|Armadura Leve
+itm_pirates_light_armour3|Armadura Leve
+itm_pirates_light_armour3_pl|Armadura Leve
+itm_brigandine_green|Brigantina
+itm_brigandine_green_pl|Brigantina
+itm_brigandine_blue|Brigantina
+itm_brigandine_blue_pl|Brigantina
+itm_brigandine_red|Brigantina
+itm_brigandine_red_pl|Brigantina
+itm_light_footman|Armadura de Couro
+itm_light_footman_pl|Armadura de Couro
+itm_assassin_robes|Manto de Assassino
+itm_assassin_robes_pl|Manto de Assassino
+itm_slaver_infantry1|Armadura de Couro
+itm_slaver_infantry1_pl|Armadura de Couro
+itm_raider_mail_b|Malha
+itm_raider_mail_b_pl|Malha
+itm_raider_mail_c|Malha
+itm_raider_mail_c_pl|Malha
+itm_raider_mail_a|Malha
+itm_raider_mail_a_pl|Malha
+itm_dorne_cuir|Armadura em Escamas
+itm_dorne_cuir_pl|Armadura em Escamas
+itm_wildling_armour_chain|Casaco de Pele Bruta
+itm_wildling_armour_chain_pl|Casaco de Pele Bruta
+itm_wildling_armour_giant|Giant Casaco de Pele Bruta
+itm_wildling_armour_giant_pl|Giant Casaco de Pele Bruta
+itm_wildling_armour_giant2|Giant Casaco de Pele Bruta
+itm_wildling_armour_giant2_pl|Giant Casaco de Pele Bruta
+itm_goldcloak|Armadura de Manto Dourado
+itm_goldcloak_pl|Armadura de Manto Dourado
+itm_armour_mallister|Brigantina Pesada Malister
+itm_armour_mallister_pl|Brigantina Pesada Malister
+itm_armour_tallhart|Sobretudo de Malha
+itm_armour_tallhart_pl|Sobretudo de Malha
+itm_armour_glover|Sobretudo de Malha
+itm_armour_glover_pl|Sobretudo de Malha
+itm_armour_hornwood|Sobretudo de Malha
+itm_armour_hornwood_pl|Sobretudo de Malha
+itm_bnw_armour_slashed|Placas Completa
+itm_bnw_armour_slashed_pl|Placas Completa
+itm_bnw_armour_stripes|Placas Completa
+itm_bnw_armour_stripes_pl|Placas Completa
+itm_brigandine_brown_mail|Brigantina de Malha
+itm_brigandine_brown_mail_pl|Brigantina de Malha
+itm_slaver_infantry3|Couro Fervido
+itm_slaver_infantry3_pl|Couro Fervido
+itm_slaver_leader|Couro Fervido
+itm_slaver_leader_pl|Couro Fervido
+itm_pirates_armour1|Armadura de Placas
+itm_pirates_armour1_pl|Armadura de Placas
+itm_pirates_armour2|Armadura de Placas
+itm_pirates_armour2_pl|Armadura de Placas
+itm_pirates_armour3|Armadura de Placas
+itm_pirates_armour3_pl|Armadura de Placas
+itm_furred_ringmail|Malha com Peles
+itm_furred_ringmail_pl|Malha com Peles
+itm_rus_scale|Armadura em Escamas
+itm_rus_scale_pl|Armadura em Escamas
+itm_wolf_coat1|Armadura de Lobo
+itm_wolf_coat1_pl|Armadura de Lobo
+itm_wolfpelt_mail_coat|Armadura de Lobo
+itm_wolfpelt_mail_coat_pl|Armadura de Lobo
+itm_hauberk|Hauberk
+itm_hauberk_pl|Hauberk
+itm_hauberk2|Armadura Rúnica de Bronze
+itm_hauberk2_pl|Armadura Rúnica de Bronze
+itm_mail_shirt_1|Byrnie
+itm_mail_shirt_1_pl|Byrnie
+itm_mail_shirt_2|Byrnie
+itm_mail_shirt_2_pl|Byrnie
+itm_mail_shirt_3|Byrnie
+itm_mail_shirt_3_pl|Byrnie
+itm_mail_shirt_4|Byrnie
+itm_mail_shirt_4_pl|Byrnie
+itm_mail_shirt_5|Byrnie
+itm_mail_shirt_5_pl|Byrnie
+itm_vikinglamellar2blue|Armadura Lamelar
+itm_vikinglamellar2blue_pl|Armadura Lamelar
+itm_vikinglamellar2red|Armadura Lamelar
+itm_vikinglamellar2red_pl|Armadura Lamelar
+itm_vikinglamellar2yellow|Armadura Lamelar
+itm_vikinglamellar2yellow_pl|Armadura Lamelar
+itm_long_byrnie_a|Malha
+itm_long_byrnie_a_pl|Malha
+itm_cuir_bouilli|Anel de Malha
+itm_cuir_bouilli_pl|Anel de Malha
+itm_mamluke_mail|Anel de Malha
+itm_mamluke_mail_pl|Anel de Malha
+itm_peasant_smallring_mail|Pequeno Anel de Malha
+itm_peasant_smallring_mail_pl|Pequeno Anel de Malha
+itm_mail_and_plate|Armadura em Escamas
+itm_mail_and_plate_pl|Armadura em Escamas
+itm_light_mail_and_plate|Armadura em Escamas
+itm_light_mail_and_plate_pl|Armadura em Escamas
+itm_coat_of_plates_red|Armadura em Escamas
+itm_coat_of_plates_red_pl|Armadura em Escamas
+itm_khergit_guard_armor|Armadura em Escamas
+itm_khergit_guard_armor_pl|Armadura em Escamas
+itm_heraldic_mail_with_surcoat|Malha Heráldica com Sobretudo
+itm_heraldic_mail_with_surcoat_pl|Malha Heráldica com Sobretudo
+itm_heraldic_mail_with_tunic|Malha Heráldica
+itm_heraldic_mail_with_tunic_pl|Malha Heráldica
+itm_heraldic_mail_with_tunic_b|Malha Heráldica
+itm_heraldic_mail_with_tunic_b_pl|Malha Heráldica
+itm_heraldic_mail_with_tabard|Malha Heráldica
+itm_heraldic_mail_with_tabard_pl|Malha Heráldica
+itm_long_padded_surcoat_1|Sobretudo Acolchoado
+itm_long_padded_surcoat_1_pl|Sobretudo Acolchoado
+itm_long_padded_surcoat_2|Sobretudo Acolchoado
+itm_long_padded_surcoat_2_pl|Sobretudo Acolchoado
+itm_leng_armour_medium|Placas de Aço
+itm_leng_armour_medium_pl|Placas de Aço
+itm_full_armour_1|Sobretudo de Malha
+itm_full_armour_1_pl|Sobretudo de Malha
+itm_full_armour_3_riverlands|Sobretudo de Malha
+itm_full_armour_3_riverlands_pl|Sobretudo de Malha
+itm_full_armour_4|Sobretudo de Malha
+itm_full_armour_4_pl|Sobretudo de Malha
+itm_long_mail_surcoat|Sobretudo de Malha
+itm_long_mail_surcoat_pl|Sobretudo de Malha
+itm_long_mail_surcoat_2|Sobretudo de Malha
+itm_long_mail_surcoat_2_pl|Sobretudo de Malha
+itm_rus_lamellar_a|Lamelar
+itm_rus_lamellar_a_pl|Lamelar
+itm_rus_lamellar_b|Lamelar
+itm_rus_lamellar_b_pl|Lamelar
+itm_north_clansman|Couro dos Clãs
+itm_north_clansman_pl|Couro dos Clãs
+itm_north_hardened_clansman|Couro Endurecido dos Clãs
+itm_north_hardened_clansman_pl|Couro Endurecido dos Clãs
+itm_north_crannogman|Cota de Malha dos Clãs
+itm_north_crannogman_pl|Cota de Malha dos Clãs
+itm_north_clansman2|Couro dos Clãs
+itm_north_clansman2_pl|Couro dos Clãs
+itm_manderly_leather|Couro Acolchoado
+itm_manderly_leather_pl|Couro Acolchoado
+itm_stannis_plate|Armadura de Elite de Pedra dos Dragão
+itm_stannis_plate_pl|Armadura de Elite de Pedra do Dragão
+itm_stannis_plate_civ|Placas de Elite Stannis
+itm_stannis_plate_civ_pl|Placas de Elite Stannis
+itm_dragonstone_heavy_armour2|Placas de Pedra do Dragão
+itm_dragonstone_heavy_armour2_pl|Placas de Pedra do Dragão
+itm_dragonstone_heavy_armour1|Placas de Pedra do Dragão
+itm_dragonstone_heavy_armour1_pl|Placas de Pedra do Dragão
+itm_stormlands_chainmail|Cota de Malha das Terras da Tempestade
+itm_stormlands_chainmail_pl|Cota de Malha das Terras da Tempestade
+itm_stormlands_plate|Armadura de Placas
+itm_stormlands_plate_pl|Armadura de Placas
+itm_storm_gambeson_heavy|Jaquetão com Placas
+itm_storm_gambeson_heavy_pl|Jaquetão com Placas
+itm_storm_gambeson_elite|Jaquetão com Placas
+itm_storm_gambeson_elite_pl|Jaquetão com Placas
+itm_westerland_heavy_rider|Armadura Pesada Ocidental
+itm_westerland_heavy_rider_pl|Armadura Pesada Ocidental
+itm_westerland_heavy_rider1|Armadura Pesada Ocidental
+itm_westerland_heavy_rider1_pl|Armadura Pesada Ocidental
+itm_westerlands_king|Sobretudo de Rei
+itm_westerlands_king_pl|Sobretudo de Rei
+itm_westerlands_lord_1|Armadura Nobre Ocidental
+itm_westerlands_lord_1_pl|Armadura Nobre Ocidental
+itm_westerlands_lord_2|Armadura Nobre Ocidental
+itm_westerlands_lord_2_pl|Armadura Nobre Ocidental
+itm_westerland_heavy|Sobretudo com Placas
+itm_westerland_heavy_pl|Sobretudo com Placas
+itm_lannister_heavy|Armadura Pesada Lannister
+itm_lannister_heavy_pl|Armadura Pesada Lannister
+itm_westerland_lord|Armadura do Tywin
+itm_westerland_lord_pl|Armadura do Tywin
+itm_westerland_knight_a|Sobretudo Acolchoado
+itm_westerland_knight_a_pl|Sobretudo Acolchoado
+itm_westerland_knight_b|Sobretudo de Cota de Malha
+itm_westerland_knight_b_pl|Sobretudo de Cota de Malha
+itm_westerland_knight_c|Sobretudo com Placas
+itm_westerland_knight_c_pl|Sobretudo com Placas
+itm_lannister_heavy2|Armadura Pesada Lannister
+itm_lannister_heavy2_pl|Armadura Pesada Lannister
+itm_tyrell_plated_brigandine|Brigantina com Placas
+itm_tyrell_plated_brigandine_pl|Brigantina com Placas
+itm_tyrell_plated_brigandine_3|Brigantina com Placas
+itm_tyrell_plated_brigandine_3_pl|Brigantina com Placas
+itm_house_tyrell_plated_brigandine|Brigantina com Placas
+itm_house_tyrell_plated_brigandine_pl|Brigantina com Placas
+itm_tyrell_plate|Placas Tyrell
+itm_tyrell_plate_pl|Placas Tyrell
+itm_tyrell_plate_rich|Placas Tyrell
+itm_tyrell_plate_rich_pl|Placas Tyrell
+itm_reach_gambeson_heavy|Jaquetão com Placas
+itm_reach_gambeson_heavy_pl|Jaquetão com Placas
+itm_tarly_plate_armour|Armadura de Placas
+itm_tarly_plate_armour_pl|Armadura de Placas
+itm_mormont_armour|Armadura de Lorde Comandante
+itm_mormont_armour_pl|Armadura de Lorde Comandante
+itm_north_heavy|Couro Fervido Nortenho
+itm_north_heavy_pl|Couro Fervido Nortenho
+itm_north_heavy2|Couro Fervido Nortenho
+itm_north_heavy2_pl|Couro Fervido Nortenho
+itm_north_stark_lord|Armadura Nobre Stark
+itm_north_stark_lord_pl|Armadura Nobre Stark
+itm_stark_heavy_armour|Armadura Pesada Stark
+itm_stark_heavy_armour_pl|Armadura Pesada Stark
+itm_north_stark_captain_heavy|Armadura Pesada Stark
+itm_north_stark_captain_heavy_pl|Armadura Pesada Stark
+itm_north_karstark_heavy|Armadura Pesada Karstark
+itm_north_karstark_heavy_pl|Armadura Pesada Karstark
+itm_north_bolton_lord|Armadura Nobre Bolton
+itm_north_bolton_lord_pl|Armadura Nobre Bolton
+itm_north_bolton_heavy|Armadura Pesada Bolton
+itm_north_bolton_heavy_pl|Armadura Pesada Bolton
+itm_north_bolton_medium|Couro Pesado Bolton
+itm_north_bolton_medium_pl|Couro Pesado Bolton
+itm_vale_knight|Cota de Malha do Vale
+itm_vale_knight_pl|Cota de Malha do Vale
+itm_greyjoy_elite_plate|Placas de Elite Greyjoy
+itm_greyjoy_elite_plate_pl|Placas de Elite Greyjoy
+itm_targaryen_plate|Armadura de Placas
+itm_targaryen_plate_pl|Armadura de Placas
+itm_targaryen_plate2|Armadura de Placas
+itm_targaryen_plate2_pl|Armadura de Placas
+itm_krag_targ_plate|Armadura de Placas
+itm_krag_targ_plate_pl|Armadura de Placas
+itm_krag_targ_plate_cape|Armadura de Placas
+itm_krag_targ_plate_cape_pl|Armadura de Placas
+itm_brogg_body|Armadura de Placas
+itm_brogg_body_pl|Armadura de Placas
+itm_reed_body|Armadura de Placas
+itm_reed_body_pl|Armadura de Placas
+itm_targ_plated_gambeson_black|Jaquetão com Placas
+itm_targ_plated_gambeson_black_pl|Jaquetão com Placas
+itm_targ_plated_gambeson_gray|Jaquetão com Placas
+itm_targ_plated_gambeson_gray_pl|Jaquetão com Placas
+itm_targ_plated_gambeson_red|Jaquetão com Placas
+itm_targ_plated_gambeson_red_pl|Jaquetão com Placas
+itm_targ_knight_dragonscale_black|Jaquetão com Placas
+itm_targ_knight_dragonscale_black_pl|Jaquetão com Placas
+itm_targ_knight_dragonscale_gray|Jaquetão com Placas
+itm_targ_knight_dragonscale_gray_pl|Jaquetão com Placas
+itm_targ_knight_dragonscale_red|Jaquetão com Placas
+itm_targ_knight_dragonscale_red_pl|Jaquetão com Placas
+itm_targ_queensguard|Armadura de Placas
+itm_targ_queensguard_pl|Armadura de Placas
+itm_targ_noble_plate|Armadura de Placas
+itm_targ_noble_plate_pl|Armadura de Placas
+itm_targ_plate_knight1|Armadura de Placas
+itm_targ_plate_knight1_pl|Armadura de Placas
+itm_targ_plate_knight2|Armadura de Placas
+itm_targ_plate_knight2_pl|Armadura de Placas
+itm_targ_plate_knight3|Armadura de Placas
+itm_targ_plate_knight3_pl|Armadura de Placas
+itm_armour_piper|Sobretudo Piper
+itm_armour_piper_pl|Sobretudo Piper
+itm_riverlands_blackfish|Armadura Peixe Negro
+itm_riverlands_blackfish_pl|Armadura Peixe Negro
+itm_reach_loras|Placas Nobre do Vale
+itm_reach_loras_pl|Placas Nobre do Vale
+itm_reach_loras2|Placas Nobre do Vale
+itm_reach_loras2_pl|Placas Nobre do Vale
+itm_westerland_hound|Armadura de Cão
+itm_westerland_hound_pl|Armadura de Cão
+itm_westerlands_hound|Armadura de Cão
+itm_westerlands_hound_pl|Armadura de Cão
+itm_kingsguard_plate|Placas da Guarda Real
+itm_kingsguard_plate_pl|Placas da Guarda Real
+itm_brienne_armour|Armadura de Placas
+itm_brienne_armour_pl|Armadura de Placas
+itm_vardis_egan|Brigantina
+itm_vardis_egan_pl|Brigantina
+itm_armour_redwyne|Armadura de Placas
+itm_armour_redwyne_pl|Armadura de Placas
+itm_medusa_armor|Armadura em Escamas
+itm_medusa_armor_pl|Armadura em Escamas
+itm_huscarl_armour|Armadura de Nascido do Ferro Pesada
+itm_huscarl_armour_pl|Armadura de Nascido do Ferro Pesada
+itm_gothic_plate|Armadura de Placas
+itm_gothic_plate_pl|Armadura de Placas
+itm_milanese_plate|Armadura de Placas
+itm_milanese_plate_pl|Armadura de Placas
+itm_churburg_13_mail|Malha e Placas
+itm_churburg_13_mail_pl|Malha e Placas
+itm_full_plate_armour_1|Placas Completa
+itm_full_plate_armour_1_pl|Placas Completa
+itm_full_plate_armour_2|Placas Completa
+itm_full_plate_armour_2_pl|Placas Completa
+itm_full_plate_armour_3|Placas Completa
+itm_full_plate_armour_3_pl|Placas Completa
+itm_full_plate_armour_4|Malha e Placas
+itm_full_plate_armour_4_pl|Malha e Placas
+itm_brigandine_green_mail|Brigantina de Malha
+itm_brigandine_green_mail_pl|Brigantina de Malha
+itm_brigandine_red_mail|Brigantina de Malha
+itm_brigandine_red_mail_pl|Brigantina de Malha
+itm_brigandine_black_mail|Brigantina de Malha
+itm_brigandine_black_mail_pl|Brigantina de Malha
+itm_Elephant_plate|Malha e Placas
+itm_Elephant_plate_pl|Malha e Placas
+itm_volantis_plate|Malha e Placas
+itm_volantis_plate_pl|Malha e Placas
+itm_leng_armour_heavy|Placas de Aço
+itm_leng_armour_heavy_pl|Placas de Aço
+itm_hauberk3|Hauberk
+itm_hauberk3_pl|Hauberk
+itm_gc_armour3|Brigantina
+itm_gc_armour3_pl|Brigantina
+itm_gc_armour4|Brigantina
+itm_gc_armour4_pl|Brigantina
+itm_early_transitional_long|Malha Heráldica com Sobretudo
+itm_early_transitional_long_pl|Malha Heráldica com Sobretudo
+itm_full_chainmail_vale1|Sobretudo de Malha
+itm_full_chainmail_vale1_pl|Sobretudo de Malha
+itm_full_chainmail_vale2|Sobretudo de Malha
+itm_full_chainmail_vale2_pl|Sobretudo de Malha
+itm_full_chainmail_reach1|Sobretudo de Malha
+itm_full_chainmail_reach1_pl|Sobretudo de Malha
+itm_full_chainmail_crownlands1|Hauberk de Malha
+itm_full_chainmail_crownlands1_pl|Hauberk de Malha
+itm_fat_body|Corpo Gordo
+itm_fat_body_pl|Corpo Gordo
+itm_burlap_tunic|Túnica de Pano Artesanal
+itm_burlap_tunic_pl|Túnica de Pano Artesanal
+itm_nw_hood|Capuz
+itm_nw_hood_pl|Capuz
+itm_youhou_assassin_hood|Capuz
+itm_youhou_assassin_hood_pl|Capuz
+itm_youhou_assassin_hood_red|Capuz
+itm_youhou_assassin_hood_red_pl|Capuz
+itm_veil_e|Véu
+itm_veil_e_pl|Véu
+itm_veil_g|Véu
+itm_veil_g_pl|Véu
+itm_sarranid_felt_head_cloth|Véu
+itm_sarranid_felt_head_cloth_pl|Véu
+itm_common_veil_b|Véu
+itm_common_veil_b_pl|Véu
+itm_common_veil_d|Véu
+itm_common_veil_d_pl|Véu
+itm_common_veil_c|Véu
+itm_common_veil_c_pl|Véu
+itm_common_veil_e|Véu
+itm_common_veil_e_pl|Véu
+itm_wimple_a|Touca
+itm_wimple_a_pl|Touca
+itm_wimple_with_veil|Touca com Véu
+itm_wimple_with_veil_pl|Touca com Véu
+itm_woolen_cap_newblu|Chapéu
+itm_woolen_cap_newblu_pl|Chapéu
+itm_woolen_cap_newred|Chapéu Estreito
+itm_woolen_cap_newred_pl|Chapéu Estreito
+itm_woolen_cap_newblk|Chapéu
+itm_woolen_cap_newblk_pl|Chapéu
+itm_woolen_cap_newwht|Chapéu
+itm_woolen_cap_newwht_pl|Chapéu
+itm_woolen_cap|Chapéu de Lã
+itm_woolen_cap_pl|Chapéu de Lã
+itm_hood_newblu|Capuz
+itm_hood_newblu_pl|Capuz
+itm_hood_newred|Capuz
+itm_hood_newred_pl|Capuz
+itm_hood_newblk|Capuz
+itm_hood_newblk_pl|Capuz
+itm_hood_newwht|Capuz
+itm_hood_newwht_pl|Capuz
+itm_chionite_hat|Capuz
+itm_chionite_hat_pl|Capuz
+itm_chionite_hat_b|Capuz
+itm_chionite_hat_b_pl|Capuz
+itm_chionite_hat_c|Capuz
+itm_chionite_hat_c_pl|Capuz
+itm_chionite_hat_d|Capuz
+itm_chionite_hat_d_pl|Capuz
+itm_chionite_hat_e|Capuz
+itm_chionite_hat_e_pl|Capuz
+itm_chionite_hat_f|Capuz
+itm_chionite_hat_f_pl|Capuz
+itm_turban_a|Turbante
+itm_turban_a_pl|Turbante
+itm_turban_b|Turbante
+itm_turban_b_pl|Turbante
+itm_turban_c|Turbante
+itm_turban_c_pl|Turbante
+itm_turban_d|Turbante
+itm_turban_d_pl|Turbante
+itm_turban_e|Turbante
+itm_turban_e_pl|Turbante
+itm_turban_dorne|Turbante
+itm_turban_dorne_pl|Turbante
+itm_padded_cloth_hood|Capuz de Pano Acolchoado
+itm_padded_cloth_hood_pl|Capuz de Pano Acolchoado
+itm_north_hood|Capuz
+itm_north_hood_pl|Capuz
+itm_wildling_hood|Capuz de Pele
+itm_wildling_hood_pl|Capuz de Pele
+itm_dragonstone_leather_helmet|Elmo de Couro
+itm_dragonstone_leather_helmet_pl|Elmo de Couro
+itm_ironborn_helm_med1|Elmo de Nascido do Ferro
+itm_ironborn_helm_med1_pl|Elmo de Nascido do Ferro
+itm_red_priest_hood|Capuz de Sacerdote Vermelho
+itm_red_priest_hood_pl|Capuz de Sacerdote Vermelho
+itm_kindly_man_hood|Capuz de Preto e Branco
+itm_kindly_man_hood_pl|Capuz de Preto e Branco
+itm_septon_hood|Capuz
+itm_septon_hood_pl|Capuz
+itm_priest_hood|Capuz
+itm_priest_hood_pl|Capuz
+itm_skullcap_a|Chapéu de Crânio
+itm_skullcap_a_pl|Chapéu de Crânio
+itm_leather_cap|Chapéu de Couro
+itm_leather_cap_pl|Chapéu de Couro
+itm_straw_hat_a|Chapéu de Palha
+itm_straw_hat_a_pl|Chapéu de Palha
+itm_goat_cap|Chapéu de Cabra
+itm_goat_cap_pl|Chapéu de Cabra
+itm_boar_helmet|Chapéu de Javali
+itm_boar_helmet_pl|Chapéu de Javali
+itm_lannister_leather_helmet|Chapéu de Couro
+itm_lannister_leather_helmet_pl|Chapéu de Couro
+itm_krag_tyrell_leather_helmet|Elmo de Couro
+itm_krag_tyrell_leather_helmet_pl|Elmo de Couro
+itm_night_king_head|cabeça
+itm_night_king_head_pl|cabeça
+itm_head_wrappings|Envolvimento de Cabeça
+itm_head_wrappings_pl|Envolvimento de Cabeça
+itm_common_hood|Capuz
+itm_common_hood_pl|Capuz
+itm_piel_coat01|Capa
+itm_piel_coat01_pl|Capa
+itm_piel_coat03|Capa
+itm_piel_coat03_pl|Capa
+itm_piel_coat04|Capa
+itm_piel_coat04_pl|Capa
+itm_piel_coat07|Capa
+itm_piel_coat07_pl|Capa
+itm_bl_boar_fur|Capa de Pele
+itm_bl_boar_fur_pl|Capa de Pele
+itm_bl_boar|Pele de Javali
+itm_bl_boar_pl|Pele de Javali
+itm_crown_a|Coroa
+itm_crown_a_pl|Coroa
+itm_crown|Coroa dos Sete Reinos
+itm_crown_pl|Coroa dos Sete Reinos
+itm_crown_b|Coroa
+itm_crown_b_pl|Coroa
+itm_bowl_helmet|Capacete de Tigela
+itm_bowl_helmet_pl|Capacete de Tigela
+itm_westerland_helm|Elmo Lannister
+itm_westerland_helm_pl|Elmo Lannister
+itm_westerland_lord_helm|Elmo Lannister
+itm_westerland_lord_helm_pl|Elmo Lannister
+itm_westerland_helm_1|Elmo Lannister
+itm_westerland_helm_1_pl|Elmo Lannister
+itm_westerland_helm_2|Elmo Lannister
+itm_westerland_helm_2_pl|Elmo Lannister
+itm_greyjoy_helm|Elmo Greyjoy
+itm_greyjoy_helm_pl|Elmo Greyjoy
+itm_ironborn_helm_med2|Elmo de Nascido do Ferro
+itm_ironborn_helm_med2_pl|Elmo de Nascido do Ferro
+itm_greyjoy_heavy_helm|Elmo Greyjoy
+itm_greyjoy_heavy_helm_pl|Elmo Greyjoy
+itm_vale_plate_helm|Bacinete de Aço
+itm_vale_plate_helm_pl|Bacinete de Aço
+itm_tyrell_burgonet|Borguinhota
+itm_tyrell_burgonet_pl|Borguinhota
+itm_cloth_turban|Turbante com Malha
+itm_cloth_turban_pl|Turbante com Malha
+itm_tracker_helm|Elmo Dornês
+itm_tracker_helm_pl|Elmo Dornês
+itm_sand_snakes_helm|Elmo Dornês
+itm_sand_snakes_helm_pl|Elmo Dornês
+itm_marksman_helm|Elmo Dornês
+itm_marksman_helm_pl|Elmo Dornês
+itm_cavalry_helm|Elmo Dornês
+itm_cavalry_helm_pl|Elmo Dornês
+itm_footman_helm|Elmo Dornês
+itm_footman_helm_pl|Elmo Dornês
+itm_north_plate_helm|Bacinete de Aço
+itm_north_plate_helm_pl|Bacinete de Aço
+itm_bolton_helmet_1|Bacinete de Aço
+itm_bolton_helmet_1_pl|Bacinete de Aço
+itm_bolton_helmet_2|Bacinete de Aço
+itm_bolton_helmet_2_pl|Bacinete de Aço
+itm_stormlands_burgonet|Borguinhota
+itm_stormlands_burgonet_pl|Borguinhota
+itm_dragonstone_burgonet|Borguinhota
+itm_dragonstone_burgonet_pl|Borguinhota
+itm_burgonet|Borguinhota
+itm_burgonet_pl|Borguinhota
+itm_sallet_c|Bacinete de Aço
+itm_sallet_c_pl|Bacinete de Aço
+itm_sallet_c_scavenged|Bacinete de Aço
+itm_sallet_c_scavenged_pl|Bacinete de Aço
+itm_leng_helmet_2|Elmo de Aço
+itm_leng_helmet_2_pl|Elmo de Aço
+itm_dethertir_helm_a|Elmo de Aço
+itm_dethertir_helm_a_pl|Elmo de Aço
+itm_dethertir_helm_b|Elmo de Aço
+itm_dethertir_helm_b_pl|Elmo de Aço
+itm_dethertir_helm_c|Elmo de Aço
+itm_dethertir_helm_c_pl|Elmo de Aço
+itm_ironborn_helm_heavy|Elmo de Nascido do Ferro
+itm_ironborn_helm_heavy_pl|Elmo de Nascido do Ferro
+itm_gc_helmet1b|Bacinete de Aço
+itm_gc_helmet1b_pl|Bacinete de Aço
+itm_gc_helmet2b|Bacinete de Aço
+itm_gc_helmet2b_pl|Bacinete de Aço
+itm_gc_helmet1a|Bacinete de Aço
+itm_gc_helmet1a_pl|Bacinete de Aço
+itm_gc_helmet2a|Bacinete de Aço
+itm_gc_helmet2a_pl|Bacinete de Aço
+itm_coif|Coifa de Malha
+itm_coif_pl|Coifa de Malha
+itm_goldcloak_helm|Elmo de Manto Dourado
+itm_goldcloak_helm_pl|Elmo de Manto Dourado
+itm_rus_helm|Elmo de Aço
+itm_rus_helm_pl|Elmo de Aço
+itm_tagancha_helm_a|Elmo de Aço
+itm_tagancha_helm_a_pl|Elmo de Aço
+itm_vendel14|Elmo de Placas
+itm_vendel14_pl|Elmo de Placas
+itm_talak_sutton_hoo|Elmo
+itm_talak_sutton_hoo_pl|Elmo
+itm_rathos_bowl_helmet|Elmo de Tijela com Gorjal de Couro
+itm_rathos_bowl_helmet_pl|Elmo de Tijela com Gorjal de Couro
+itm_goat_helmet_b|Elmo
+itm_goat_helmet_b_pl|Elmo
+itm_goat_helmet_black|Elmo
+itm_goat_helmet_black_pl|Elmo
+itm_chapel_de_fer_cloth1|Elmo Capelina
+itm_chapel_de_fer_cloth1_pl|Elmo Capelina
+itm_chapel_de_fer_cloth2|Elmo Capelina
+itm_chapel_de_fer_cloth2_pl|Elmo Capelina
+itm_chapel_de_fer_cloth3|Elmo Capelina
+itm_chapel_de_fer_cloth3_pl|Elmo Capelina
+itm_eyeslot_kettlehat|Elmo Capelina
+itm_eyeslot_kettlehat_pl|Elmo Capelina
+itm_sallet_d|Bacinete de Aço
+itm_sallet_d_pl|Bacinete de Aço
+itm_greyjoy_elite_helm|Elmo Pesado de Aço
+itm_greyjoy_elite_helm_pl|Elmo Pesado de Aço
+itm_gnezdovo_helm_a|Elmo de Aço
+itm_gnezdovo_helm_a_pl|Elmo de Aço
+itm_gnezdovo_helm_b|Elmo de Aço
+itm_gnezdovo_helm_b_pl|Elmo de Aço
+itm_sallet_a_open2|Bacinete de Aço
+itm_sallet_a_open2_pl|Bacinete de Aço
+itm_dragonstone_cav_burgonet|Borguinhota
+itm_dragonstone_cav_burgonet_pl|Borguinhota
+itm_stormlands_elite_burgonet|Borguinhota
+itm_stormlands_elite_burgonet_pl|Borguinhota
+itm_tarly_burgonet|Borguinhota
+itm_tarly_burgonet_pl|Borguinhota
+itm_chapel_de_fer_mail3|Elmo Capelina
+itm_chapel_de_fer_mail3_pl|Elmo Capelina
+itm_chapel_de_fer_mail2|Elmo Capelina
+itm_chapel_de_fer_mail2_pl|Elmo Capelina
+itm_chapel_de_fer_mail1|Elmo Capelina
+itm_chapel_de_fer_mail1_pl|Elmo Capelina
+itm_helmet_piper|Grande Elmo
+itm_helmet_piper_pl|Grande Elmo
+itm_vale_knight_helm|Elmo Fechado com Plumas
+itm_vale_knight_helm_pl|Elmo Fechado com Plumas
+itm_targ_helm|Coifa e Placas
+itm_targ_helm_pl|Coifa e Placas
+itm_brogg_helmet|Elmo Fechado com Plumas
+itm_brogg_helmet_pl|Elmo Fechado com Plumas
+itm_reed_helmet|Elmo Fechado com Plumas
+itm_reed_helmet_pl|Elmo Fechado com Plumas
+itm_targ_barbute|Barbute com Placas
+itm_targ_barbute_pl|Barbute com Placas
+itm_baratheon_king_helm|Bacinete com Visor Baratheon
+itm_baratheon_king_helm_pl|Bacinete com Visor Baratheon
+itm_stormlands_knight_helmet|Elmo Fechado
+itm_stormlands_knight_helmet_pl|Elmo Fechado
+itm_loras_helmet_closed|Elmo Fechado
+itm_loras_helmet_closed_pl|Elmo Fechado
+itm_loras_helmet_open|Elmo Fechado
+itm_loras_helmet_open_pl|Elmo Fechado
+itm_reach_knight_helmet|Elmo Fechado
+itm_reach_knight_helmet_pl|Elmo Fechado
+itm_krag_reach_barbute|Barbute Tyrell
+itm_krag_reach_barbute_pl|Barbute Tyrell
+itm_krag_reach_barbute_rich|Barbute Tyrell
+itm_krag_reach_barbute_rich_pl|Barbute Tyrell
+itm_kingsguard_helm|Elmo da Guarda Real
+itm_kingsguard_helm_pl|Elmo da Guarda Real
+itm_vardis_helm|Elmo Fechado
+itm_vardis_helm_pl|Elmo Fechado
+itm_unsullied_helmet|Elmo Imaculado
+itm_unsullied_helmet_pl|Elmo Imaculado
+itm_litchina_helm|Elmo de Aço
+itm_litchina_helm_pl|Elmo de Aço
+itm_nikolskoe_helm|Elmo de Aço
+itm_nikolskoe_helm_pl|Elmo de Aço
+itm_novogrod_helm|Elmo de Aço
+itm_novogrod_helm_pl|Elmo de Aço
+itm_tagancha_helm_b|Elmo de Aço
+itm_tagancha_helm_b_pl|Elmo de Aço
+itm_zitta_bascinet|Bascinete com Visor
+itm_zitta_bascinet_pl|Bascinete com Visor
+itm_leng_helmet|Elmo de Aço Ornamentado
+itm_leng_helmet_pl|Elmo de Aço Ornamentado
+itm_frenchpepperpot2|Elmo Pepperpot
+itm_frenchpepperpot2_pl|Elmo Pepperpot
+itm_frenchpepperpot3|Elmo Pepperpot
+itm_frenchpepperpot3_pl|Elmo Pepperpot
+itm_munitionshelm2|Elmo Militar
+itm_munitionshelm2_pl|Elmo Militar
+itm_conichelm|Elmo de Aço
+itm_conichelm_pl|Elmo de Aço
+itm_pepperpothelm1|Elmo Pepperpot
+itm_pepperpothelm1_pl|Elmo Pepperpot
+itm_normanpepperpot|Elmo Pepperpot
+itm_normanpepperpot_pl|Elmo Pepperpot
+itm_munitionshelm1|Elmo Militar
+itm_munitionshelm1_pl|Elmo Militar
+itm_crownedhelm|Coifa Coroada
+itm_crownedhelm_pl|Coifa Coroada
+itm_frenchpepperpot|Elmo Pepperpot
+itm_frenchpepperpot_pl|Elmo Pepperpot
+itm_flattophelmet|Elmo de Aço
+itm_flattophelmet_pl|Elmo de Aço
+itm_madelnbucket1|Grande Elmo
+itm_madelnbucket1_pl|Grande Elmo
+itm_greatbascinet1|Elmo
+itm_greatbascinet1_pl|Elmo
+itm_milanese_sallet|Bacinete com Viseira
+itm_milanese_sallet_pl|Bacinete com Viseira
+itm_bolzanobucket|Grande Elmo de Aço
+itm_bolzanobucket_pl|Grande Elmo de Aço
+itm_crusaderbucket1|Grande Elmo de Aço
+itm_crusaderbucket1_pl|Grande Elmo de Aço
+itm_gotlandbucket|Grande Elmo de Aço
+itm_gotlandbucket_pl|Grande Elmo de Aço
+itm_madelnbucket2|Grande Elmo
+itm_madelnbucket2_pl|Grande Elmo
+itm_greathelm1|Grande Elmo
+itm_greathelm1_pl|Grande Elmo
+itm_hound_helm|Elmo de Cão
+itm_hound_helm_pl|Elmo de Cão
+itm_weimarhelm|Elmo com Placas
+itm_weimarhelm_pl|Elmo com Placas
+itm_clegane_helm|Grande Elmo de Aço
+itm_clegane_helm_pl|Grande Elmo de Aço
+itm_crusaderbucket2|Grande Elmo de Aço
+itm_crusaderbucket2_pl|Grande Elmo de Aço
+itm_decap_head|Sem cabeça
+itm_decap_head_pl|Sem cabeça
+itm_wooden_club_a|Porrete de Madeira
+itm_wooden_club_a_pl|Porrete de Madeira
+itm_giants_wooden_club_a|Porrete de Madeira
+itm_giants_wooden_club_a_pl|Porrete de Madeira
+itm_wooden_club_b|Porrete de Madeira
+itm_wooden_club_b_pl|Porrete de Madeira
+itm_wooden_club_c|Porrete de Madeira
+itm_wooden_club_c_pl|Porrete de Madeira
+itm_wooden_club_d|Porrete de Madeira
+itm_wooden_club_d_pl|Porrete de Madeira
+itm_spiked_club|Porrete Farpado
+itm_spiked_club_pl|Porrete Farpado
+itm_sickle|Foice
+itm_sickle_pl|Foice
+itm_knife|Faca de Açougueiro
+itm_knife_pl|Faca de Açougueiro
+itm_dagger|Adaga
+itm_dagger_pl|Adaga
+itm_obsidian_dagger|Adaga de Obsidiana
+itm_obsidian_dagger_pl|Adaga de Obsidiana
+itm_mackie_beefsplitter|Cutelo de Carne*
+itm_mackie_beefsplitter_pl|Cutelo de Carne
+itm_mace_ff|Maça Farpada
+itm_mace_ff_pl|Maça Farpada
+itm_mace_bb|Maça de Ferro
+itm_mace_bb_pl|Maça de Ferro
+itm_mace_aa|Maça
+itm_mace_aa_pl|Maça
+itm_mace_cc|Maça Contundente
+itm_mace_cc_pl|Maça Contundente
+itm_mace_dd|Maça Contundente
+itm_mace_dd_pl|Maça Contundente
+itm_mace_ee|Maça Contundente
+itm_mace_ee_pl|Maça Contundente
+itm_dog_cudgel|Porrete de Cachorro
+itm_dog_cudgel_pl|Porrete de Cachorro
+itm_long_hafted_morning_star|Estrela da Manhã de Cabo Longo
+itm_long_hafted_morning_star_pl|Estrela da Manhã de Cabo Longo
+itm_le_viking_sword_a|Espada Larga
+itm_le_viking_sword_a_pl|Espada Larga
+itm_le_peterson_type_d|Espada Larga
+itm_le_peterson_type_d_pl|Espada Larga
+itm_le_peterson_type_h1|Espada Larga
+itm_le_peterson_type_h1_pl|Espada Larga
+itm_le_peterson_type_h2|Espada Larga
+itm_le_peterson_type_h2_pl|Espada Larga
+itm_le_peterson_type_o|Espada Larga
+itm_le_peterson_type_o_pl|Espada Larga
+itm_le_disk_sword_b|Espada Curta
+itm_le_disk_sword_b_pl|Espada Curta
+itm_le_disk_sword_d|Espada Curta
+itm_le_disk_sword_d_pl|Espada Curta
+itm_cutlass|Cutelo
+itm_cutlass_pl|Cutelo
+itm_falchion1|Alfange
+itm_falchion1_pl|Alfange
+itm_falchion2|Alfange
+itm_falchion2_pl|Alfange
+itm_falchion3|Alfange
+itm_falchion3_pl|Alfange
+itm_falchion4|Alfange
+itm_falchion4_pl|Alfange
+itm_arming_sword|Espada Militar
+itm_arming_sword_pl|Espada Militar
+itm_arming_sword_short|Espada Curta Militar
+itm_arming_sword_short_pl|Espada Curta Militar
+itm_sword_medieval_a|Espada
+itm_sword_medieval_a_pl|Espada
+itm_sword_medieval_b|Espada
+itm_sword_medieval_b_pl|Espada
+itm_sword_medieval_c|Espada Militar
+itm_sword_medieval_c_pl|Espada Militar
+itm_sword_medieval_c_long|Espada Militar
+itm_sword_medieval_c_long_pl|Espada Militar
+itm_sword_medieval_d_long|Espada Longa Militar
+itm_sword_medieval_d_long_pl|Espada Longa Militar
+itm_steward_steel|Espada Bastarda
+itm_steward_steel_pl|Espada Bastarda
+itm_steward_steel_damaged|Espada Bastarda
+itm_steward_steel_damaged_pl|Espada Bastarda
+itm_knight_steel|Espada Militar
+itm_knight_steel_pl|Espada Militar
+itm_arakh_normal|Arakh
+itm_arakh_normal_pl|Arakh
+itm_arakh_long|Long Arakh
+itm_arakh_long_pl|Long Arakh
+itm_arakh_short|Short Arakh
+itm_arakh_short_pl|Short Arakh
+itm_broadsword_stark|Espada Larga
+itm_broadsword_stark_pl|Espada Larga
+itm_broadsword_stark_c|Espada Larga
+itm_broadsword_stark_c_pl|Espada Larga
+itm_saracin_sword_a|Espada Militar
+itm_saracin_sword_a_pl|Espada Militar
+itm_saracin_sword_b|Espada Militar
+itm_saracin_sword_b_pl|Espada Militar
+itm_saracin_sword_c|Espada Militar
+itm_saracin_sword_c_pl|Espada Militar
+itm_saracin_sword_d|Espada Militar
+itm_saracin_sword_d_pl|Espada Militar
+itm_saracin_sword_e|Espada Militar
+itm_saracin_sword_e_pl|Espada Militar
+itm_baratheon_sword|Espada Militar
+itm_baratheon_sword_pl|Espada Militar
+itm_lannister_sword|Espada Militar
+itm_lannister_sword_pl|Espada Militar
+itm_scimitar|Cimitarra
+itm_scimitar_pl|Cimitarra
+itm_elite_scimitar|Cimitarra
+itm_elite_scimitar_pl|Cimitarra
+itm_sabre|Sabre
+itm_sabre_pl|Sabre
+itm_scimitar_b|Cimitarra
+itm_scimitar_b_pl|Cimitarra
+itm_fencing_sword|Florete
+itm_fencing_sword_pl|Florete
+itm_landgraf_steel|Espada Longa
+itm_landgraf_steel_pl|Espada Longa
+itm_agincourt_steel|Grande Espada
+itm_agincourt_steel_pl|Grande Espada
+itm_talhoffer_steel|Espada Longa
+itm_talhoffer_steel_pl|Espada Longa
+itm_lannister_longsword|Espada Longa
+itm_lannister_longsword_pl|Espada Longa
+itm_greyjoy_bastard|Espada Bastarda
+itm_greyjoy_bastard_pl|Espada Bastarda
+itm_two_handed_cleaver|Cutelo de Guerra
+itm_two_handed_cleaver_pl|Cutelo de Guerra
+itm_ice_sword|Espada de Gelo
+itm_ice_sword_pl|Espada de Gelo
+itm_ice_cleaver|Cutelo de Gelo
+itm_ice_cleaver_pl|Cutelo de Gelo
+itm_long_claw|Garra Longa
+itm_long_claw_pl|Garra Longa
+itm_sword_redwyne|Redwyne
+itm_sword_redwyne_pl|Redwyne
+itm_valyrian_arakh|Arakh Valiriano
+itm_valyrian_arakh_pl|Arakh Valiriano
+itm_valyrian_arakh2|Sombra Crescente
+itm_valyrian_arakh2_pl|Sombra Crescente
+itm_ice|Gelo
+itm_ice_pl|Gelo
+itm_dawn_sword|Alvorada
+itm_dawn_sword_pl|Alvorada
+itm_stannis_lightbringer|Luminífera
+itm_stannis_lightbringer_pl|Luminífera
+itm_heartsbane|Veneno do Coração
+itm_heartsbane_pl|Veneno do Coração
+itm_darksister|Irmã Negra
+itm_darksister_pl|Irmã Negra
+itm_blackfyre|Blackfyre
+itm_blackfyre_pl|Blackfyre
+itm_sea_serpent|Serpente do Mar
+itm_sea_serpent_pl|Serpente do Mar
+itm_sea_smoke|Fumaresia
+itm_sea_smoke_pl|Fumaresia
+itm_widows_wail|Lamento da Viúva
+itm_widows_wail_pl|Lamento da Viúva
+itm_fire_sword|Espada Longa
+itm_fire_sword_pl|Espada Longa
+itm_rhllors_glory|Glória de R'hllor
+itm_rhllors_glory_pl|Glória de R'hllor
+itm_valyrian_toledo|Lâmina Valiriana
+itm_valyrian_toledo_pl|Lâmina Valiriana
+itm_reapers_vengeance|Vingança Ceifadora
+itm_reapers_vengeance_pl|Vingança Ceifadora
+itm_dark_vengeance|Vingança Negra
+itm_dark_vengeance_pl|Vingança Negra
+itm_red_rain|Chuva Rubra
+itm_red_rain_pl|Chuva Rubra
+itm_lamentation|Lamentação
+itm_lamentation_pl|Lamentação
+itm_valyrian_scimitar|Cimitarra Valiriana
+itm_valyrian_scimitar_pl|Cimitarra Valiriana
+itm_valyrian_two_blade|Grande Espada Valiriana
+itm_valyrian_two_blade_pl|Grande Espada Valiriana
+itm_valyrian_one_blade|Espada Longa Valiriana
+itm_valyrian_one_blade_pl|Espada Longa Valiriana
+itm_valyrian_small_blade|Espada Longa Valiriana
+itm_valyrian_small_blade_pl|Espada Longa Valiriana
+itm_valyrian_two_blade1|Espada Longa Valiriana
+itm_valyrian_two_blade1_pl|Espada Longa Valiriana
+itm_valyrian_two_blade2|Espada Longa Valiriana
+itm_valyrian_two_blade2_pl|Espada Longa Valiriana
+itm_valyrian_two_blade3|Espada Longa Valiriana
+itm_valyrian_two_blade3_pl|Espada Longa Valiriana
+itm_hatchet|Machado
+itm_hatchet_pl|Machado
+itm_shortened_voulge|Voulge Encurtado
+itm_shortened_voulge_pl|Voulge Encurtado
+itm_axefaradon2|Machado
+itm_axefaradon2_pl|Machado
+itm_bronze_axe_2|Machado de Bronze
+itm_bronze_axe_2_pl|Machado de Bronze
+itm_bronze_axe|Machado de Bronze
+itm_bronze_axe_pl|Machado de Bronze
+itm_stone_axe|Machado de Pedra
+itm_stone_axe_pl|Machado de Pedra
+itm_long_axe|Machado Longo
+itm_long_axe_pl|Machado Longo
+itm_great_bardiche|Grande Bardiche
+itm_great_bardiche_pl|Grande Bardiche
+itm_hafted_blade_b|Lâmina com Empunhadura
+itm_hafted_blade_b_pl|Lâmina com Empunhadura
+itm_hafted_blade_a|Lâmina com Empunhadura
+itm_hafted_blade_a_pl|Lâmina com Empunhadura
+itm_hunters_axe|Machado de Caça
+itm_hunters_axe_pl|Machado de Caça
+itm_axe_crusader_c|Machado
+itm_axe_crusader_c_pl|Machado
+itm_Greyjoy_axe|Machado
+itm_Greyjoy_axe_pl|Machado
+itm_stark_axe|Machado
+itm_stark_axe_pl|Machado
+itm_obsidian_axe|Machado de Obsidiana
+itm_obsidian_axe_pl|Machado de Obsidiana
+itm_axe|Machado
+itm_axe_pl|Machado
+itm_axe_crusader_d|Machado
+itm_axe_crusader_d_pl|Machado
+itm_axe_crusader_a|Hand Machado
+itm_axe_crusader_a_pl|Hand Machado
+itm_axe_crusader_b|Machado
+itm_axe_crusader_b_pl|Machado
+itm_bone_axe|Machado de Osso
+itm_bone_axe_pl|Machado de Osso
+itm_battle_axe|Machado de Batalha
+itm_battle_axe_pl|Machado de Batalha
+itm_war_axe|Machado de Duas Mãos
+itm_war_axe_pl|Machado de Duas Mãos
+itm_battle_axe2|Machado de Batalha
+itm_battle_axe2_pl|Machado de Batalha
+itm_celtigar_axe|Machado Celtigar
+itm_celtigar_axe_pl|Machado Celtigar
+itm_krag_baratheon_hammer|Martelo do Rei
+itm_krag_baratheon_hammer_pl|Martelo do Rei
+itm_thunder|Machado de Batalha
+itm_thunder_pl|Machado de Batalha
+itm_giant_stone_axe|Machado de Pedra
+itm_giant_stone_axe_pl|Machado de Pedra
+itm_staff|Bastão
+itm_staff_pl|Bastão
+itm_ash_staff|Bastão de Sorveira
+itm_ash_staff_pl|Bastão de Sorveira
+itm_quarter_staff|Bastão pequeno
+itm_quarter_staff_pl|Bastão pequeno
+itm_shepherds_crook|Cajado de Pastor
+itm_shepherds_crook_pl|Cajado de Pastor
+itm_scythe|Foice
+itm_scythe_pl|Foice
+itm_pitch_fork|Forcado
+itm_pitch_fork_pl|Forcado
+itm_military_fork|Forcado Militar
+itm_military_fork_pl|Forcado Militar
+itm_battle_fork|Cajado de Pastor
+itm_battle_fork_pl|Cajado de Pastor
+itm_stone_spear|Lança de Pedra
+itm_stone_spear_pl|Lança de Pedra
+itm_obsidian_spear|Lança de Obsidiana
+itm_obsidian_spear_pl|Lança de Obsidiana
+itm_ice_spear|Lança de Gelo
+itm_ice_spear_pl|Lança de Gelo
+itm_boar_spear|Lança de Javali
+itm_boar_spear_pl|Lança de Javali
+itm_spear_6|Lança
+itm_spear_6_pl|Lança
+itm_lance|Lança de Cavalaria
+itm_lance_pl|Lança de Cavalaria
+itm_spear_lance|Lança de Cavalaria
+itm_spear_lance_pl|Lança de Cavalaria
+itm_light_lance|Lança Leve de Cavalaria
+itm_light_lance_pl|Lança Leve de Cavalaria
+itm_spear_8|Lança
+itm_spear_8_pl|Lança
+itm_spear_4|Lança de Guerra
+itm_spear_4_pl|Lança de Guerra
+itm_spear_5|Lança Pesada
+itm_spear_5_pl|Lança Pesada
+itm_spear_7|Lança
+itm_spear_7_pl|Lança
+itm_thenn_spear_1|Lança
+itm_thenn_spear_1_pl|Lança
+itm_thenn_spear_2|Lança
+itm_thenn_spear_2_pl|Lança
+itm_saxon_spear|Lança com Lâmina
+itm_saxon_spear_pl|Lança com Lâmina
+itm_crusader_knight_spear_a|Lança de Cavalaria
+itm_crusader_knight_spear_a_pl|Lança de Cavalaria
+itm_crusader_spear_inf_a|Lança
+itm_crusader_spear_inf_a_pl|Lança
+itm_crusader_spear_inf_b|Lança
+itm_crusader_spear_inf_b_pl|Lança
+itm_crusader_spear_inf_c|Lança
+itm_crusader_spear_inf_c_pl|Lança
+itm_mameluk_spears_a|Lança de Guerra
+itm_mameluk_spears_a_pl|Lança de Guerra
+itm_unsullied_spear|Lança Leve
+itm_unsullied_spear_pl|Lança Leve
+itm_voulge|Voulge
+itm_voulge_pl|Voulge
+itm_borovod_glaive|Glaive
+itm_borovod_glaive_pl|Glaive
+itm_corseque|Tridente
+itm_corseque_pl|Tridente
+itm_simple_poleaxe|Machado de Haste
+itm_simple_poleaxe_pl|Machado de Haste
+itm_elegant_poleaxe|Machado de Haste
+itm_elegant_poleaxe_pl|Machado de Haste
+itm_bec_de_corbin|Martelo de Haste
+itm_bec_de_corbin_pl|Martelo de Haste
+itm_jam_fauchard|Guisarme
+itm_jam_fauchard_pl|Guisarme
+itm_awl_pike_a|Pique Perfurante
+itm_awl_pike_a_pl|Pique Perfurante
+itm_lui_onehandedphalanxpike|Pique
+itm_lui_onehandedphalanxpike_pl|Pique
+itm_lui_vaegirpike|Pique
+itm_lui_vaegirpike_pl|Pique
+itm_lui_khergitpike|Pique Ornamentado
+itm_lui_khergitpike_pl|Pique Ornamentado
+itm_lui_smallelitehallberd|Alabarda Curta
+itm_lui_smallelitehallberd_pl|Alabarda Curta
+itm_rrr_polehammer1|Martelo de Haste
+itm_rrr_polehammer1_pl|Martelo de Haste
+itm_lui_halberda|Alabarda Longa
+itm_lui_halberda_pl|Alabarda Longa
+itm_jacok_fancyhalberd|Alabarda
+itm_jacok_fancyhalberd_pl|Alabarda
+itm_jousting_lance|Lança de Justas
+itm_jousting_lance_pl|Lança de Justas
+itm_heavy_lance|Lança de Cavalaria Pesada
+itm_heavy_lance_pl|Lança de Cavalaria Pesada
+itm_great_lance|Grande Lança de Cavalaria
+itm_great_lance_pl|Grande Lança de Cavalaria
+itm_knight_banner_stark|Casa Stark
+itm_knight_banner_stark_pl|Casa Stark
+itm_knight_standardbanner|Estandarte
+itm_knight_standardbanner_pl|Estandarte
+itm_knight_banner_nights_watch|Estandarte da Patrulha da Noite
+itm_knight_banner_nights_watch_pl|Estandarte da Patrulha da Noite
+itm_knight_banner_greyjoy|Casa Greyjoy
+itm_knight_banner_greyjoy_pl|Casa Greyjoy
+itm_knight_banner_targaryen|Casa Targaryen
+itm_knight_banner_targaryen_pl|Casa Targaryen
+itm_knight_banner_bolton|Casa Bolton
+itm_knight_banner_bolton_pl|Casa Bolton
+itm_knight_banner_karstark|Casa Karstark
+itm_knight_banner_karstark_pl|Casa Karstark
+itm_knight_banner_dragonstone|Casa Baratheon de Pedra do Dragão
+itm_knight_banner_dragonstone_pl|Casa Baratheon de Pedra do Dragão
+itm_knight_banner_westerlands|Casa Lannister
+itm_knight_banner_westerlands_pl|Casa Lannister
+itm_knight_banner_joffrey|Casa Baratheon de Porto Real
+itm_knight_banner_joffrey_pl|Casa Baratheon de Porto Real
+itm_knight_banner_arryn|Casa Arryn
+itm_knight_banner_arryn_pl|Casa Arryn
+itm_knight_banner_baratheon|Casa Baratheon
+itm_knight_banner_baratheon_pl|Casa Baratheon
+itm_knight_banner_martell|Casa Martell
+itm_knight_banner_martell_pl|Casa Martell
+itm_knight_banner_tyrell|Casa Tyrell
+itm_knight_banner_tyrell_pl|Casa Tyrell
+itm_personalbanner|Estandarte
+itm_personalbanner_pl|Estandarte
+itm_spear_banner_stark|Casa Stark
+itm_spear_banner_stark_pl|Casa Stark
+itm_standardbanner|Estandarte
+itm_standardbanner_pl|Estandarte
+itm_spear_banner_nights_watch|Estandarte da Patrulha da Noite
+itm_spear_banner_nights_watch_pl|Estandarte da Patrulha da Noite
+itm_spear_banner_greyjoy|Casa Greyjoy
+itm_spear_banner_greyjoy_pl|Casa Greyjoy
+itm_spear_banner_targaryen|Casa Targaryen
+itm_spear_banner_targaryen_pl|Casa Targaryen
+itm_spear_banner_bolton|Casa Bolton
+itm_spear_banner_bolton_pl|Casa Bolton
+itm_spear_banner_karstark|Casa Karstark
+itm_spear_banner_karstark_pl|Casa Karstark
+itm_spear_banner_dragonstone|Casa Baratheon de Pedra do Dragão
+itm_spear_banner_dragonstone_pl|Casa Baratheon de Pedra do Dragão
+itm_spear_banner_westerlands|Casa Lannister
+itm_spear_banner_westerlands_pl|Casa Lannister
+itm_spear_banner_joffrey|Casa Baratheon de Porto Real
+itm_spear_banner_joffrey_pl|Casa Baratheon de Porto Real
+itm_spear_banner_arryn|Casa Arryn
+itm_spear_banner_arryn_pl|Casa Arryn
+itm_spear_banner_baratheon|Casa Baratheon
+itm_spear_banner_baratheon_pl|Casa Baratheon
+itm_spear_banner_martell|Casa Martell
+itm_spear_banner_martell_pl|Casa Martell
+itm_spear_banner_tyrell|Casa Tyrell
+itm_spear_banner_tyrell_pl|Casa Tyrell
+itm_xeno_wooden_shield|Escudo de Madeira
+itm_xeno_wooden_shield_pl|Escudo de Madeira
+itm_xeno_wooden_shield1|Escudo de Madeira
+itm_xeno_wooden_shield1_pl|Escudo de Madeira
+itm_xeno_wooden_shield2|Escudo de Madeira
+itm_xeno_wooden_shield2_pl|Escudo de Madeira
+itm_xeno_leather_shield|Escudo de Couro
+itm_xeno_leather_shield_pl|Escudo de Couro
+itm_shield_stark|Escudo Redondo de Aço
+itm_shield_stark_pl|Escudo Redondo de Aço
+itm_shield_stark2|Escudo de Aço
+itm_shield_stark2_pl|Escudo de Aço
+itm_arryn_shield|Escudo de Aço
+itm_arryn_shield_pl|Escudo de Aço
+itm_craken_shield|Escudo Redondo
+itm_craken_shield_pl|Escudo Redondo
+itm_dorn_sheald6|Escudo Redondo
+itm_dorn_sheald6_pl|Escudo Redondo
+itm_sun_shield|Escudo Redondo
+itm_sun_shield_pl|Escudo Redondo
+itm_dragonstone_round_shield|Escudo Redondo
+itm_dragonstone_round_shield_pl|Escudo Redondo
+itm_gc_shield|Escudo Redondo
+itm_gc_shield_pl|Escudo Redondo
+itm_woodenshield_small_d|Escudo de Madeira
+itm_woodenshield_small_d_pl|Escudo de Madeira
+itm_woodenshield_small|Escudo de Madeira
+itm_woodenshield_small_pl|Escudo de Madeira
+itm_leathershield_small_b|Escudo de Couro
+itm_leathershield_small_b_pl|Escudo de Couro
+itm_targ_small_shield|Escudo de Madeira
+itm_targ_small_shield_pl|Escudo de Madeira
+itm_tab_shield_kite_cav_a|Escudo Lágrima
+itm_tab_shield_kite_cav_a_pl|Escudo Lágrima
+itm_tab_shield_small_round_a|Escudo Pequeno
+itm_tab_shield_small_round_a_pl|Escudo Pequeno
+itm_tab_shield_small_round_b|Escudo Pequeno
+itm_tab_shield_small_round_b_pl|Escudo Pequeno
+itm_tab_shield_round_a|Escudo Redondo
+itm_tab_shield_round_a_pl|Escudo Redondo
+itm_tab_shield_small_round_c|Escudo Redondo Pequeno
+itm_tab_shield_small_round_c_pl|Escudo Redondo Pequeno
+itm_tab_shield_heater_a|Escudo Cometa
+itm_tab_shield_heater_a_pl|Escudo Cometa
+itm_tab_shield_heater_b|Escudo Cometa
+itm_tab_shield_heater_b_pl|Escudo Cometa
+itm_tab_shield_kite_a|Escudo Lágrima
+itm_tab_shield_kite_a_pl|Escudo Lágrima
+itm_tab_shield_kite_b|Escudo Lágrima
+itm_tab_shield_kite_b_pl|Escudo Lágrima
+itm_blackfyre_shield|Escudo de Aço
+itm_blackfyre_shield_pl|Escudo de Aço
+itm_targaryen_shield|Escudo de Aço
+itm_targaryen_shield_pl|Escudo de Aço
+itm_shield_dragonstone|Escudo Lágrima
+itm_shield_dragonstone_pl|Escudo Lágrima
+itm_shield_renly|Escudo Cometa
+itm_shield_renly_pl|Escudo Cometa
+itm_shield_manderly|Escudo Cometa
+itm_shield_manderly_pl|Escudo Cometa
+itm_tyrell_shield|Escudo Cometa
+itm_tyrell_shield_pl|Escudo Cometa
+itm_tarly_shield|Escudo Cometa
+itm_tarly_shield_pl|Escudo Cometa
+itm_leathershield_medium|Escudo de Couro
+itm_leathershield_medium_pl|Escudo de Couro
+itm_leathershield_medium_y|Escudo de Couro
+itm_leathershield_medium_y_pl|Escudo de Couro
+itm_leathershield_medium_b|Escudo de Couro
+itm_leathershield_medium_b_pl|Escudo de Couro
+itm_woodenshield_medium|Escudo de Madeira
+itm_woodenshield_medium_pl|Escudo de Madeira
+itm_woodenshield_medium_d|Escudo de Madeira
+itm_woodenshield_medium_d_pl|Escudo de Madeira
+itm_targ_med_shield1|Escudo Lágrima
+itm_targ_med_shield1_pl|Escudo Lágrima
+itm_targ_med_shield2|Escudo Lágrima
+itm_targ_med_shield2_pl|Escudo Lágrima
+itm_medium_karstark_shield|Escudo Lágrima
+itm_medium_karstark_shield_pl|Escudo Lágrima
+itm_medium_bolton_shield|Escudo Lágrima
+itm_medium_bolton_shield_pl|Escudo Lágrima
+itm_shield_lannister_2|Escudo Cometa
+itm_shield_lannister_2_pl|Escudo Cometa
+itm_shield_of_seven|Escudo Cometa
+itm_shield_of_seven_pl|Escudo Cometa
+itm_lannister_round_shield|Escudo Oval
+itm_lannister_round_shield_pl|Escudo Oval
+itm_unsullied_shield|Escudo Redondo
+itm_unsullied_shield_pl|Escudo Redondo
+itm_xeno_wooden_shield_reinforced|Escudo de Madeira
+itm_xeno_wooden_shield_reinforced_pl|Escudo de Madeira
+itm_shield_10|Escudo Redondo
+itm_shield_10_pl|Escudo Redondo
+itm_tab_shield_kite_c|Escudo Lágrima
+itm_tab_shield_kite_c_pl|Escudo Lágrima
+itm_tab_shield_kite_cav_b|Escudo Lágrima
+itm_tab_shield_kite_cav_b_pl|Escudo Lágrima
+itm_tab_shield_heater_c|Escudo Cometa
+itm_tab_shield_heater_c_pl|Escudo Cometa
+itm_tab_shield_pavise_a|Pavê
+itm_tab_shield_pavise_a_pl|Pavê
+itm_tab_shield_pavise_b|Pavê
+itm_tab_shield_pavise_b_pl|Pavê
+itm_tab_shield_pavise_c|Pavê
+itm_tab_shield_pavise_c_pl|Pavê
+itm_tab_shield_round_b|Escudo Redondo
+itm_tab_shield_round_b_pl|Escudo Redondo
+itm_tab_shield_round_c|Escudo Redondo
+itm_tab_shield_round_c_pl|Escudo Redondo
+itm_tab_shield_heater_cav_a|Escudo Cometa
+itm_tab_shield_heater_cav_a_pl|Escudo Cometa
+itm_tab_shield_heater_cav_b|Escudo Cometa
+itm_tab_shield_heater_cav_b_pl|Escudo Cometa
+itm_greyjoy_shield|Escudo Torre
+itm_greyjoy_shield_pl|Escudo Torre
+itm_targ_large_shield|Escudo Lágrima
+itm_targ_large_shield_pl|Escudo Lágrima
+itm_karstark_shield|Escudo Lágrima
+itm_karstark_shield_pl|Escudo Lágrima
+itm_bolton_shield|Escudo Lágrima
+itm_bolton_shield_pl|Escudo Lágrima
+itm_tarly_kite_shield|Escudo Lágrima
+itm_tarly_kite_shield_pl|Escudo Lágrima
+itm_lannister_kite_shield|Escudo Lágrima
+itm_lannister_kite_shield_pl|Escudo Lágrima
+itm_krag_bolton_pavise|Pavê
+itm_krag_bolton_pavise_pl|Pavê
+itm_tab_shield_round_d|Escudo Redondo
+itm_tab_shield_round_d_pl|Escudo Redondo
+itm_tab_shield_round_e|Escudo Redondo
+itm_tab_shield_round_e_pl|Escudo Redondo
+itm_tab_shield_kite_d|Escudo Lágrima
+itm_tab_shield_kite_d_pl|Escudo Lágrima
+itm_tab_shield_heater_d|Escudo Cometa
+itm_tab_shield_heater_d_pl|Escudo Cometa
+itm_tab_shield_pavise_d|Pavê
+itm_tab_shield_pavise_d_pl|Pavê
+itm_darts|Dardos
+itm_darts_pl|Dardos
+itm_darts_melee|Dardos Simples
+itm_darts_melee_pl|Dardos Simples
+itm_javelin|Dardos
+itm_javelin_pl|Dardos
+itm_javelin_melee|Dardos
+itm_javelin_melee_pl|Dardos
+itm_wooden_javelin|Dardos de Madeira
+itm_wooden_javelin_pl|Dardos de Madeira
+itm_long_wooden_javelin|Dardos de Madeira
+itm_long_wooden_javelin_pl|Dardos de Madeira
+itm_throwing_spears|Lanças de Arremesso
+itm_throwing_spears_pl|Lanças de Arremesso
+itm_throwing_spear_melee|Lanças de Arremesso
+itm_throwing_spear_melee_pl|Lanças de Arremesso
+itm_javelin_2|Dardos Curtos
+itm_javelin_2_pl|Dardos Curtos
+itm_javelin_melee_2|Dardos Curtos
+itm_javelin_melee_2_pl|Dardos Curtos
+itm_javelin_1|Dardos de Ginete
+itm_javelin_1_pl|Dardos de Ginete
+itm_javelin_melee_1|Dardos de Ginete
+itm_javelin_melee_1_pl|Dardos de Ginete
+itm_jarid|Angons
+itm_jarid_pl|Angons
+itm_jarid_melee2|Angon
+itm_jarid_melee2_pl|Angon
+itm_obsidian_javelin|Dardos de Obsidiana
+itm_obsidian_javelin_pl|Dardos de Obsidiana
+itm_obsidian_javelin_melee|Dardos de Obsidiana
+itm_obsidian_javelin_melee_pl|Dardos de Obsidiana
+itm_crusader_spear_c_throwing|Lanças de Arremesso
+itm_crusader_spear_c_throwing_pl|Lanças de Arremesso
+itm_crusader_spear_c|Lanças de Arremesso
+itm_crusader_spear_c_pl|Lanças de Arremesso
+itm_stones|Pedras
+itm_stones_pl|Pedras
+itm_light_throwing_axes|Machados de Arremesso Leves
+itm_light_throwing_axes_pl|Machados de Arremesso Leves
+itm_light_throwing_axes_melee|Machado Leve
+itm_light_throwing_axes_melee_pl|Machado Leve
+itm_throwing_axes|Machados de Arremesso
+itm_throwing_axes_pl|Machados de Arremesso
+itm_throwing_axes_melee|Machado
+itm_throwing_axes_melee_pl|Machado
+itm_hunting_bow|Arco de Caça
+itm_hunting_bow_pl|Arco de Caça
+itm_short_bow|Arco Curto
+itm_short_bow_pl|Arco Curto
+itm_nomad_bow|Arco Composto
+itm_nomad_bow_pl|Arco Composto
+itm_saracin_bow_a|Arco Curto
+itm_saracin_bow_a_pl|Arco Curto
+itm_faceless_bow|Arco Composto
+itm_faceless_bow_pl|Arco Composto
+itm_long_bow|Arco Longo
+itm_long_bow_pl|Arco Longo
+itm_handmade_hunting_bow|Arco de Caça Feito à Mão
+itm_handmade_hunting_bow_pl|Arco de Caça Feito à Mão
+itm_long_bow2|Arco Longo
+itm_long_bow2_pl|Arco Longo
+itm_dragonbone_bow|Arco de Osso de Dragão
+itm_dragonbone_bow_pl|Arco de Osso de Dragão
+itm_goldenheart_bow|Arco Coração de Ouro
+itm_goldenheart_bow_pl|Arco Coração de Ouro
+itm_wierwood_bow|Arco de Represeiro
+itm_wierwood_bow_pl|Arco de Represeiro
+itm_strong_bow|Arco Forte
+itm_strong_bow_pl|Arco Forte
+itm_war_bow|Arco de Guerra
+itm_war_bow_pl|Arco de Guerra
+itm_hunting_crossbow|Besta de Caça
+itm_hunting_crossbow_pl|Besta de Caça
+itm_heavy_crossbow|Besta Pesada
+itm_heavy_crossbow_pl|Besta Pesada
+itm_light_crossbow|Besta Leve
+itm_light_crossbow_pl|Besta Leve
+itm_crossbow|Besta
+itm_crossbow_pl|Besta
+itm_sling_stones_small|Pedras Pequenas
+itm_sling_stones_small_pl|Pedras Pequenas
+itm_sling_stones_large|Pedras Grandes
+itm_sling_stones_large_pl|Pedras Grandes
+itm_sling|Estilingue
+itm_sling_pl|Estilingue
+itm_sling_military|Estilingue Militar
+itm_sling_military_pl|Estilingue Militar
+itm_torch|Tochas
+itm_torch_pl|Tochas
+itm_lyre|Lira
+itm_lyre_pl|Lira
+itm_dedal_kufel|Kufel
+itm_dedal_kufel_pl|Kufel
+itm_dedal_lutnia|Lutnia
+itm_dedal_lutnia_pl|Lutnia
+itm_dedal_lira|Lira
+itm_dedal_lira_pl|Lira
+itm_lute|Alaúde
+itm_lute_pl|Alaúde
+itm_instruments_end|Instrumentos
+itm_instruments_end_pl|Instrumentos
+itm_court_dress|Vestido da Corte
+itm_court_dress_pl|Vestido da Corte
+itm_agua_hirviendo|Água Fervente
+itm_agua_hirviendo_pl|Água Fervente
+itm_deer|Veado
+itm_deer_pl|Veado
+itm_boar|Javali
+itm_boar_pl|Javali
+itm_wolf|Lobo
+itm_wolf_pl|Lobo
+itm_coat|Cabra
+itm_coat_pl|Cabra
+itm_coat_b|Cabra
+itm_coat_b_pl|Cabra
+itm_wilddonkey|Burro Selvagem
+itm_wilddonkey_pl|Burro Selvagem
+itm_boar_king|Javali
+itm_boar_king_pl|Javali
+itm_animal_pig|Porco
+itm_animal_pig_pl|Porco
+itm_animal_sheep|Ovelha
+itm_animal_sheep_pl|Ovelha
+itm_animal_sheep_b|Ovelha
+itm_animal_sheep_b_pl|Ovelha
+itm_animal_boar|Javali
+itm_animal_boar_pl|Javali
+itm_animal_wolf|Lobo
+itm_animal_wolf_pl|Lobo
+itm_animal_dog|Cão
+itm_animal_dog_pl|Cão
+itm_wolf_companion_horse|Lobo Gigante
+itm_wolf_companion_horse_pl|Lobo Gigante
+itm_dog_companion_horse|Cão
+itm_dog_companion_horse_pl|Cão
+itm_wolf_horse|Lobo
+itm_wolf_horse_pl|Lobo
+itm_wolf_bite|Mordida
+itm_wolf_bite_pl|Mordida
+itm_dog_bite|Mordida
+itm_dog_bite_pl|Modida
+itm_horn|Chifre
+itm_horn_pl|Chifre
+itm_horn_multi|Chifre
+itm_horn_multi_pl|Chifre
+itm_trophy_a|Troféu de Batalha
+itm_trophy_a_pl|Troféu de Batalha
+itm_trophy_b|Troféu de guerra
+itm_trophy_b_pl|Troféu de guerra
+itm_trophy_c|Troféu épico
+itm_trophy_c_pl|Troféu épico
+itm_dplmc_coat_of_plates_red_constable|Malha de Comissário
+itm_dplmc_coat_of_plates_red_constable_pl|Malha de Comissário
+itm_keys|Molho de Chaves
+itm_keys_pl|Molho de Chaves
+itm_bride_dress|Vestido de Noiva
+itm_bride_dress_pl|Vestido de Noiva
+itm_bride_crown|Coroa de Flores
+itm_bride_crown_pl|Coroa de Flores
+itm_bride_shoes|Sapato de Noiva
+itm_bride_shoes_pl|Sapato de Noiva
+itm_practice_bow_2|Arco Longo
+itm_practice_bow_2_pl|Arco Longo
+itm_practice_arrows_2|Flechas
+itm_practice_arrows_2_pl|Flechas
+itm_Horn1|Chifre
+itm_Horn1_pl|Chifre
+itm_boiling_water1|Água Fervente
+itm_boiling_water1_pl|Água Fervente
+itm_wildfire|Fogovivo
+itm_wildfire_pl|Fogovivo
+itm_heraldic_mail_with_surcoat_for_tableau|Malha Heráldica com Sobretudo
+itm_heraldic_mail_with_surcoat_for_tableau_pl|Malha Heráldica com Sobretudo
+itm_mail_boots_for_tableau|Botas de Malha
+itm_mail_boots_for_tableau_pl|Botas de Malha
+itm_items_end|Fim dos Items
+itm_items_end_pl|Fim dos Items
+itm_noswing_knife|Faca de Caçador
+itm_noswing_knife_pl|Faca de Caçador
+itm_noswing_dagger|Adaga
+itm_noswing_dagger_pl|Adaga
+itm_noswing_obsidian_dagger|Adaga de Obsidiana
+itm_noswing_obsidian_dagger_pl|Adaga de Obsidiana
+itm_noswing_mackie_beefsplitter|Beef Splitter*
+itm_noswing_mackie_beefsplitter_pl|Beef Splitter
+itm_noswing_mace_ff|Maça Farpada
+itm_noswing_mace_ff_pl|Maça Farpada
+itm_noswing_mace_dd|Maça Contundente
+itm_noswing_mace_dd_pl|Maça Contundente
+itm_noswing_mace_ee|Maça Contundente
+itm_noswing_mace_ee_pl|Maça Contundente
+itm_noswing_long_hafted_morning_star|Estrela da Manhã de Cabo Longo
+itm_noswing_long_hafted_morning_star_pl|Estrela da Manhã de Cabo Longo
+itm_noswing_le_viking_sword_a|Espada Larga
+itm_noswing_le_viking_sword_a_pl|Espada Larga
+itm_noswing_le_peterson_type_d|Espada Larga
+itm_noswing_le_peterson_type_d_pl|Espada Larga
+itm_noswing_le_peterson_type_h1|Espada Larga
+itm_noswing_le_peterson_type_h1_pl|Espada Larga
+itm_noswing_le_peterson_type_h2|Espada Larga
+itm_noswing_le_peterson_type_h2_pl|Espada Larga
+itm_noswing_le_peterson_type_o|Espada Larga
+itm_noswing_le_peterson_type_o_pl|Espada Larga
+itm_noswing_le_disk_sword_b|Espada Curta
+itm_noswing_le_disk_sword_b_pl|Espada Curta
+itm_noswing_le_disk_sword_d|Espada Curta
+itm_noswing_le_disk_sword_d_pl|Espada Curta
+itm_noswing_falchion1|Alfange
+itm_noswing_falchion1_pl|Alfange
+itm_noswing_falchion2|Alfange
+itm_noswing_falchion2_pl|Alfange
+itm_noswing_falchion3|Alfange
+itm_noswing_falchion3_pl|Alfange
+itm_noswing_falchion4|Alfange
+itm_noswing_falchion4_pl|Alfange
+itm_noswing_arming_sword|Espada Militar
+itm_noswing_arming_sword_pl|Espada Militar
+itm_noswing_arming_sword_short|Espada Curta Militar
+itm_noswing_arming_sword_short_pl|Espada Curta Militar
+itm_noswing_sword_medieval_a|Espada
+itm_noswing_sword_medieval_a_pl|Espada
+itm_noswing_sword_medieval_b|Espada
+itm_noswing_sword_medieval_b_pl|Espada
+itm_noswing_sword_medieval_c|Espada Militar
+itm_noswing_sword_medieval_c_pl|Espada Militar
+itm_noswing_sword_medieval_c_long|Espada Militar
+itm_noswing_sword_medieval_c_long_pl|Espada Militar
+itm_noswing_sword_medieval_d_long|Espada Longa Militar
+itm_noswing_sword_medieval_d_long_pl|Espada Longa Militar
+itm_noswing_steward_steel|Espada Bastarda
+itm_noswing_steward_steel_pl|Espada Bastarda
+itm_noswing_steward_steel_damaged|Espada Bastarda
+itm_noswing_steward_steel_damaged_pl|Espada Bastarda
+itm_noswing_knight_steel|Espada Militar
+itm_noswing_knight_steel_pl|Espada Militar
+itm_noswing_broadsword_stark|Espada Larga
+itm_noswing_broadsword_stark_pl|Espada Larga
+itm_noswing_broadsword_stark_c|Espada Larga
+itm_noswing_broadsword_stark_c_pl|Espada Larga
+itm_noswing_saracin_sword_a|Espada Militar
+itm_noswing_saracin_sword_a_pl|Espada Militar
+itm_noswing_saracin_sword_b|Espada Militar
+itm_noswing_saracin_sword_b_pl|Espada Militar
+itm_noswing_saracin_sword_c|Espada Militar
+itm_noswing_saracin_sword_c_pl|Espada Militar
+itm_noswing_saracin_sword_d|Espada Militar
+itm_noswing_saracin_sword_d_pl|Espada Militar
+itm_noswing_saracin_sword_e|Espada Militar
+itm_noswing_saracin_sword_e_pl|Espada Militar
+itm_noswing_baratheon_sword|Espada Militar
+itm_noswing_baratheon_sword_pl|Espada Militar
+itm_noswing_lannister_sword|Espada Militar
+itm_noswing_lannister_sword_pl|Espada Militar
+itm_noswing_fencing_sword|Florete
+itm_noswing_fencing_sword_pl|Florete
+itm_noswing_landgraf_steel|Espada Longa
+itm_noswing_landgraf_steel_pl|Espada Longa
+itm_noswing_agincourt_steel|Grande Espada
+itm_noswing_agincourt_steel_pl|Grande Espada
+itm_noswing_talhoffer_steel|Espada Longa
+itm_noswing_talhoffer_steel_pl|Espada Longa
+itm_noswing_lannister_longsword|Espada Longa
+itm_noswing_lannister_longsword_pl|Espada Longa
+itm_noswing_greyjoy_bastard|Espada Bastarda
+itm_noswing_greyjoy_bastard_pl|Espada Bastarda
+itm_noswing_ice_sword|Espada de Gelo
+itm_noswing_ice_sword_pl|Espada de Gelo
+itm_noswing_long_claw|Garralonga
+itm_noswing_long_claw_pl|Garralonga
+itm_noswing_sword_redwyne|Redwyne
+itm_noswing_sword_redwyne_pl|Redwyne
+itm_noswing_ice|Gelo
+itm_noswing_ice_pl|Gelo
+itm_noswing_dawn_sword|Alvorada
+itm_noswing_dawn_sword_pl|Alvorada
+itm_noswing_stannis_lightbringer|Luminífera
+itm_noswing_stannis_lightbringer_pl|Luminífera
+itm_noswing_heartsbane|Veneno do Coração
+itm_noswing_heartsbane_pl|Veneno do Coração
+itm_noswing_darksister|Irmã Negra
+itm_noswing_darksister_pl|Irmã Negra
+itm_noswing_blackfyre|Blackfyre
+itm_noswing_blackfyre_pl|Blackfyre
+itm_noswing_sea_serpent|Serpente do Mar
+itm_noswing_sea_serpent_pl|Serpente do Mar
+itm_noswing_sea_smoke|Fumaresia
+itm_noswing_sea_smoke_pl|Fumaresia
+itm_noswing_widows_wail|Lamento de Viúva
+itm_noswing_widows_wail_pl|Lamento de Viúva
+itm_noswing_fire_sword|Espada Longa
+itm_noswing_fire_sword_pl|Espada Longa
+itm_noswing_rhllors_glory|Glória de R'hllor
+itm_noswing_rhllors_glory_pl|Glória de R'hllor
+itm_noswing_valyrian_toledo|Lâmina Valiriana
+itm_noswing_valyrian_toledo_pl|Lâmina Valiriana
+itm_noswing_reapers_vengeance|Vingança Ceifeira
+itm_noswing_reapers_vengeance_pl|Vingança Ceifeira
+itm_noswing_dark_vengeance|Vingança Negra
+itm_noswing_dark_vengeance_pl|Vingança Negra
+itm_noswing_red_rain|Chuva Rubra
+itm_noswing_red_rain_pl|Chuva Rubra
+itm_noswing_lamentation|Lamentação
+itm_noswing_lamentation_pl|Lamentação
+itm_noswing_valyrian_scimitar|Cimitarra Valiriana
+itm_noswing_valyrian_scimitar_pl|Cimitarra Valiriana
+itm_noswing_valyrian_two_blade|Grande Espada Valiriana
+itm_noswing_valyrian_two_blade_pl|Grande Espada Valiriana
+itm_noswing_valyrian_one_blade|Espada Longa Valiriana
+itm_noswing_valyrian_one_blade_pl|Espada Longa Valiriana
+itm_noswing_valyrian_small_blade|Espada Longa Valiriana
+itm_noswing_valyrian_small_blade_pl|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade1|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade1_pl|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade2|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade2_pl|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade3|Espada Longa Valiriana
+itm_noswing_valyrian_two_blade3_pl|Espada Longa Valiriana
+itm_noswing_long_axe|Machado Longo
+itm_noswing_long_axe_pl|Machado Longo
+itm_noswing_hafted_blade_b|Lâmina com Empunhadura
+itm_noswing_hafted_blade_b_pl|Lâmina com Empunhadura
+itm_noswing_hafted_blade_a|Lâmina com Empunhadura
+itm_noswing_hafted_blade_a_pl|Lâmina com Empunhadura
+itm_noswing_staff|Bastão
+itm_noswing_staff_pl|Bastão
+itm_noswing_ash_staff|Bastão de Sorveira
+itm_noswing_ash_staff_pl|Bastão de Sorveira
+itm_noswing_quarter_staff|Bastão Curto
+itm_noswing_quarter_staff_pl|Bastão Curto
+itm_noswing_shepherds_crook|Cajado de Pastor
+itm_noswing_shepherds_crook_pl|Cajado de Pastor
+itm_noswing_scythe|Gadanha
+itm_noswing_scythe_pl|Gadanha
+itm_noswing_pitch_fork|Forcado
+itm_noswing_pitch_fork_pl|Forcado
+itm_noswing_military_fork|Forcado Militar
+itm_noswing_military_fork_pl|Forcado Militar
+itm_noswing_battle_fork|Forcado de Batalha
+itm_noswing_battle_fork_pl|Forcado de Batalha
+itm_noswing_stone_spear|Lança de Pedra
+itm_noswing_stone_spear_pl|Lança de Pedra
+itm_noswing_obsidian_spear|Lança de Obsidiana
+itm_noswing_obsidian_spear_pl|Lança de Obsidiana
+itm_noswing_ice_spear|Lança de Gelo
+itm_noswing_ice_spear_pl|Lança de Gelo
+itm_noswing_boar_spear|Lança de Caçar Javali
+itm_noswing_boar_spear_pl|Lança de Caçar Javali
+itm_noswing_spear_6|Lança
+itm_noswing_spear_6_pl|Lança
+itm_noswing_lance|Lança
+itm_noswing_lance_pl|Lança
+itm_noswing_spear_lance|Lança de Cavalaria
+itm_noswing_spear_lance_pl|Lança de Cavalaria
+itm_noswing_light_lance|Lança Leve de Cavalaria
+itm_noswing_light_lance_pl|Lança Leve de Cavalaria
+itm_noswing_spear_8|Lança
+itm_noswing_spear_8_pl|Lança
+itm_noswing_spear_4|Lança de Guerra
+itm_noswing_spear_4_pl|Lança de Guerra
+itm_noswing_spear_5|Lança Pesada
+itm_noswing_spear_5_pl|Lança Pesada
+itm_noswing_spear_7|Lança
+itm_noswing_spear_7_pl|Lança
+itm_noswing_thenn_spear_1|Lança
+itm_noswing_thenn_spear_1_pl|Lança
+itm_noswing_thenn_spear_2|Lança
+itm_noswing_thenn_spear_2_pl|Lança
+itm_noswing_saxon_spear|Blade Lança
+itm_noswing_saxon_spear_pl|Blade Lança
+itm_noswing_crusader_knight_spear_a|Lança
+itm_noswing_crusader_knight_spear_a_pl|Lança
+itm_noswing_crusader_spear_inf_a|Lança
+itm_noswing_crusader_spear_inf_a_pl|Lança
+itm_noswing_crusader_spear_inf_b|Lança
+itm_noswing_crusader_spear_inf_b_pl|Lança
+itm_noswing_crusader_spear_inf_c|Lança
+itm_noswing_crusader_spear_inf_c_pl|Lança
+itm_noswing_mameluk_spears_a|Lança de Guerra
+itm_noswing_mameluk_spears_a_pl|Lança de Guerra
+itm_noswing_unsullied_spear|Lança Leve
+itm_noswing_unsullied_spear_pl|Lança Leve
+itm_noswing_corseque|Tridente
+itm_noswing_corseque_pl|Tridente
+itm_noswing_simple_poleaxe|Machado de Haste
+itm_noswing_simple_poleaxe_pl|Machado de Haste
+itm_noswing_elegant_poleaxe|Machado de Haste
+itm_noswing_elegant_poleaxe_pl|Machado de Haste
+itm_noswing_awl_pike_a|Pique Perfurante
+itm_noswing_awl_pike_a_pl|Pique Perfurante
+itm_noswing_lui_onehandedphalanxpike|Pique
+itm_noswing_lui_onehandedphalanxpike_pl|Pique
+itm_noswing_lui_vaegirpike|Pique Nortenho
+itm_noswing_lui_vaegirpike_pl|Pique Nortenho
+itm_noswing_lui_khergitpike|Pique Ornamentado
+itm_noswing_lui_khergitpike_pl|Pique Ornamentado
+itm_noswing_lui_smallelitehallberd|Alabarda Curta
+itm_noswing_lui_smallelitehallberd_pl|Alabarda Curta
+itm_noswing_lui_halberda|Alabarda Longa
+itm_noswing_lui_halberda_pl|Alabarda Longa
+itm_noswing_jacok_fancyhalberd|Alabarda
+itm_noswing_jacok_fancyhalberd_pl|Alabarda
+itm_noswing_jousting_lance|Lança de Justas
+itm_noswing_jousting_lance_pl|Lança de Justas
+itm_noswing_heavy_lance|Lança de Cavalaria Pesada
+itm_noswing_heavy_lance_pl|Lança de Cavalaria Pesada
+itm_noswing_great_lance|Grande Lança de Cavalaria
+itm_noswing_great_lance_pl|Grande Lança de Cavalaria
+itm_noswing_knight_banner_stark|Casa Stark
+itm_noswing_knight_banner_stark_pl|Casa Stark
+itm_noswing_knight_standardbanner|Estandarte
+itm_noswing_knight_standardbanner_pl|Estandarte
+itm_noswing_knight_banner_nights_watch|Estandarte da Patrulha da Noite
+itm_noswing_knight_banner_nights_watch_pl|Estandarte da Patrulha da Noite
+itm_noswing_knight_banner_greyjoy|Casa Greyjoy
+itm_noswing_knight_banner_greyjoy_pl|Casa Greyjoy
+itm_noswing_knight_banner_targaryen|Casa Targaryen
+itm_noswing_knight_banner_targaryen_pl|Casa Targaryen
+itm_noswing_knight_banner_bolton|Casa Bolton
+itm_noswing_knight_banner_bolton_pl|Casa Bolton
+itm_noswing_knight_banner_karstark|Casa Karstark
+itm_noswing_knight_banner_karstark_pl|Casa Karstark
+itm_noswing_knight_banner_dragonstone|Casa Baratheon de Pedra do Dragão
+itm_noswing_knight_banner_dragonstone_pl|Casa Baratheon de Pedra do Dragão
+itm_noswing_knight_banner_westerlands|Casa Lannister
+itm_noswing_knight_banner_westerlands_pl|Casa Lannister
+itm_noswing_knight_banner_joffrey|Casa Baratheon de Porto Real
+itm_noswing_knight_banner_joffrey_pl|Casa Baratheon de Porto Real
+itm_noswing_knight_banner_arryn|Casa Arryn
+itm_noswing_knight_banner_arryn_pl|Casa Arryn
+itm_noswing_knight_banner_baratheon|Casa Baratheon
+itm_noswing_knight_banner_baratheon_pl|Casa Baratheon
+itm_noswing_knight_banner_martell|Casa Martell
+itm_noswing_knight_banner_martell_pl|Casa Martell
+itm_noswing_knight_banner_tyrell|Casa Tyrell
+itm_noswing_knight_banner_tyrell_pl|Casa Tyrell
+itm_noswing_personalbanner|Estandarte
+itm_noswing_personalbanner_pl|Estandarte
+itm_noswing_spear_banner_stark|Casa Stark
+itm_noswing_spear_banner_stark_pl|Casa Stark
+itm_noswing_standardbanner|Estandarte
+itm_noswing_standardbanner_pl|Estandarte
+itm_noswing_spear_banner_nights_watch|Estandarte da Patrulha da Noite
+itm_noswing_spear_banner_nights_watch_pl|Estandarte da Patrulha da Noite
+itm_noswing_spear_banner_greyjoy|Casa Greyjoy
+itm_noswing_spear_banner_greyjoy_pl|Casa Greyjoy
+itm_noswing_spear_banner_targaryen|Casa Targaryen
+itm_noswing_spear_banner_targaryen_pl|Casa Targaryen
+itm_noswing_spear_banner_bolton|Casa Bolton
+itm_noswing_spear_banner_bolton_pl|Casa Bolton
+itm_noswing_spear_banner_karstark|Casa Karstark
+itm_noswing_spear_banner_karstark_pl|Casa Karstark
+itm_noswing_spear_banner_dragonstone|Casa Baratheon de Pedra do Dragão
+itm_noswing_spear_banner_dragonstone_pl|Casa Baratheon de Pedra do Dragão
+itm_noswing_spear_banner_westerlands|Casa Lannister
+itm_noswing_spear_banner_westerlands_pl|Casa Lannister
+itm_noswing_spear_banner_joffrey|Casa Baratheon de Porto Real
+itm_noswing_spear_banner_joffrey_pl|Casa Baratheon de Porto Real
+itm_noswing_spear_banner_arryn|Casa Arryn
+itm_noswing_spear_banner_arryn_pl|Casa Arryn
+itm_noswing_spear_banner_baratheon|Casa Baratheon
+itm_noswing_spear_banner_baratheon_pl|Casa Baratheon
+itm_noswing_spear_banner_martell|Casa Martell
+itm_noswing_spear_banner_martell_pl|Casa Martell
+itm_noswing_spear_banner_tyrell|Casa Tyrell
+itm_noswing_spear_banner_tyrell_pl|Casa Tyrell
+itm_noswing_darts_melee|Javelins Simples
+itm_noswing_darts_melee_pl|Javelins simples
+itm_noswing_javelin_melee|Javelin
+itm_noswing_javelin_melee_pl|Javelin
+itm_noswing_long_wooden_javelin|Javelin de Madeira
+itm_noswing_long_wooden_javelin_pl|Javelin de Madeira
+itm_noswing_throwing_spear_melee|Lança
+itm_noswing_throwing_spear_melee_pl|Lança
+itm_noswing_javelin_melee_2|Javelin Curto
+itm_noswing_javelin_melee_2_pl|Javelin Curto
+itm_noswing_javelin_melee_1|Javelin de Ginete
+itm_noswing_javelin_melee_1_pl|Javelin de Ginete
+itm_noswing_jarid_melee2|Angon
+itm_noswing_jarid_melee2_pl|Angon
+itm_noswing_obsidian_javelin_melee|Javelin de Obsidiana
+itm_noswing_obsidian_javelin_melee_pl|Javelin de Obsidiana
+itm_noswing_crusader_spear_c|Lança de Arremesso
+itm_noswing_crusader_spear_c_pl|Lança de Arremesso
+itm_noswing_torch|Tochas
+itm_noswing_torch_pl|Tochas
+itm_noswing_wolf_bite|Mordida
+itm_noswing_wolf_bite_pl|Mordida
+itm_noswing_dog_bite|Mordida
+itm_noswing_dog_bite_pl|Mordida
+itm_noswing_Horn1|Chifre do Teu Pai
+itm_noswing_Horn1_pl|Chifre do Teu Pai

@@ -1,0 +1,617 @@
+p_burning_buildings|Se você me vir, relate o bug de incêndio.
+p_ship_colisions|Se você me vir, relate o bug de colisão.
+p_zendar|Zendar
+p_town_1|Vila Gaivota
+p_town_2|Kayce
+p_town_3|Vila Acidentada
+p_town_4|Lançassolar
+p_town_5|Correrrio
+p_town_6|Porto Real
+p_town_7|Fidalporto
+p_town_8|Winterfell
+p_town_9|Vilirmã
+p_town_10|Lannisporto
+p_town_11|Pedra do Dragão
+p_town_12|Porto Branco
+p_town_13|Castelo Negro
+p_town_14|Lagoa da Donzela
+p_town_15|Vila de Lorde Harroway
+p_town_16|Tyrosh
+p_town_17|Myr
+p_town_18|Salinas
+p_town_19|Lys
+p_town_20|Feirajusta
+p_town_21|Árvore
+p_town_22|Vilavelha
+p_town_23|Vaufreixo
+p_town_24|Vila Tabueira
+p_town_25|Vaith
+p_town_26|Pentos
+p_town_27|Valdocaso
+p_town_28|Ponta Tempestade
+p_town_29|Septo de Pedra
+p_town_30|Lorath
+p_town_31|Acampamento das Presas de Gelo
+p_town_32|Thenn
+p_town_33|Norvos
+p_town_34|Ashefa Athaozar
+p_town_35|Qohor
+p_town_36|Volantis
+p_town_37|Volon Therys
+p_town_38|Valysar
+p_town_39|Selhorys
+p_town_40|Vila Chorosa
+p_town_41|Jardim de Cima
+p_town_42|Bravos
+p_castle_1|Forte do Pavor
+p_castle_2|Solar de Corvarbor
+p_castle_3|Atalaia da Viúva
+p_castle_4|Durolar
+p_castle_5|Karhold
+p_castle_6|Castelo Velho
+p_castle_7|Atalaia da Água Cinzenta
+p_castle_8|Última Lareira
+p_castle_9|Bosque Profundo
+p_castle_10|Praça de Torrhen
+p_castle_11|Dedo de Pederneira
+p_castle_12|Fosso Cailin
+p_castle_13|Wyl
+p_castle_14|Lar do Coração
+p_castle_15|Portão Sangrento
+p_castle_16|Cantoforte
+p_castle_17|Pedrarruna
+p_castle_18|Águafria
+p_castle_19|Ferrobles 
+p_castle_20|Forte Vermelho
+p_castle_21|Solar de Longarco
+p_castle_22|Punho dos Primeiros Homens
+p_castle_23|Tocalar
+p_castle_24|Ilha dos Ursos
+p_castle_25|Pyke
+p_castle_26|Solar do Entardecer
+p_castle_27|Castelo Cerwyn
+p_castle_28|Ninho da Águia
+p_castle_29|Ponta Aguda
+p_castle_30|Bailepedra
+p_castle_31|Solar de Montefeno
+p_castle_32|Portabrônzea
+p_castle_33|Bosque Cortado
+p_castle_34|Poleiro do Grifo
+p_castle_35|Ninho do Corvo
+p_castle_36|Pedrelmo
+p_castle_37|Matabruma
+p_castle_38|Pedraverde
+p_castle_39|Gêmeas
+p_castle_40|Nocticantiga
+p_castle_41|Solar de Bolotas
+p_castle_42|Bosquemel
+p_castle_43|Donzelarrosa
+p_castle_44|Monte Chifre
+p_castle_45|Mesalonga
+p_castle_46|Vale d'Erva
+p_castle_47|Bosquedouro
+p_castle_48|Casasolar
+p_castle_49|Carvalho Velho
+p_castle_50|Barreira de Pedra
+p_castle_51|Três Torres
+p_castle_52|Terraltas
+p_castle_53|Coroanegra
+p_castle_54|Bandallon
+p_castle_55|Fortaleza de Águas Claras
+p_castle_56|Ponteamarga
+p_castle_57|Solar de Sidra
+p_castle_58|Tumbleton
+p_castle_59|Dez Torres
+p_castle_60|Cornartelo
+p_castle_61|Castelo Montrasgo
+p_castle_62|Bosque de Ferro
+p_castle_63|Tumbarreal
+p_castle_64|Tombastela
+p_castle_65|Paloferro 
+p_castle_66|Costa do Sal
+p_castle_67|Monte Espírito
+p_castle_68|Limoeiros
+p_castle_69|Fortaleza Clegane
+p_castle_70|Monpreto
+p_castle_71|Toca do Inferno
+p_castle_72|Arenito
+p_castle_73|Alcanceleste
+p_castle_74|Pouso do Abutre
+p_castle_75|Portonegro
+p_castle_76|Sinistres Gris
+p_castle_77|Alto Hermitério
+p_castle_78|Rochedo Casterly
+p_castle_79|Dente Dourado
+p_castle_80|Paço de Codorniz
+p_castle_81|Campodemilho
+p_castle_82|Castelo Colina de Prata
+p_castle_83|Covafunda
+p_castle_84|Valecorno
+p_castle_85|Cinzamarca
+p_castle_86|Despenhadeiro
+p_castle_87|Forte Desgraça
+p_castle_88|Rosby
+p_castle_89|Hastes
+p_castle_90|Casteloleal
+p_castle_91|Harrenhal
+p_castle_92|Fogofestivo
+p_castle_93|Penha
+p_castle_94|Muralha
+p_castle_95|Torre Sombria
+p_castle_96|Atalaialeste do Mar
+p_castle_98|Aríete
+p_castle_99|Chifreiras
+p_castle_100|Goyhan Drohe
+p_castle_101|Ny Sar
+p_castle_102|Ar Noy
+p_castle_103|Chroyane
+p_castle_104|Sar Mell
+p_castle_105|Darry
+p_castle_106|Fawnton
+p_castle_107|Pouso de Gralhas
+p_castle_108|Derivamarca
+p_castle_109|Irmã Longa
+p_castle_110|Sarsfield
+p_castle_111|Lago Vermelho
+p_castle_112|Casais de Chuva
+p_castle_113|Guardamar
+p_castle_114|Vila Severa
+p_castle_115|Pouso do Viajante
+p_castle_116|Mata de Cobras
+p_castle_117|Castelo da Fúria
+p_castle_118|Velha Wyk 
+p_castle_119|Seixeira
+p_castle_120|Pergaminhos
+p_castle_121|Solar de Colheitas
+p_castle_122|Novo Barril
+p_built_castle|Qarthigar
+p_essos_castle_1|Gongaeron
+p_essos_castle_2|Maenennis
+p_essos_castle_3|Vaeltaris
+p_essos_castle_4|Narralis
+p_essos_castle_5|Celraenos
+p_essos_castle_6|Aritheos
+p_essos_castle_7|Varillos
+p_essos_castle_8|Garrero
+p_essos_castle_9|Laziros
+p_essos_castle_10|Beliros
+p_essos_castle_11|Nahah
+p_essos_castle_12|Nestaris
+p_essos_castle_13|Jorar
+p_new_castle_1|Ilha da Bruxa
+p_new_castle_2|Novestrelas
+p_new_castle_3|Portões da Lua
+p_new_castle_4|Newkeep
+p_new_castle_5|Torre das Gaivotas
+p_new_castle_6|Âncora Velha
+p_new_castle_7|Ilha da Garra
+p_new_castle_8|Canal de Portodoce
+p_new_castle_9|Antro Terrível
+p_new_castle_10|Cova Castanha
+p_new_castle_11|Belavista
+p_new_castle_12|Campodourado
+p_new_castle_13|Ironrath
+p_new_castle_14|Regatos
+p_new_castle_15|Lagoa Negra
+p_new_castle_16|Floresta de Salgueiro
+p_new_castle_17|Atranta
+p_new_castle_18|Pontestrelada 
+p_new_castle_19|Pretamare 
+p_new_castle_20|Pedrasmagada
+p_new_castle_21|Forte do Espigão do Corvo
+p_new_castle_22|Covabaixa
+p_new_castle_23|Jardim Cinzento
+p_new_castle_24|Matamalhada
+p_new_castle_25|Graçadivina
+p_new_castle_26|Castelo Stokeworth
+p_new_castle_27|Hayford
+p_new_castle_28|Castamere
+p_new_castle_29|Amberly
+p_new_castle_30|Broad Arch
+p_castle_123|Pontalta
+p_village_1|Aldeia Urso
+p_village_2|Vila de Arrendatários
+p_north_village|Respite
+p_village_3|Costa Pedregosa
+p_village_4|Baía dos Naufrágios
+p_village_7|Pescoço do Dragão Marinho
+p_village_12|Dedos
+p_village_14|Aldeia de Ferrobles
+p_village_15|Baía dos Caranguejos
+p_village_17|Lança do Gigante
+p_village_18|Cabeça de Carneiro
+p_village_19|Crescente
+p_village_20|Ilha Quieta
+p_village_21|Guaquevai
+p_village_22|Água Ardente
+p_village_23|Névoa Distante
+p_village_24|Pennyhill
+p_village_25|Pouso de Aenar
+p_village_26|Gancho de Massey
+p_village_27|Aldeia do Portão Sangrento
+p_village_28|Harlaw
+p_village_29|Wyk
+p_village_30|Aldeia de Pretamare 
+p_village_31|River's Edge
+p_village_32|Cabo da Fúria
+p_village_33|Bosque do Lenhador
+p_village_34|Harroway
+p_village_35|Porco do Monge
+p_village_36|Penhasco Cinzento
+p_village_37|Águas Chorosas
+p_village_38|Vago
+p_village_39|Nascente
+p_village_40|Coração Alto
+p_village_41|Enseada dos Murmúrios
+p_village_44|Vau Pedregoso
+p_village_45|Irmã Doce
+p_village_46|Vinhomel
+p_village_47|Cataratas Impetuosas
+p_village_48|Bosque dos Murmúrios
+p_village_49|Cascata do Acrobata
+p_village_50|Forca Seguementada
+p_village_51|Montrasgo
+p_village_52|Forquilha Vermelha
+p_village_53|Cruzaboi
+p_village_54|Norrey
+p_village_55|Montanhas da Lua
+p_village_56|Aldeia da Garra
+p_village_57|Bosquemalhado
+p_village_58|Estrada do Rio
+p_village_59|Rochedo Escarpado
+p_village_60|Sherrer
+p_village_61|Vila Vêneda
+p_village_62|Tarbeck
+p_village_63|Lefforton
+p_village_64|Longarco
+p_village_65|Salésia
+p_village_66|Aldeia Cornartelo
+p_village_69|Roseiras
+p_village_80|Loucura dos Cleganes
+p_village_81|Colina de Prata
+p_village_82|Escudocinza
+p_village_83|Bastardo
+p_village_84|Caranguejos
+p_village_86|Faca Branca
+p_village_87|Lança de Sal
+p_village_88|Ramo Partido
+p_village_89|Lago Longo
+p_village_90|Porto Ryam
+p_village_110|Aldeia Humilde 
+p_village_111|Azevinho 
+p_village_112|Byrn
+p_village_113|Velha Ponte de Pedra
+p_village_114|Estrada do Oceano
+p_village_115|Campina de Vaufreixo
+p_village_116|Mata de Chuva
+p_village_117|Escudo de Carvalho
+p_village_118|Vista do Poente
+p_village_119|Salão do Milho
+p_village_120|Solitária
+p_village_121|Febre
+p_village_122|Rio Último
+p_village_125|Pântano da Bruxa
+p_village_126|Marca de Dorne
+p_village_127|Adeia dos Pescadores
+p_village_128|Vistescudo
+p_village_129|Topo do Galo
+p_village_130|Pedregoso
+p_village_131|Irmã Pequena
+p_village_132|Garra Rachada
+p_village_133|Loucura dos Tolos
+p_village_134|Água Negra
+p_village_135|Tridente
+p_village_136|Mata de Rosas
+p_village_137|Cabeça do Pequeno Vale
+p_village_138|Ilha Leal
+p_village_139|Dura Confissão
+p_village_140|Estrada da Rosa
+p_village_141|Herndon
+p_village_142|Estermont
+p_village_143|Tarth
+p_village_145|Baía Redwyne
+p_village_146|Alto Poente
+p_village_147|Amoreira
+p_village_148|Topo Pedregoso
+p_village_149|Baía da Rebentação
+p_village_150|Travessia do Caçador
+p_village_157|Bela Donzela
+p_village_158|Sal na Ferida
+p_village_159|Charcofeno
+p_village_160|Sobrancelha
+p_village_161|Alta Rocha
+p_village_162|Vista Aguada
+p_village_163|Fim Distante
+p_village_164|Bosque Selvagem
+p_village_165|Vila das Especiarias
+p_village_166|Lança da Morte
+p_village_167|Fim das Terras
+p_village_168|Bosque da Fúria
+p_village_178|Assembleia de Homens Livres
+p_village_179|Vento Negro
+p_village_parchments|Penrose
+p_village_harvest_hall|Molusqueiro
+p_village_new_barrel|Velho Barril
+p_village_point_bay|Ponta Baía
+p_village_highpoint|Cume de Neve
+p_new_village_1|Upcliff
+p_new_village_2|Vale Sombrio
+p_new_village_3|Aldeia da Lua
+p_new_village_4|Cálice
+p_new_village_5|Vila Shet
+p_new_village_6|Baía Carvalho de Ferro
+p_new_village_8|Porto Repentino
+p_new_village_9|Murmúrios
+p_new_village_10|Antro do Urso
+p_new_village_11|Toca do Leão
+p_new_village_12|Cume Dourado
+p_new_village_13|Pau-Ferro
+p_new_village_14|Ryder
+p_new_village_15|Barragem do Castor
+p_new_village_16|Salix
+p_new_village_17|Aldeia de Sett
+p_new_village_18|Toca da Raposa
+p_new_village_19|Penhasco do pinheiro
+p_new_village_20|Berço de Nagga
+p_new_village_21|Espigão do Corvo
+p_new_village_22|Delvin
+p_new_village_23|Lago do Cadáver
+p_new_village_26|Berrante de Porca
+p_new_village_27|Senhora das Folhas
+p_new_village_28|Ouro Puro
+p_new_village_29|Baía de Âmbar
+p_new_village_30|Aldeia da Adaga
+p_village_5|Brancarbor
+p_village_6|Vila Toupeira
+p_village_11|Passo dos Guinchos
+p_village_13|Guadeleite
+p_village_16|Storrold
+p_village_43|Vale de Thenn
+p_village_67|Shepstow
+p_village_68|Carvalho Envelhecido
+p_village_144|Cabeça da Rainha
+p_village_175|Escada do Gigante
+p_village_176|Rio Haste
+p_village_177|Ponta de Storrold
+p_village_8|Dunas Vermelhas
+p_village_9|Despedaçado Vermelho
+p_village_10|Jardins de Água
+p_village_42|Myrth
+p_village_71|Braço Quebrado
+p_village_72|Flagelo
+p_village_73|Profundareia
+p_village_74|Passo do Príncipe
+p_village_75|Caminho do Espinhaço
+p_village_76|Bosque de Uvas
+p_village_77|Passagem Larga
+p_village_78|Pedra Pálida
+p_village_79|Penhascos Vermelhos
+p_village_91|Torrentino
+p_village_92|Ghaston
+p_village_93|Grandure
+p_village_94|Sangueverde
+p_village_95|Dorareia
+p_village_96|Sulfuroso
+p_village_97|Pedrassangrenta
+p_village_98|Forca Cinzenta
+p_village_99|Praça Cinzenta
+p_village_100|Voleana
+p_essos_village_1|Laertigar
+p_essos_village_2|Veleneos
+p_essos_village_3|Berlaeris
+p_essos_village_4|Taengaris
+p_essos_village_5|Aeryvon
+p_essos_village_6|Vigarys
+p_essos_village_7|Jaeryros
+p_essos_village_8|Belano
+p_essos_village_9|Ahrios
+p_essos_village_10|Bahah
+p_essos_village_11|Baía de Lorath
+p_essos_village_12|Irroros
+p_essos_village_13|Dirrerah
+p_village_101|Rhoyne
+p_village_102|Selhoru
+p_village_103|Ândalos
+p_village_104|Lago Adaga
+p_village_105|Aguanegra
+p_village_106|Noyne
+p_village_107|Rhoynar
+p_village_109|Ghoyan
+p_village_123|Porto Púrpura
+p_village_124|Thorenno
+p_village_151|Baía Salgada
+p_village_152|Colinas de Veludo
+p_village_153|Campos Dourados
+p_village_154|Raenion
+p_village_155|Qhoyne
+p_village_156|Lhorulu
+p_makeshift_village|Taelon
+p_village_169|Pouso de Daemon
+p_village_170|Sarath
+p_village_171|Ar Mynar
+p_village_172|Moredo
+p_village_174|Baía da Madeira
+p_new_village_24|Aldeia de Matamalhada
+p_new_village_25|Allyrion
+p_village_70|Acampamento do Povo Livre
+p_village_85|Rhaesh Dahaan
+p_village_108|Rhaesh Loy
+p_salt_mine|Mina de Ouro
+p_iron_mine|Mina de Ferro
+p_quarry1|Pedreira
+p_obsidian_spot|Depósitos de Obsidiana
+p_obsidian_mine|Mina de Obsidiana
+p_test_scene|cenário de teste
+p_hollow_hill|Monte Oco
+p_iniau_hideout|Bosque Sagrado
+p_wildling_cave|Caverna
+p_river_delta|Delta do rio
+p_quarry|Pedreira
+p_desert_oasis|oásis no deserto
+p_swamps|Pântanos
+p_wildling_farm|Fazenda
+p_wildling_farm_safe|Fazenda
+p_water_gardens|Jardins de Água
+p_of_multi_hastings|Hastings
+p_of_multi_rock_valley|Vale Pedregoso
+p_of_multi_small_ruins|aberto
+p_of_multi_thingvellir|Thingvellir
+p_roman_fort|Forte Romano
+p_training_ground|Área de Treinamento
+p_training_ground_1|Campo de Treinamento
+p_training_ground_2|Vila de Treinamento
+p_training_ground_3|Campo de Treinamento
+p_training_ground_4|Lago de Treinamento
+p_training_ground_5|Área de Treinamento
+p_septry1|Septo
+p_monasterio2|Estalagem do Entroncamento
+p_septry2|Septo
+p_septry3|Septo
+p_septry4|Septo
+p_septry5|Septo
+p_septry6|Septo
+p_septry7|Septo
+p_septry8|Septo
+p_septry9|Septo
+p_temple1|Templo do Senhor da Luz
+p_temple2|Templo de R'hllor
+p_temple3|Templo de R'hllor
+p_yourlair|Assentamento
+p_outpost_1|Posto Avançado
+p_outpost_2|Posto Avançado
+p_fort|Forte
+p_ferry_1a|Balsa de Matabruma
+p_ferry_2a|Balsa da Ilha dos Ursos
+p_ferry_3a|Balsa Redwyne
+p_ferry_4a|Balsa do Pântano da Bruxa
+p_ferry_5a|Balsa de Sinistres Gris
+p_ferry_6a|Balsa de Derivamarca
+p_ferry_7a|Balsa
+p_ferry_8a|Balsa
+p_ferry_1b|Balsa de Matamalhada
+p_ferry_2b|Balsa de Bosque Profundo
+p_ferry_3b|Balsa do Porto Ryam
+p_ferry_4b|Balsa de Harlaw
+p_ferry_5b|Balsa
+p_ferry_6b|Balsa da Ponta
+p_ferry_7b|Balsa
+p_ferry_8b|Balsa
+p_jetty_1|Porto do Entardecer
+p_jetty_2|Porto Carvalho Velho
+p_jetty_3|Porto de Pedraverde
+p_jetty_4|Porto de Velha Wyk
+p_jetty_5|Porto de Ilha Leal
+p_jetty_6|Porto de Irmã Longa
+p_jetty_7|Porto de Irmã Doce
+p_jetty_8d|Porto Natural
+p_jetty_8h|Porto Natural
+p_jetty_8i|Porto Natural
+p_jetty_8j|Porto Natural
+p_jetty_8k|Porto Natural
+p_jetty_8n|Porto Natural
+p_jetty_8o|Porto Natural
+p_jetty_8l|Porto de Atalaialeste
+p_jetty_9|Porto da Costa Laranja
+p_jetty_10|Porto de Vila Severa
+p_jetty_11|Porto de Escudo de Carvalho
+p_jetty_12|Porto de Escudocinza
+p_jetty_13|Porto do Bosque de Ferro
+p_jetty_14|Porto de Montrasgo
+p_jetty_15|Porto de Pretamare
+p_jetty_16|Porto da Ilha da Garra
+p_jetty_17|Porto do Pouso de Gralhas
+p_jetty_18|Porto do Dedo de Pederneira
+p_jetty_8|Balsa Harlaw
+p_jetty_8b|Balsa do Pântano da Bruxa
+p_jetty_8c|Balsa de Matabruma
+p_jetty_8e|Balsa da Ilha dos Ursos
+p_jetty_8f|Balsa de Bosque Profundo
+p_jetty_8g|Balsa da Ponta
+p_jetty_8m|Balsa de Derivamarca
+p_inn_of_the_kneeling_man|Estalagem do Ajoelhado
+p_old_stone_bridge|Velha Ponte de Pedra
+p_ruined_castle|Castelo Arruinado
+p_crasters_keep|Fortaleza de Craster
+p_queenscrown|Coroadarrainha
+p_illyrios_manse|Mansão de Illyrio
+p_the_bridge_of_skulls|Ponte das Caveiras
+p_the_titan|O Titã
+p_tower_of_joy|Torre da Alegria
+p_shandystone|Pedramarela
+p_boneway|Caminho do Espinhaço
+p_brokenarm|Braço Quebrado
+p_naggashill|Monte de Nagga
+p_oldstones|Pedravelhas
+p_morne|Morne
+p_tumbledown|Torre Arruinada
+p_hoare_castle|Castelo Hoare
+p_castamere|Castamere
+p_tarbeck_hall|Salão Tarbeck
+p_whitewalls|Alvasparedes
+p_wolf_den|Toca do Lobo
+p_giants_lair|Covil dos Gigantes
+p_sand_snakes_lair|Covil das Serpentes da Areia
+p_warlords_camp|Acampamento do Senhor da Guerra
+p_reed_slavers_camp|Acampamento de Escravos
+p_dragon_1|Covil do Dragão
+p_looter_spawn_point|saqueador sp
+p_dothraki_raiders_spawn_point|Acampamentos de Dothrakis
+p_robber_knight_spawn_point|Acampamentos de Cavaleiros Ladrões
+p_forest_bandit_spawn_point|Acampamentos de Bandidos
+p_forest_bandit_spawn_point2|Acampamentos de Bandidos
+p_forest_bandit_spawn_point3|Acampamentos de Bandidos
+p_northern_clansmen_spawn_point1|as Montanhas
+p_northern_clansmen_spawn_point2|as Montanhas
+p_northern_clansmen_spawn_point3|as Montanhas
+p_northern_clansmen_spawn_point4|as Montanhas
+p_northern_clansmen_spawn_point5|as Montanhas
+p_northern_clansmen_spawn_point6|as Montanhas
+p_northern_clansmen_spawn_point7|as Montanhas
+p_northern_clansmen_spawn_point8|as Montanhas
+p_westeros_raiders_spawn_point|a tundra
+p_westeros_raiders_spawn_point2|a tundra
+p_hill_tribesman_spawn_point|Os acampamentos dos Irmãos da Lua
+p_black_ears_spawn_point|As Montanhas
+p_sons_of_the_mist_spawn_point|As Montanhas
+p_hill_tribes_spawn_point|as Montanhas
+p_whitewalkers_spawn_point_1|Caminhantes Brancos
+p_whitewalkers_spawn_point_2|Caminhantes Brancos
+p_whitewalkers_spawn_point_3|Caminhantes Brancos
+p_whitewalkers_spawn_point_4|Caminhantes Brancos
+p_slavers_spawn_point|procurando escravos
+p_essos_raiders_spawn_point|as planícies
+p_exiled_knight_spawn_point|Acampamentos de Cavaleiros Exilados
+p_windblown_spawn_point|Os Soprados pelo Vento
+p_wild_hares_spawn_point|As Lebres Selvagens
+p_second_sons_spawn_point|Os Segundos Filhos
+p_stormcrows_spawn_point|Os Corvos Tormentosos
+p_golden_company_spawn_point|A Companhia Dourada
+p_dagger_lake_pirates_1_spawn_point|Urho, o Sujo
+p_dagger_lake_pirates_2_spawn_point|Korra, a Cruel
+p_dagger_lake_pirates_3_spawn_point|Senhor da Mortalha
+p_ruined_castle_bandits_spawn_point|Escravos
+p_ruined_castle_bandits_spawn_point2|Escravos
+p_fos|fos
+p_fos2|fos2
+p_fos3|fos3
+p_old_gods|deuses antigos
+p_rhllor_spawn|rhllor spawn
+p_drowned_men_spawn|homens afogados spawn
+p_deer_spawn_point|veado sp
+p_boar_spawn_point|javali sp
+p_wolf_spawn_point|lobo sp
+p_goat_spawn_point|cabra sp
+p_goatb_spawn_point|cabrab sp
+p_wilddonkey_spawn_point|burroselvagem sp
+p_nw_ranger_patrol|nw ranger patrol
+p_ff_raiding_party|ff raiding party
+p_ff_raiders1|ff raiding party
+p_ff_raiders2|ff raiding party
+p_pirates_spawn_point|Piratas
+p_sea_raiders_spawn_point|Corsários
+p_ironborn_raiders_spawn_point|Piratas Nascidos de Ferro
+p_landing_point|ponto de aterrissagem
+p_transporter|Transportador
+p_troop_camp_1|Quartéis de Tropas
+p_troop_camp_2|Quartéis de Tropas
+p_whitewalker_quest|caminhantesbrancos quest

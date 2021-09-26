@@ -1,0 +1,84 @@
+skl_trade|Barganha
+skl_trade_desc|Cada nível desta habilidade reduz a penalização de comércio em 5%%. (Habilidade de Grupo)
+skl_leadership|Liderança
+skl_leadership_desc|Cada ponto aumenta o número máximo de tropas que você pode liderar em 5 e reduz o salário das tropas. (Habilidade de Líder)
+skl_prisoner_management|Gestão de Prisioneiros
+skl_prisoner_management_desc|Cada nível desta habilidade aumenta o número máximo de prisioneiros em %d. (Habilidade do Líder)
+skl_entertain|Entretenimento
+skl_entertain_desc|Quando você descansa, cada herói com essa habilidade aumenta a moral do grupo. Também ajuda você a mendigar ou fazer apresentações. (Habilidade Pessoal).
+skl_reserved_2|Habilidade Reservada 2
+skl_reserved_2_desc|Esta é uma habilidade reservada.
+skl_reserved_3|Habilidade Reservada 3
+skl_reserved_3_desc|Esta é uma habilidade reservada.
+skl_reserved_4|Habilidade Reservada 4
+skl_reserved_4_desc|Esta é uma habilidade reservada.
+skl_persuasion|Persuasão
+skl_persuasion_desc|Esta habilidade ajuda a fazer outras pessoas aceitarem seu ponto de vista. Ela também diminui o nível mínimo de relacionamento para fazer com que os NPCs façam o que você quer. (Habilidade Pessoal)
+skl_engineer|Engenharia
+skl_engineer_desc|Esta habilidade lhe permite construir equipamentos de cerco e fazer melhorias em propriedades com mais eficiência. (Habilidade de Grupo)
+skl_first_aid|Primeiros Socorros
+skl_first_aid_desc|Os heróis recuperam 5%% da saúde perdida por nível de habilidade durante uma missão. (Habilidade de Grupo)
+skl_surgery|Cirurgia
+skl_surgery_desc|Cada ponto desta habilidade dá 4%% de chance de que um membro atingido mortalmente seja ferido em vez de morto. (Habilidade de Grupo)
+skl_wound_treatment|Tratamento de Feridas
+skl_wound_treatment_desc|A regeneração da saúde do grupo aumentada em 20%% por nível dessa habilidade. Além disso, cada ponto aumenta a chance de que as feridas profundas sejam melhor curadas em 5%%. (Habilidade de Grupo)
+skl_inventory_management|Administração do Inventário
+skl_inventory_management_desc|Aumenta a capacidade do inventário em +6 a cada nível de habilidade. (Habilidade de Líder)
+skl_spotting|Detecção
+skl_spotting_desc|O alcance de visão do grupo aumenta em 10%% por nível de habilidade. (Habilidade de Grupo)
+skl_pathfinding|Exploração
+skl_pathfinding_desc|A velocidade do grupo no mapa aumenta em 3%% por nível de habilidade. (Habilidade de Grupo)
+skl_tactics|Táticas
+skl_tactics_desc|A cada dois níveis desta habilidade, aumenta-se a vantagem inicial de batalha em 1. (Habilidade de Grupo)
+skl_tracking|Rastreamento
+skl_tracking_desc|Obtem-se mais informação sobre os rastros. (Habilidade de Grupo)
+skl_trainer|Instrução
+skl_trainer_desc|A cada dia, cada herói com esta habilidade adiciona experiência a todo membro de seu grupo cujo nível seja menor que o seu. A experiência é adquirida da seguinte forma: {0,4,10,16,23,30} (Habilidade Pessoal)
+skl_navigating|Navegação
+skl_navigating_desc|Cada nível desta habilidade aumenta a velocidade de movimento de seu navio em 3%%. Oferece benefícios no combate naval. (Habilidade de Grupo)
+skl_sailing_master|Capitania
+skl_sailing_master_desc|Cada ponto aumenta o número máximo de navios que você pode comandar. (Habilidade de Líder)
+skl_reserved_7|Habilidade Reservada 7
+skl_reserved_7_desc|Esta é uma habilidade reservada.
+skl_foraging|Forragem
+skl_foraging_desc|Permite que o grupo busque 5 alimentos por nível de habilidade (acampamento, cerco, invasão) e aumente o alcance de forragem. (Habilidade de Grupo)
+skl_looting|Pilhagem
+skl_looting_desc|Esta habilidade aumenta a quantidade obtida no saque em 10%% por nível de habilidade. (Habilidade de Grupo)
+skl_horse_archery|Arquearia Montada
+skl_horse_archery_desc|Reduz a penalização de dano e pontaria ao utilizar arcos e armas de arremesso enquanto cavalga. (Habilidade Pessoal)
+skl_riding|Montaria
+skl_riding_desc|Permite montar cavalos de maior nível de dificuldade e aumenta sua velocidade e manobrabilidade. Com a habilidade em nível 4 ou mais, você pode chamar seu cavalo com a tecla 'H'. (Habilidade Pessoal)
+skl_athletics|Atletismo
+skl_athletics_desc|Aumenta sua velocidade ao correr. (Habilidade Pessoal)
+skl_shield|Escudo
+skl_shield_desc|Reduz o dano aos escudos (em 8%% por nível de habilidade) e melhora a velocidade ao escudar-se e cobrir-se. (Habilidade Pessoal)
+skl_weapon_master|Maestria em Armas
+skl_weapon_master_desc|Facilita a aprendizagem das competências em armas, aumenta os limites destas competências e melhora a velocidade ao escudar-se e cobrir-se. Os limites aumentam da seguinte forma: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420.
+skl_reserved_9|Habilidade Reservada 9
+skl_reserved_9_desc|Esta é uma habilidade reservada.
+skl_reserved_10|Habilidade Reservada 10
+skl_reserved_10_desc|Esta é uma habilidade reservada.
+skl_reserved_11|Habilidade Reservada 11
+skl_reserved_11_desc|Esta é uma habilidade reservada.
+skl_reserved_12|Habilidade Reservada 12
+skl_reserved_12_desc|Esta é uma habilidade reservada.
+skl_reserved_13|Habilidade Reservada 13 
+skl_reserved_13_desc|Esta é uma habilidade reservada.
+skl_power_draw|Potência de Tensionamento
+skl_power_draw_desc|Permite aos personagens utilizar melhores arcos. Cada ponto desta habilidade (até quatro pontos acima dos requisitos do arco) aumenta o dano feito pelos arcos em 14%%. (Habilidade Pessoal)
+skl_power_throw|Potência de Arremesso.
+skl_power_throw_desc|Cada ponto desta habilidade aumenta o dano de arremesso em 10%%. (Habilidade Pessoal)
+skl_power_strike|Potência de Golpe
+skl_power_strike_desc|Cada ponto desta habilidade aumenta o dano corpo a corpo em 8%%. (Habilidade Pessoal)
+skl_ironflesh|Pele de Ferro
+skl_ironflesh_desc|Cada ponto desta habilidade aumenta a saúde máxima em +2. (Habilidade Pessoal)
+skl_reserved_14|Habilidade Reservada 14
+skl_reserved_14_desc|Esta é uma habilidade reservada.
+skl_reserved_15|Habilidade Reservada 15
+skl_reserved_15_desc|Esta é uma habilidade reservada.
+skl_reserved_16|Habilidade Reservada 16
+skl_reserved_16_desc|Esta é uma habilidade reservada.
+skl_reserved_17|Habilidade Reservada 17
+skl_reserved_17_desc|Esta é uma habilidade reservada.
+skl_reserved_18|Habilidade Reservada 18
+skl_reserved_18_desc|Esta é uma habilidade reservada.
