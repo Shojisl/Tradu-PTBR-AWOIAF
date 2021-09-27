@@ -1370,7 +1370,7 @@ dlga_member_intelgathering_3:member_intelgathering_3|Claro, quanto menos pessoas
 dlga_member_intelgathering_3:member_intelgathering_4|É uma idéia explêndida, faça-a.
 dlga_member_intelgathering_3:do_member_trade|Está bem, mas por enquanto não vá.
 dlga_member_intelgathering_4:close_window|Ótimo. Você deve estar preparado para relatar em uns cinco dias. Adeus, então, {s21}, por pouco tempo.
-dlga_merchant_quest_4_start:close_window|Esses bastardos! Eles estão atacando qualquer um que pensem ser da Casa Stark! Corra, seu tolo!
+dlga_merchant_quest_4_start:close_window|Esses bastardos! Eles estão atacando qualquer um que pensem ser da Casa Stark! Corra, {seu tolo/sua tola}!
 dlga_start:relative_saved_1a|Pare! Você trouxe muitos navios com você. Quem você é e o que quer?
 dlga_relative_saved_1a:close_window|Sim. Eu disse a ele que iria te encontrar. Aconselho você a voltar para sua família o mais rápido possível... e ter cuidado na estrada.
 dlga_start:bandit_leader_1a|Puta merda! Perdoe-me! Poupe minha vida! Deixe-me ir e eu vou embora daqui, para aprender um trabalho honesto. Você nunca mais vai ouvir falar de mim!
@@ -1383,7 +1383,7 @@ dlga_looter_leader_3:close_window|Não, mas eu trouxe aço.
 dlga_bandit_leader_1b:close_window|Oh! Bendito seja, {reg59?Senhora:senhor}. Nós não ferimos o garoto. Nosso esconderijo fica perto de {s9}. Descreverei uma área em detalhes, para você achar facilmente...
 dlga_start:rescue_prisoner_succeed_2|{playername}, você o salvou! Muito obrigado por ter salvado meu {s11}. Por favor, pegue isso como uma recompensa por sua nobre ação.
 dlga_rescue_prisoner_succeed_2:lord_pretalk|É sempre uma honra servir você, {s65}.
-dlga_start_up_quest_1_next:close_window|Você está bem? Bom... Vejo que você está vivo, mais ou menos. Não tenho certeza se podemos dizer o mesmo do outro. Um ladrão a menos que causa problemas em nossas ruas à noite, embora todo mundo saiba que não vai ser o último... Enfim, talvez você pode me ajudar com uma coisa. Vamos conversar lá dentro. Aqui fora não sabemos quem pode nos escutar.
+dlga_start_up_quest_1_next:close_window|Você está bem? Bom... Vejo que você está viv{o/a}, mais ou menos. Não tenho certeza se podemos dizer o mesmo do outro. Um ladrão a menos que causa problemas em nossas ruas à noite, embora todo mundo saiba que não vai ser o último... Enfim, talvez você pode me ajudar com uma coisa. Vamos conversar lá dentro. Aqui fora não sabemos quem pode nos escutar.
 dlga_start:merchant_quest_2a|Um magnífico trabalho. Você contratou homens suficientes para acabar com aqueles bandidos. E agora... os viajantes que passam por {s9} me falaram que há um punhado de ladrões andando pra lá e pra cá pelos arredores da cidade. Eu suspeito que sejam do mesmo bando que sequestrou meu irmão. Siga eles, mate-os e faça falarem onde está o meu irmão!
 dlga_start:merchant_quest_3a|Então você já descobriu onde eles escondem meu irmão? Excelente trabalho. Às vezes me surpreende o quão bem eu julgo o caráter das pessoas, e você parece ser {reg59?Uma mulher:um homem} capaz de fazer as coisas direito. Agora vá e ache meu irmão!
 dlga_start:merchant_quest_3b|Bom... Meu irmão está a salvo em casa. Não tenho certeza do que fazer com ele, talvez enviá-lo às Terras Nórdicas. Desse modo, se ele perde a cabeça em alguma briga de rua, ninguém pode me culpar. Mas isso não problema seu. Aqui está o resto da recompensa, você merece.
@@ -4829,23 +4829,23 @@ dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Sim, posso levar 
 dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Lamento, mas não.
 dlga_move_cattle_herd_quest_taken:mayor_pretalk|Esplêndido. Você pode encontrar o rebanho fora da cidade. Depois de levar os animais para {s13}, volte para mim e eu lhe pagarei.
 dlga_merchant_quest_requested:mayor_pretalk|Receio que eu não posso oferecer um trabalho no momento.
-dlga_start:village_elder_deliver_cattle_thank|{reg59?Minha boa senhora:Meu bom senhor}. Nossa aldeia está grata por sua ajuda. Agradecemos pelas {reg5} cabeças de gado que você trouxe, agora nós podemos criar nosso próprio rebanho.
-dlga_village_elder_deliver_cattle_thank:village_elder_talk|{reg59?madame:senhor}, por favor, há algo que eu posso fazer por você?
-dlga_start:village_elder_talk|Bom dia, {reg59?senhora:senhor}, e bem vindo a {s9}. Eu sou o líder dessa aldeia.
-dlga_start:village_elder_talk.1|Bem-vindo à {s9}, {reg59?madame:senhor}. Nós nos alegramos com a notícia de que você é {reg59?Uma nova senhora:o novo lorde} de nossa humilde aldeia. Eu sou o ancião da aldeia e ficarei honrado servir-lhe da maneira que puder.
-dlga_start:village_elder_talk.2|{reg59?madame:senhor}, você honra nossa humildade aldeia com sua presença. {s33}
-dlga_start:village_elder_talk.3|Bom dia, {reg59?senhora:senhor}, e bem-vindo a {s9}. Eu sou o líder local dessa aldeia.
-dlga_start:village_elder_talk.4|Bom dia. Eu estou feliz em vê-lo novamente.
+dlga_start:village_elder_deliver_cattle_thank|{Meu bom sor/Minha boa senhora}. Nossa aldeia agradece sua ajuda. Graças às {reg5} cabeças de gado que você trouxe, agora podemos criar nosso próprio rebanho.
+dlga_village_elder_deliver_cattle_thank:village_elder_talk|{Meu bom lorde/Minha boa lady}, por favor diga, há algo que eu possa fazer por você?
+dlga_start:village_elder_talk|Bem-vind{o/a} a {s9}, {meu senhor/senhora}. Ficamos felizes com a notícia de que você é {o novo senhor/a nova senhora} de nossa humilde aldeia. Eu sou o ancião da aldeia e terei a honra de servi-l{o/a} de todas as maneiras que eu puder.
+dlga_start:village_elder_talk.1|Bom dia, {sor/senhora} e bem-vind{o/a} a {s9}. Eu sou o ancião desta aldeia.
+dlga_start:village_elder_talk.2|{reg59?Minha senhora:Meu senhor}, você honra nossa humildade aldeia com sua presença.{s33}
+dlga_start:village_elder_talk.3|Bom dia, {reg59?senhora:sor}, e bem-vind{o/a} a {s9}. Eu sou o líder local dessa aldeia.
+dlga_start:village_elder_talk.4|Bom dia. {reg59?senhora:sor}.
 dlga_village_elder_pretalk:village_elder_talk|Há algo que eu posso fazer por você?
-dlga_village_elder_talk:village_elder_ask_fugitive|Eu estou procurando por um homem com o nome de {s4}. Me disse que ele estava se escondendo aqui.
-dlga_village_elder_talk:village_elder_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Disseram que eles podem estar escondidos aqui.
+dlga_village_elder_talk:village_elder_ask_fugitive|Eu estou procurando por um homem com o nome de {s4}. Me foi dito que ele estava se escondendo aqui.
+dlga_village_elder_talk:village_elder_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Disseram que ele pode estar escondido aqui.
 dlga_village_elder_ask_fugitive:village_elder_pretalk|Estrangeiros entram e saem de nossa aldeia, {reg59?senhora:senhor}, mas eu duvido que você o encontre a essa hora da noite. Você terá melhor sorte durante o dia.
 dlga_village_elder_ask_fugitive:close_window|Estrangeiros entram e saem de nossa aldeia, {reg59?senhora:senhor}. Se ele está se escondendo aqui, você certamente irá encontrar-lo se procurar ao redor.
 dlga_village_elder_talk:village_elder_active_mission_1|Acerca da tarefa que você me deu...
-dlga_village_elder_talk:village_elder_request_mission_ask|Há alguma tarefa na qual eu posso lhe ajudar?
+dlga_village_elder_talk:village_elder_request_mission_ask|Há alguma tarefa na qual eu possa ajudar?
 dlga_village_elder_talk:village_elder_trade_begin|Quero comprar alguns suprimentos. Pagarei com prata.
 dlga_village_elder_talk:intro_obsidian_elder1|Há uma mina de obsidiana não muito longe daqui, gostaria de permissão para recrutar homens suficientes desta área para construir e trabalhar nas minas.
-dlga_village_elder_talk:oim_intro_zamoshie_elder|Que seus dias sejam longos, pai. Diga-me - o que está acontecendo por aqui?
+dlga_village_elder_talk:oim_intro_zamoshie_elder|Que seus dias sejam longos, pai. Diga-me, o que está acontecendo por aqui?
 dlga_village_elder_talk:oim_zamoshie_killed_bandits|Venho falar sobre os bandidos...
 dlga_village_elder_talk:oim_zamoshie_lower_taxes_done|Venho falar sobre os impostos...
 dlga_village_elder_talk:oim_check_bring_goods|Venho falar sobre os produtos...
@@ -4874,11 +4874,11 @@ dlga_village_elder_trade_begin:village_elder_trade_talk|Mas é claro, {reg59?sen
 dlga_village_elder_trade_talk:village_elder_trade|Eu quero comprar comida e suprimentos.
 dlga_village_elder_trade:village_elder_pretalk|Temos alguns alimentos e outros suprimentos em nossos armazéns. Venha e dê uma olhada.
 dlga_village_elder_trade_talk:village_elder_buy_cattle|Eu quero comprar gado.
-dlga_village_elder_talk:village_elder_get_cattle_gift|Eu tenho {reg25} cabeças de gado que eu gostaria de apresentar sua aldeia.
+dlga_village_elder_talk:village_elder_get_cattle_gift|Eu tenho {reg25} cabeças de gado que eu gostaria de presentear à sua aldeia.
 dlga_village_elder_get_cattle_gift:village_elder_pretalk|Sim, definitivamente. Nosso povo será extremamente grato por tão generoso presente.
 dlga_village_elder_trade_talk:village_elder_pretalk|Mudei de ideia. Eu não quero comprar nada.
-dlga_village_elder_talk:village_elder_ask_enemies|recentemente você viu alguns inimigos nas proximidades?
-dlga_village_elder_ask_enemies:village_elder_pretalk|Me desculpe, {reg59?senhora:senhor}. Nós não vimos nem ouvimos falar de nenhum grupo de guerreiros nessa área.
+dlga_village_elder_talk:village_elder_ask_enemies|Você viu algum inimigo por aqui recentemente?
+dlga_village_elder_ask_enemies:village_elder_pretalk|Me desculpe, {reg59?senhora:sor}. Nós não vimos nem ouvimos falar de nenhum grupo de guerreiros nessa área.
 dlga_village_elder_ask_enemies:village_elder_tell_enemies|Hmm. Deixe-me pensar sobre isso...
 dlga_village_elder_tell_enemies:village_elder_tell_enemies|{s1} {s2}
 dlga_village_elder_tell_enemies:village_elder_pretalk|Não, {reg59?senhora:senhor}. Nós não vimos nenhum grupo de guerreiros nessa área há algum tempo.
@@ -5282,8 +5282,8 @@ dlga_kingsguard_noone:close_window.1|Eu já vou.
 dlga_start:kingsguard_inparty|Estou ao seu serviço, Sua Graça.
 dlga_kingsguard_inparty:close_window|Não tenho pedidos para você agora.
 dlga_kingsguard_inparty:close_window.1|É bom ter você ao meu lado.
-dlga_start:town_dweller_talk|Meu (Minha) {reg59?senhora:senhor}?
-dlga_start:town_dweller_talk.1|Bom dia, {reg59?madam:senhor}.
+dlga_start:town_dweller_talk|{Meu senhor/Minha senhora}?
+dlga_start:town_dweller_talk.1|Bom dia, {sor/senhora}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|Estou a procura de um homem chamado {s4}. Disseram-me que ele poderia estar se escondendo aqui.
 dlga_town_dweller_talk:town_dweller_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Disseram que eles podem estar escondidos aqui.
 dlga_town_dweller_ask_fugitive:close_window|Estranhos vem e vão em nossa aldeia, {reg59?madame:senhor}. Se ele estiver se escondendo aqui, você certamente achará se procurar.
@@ -5474,12 +5474,12 @@ dlga_party_encounter_hostile_defender:party_encounter_hostile_ultimatum_surrende
 dlga_party_encounter_hostile_ultimatum_surrender:close_window|{s43}
 dlga_party_encounter_hostile_defender:close_window|Nada. Deixaremos vocês em paz.
 dlga_merchant_end:close_window|Heh! Devo realmente estar em uma situação difícil, para colocar minhas esperanças em um estranho que passa. No entanto, algo sobre você me diz que minha confiança não está perdida. Agora, veja se consegue alguns voluntários.
-dlga_start:merchant_quest_4e|Você está vivo! É um dos sortudos. Não há muitos outros vivos acredite! Um banho de sangue! Parece que nosso Lorde Ned Stark foi feito prisioneiro, você deve avisar Lorde Robb Stark, esses dois soldados são leais a Ned e irão acompanhá-lo até Winterfell.
+dlga_start:merchant_quest_4e|Você está viv{o/a}! É u{m/ma} d{o/a}s sortud{o/a}s. Não há muitos outros vivos acredite! Um banho de sangue! Parece que nosso Lorde Ned Stark foi feito prisioneiro, você deve avisar Lorde Robb Stark, esses dois soldados são leais a Ned e irão acompanhá-l{o/a} até Winterfell.
 dlga_start:close_window.95|Você tem sorte que nós te encontramos antes deles. Devemos ir até Winterfell e avisar Robb Stark. Não há mais nada que possamos fazer aqui.
 dlga_merchant_quest_4e:merchant_finale|Certo, devo fazer isso.
 dlga_merchant_quest_4e:merchant_finale_1|Acho que prefiro não me envolver.
 dlga_merchant_finale_1:close_window|OK, fique à vontade, mas acho que você está cometendo um grave erro.
-dlga_merchant_finale:close_window|Certo, muito bom. Você deve se apressar e seguir a Estrada do Rei para o Norte. Boa sorte, amigo!
+dlga_merchant_finale:close_window|Certo, muito bom. Você deve se apressar e seguir a Estrada do Rei para o Norte. Boa sorte, amig{o/a}!
 dlga_start:merchant_quest_1_prologue_1|{s1}
 dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_2|Você parece um pouco desorientado. Não sei quem você é nem de onde é e, para falar a verdade, não me importa. Sou apenas um simples comerciante, mas as coisas não correram bem para mim aqui. Portanto, estou planejando viajar para outro país, pacífico e sem chuva, espero. Ouvi dizer que no Oriente o ouro flui de fontes aquosas, então talvez eu tente minha fortuna em Essos.
 dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|De qualquer forma, aconselho-o, antes de partir, a fazer o mesmo e buscar sua própria fortuna em outras terras. Westeros é um pântano devastado por sangue, e seu povo não é nada mais do que alimento para a guerra. A pobreza alimenta os fracos, e os homens fortes abusam da espada e da lança para impor seu poder e controle sobre os humildes. Para negociar, devemos pagar pesados ​​impostos em cada cidade, separar bandidos e piratas e rezar para que um senhor local, ignorante e preguiçoso, não decida obter metade de nossas mercadorias para financiar sua próxima festa ou campanha de guerra.

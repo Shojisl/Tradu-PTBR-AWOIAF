@@ -1300,116 +1300,116 @@ trp_caravan_master|Espada Contratada
 trp_caravan_master_pl|Espadas Contratadas
 trp_kidnapped_girl|Garota Sequestrada
 trp_kidnapped_girl_pl|Garotas Sequestradas
-trp_town_walker_1|Plebeut1
-trp_town_walker_1_pl|Plebeust
-trp_town_walker_2|Plebeiat2
-trp_town_walker_2_pl|Plebeiast
-trp_town_walker_3|Plebeut3
-trp_town_walker_3_pl|Plebeust
-trp_town_walker_4|Plebeiat4
-trp_town_walker_4_pl|Plebeiast
-trp_town_walker_5|Plebeut5
-trp_town_walker_5_pl|Plebeus
-trp_town_walker_6|Plebeiat6
-trp_town_walker_6_pl|Plebeias
-trp_town_walker_7|Homem Livret7
+trp_town_walker_1|Plebeu
+trp_town_walker_1_pl|Plebeus
+trp_town_walker_2|Plebeia
+trp_town_walker_2_pl|Plebeias
+trp_town_walker_3|Plebeu
+trp_town_walker_3_pl|Plebeus
+trp_town_walker_4|Plebeia
+trp_town_walker_4_pl|Plebeias
+trp_town_walker_5|Cidadão
+trp_town_walker_5_pl|Cidadãos
+trp_town_walker_6|Cidadã
+trp_town_walker_6_pl|Cidadãs
+trp_town_walker_7|Homem Livre
 trp_town_walker_7_pl|Homens Livres
-trp_town_walker_8|Mulher Livret8
+trp_town_walker_8|Mulher Livre
 trp_town_walker_8_pl|Mulheres Livres
 trp_town_walker_9|Dothraki
 trp_town_walker_9_pl|Dothraki
 trp_town_walker_10|Dothraki
 trp_town_walker_10_pl|Dothraki
-trp_town_walker_11|Cidadão
-trp_town_walker_11_pl|Cidadãos
-trp_town_walker_12|Cidadãt9
-trp_town_walker_12_pl|Cidadãs
-trp_town_walker_13|Camponêst10
-trp_town_walker_13_pl|Camponeses
-trp_town_walker_14|Camponêst11
-trp_town_walker_14_pl|Camponeses
+trp_town_walker_11|Plebeu
+trp_town_walker_11_pl|Plebeus
+trp_town_walker_12|Plebeia
+trp_town_walker_12_pl|Plebeias
+trp_town_walker_13|Cidadão
+trp_town_walker_13_pl|Cidadãos
+trp_town_walker_14|Cidadã
+trp_town_walker_14_pl|Cidadãs
 trp_town_walker_15|Homem de Ferro
 trp_town_walker_15_pl|Homens de Ferro
-trp_town_walker_16|Camponêst12
-trp_town_walker_16_pl|Camponeses
+trp_town_walker_16|Mulher de Ferro
+trp_town_walker_16_pl|Mulheres de Ferro
 trp_town_walker_17|Patrulheiro
 trp_town_walker_17_pl|Patrulheiros
 trp_nino_varon|Criança
 trp_nino_varon_pl|Crianças
 trp_nina_chica|Criança
 trp_nina_chica_pl|Crianças
-trp_village_walker_1|Camponêsc1
+trp_village_walker_1|Camponês
 trp_village_walker_1_pl|Camponeses
-trp_village_walker_2|Camponêsc2
-trp_village_walker_2_pl|Camponeses
-trp_village_walker_3|Camponêsc3
+trp_village_walker_2|Camponesa
+trp_village_walker_2_pl|Camponesas
+trp_village_walker_3|Camponês
 trp_village_walker_3_pl|Camponeses
-trp_village_walker_4|Camponêsc4
-trp_village_walker_4_pl|Camponeses
-trp_village_walker_5|Camponêsc5
-trp_village_walker_5_pl|Camponeses
-trp_village_walker_6|Camponêsc6
-trp_village_walker_6_pl|Camponeses
-trp_village_walker_7|Povo Livrec7
-trp_village_walker_7_pl|Povos Livres
-trp_village_walker_8|Povo Livrec8
-trp_village_walker_8_pl|Povos Livres
+trp_village_walker_4|Camponesa
+trp_village_walker_4_pl|Camponesas
+trp_village_walker_5|Aldeão
+trp_village_walker_5_pl|Aldeãos
+trp_village_walker_6|Aldeã
+trp_village_walker_6_pl|Aldeãs
+trp_village_walker_7|Homem Livre
+trp_village_walker_7_pl|Homens Livres
+trp_village_walker_8|Mullher Livre
+trp_village_walker_8_pl|Mulheres Livres
 trp_village_walker_9|Dothraki
 trp_village_walker_9_pl|Dothraki
 trp_village_walker_10|Dothraki
 trp_village_walker_10_pl|Dothraki
-trp_village_walker_11|Camponêsc9
+trp_village_walker_11|Camponês
 trp_village_walker_11_pl|Camponeses
-trp_village_walker_12|Camponêsc10
-trp_village_walker_12_pl|Camponeses
-trp_village_walker_13|Camponêsc11
-trp_village_walker_13_pl|Camponeses
-trp_village_walker_14|Camponêsc12
-trp_village_walker_14_pl|Camponeses
+trp_village_walker_12|Camponesa
+trp_village_walker_12_pl|Camponesas
+trp_village_walker_13|Aldeão
+trp_village_walker_13_pl|Aldeãos
+trp_village_walker_14|Aldeã
+trp_village_walker_14_pl|Aldeãs
 trp_village_walker_15|Homem de Ferro
 trp_village_walker_15_pl|Homens de Ferro
-trp_village_walker_16|Camponêsc13
-trp_village_walker_16_pl|Camponeses
-trp_village_walker_17|Camponêsc14
+trp_village_walker_16|Mulher de Ferro
+trp_village_walker_16_pl|Mulheres de Ferro
+trp_village_walker_17|Camponês
 trp_village_walker_17_pl|Camponeses
-trp_village_walker_18|Camponêsc15
-trp_village_walker_18_pl|Camponeses
+trp_village_walker_18|Camponesa
+trp_village_walker_18_pl|Camponesas
 trp_spy_walker_1|Camponês
 trp_spy_walker_1_pl|Camponeses
-trp_spy_walker_2|Camponês
-trp_spy_walker_2_pl|Camponeses
-trp_spy_walker_3|Povo Livre
-trp_spy_walker_3_pl|Povos Livres
-trp_spy_walker_4|Povo Livre
-trp_spy_walker_4_pl|Povos Livres
+trp_spy_walker_2|Camponesa
+trp_spy_walker_2_pl|Camponesas
+trp_spy_walker_3|Homem Livre
+trp_spy_walker_3_pl|Homens Livres
+trp_spy_walker_4|Mulher Livre
+trp_spy_walker_4_pl|Mulheres Livres
 trp_spy_walker_5|Dothraki
 trp_spy_walker_5_pl|Dothraki
 trp_spy_walker_6|Dothraki
 trp_spy_walker_6_pl|Dothraki
 trp_spy_walker_7|Camponês
 trp_spy_walker_7_pl|Camponeses
-trp_spy_walker_8|Camponês
-trp_spy_walker_8_pl|Camponeses
+trp_spy_walker_8|Camponesa
+trp_spy_walker_8_pl|Camponesas
 trp_spy_walker_9|Camponês
 trp_spy_walker_9_pl|Camponeses
-trp_spy_walker_10|Camponês
-trp_spy_walker_10_pl|Camponeses
+trp_spy_walker_10|Camponesa
+trp_spy_walker_10_pl|Camponesas
 trp_spy_walker_11|Camponês
 trp_spy_walker_11_pl|Camponeses
-trp_spy_walker_12|Camponês
-trp_spy_walker_12_pl|Camponeses
+trp_spy_walker_12|Camponesa
+trp_spy_walker_12_pl|Camponesas
 trp_spy_walker_13|Camponês
 trp_spy_walker_13_pl|Camponeses
-trp_spy_walker_14|Camponês
-trp_spy_walker_14_pl|Camponeses
+trp_spy_walker_14|Camponesa
+trp_spy_walker_14_pl|Camponesas
 trp_spy_walker_15|Homem de Ferro
 trp_spy_walker_15_pl|Homens de Ferro
-trp_spy_walker_16|Camponês
-trp_spy_walker_16_pl|Camponeses
+trp_spy_walker_16|Mulher de Ferro
+trp_spy_walker_16_pl|Mulheres de Ferro
 trp_spy_walker_17|Patrulheiro
 trp_spy_walker_17_pl|Patrulheiros
-trp_spy_walker_18|Camponês
-trp_spy_walker_18_pl|Camponeses
+trp_spy_walker_18|Camponesa
+trp_spy_walker_18_pl|Camponesas
 trp_tournament_master|Mestre de Torneio
 trp_tournament_master_pl|Mestres de Torneio
 trp_trainer|Treinador
