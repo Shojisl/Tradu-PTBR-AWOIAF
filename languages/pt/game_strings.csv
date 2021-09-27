@@ -3804,9 +3804,9 @@ str_westerman3|Ocidental (baix{reg11?a:o})
 str_dornishman|{reg11?Dornesa:Dornês} de Areia
 str_dornishman2|{reg11?Dornesa:Dornês} de Pedra (alt{reg11?a:o})
 str_dorneishman3|{reg11?Dornesa:Dornês} de Sal (baix{reg11?a:o})
-str_free_city|Cidad{reg1?ã:ão} Livre
-str_free_city2|Cidad{reg1?ã:ão} Livre (alt{reg11?a:o})
-str_free_city3|Cidad{reg1?ã:ão} Livre (baix{reg11?a:o})
+str_free_city|Cidad{reg11?ã:ão} Livre
+str_free_city2|Cidad{reg11?ã:ão} Livre (alt{reg11?a:o})
+str_free_city3|Cidad{reg11?ã:ão} Livre (baix{reg11?a:o})
 str_reach|A Campina
 str_reach2|A Campina (alt{reg11?a:o})
 str_reach3|A Campina (baix{reg11?a:o})

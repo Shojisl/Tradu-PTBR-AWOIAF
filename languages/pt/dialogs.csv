@@ -4830,13 +4830,13 @@ dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Sim, posso levar 
 dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Lamento, mas não.
 dlga_move_cattle_herd_quest_taken:mayor_pretalk|Esplêndido. Você pode encontrar o rebanho fora da cidade. Depois de levar os animais para {s13}, volte para mim e eu lhe pagarei.
 dlga_merchant_quest_requested:mayor_pretalk|Receio que eu não posso oferecer um trabalho no momento.
-dlga_start:village_elder_deliver_cattle_thank|{Meu bom sor/Minha boa senhora}. Nossa aldeia agradece sua ajuda. Graças às {reg5} cabeças de gado que você trouxe, agora podemos criar nosso próprio rebanho.
+dlga_start:village_elder_deliver_cattle_thank|{Meu bom sor/Minha boa senhora}, nossa aldeia agradece sua ajuda. Graças às {reg5} cabeças de gado que você trouxe, agora podemos criar nosso próprio rebanho.
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{Meu bom lorde/Minha boa lady}, por favor diga, há algo que eu possa fazer por você?
 dlga_start:village_elder_talk|Bem-vind{o/a} a {s9}, {meu senhor/senhora}. Ficamos felizes com a notícia de que você é {o novo senhor/a nova senhora} de nossa humilde aldeia. Eu sou o ancião da aldeia e terei a honra de servi-l{o/a} de todas as maneiras que eu puder.
 dlga_start:village_elder_talk.1|Bom dia, {sor/senhora} e bem-vind{o/a} a {s9}. Eu sou o ancião desta aldeia.
 dlga_start:village_elder_talk.2|{reg59?Minha senhora:Meu senhor}, você honra nossa humildade aldeia com sua presença.{s33}
 dlga_start:village_elder_talk.3|Bom dia, {reg59?senhora:sor}, e bem-vind{o/a} a {s9}. Eu sou o líder local dessa aldeia.
-dlga_start:village_elder_talk.4|Bom dia. {reg59?senhora:sor}.
+dlga_start:village_elder_talk.4|Bom dia, {reg59?senhora:sor}.
 dlga_village_elder_pretalk:village_elder_talk|Há algo que eu posso fazer por você?
 dlga_village_elder_talk:village_elder_ask_fugitive|Eu estou procurando por um homem com o nome de {s4}. Me foi dito que ele estava se escondendo aqui.
 dlga_village_elder_talk:village_elder_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Disseram que ele pode estar escondido aqui.
