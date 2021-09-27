@@ -198,24 +198,24 @@ str_village_prosperity_70|^A aldeia de {s60} parece exuberante e próspera.
 str_village_prosperity_80|^A vila de {s60} parece rica e bem mantida.
 str_village_prosperity_90|^A aldeia de {s60} parece muito rica e próspera.
 str_village_prosperity_100|^A aldeia de {s60}, rodeada por campos vastos e férteis, parece imensamente rica.
-str_town_alt_prosperity_0|Esses poucos itens vendidos no mercado parecem ter preços bem fora do alcance dos habitantes. As pessoas estão desnutridas, seus animais estão doentes ou morrendo e as ferramentas de seu comércio parecem estar quebradas. Os becos foram abandonados a moscas e cães sarnentos.
-str_town_alt_prosperity_20|Você ouve reclamações no mercado sobre o preço dos itens de uso diário e as lojas estão meio vazias. Você vê os sinais de desnutrição tanto nas pessoas quanto nos animais, e tanto os prédios quanto as ferramentas sofrem por falta de conserto. Muitos já podem ter migrado para procurar trabalho em outro lugar.
-str_town_alt_prosperity_40|Você ouve reclamações ocasionais no mercado sobre o preço de itens de uso diário, mas parece haver uma quantidade razoável de produtos à venda. Você vê um prédio, loja ou carrinho abandonado ocasional, mas nada além do comum.
-str_town_alt_prosperity_60|As pessoas parecem bem alimentadas e relativamente contentes. Os artesãos têm um negócio próspero e alguns migrantes parecem estar vindo de outras regiões para buscar a sorte.
-str_town_alt_prosperity_80|As paredes, ruas e casas são bem conservadas. Os mercados estão apinhados de migrantes das regiões próximas, atraídos para cá pela disponibilidade de bens e trabalho. O ritmo dos martelos e teares fala ao negócio das oficinas dos artesãos.
-str_village_alt_prosperity_0|Apenas algumas pessoas são fortes o suficiente para trabalhar nos campos, muitas das quais estão ficando cheias de ervas daninhas. O resto está fraco e desnutrido ou já fugiu para outro lugar. Os animais de tração há muito morreram de fome ou foram comidos, embora ainda haja algumas carcaças nos arredores, com os ossos roídos por feras.
-str_village_alt_prosperity_20|Alguns fazendeiros e animais estão nos campos, mas seu pequeno número sugere que alguns moradores podem estar emigrando em busca de alimento. Os implementos agrícolas parecem enferrujados e quebrados. Os arbustos e as ervas daninhas parecem estar recuperando alguns dos campos mais externos.
-str_village_alt_prosperity_40|Os campos e pomares estão ocupados, com os moradores engajados nas tarefas das estações. Tanto os humanos quanto os animais parecem relativamente saudáveis ​​e bem alimentados. No entanto, um pequeno número dos campos mais externos não foi costurado e algumas paredes estão em mau estado, sugerindo que ainda não há mãos suficientes para fazer todo o trabalho que precisa ser feito.
-str_village_alt_prosperity_60|Os campos e pomares estão fervilhando de atividade, com sacos cheios de grãos e carne seca atestando a produtividade das terras de cultivo e pastagens da aldeia.
-str_village_alt_prosperity_80|Os campos e pomares estão fervilhando de atividade, com valas de irrigação recém-cavadas sugerindo que os fazendeiros têm tempo livre e energia suficientes para expandir a área de cultivo. Trabalhadores sazonais parecem estar se reunindo aqui para ajudar no trabalho e se juntar à prosperidade geral.
-str_oasis_village_alt_prosperity_0|Os pomares estão praticamente abandonados e os canais que os irrigam estão obstruídos com lodo. O punhado de aldeões que você vê parece desnutrido e inquieto. Os animais de tração há muito morreram de fome ou foram comidos, embora algumas carcaças ainda estejam nos arredores, com os ossos roídos pelos lobos.
-str_oasis_village_alt_prosperity_20|Poucos moradores podem ser vistos cuidando dos pomares e, em alguns lugares, as ruínas parecem estar invadindo os jardins. Muitos dos canais estão obstruídos com lodo, e os poços e cisternas estão cheios de areia.
-str_oasis_village_alt_prosperity_40|Homens e mulheres estão ocupados cuidando dos pomares, subindo ao topo das árvores para polinizar os frutos. Animais saudáveis ​​desenham as bombas e rodas que trazem água para os campos. Alguns dos canais de irrigação e cisternas, no entanto, precisam de alguma manutenção.
-str_oasis_village_alt_prosperity_60|Os pomares e pomares estão fervilhando de atividade. Os agricultores chamam uns aos outros alegremente do alto das árvores, onde polinizam os frutos. O ranger de bombas de madeira, o berro de animais de tração e o barulho da água corrente falam de um sistema de irrigação que está prosperando sob a atenção dos moradores.
-str_oasis_village_alt_prosperity_80|Os pomares estão fervilhando de atividade, enquanto os fazendeiros carregam uma safra abundante de maçãs para vender no mercado. Homens e mulheres estão trabalhando arduamente para cavar novos poços e canais, para trazer terras adicionais para irrigação.
+str_town_alt_prosperity_0|Os poucos artigos que vendem no mercado parecem estar muito acima do alcance da população. As pessoas estão desnutridas, seus animais estão doentes ou moribundos, e as ferramentas de suas oficinas e tendas parecem estar inutilizáveis. As vielas foram abandonadas às moscas e aos cães sarnentos.
+str_town_alt_prosperity_20|Você escuta algumas queixas no mercado sobre o preço dos artigos de uso diário e as tendas estão meio vazias. Você pode ver alguns sinais de desnutrição tanto nas pessoas como nos animais, os edifícios estão muito deteriorados e as ferramentas de trabalho meio quebradas. Seguramente muitos já emigraram a outras terras para poder sobreviver.
+str_town_alt_prosperity_40|Ocasionalmente você ouve o murmúrio de queixas no mercado sobre o preço dos artigos de uso diário, mas parece que há uma razoável quantidade de produtos à venda. Às vezes você observa um edifício abandonado, uma tenda vazia ou alguma carroça desmantelada, mas nada fora do comum.
+str_town_alt_prosperity_60|O povo está relativamente bem alimentado e satisfeito. Os artesãos atuam em seus prósperos negócios, e algumas pessoas de outras terras parecem estar vindo aqui para tentar a sorte.
+str_town_alt_prosperity_80|As muralhas, as ruas e as casas estão muito bem conservadas. Os mercados estão repletos de viajantes das regiões próximas, atraídos pela boa disponibilidade de bens e trabalho. O ritmo dos martelos e demais ferramentas evidenciam bem a prosperidade das oficinas artesanais.
+str_village_alt_prosperity_0|Apenas um punhado de gente é forte o suficiente para lavrar os campos, muitos dos quais estão se tornando pântanos invadidos por ervas daninhas. O resto das pessoas são fracas e desnutridas, isso se já não tiverem fugido para outro lugar. Os animais de tração há tempos que morreram por inanição ou foram devorados, ainda que seus restos permaneçam nos arredores da aldeia onde os ossos são devorados por feras selvagens.
+str_village_alt_prosperity_20|Alguns agricultores e seus animais povoam os campos, mas são tão poucos que muitos camponeses poderiam emigrar em busca de melhor alimentação. As ferramentas agrícolas e de lavoura estão descuidadas e muitas vezes inservíveis, enquanto a erva daninha ganha terreno nos campos mais distantes.
+str_village_alt_prosperity_40|Os campos e hortas estão sendo bem aproveitados, com os aldeões trabalhando conforme as estações. Tanto as pessoas como os animais parecem bem alimentados e gozam de um aspecto saudável. No entanto, alguns terrenos nas áreas mais remotas estão sem cultivar, e parte das paredes e cercas permanecem sem reparo, o que sugere que ainda não há mão de obra suficiente para todo o trabalho a ser feito.
+str_village_alt_prosperity_60|Os campos e hortas agitam-se de atividade, os sacos cheios de grãos e carne seca vão de um lado a outro, dando testemunho da fertilidade das terras de lavoura e dos pastos desta região.
+str_village_alt_prosperity_80|Os campos e hortas agitam-se de atividade. Os canais de irrigação recém cavados sugerem claramente que os agricultores possuem tempo e energias suficientes para ampliar a superfície cultivável. Enquanto isso, trabalhadores de temporada vêm aqui para ajudar com o trabalho conforme as estações e contribuir para a prosperidade geral da região.
+str_oasis_village_alt_prosperity_0|Os pomares estão praticamente abandonados, e os canais que os regam encontram-se obstruídos com lama e terra. O punhado de camponeses que você pode ver está claramente malnutrido e exausto. Os animais de tração há tempos que morreram de fome ou foram devorados, embora algumas carcaças ainda estejam nos arredores, com os ossos roídos pelos lobos.
+str_oasis_village_alt_prosperity_20|Você pode ver só alguns poucos aldeões cuidando dos pomares, enquanto em alguns lugares as dunas do deserto parecem estar invadindo vorazmente os jardins. Muitos dos canais estão obstruídos com lama, e os poços e cisternas estão cheios de areia.
+str_oasis_village_alt_prosperity_40|Homens e mulheres estão ocupados cuidando dos pomares, subindo ao topo das árvores para colher frutas. Enquanto isso, há saudáveis e fortes animais impulsionando as bombas e moinhos que levam a água para os campos. Alguns dos canais de irrigação e os poços poderiam, no entanto, requerer algumas reparações.
+str_oasis_village_alt_prosperity_60|Os pomares e hortas agitam-se de atividade. Os agricultores chamam uns aos outros alegremente do alto das árvores, onde polinizam os frutos. O ranger de bombas de madeira, o berro de animais de tração e o barulho da água corrente indica claramente que o sistema de irrigações prospera sem contratempos graças ao trabalho dos aldeões
+str_oasis_village_alt_prosperity_80|Os pomares agitam-se de atividade, enquanto os fazendeiros carregam uma safra abundante de frutas para vender no mercado. Homens e mulheres estão trabalhando arduamente para cavar novos poços e canais, para trazer terras adicionais para irrigação.
 str_acres_grain|acres de campos de grãos
 str_acres_orchard|acres de pomares e vinhedos
-str_acres_oasis|acres de jardins irrigados de oásis
+str_acres_oasis|acres de jardins com irrigação
 str_looms|teares
 str_boats|barcos
 str_head_cattle|cabeças de gado
@@ -233,13 +233,13 @@ str_traps|armadilhas
 str_gardens|pequenos jardins
 str_tanneries|tanques de curtume
 str_forests|florestas
-str_master_miller|Mestre moleiro
-str_master_brewer|Mestre cervejeiro
-str_master_presser|Mestre prensador
-str_master_smith|Mestre ferreiro
-str_master_tanner|Mestre curtidor
-str_master_weaver|Mestre tecelão
-str_master_dyer|Mestre tintureiro
+str_master_miller|Mestre Moleiro
+str_master_brewer|Mestre Cervejeiro
+str_master_presser|Mestre Prensador
+str_master_smith|Mestre Ferreiro
+str_master_tanner|Mestre Curtidor
+str_master_weaver|Mestre Tecelão
+str_master_dyer|Mestre Tintureiro
 str_war_report_minus_4|estamos prestes a perder a guerra. Mulheres serão estupradas e crianças serão massacradas! Como isso te faz sentir?
 str_war_report_minus_3|a situação parece sombria
 str_war_report_minus_2|as coisas não estão indo muito bem para nós

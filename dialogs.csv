@@ -2989,10 +2989,10 @@ dlga_lord_talk_ask_something:lord_talk_ask_something_2|Sim?
 dlga_lord_talk_ask_something_2:lord_talk_ask_skill|Deixe-me ver suas habilidades.
 dlga_lord_talk_ask_skill:lord_pretalk|Mostrarei a você...
 dlga_lord_talk_ask_something_again:lord_talk_ask_something_2|Mais alguma coisa?
-dlga_lord_talk_ask_something_2:lord_talk_ask_location|Quero saber a localização de alguém.
+dlga_lord_talk_ask_something_2:lord_talk_ask_location|Preciso saber onde alguém se encontra.
 dlga_lord_talk_ask_something_2:lord_tell_objective|O que você e seus homens estão fazendo?
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_strategy|O que acontece no reino?
-dlga_lord_talk_ask_about_strategy:lord_pretalk|Você deve decidir isso, já que é o marechal.
+dlga_lord_talk_ask_about_strategy:lord_pretalk|Você deve decidir isso, já que é {o/a} marechal.
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_war|Como vai uma guerra?
 dlga_lord_talk_ask_something_2:lord_marriage_permission|{s19}
 dlga_lord_marriage_permission:lord_pretalk|Pelos céus, homem. Se eu não lhe dei permissão para vê-la, acha mesmo que eu permitiria que você se casasse com ela?
@@ -4184,10 +4184,10 @@ dlga_ransom_broker_ransom_companion_accept:ransom_broker_talk|Esplêndido! Em po
 dlga_ransom_broker_ransom_companion_refuse:ransom_broker_talk|É claro, é claro... Não importa o que dizem sobre os ratos, a propósito - eu nunca vi um eu mesmo, por causa da escuridão negra. Enfim, tenho certeza que {s5} vai entender porque é importante para você controlar as despesas. Agora... deseja mais alguma coisa?
 dlga_ransom_broker_talk:close_window|Não dessa vez, adeus.
 dlga_ransom_broker_sell_prisoners:ransom_broker_sell_prisoners_2|Deixe me ver o que você tem...
-dlga_ransom_broker_sell_prisoners_2:close_window|Eu ficarei aqui por alguns dias. Deixe-me saber se você precisa de meus serviços.
-dlga_start:tavern_traveler_talk|Você se parece com o tipo de pessoa que faria bem em me conhecer. Eu viajo muito em todo o Norte e mantenho sempre uma orelha aberta. Eu posso fornecer-lhe informações que você pode achar útil. Por um preço miserável claro.
+dlga_ransom_broker_sell_prisoners_2:close_window|Eu ficarei aqui por alguns dias. Deixe-me saber caso precise de meus serviços.
+dlga_start:tavern_traveler_talk|Saudações, amig{o/a}. Você parece o tipo de {homem/pessoa} que faria bem em me conhecer. Viajo muito por toda Westeros e Essos e mantenho sempre o ouvido atento. Posso fornecer informações que podem ser úteis. Por um pequeno preço, é claro.
 dlga_start:tavern_traveler_lost_companion_thanks|Saudações, {playername}. Eu vi seu companheiro {s10} na taverna de {s11} alguns dias atrás. E penso que você gostaria de saber.
-dlga_tavern_traveler_lost_companion_thanks:tavern_traveler_pretalk|Obrigado. Eu irei encontrar {reg3?Ela:ele} lá.
+dlga_tavern_traveler_lost_companion_thanks:tavern_traveler_pretalk|Obrigado. Eu irei encontrar {reg3?ela:ele} lá.
 dlga_tavern_traveler_lost_companion_thanks:tavern_traveler_pretalk.1|Obrigado, mas eu realmente não me importo.
 dlga_start:tavern_traveler_talk.1|Saudações, {playername}.
 dlga_tavern_traveler_pretalk:tavern_traveler_talk|Sim?
@@ -4202,8 +4202,8 @@ dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|Pode ser ma
 dlga_tavern_traveler_tell_kingdoms_5:tavern_traveler_tell_kingdoms_6|Interessante. Onde eu posso encontrar esses reinvindicadores do trono?
 dlga_tavern_traveler_tell_kingdoms_5:close_window|Eu acho que já ouvi o suficiente. Obrigado.
 dlga_tavern_traveler_tell_kingdoms_6:tavern_traveler_pretalk|Uma vida de reclamante está em perigo em seu próprio país, é claro. Portanto, eles geralmente ficam em cortes rivais, apoiando e esperando alguém encontrar alguém disposto a defender sua causa. Eu geralmente ouço notícias sobre alguns deles, e posso ser capaz de dizer-lhe sua localização com alguma precisão. Mas é claro, gostaria de pedir algo por esse serviço.
-dlga_tavern_traveler_talk:tavern_traveler_pretender_location|Eu quero saber a localização de um reclamante.
-dlga_tavern_traveler_pretender_location:tavern_traveler_pretender_location_ask|Quem você quer localizar?
+dlga_tavern_traveler_talk:tavern_traveler_pretender_location|Quero saber onde se encontra um pretendente.
+dlga_tavern_traveler_pretender_location:tavern_traveler_pretender_location_ask|De quem se trata?
 dlga_tavern_traveler_pretender_location_ask:tavern_traveler_pretender_location_ask_2|{s11}
 dlga_tavern_traveler_pretender_location_ask:tavern_traveler_pretalk|Esquece.
 dlga_tavern_traveler_talk:conchobor_cred|Você é...
@@ -4212,7 +4212,7 @@ dlga_tavern_traveler_pretender_location_ask_2:tavern_traveler_pretender_location
 dlga_tavern_traveler_pretender_location_ask_money:tavern_traveler_pretender_location_tell|Tudo certo, aqui estão as trinta veados de prata.
 dlga_tavern_traveler_pretender_location_ask_money:tavern_traveler_pretalk|Esquece.
 dlga_tavern_traveler_pretender_location_tell:tavern_traveler_pretalk|{s15} está atualmente em {s11}.
-dlga_tavern_traveler_talk:tavern_traveler_lord_location_money|Quero saber a localização de algum senhor.
+dlga_tavern_traveler_talk:tavern_traveler_lord_location_money|Quero saber a localização de um senhor.
 dlga_tavern_traveler_lord_location_money:tavern_traveler_lord_location_money_2|Posso revelar essa informação por um pequeno preço, digamos 200 veados de prata.
 dlga_tavern_traveler_lord_location_money_2:tavern_traveler_lord_location|Tudo bem. Aqui estão 200 veados de prata.
 dlga_tavern_traveler_lord_location_money_2:tavern_traveler_pretalk|Deixa pra lá.
@@ -4222,14 +4222,14 @@ dlga_tavern_traveler_lord:tavern_traveler_lord_2|Qual?
 dlga_tavern_traveler_lord_2:tavern_traveler_lord_3|{s1}
 dlga_tavern_traveler_lord_2:tavern_traveler_pretalk|Deixa pra lá.
 dlga_tavern_traveler_lord_3:tavern_traveler_pretalk|{s1}
-dlga_tavern_traveler_talk:tavern_traveler_bookseller_location|Procuro um homem que vende livros...
-dlga_tavern_traveler_bookseller_location:tavern_traveler_pretalk|Lamento, mas não sei onde eles estão.
-dlga_tavern_traveler_bookseller_location:tavern_traveler_bookseller_location_ask_money|Eu sei onde eles estão. Por 100 veados de prata, vou te contar.
+dlga_tavern_traveler_talk:tavern_traveler_bookseller_location|Estou procurando por um vendedor de livros...
+dlga_tavern_traveler_bookseller_location:tavern_traveler_pretalk|Lamento mas eu não vi nenhum ultimamente.
+dlga_tavern_traveler_bookseller_location:tavern_traveler_bookseller_location_ask_money|Eu posso ter cruzado meu caminho com um ou dois recentemente. Por 100 veados de prata, eu direi aonde foi.
 dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_bookseller_location_tell|Tudo bem. Aqui estão 100 veados de prata.
 dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_pretalk|Deixa pra lá.
 dlga_tavern_traveler_bookseller_location_tell:tavern_traveler_pretalk|Você pode encontrá-los em {s11}.
-dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|Procuro um homem que compra escravos...
-dlga_tavern_traveler_ransom_broker_location:tavern_traveler_pretalk|Lamento, mas não sei onde eles estão.
+dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|Estou procurando por um corretor de resgates...
+dlga_tavern_traveler_ransom_broker_location:tavern_traveler_pretalk|Lamento mas eu não vi nenhum ultimamente.
 dlga_tavern_traveler_ransom_broker_location:tavern_traveler_ransom_broker_location_ask_money|Eu sei onde eles estão. Por 50 veados de prata, vou te dizer.
 dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_ransom_broker_location_tell|Tudo bem. Aqui estão 50 veados de prata.
 dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_pretalk|Deixa pra lá.
@@ -4242,8 +4242,8 @@ dlga_tavern_traveler_companion_location_ask_2:tavern_traveler_companion_location
 dlga_tavern_traveler_companion_location_ask_money:tavern_traveler_companion_location_tell|Tudo certo, aqui estão as trinta veados de prata.
 dlga_tavern_traveler_companion_location_ask_money:tavern_traveler_pretalk|Esquece.
 dlga_tavern_traveler_companion_location_tell:tavern_traveler_pretalk|{s15} está atualmente em {s11}. {s12}
-dlga_tavern_traveler_talk:tavern_traveler_rumors|Eu sei que você viaja muito. Você poderia espalhar alguns rumores enquanto viaja?
-dlga_tavern_traveler_rumors:tavern_traveler_rumors1|Hmm, tudo é possível, pelo preço certo, é claro. Que tipo de rumores tu tem em mente?
+dlga_tavern_traveler_talk:tavern_traveler_rumors|Sei que você viaja bastante. Poderia espalhar alguns rumores durante suas viajens?
+dlga_tavern_traveler_rumors:tavern_traveler_rumors1|Hmm, tudo é possível, pelo preço certo, é claro. Que tipo de rumores tem em mente?
 dlga_tavern_traveler_rumors1:tavern_traveler_rumors2|Eu gostaria que você espalhasse rumores sobre a falta de lealdade de um lorde.
 dlga_tavern_traveler_rumors1:tavern_traveler_rumors2.1|Eu gostaria de que você espalhasse rumores sobre a leviandade de um lorde.
 dlga_tavern_traveler_rumors1:tavern_traveler_rumors2.2|Eu apenas quero iniciar uma briga entre dois lordes.
