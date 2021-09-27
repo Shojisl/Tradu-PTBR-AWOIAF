@@ -1,0 +1,5 @@
+Os controles azuis combinam mais com o tema geral do mod. Fica a seu critério utilizá-los ou não.
+
+Instruções: mescle a pasta "textures" abaixo com a pasta de mesmo nome do mod, encontrada na pasta raiz do mod.
+
+Opção dois: copie o arquivo de textura da pasta abaixo para a pasta que acabei de citar acima e substitua um pelo outro.
