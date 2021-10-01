@@ -357,7 +357,7 @@ dlga_start:close_window.9|Você está livre para ir agora, {playername}. Vá e p
 dlga_start:ellaria_9|Bem? Você já se decidiu?
 dlga_start:fight_alcool1|Ei! Tome uma bebida comigo.
 dlga_fight_alcool1:fight_alcool2|Claro, por que não.
-dlga_fight_alcool1:close_window|Desculpe, não tenho tempo para me dar prazer com cerveja.
+dlga_fight_alcool1:close_window|Desculpe, não tenho tempo para isso.
 dlga_fight_alcool1:close_window.1|Vá importunar outra pessoa, bêbado, antes que eu abra sua traqueia.
 dlga_fight_alcool2:fight_alcool3|Bem, talvez você queira investir alguns veados em um jogo de bebida?
 dlga_fight_alcool3:fight_alcoolstart|Uma competição? Esteja avisado, você não vai ganhar facilmente.
@@ -369,7 +369,7 @@ dlga_fight_alcoolmise:fight_alcoolmiseend.2|30 veados.
 dlga_fight_alcoolmise:fight_alcoolmiseend.3|40 veados.
 dlga_fight_alcoolmise:fight_alcoolmiseend.4|50 veados.
 dlga_fight_alcoolmise:fight_alcoolmiseend.5|100 veados.
-dlga_fight_alcoolmise:fight_alcoolmiseendno|OK, terminei.
+dlga_fight_alcoolmise:fight_alcoolmiseendno|Ok, terminei.
 dlga_fight_alcoolmiseendno:close_window|Aha...
 dlga_fight_alcoolmiseend:fight_begin|Primeira rodada... juntos.
 dlga_fight_begin:fight_begin2|RHA! que bom, outro!
@@ -480,7 +480,7 @@ dlga_start:braavos_trainer_talk|Saudações, {sor/senhora}. Eu sou o treinador d
 dlga_braavos_trainer_talk:braavos_trainer_talk1|Que tipo de tropa você pode treinar aqui?
 dlga_braavos_trainer_talk1:braavos_trainer_talk2|Eu treino os Guardas do Senhor do Mar {seu senhorio/minha senhora}
 dlga_braavos_trainer_talk2:braavos_trainer_talk3|Então, como posso adquirir esses guardas?
-dlga_braavos_trainer_talk3:close_window|Somente o senhor desta cidade pode solicitar o treinamento de tais nobres guardas. Falando nisso, tenho um trabalho a fazer. Bom dia, {playername}.
+dlga_braavos_trainer_talk3:close_window|Somente o senhor desta cidade pode solicitar o treinamento de tais nobres guardas. Falando nisso, tenho trabalho a fazer. Bom dia, {playername}.
 dlga_start:white_harbour_trainer_lord|Boas saudações, {seu senhorio/minha senhora}. Você precisa que eu treine algumas tropas do Porto Branco? Vai custar 5.000 cervos para treinar e equipar 10 homens. Posso tê-los prontos para você em uma semana.
 dlga_white_harbour_trainer_lord:white_harbour_trainer_lord_no|No momento, não.
 dlga_white_harbour_trainer_lord:white_harbour_trainer_lord_no.1|Parece que os cofres estão vazios. Terei que voltar mais tarde.
@@ -518,7 +518,7 @@ dlga_start:dragonstone_trainer_lord.1|Saudações, {seu senhorio/minha senhora}.
 dlga_start:dragonstone_trainer_talk|Saudações, {m'lord/m'lady}. Eu sou o Mestre de Armas aqui em Pedra do Dragão. Eu treino as tropas exigidas pelo atual senhor.
 dlga_dragonstone_trainer_talk:dragonstone_trainer_talk1|Que tipo de tropa você pode treinar aqui?
 dlga_dragonstone_trainer_talk1:dragonstone_trainer_talk2|Eu treino a Guarda Rainha, cavaleiros altamente treinados que juraram proteger o Senhor de Pedra do Dragão... quem quer que seja no momento.
-dlga_dragonstone_trainer_talk2:dragonstone_trainer_talk3|Então, como eu poderia adquirir esses cavaleiros ??
+dlga_dragonstone_trainer_talk2:dragonstone_trainer_talk3|Então, como eu poderia adquirir esses cavaleiros??
 dlga_dragonstone_trainer_talk3:close_window|Bem, você precisaria ser o Senhor da Pedra do Dragão, é claro! De qualquer forma, tenho muito a fazer, então é melhor você me deixar para continuar com isso.
 dlga_start:kindly_man_lord|Saudações, Senhor do Mar {playername}. Você requer o uso de um homem sem rosto? Vai custar 10.000 veados de prata, e ele vai ficar com você enquanto você pagar. Não é a maneira comum dos Homens Sem Rosto, mas se o Deus de Muitas Caras assim o desejar...
 dlga_kindly_man_lord:kindly_man_lord_no|Ainda não.
@@ -654,28 +654,28 @@ dlga_innkeeper_1_talk:innkeeper_2_talk|Oh eu? Não foi nada.
 dlga_innkeeper_1_talk:close_window.2|Na verdade, sim. Mas quem vai te salvar de mim, hein?!
 dlga_innkeeper_2_talk:close_window|Todos nós apreciamos sua ajuda. Sinta-se à vontade para descansar aqui sempre que precisar, {rapaz/moça}.
 dlga_start:close_window.28|Não vê que esotu ocupado?
-dlga_start:tavern_npc2_talk|Como está, {sor/senhora}? O que posso fazer para você?
-dlga_tavern_npc2_talk:tavern_npc2_talk_2|Muito bem, estou procurando informações sobre quem é o proprietário deste estabelecimento.
-dlga_tavern_npc2_talk_2:tavern_npc2_talk_3|Sou eu, {sor/senhora}. Meu nome é Masha Heddle. Meu avô foi dono deste lugar antes de mim.
+dlga_start:tavern_npc2_talk|Como vai a vida, {sor/senhora}? O que posso fazer por você?
+dlga_tavern_npc2_talk:tavern_npc2_talk_2|Vai bem. Procuro informações sobre quem é o proprietário deste estabelecimento.
+dlga_tavern_npc2_talk_2:tavern_npc2_talk_3|Está falando com ela, {sor/senhora}. Meu nome é Masha Heddle. Meu avô foi dono deste lugar antes de mim.
 dlga_tavern_npc2_talk_3:tavern_npc2_talk_4|Ah, entendo. Há quanto tempo esse lugar está aqui?
 dlga_tavern_npc2_talk_3:close_window|Tudo bem, obrigado. Isso é tudo que eu precisava saber.
-dlga_tavern_npc2_talk_4:tavern_npc2_talk_5|Esta pousada está aqui há muito tempo, desde Jaehaerys I, na verdade. Ele teve muitos nomes:As Duas Coroas, The Bellringer Inn e The Clanking Dragon. Pessoas de todo Westeros visitam aqui. Se você precisar encontrar alguém, provavelmente é aqui que essa pessoa está.
+dlga_tavern_npc2_talk_4:tavern_npc2_talk_5|Esta estalagem está aqui há muito tempo, desde Jaehaerys I, na verdade. Ela teve muitos nomes: Duas Coroas, Estalagem do Toque de Sino e Estalagem do Dragão Ressonante. Pessoas de toda Westeros visitam este lugar. Se você precisar encontrar alguém, provavelmente é aqui que essa pessoa está.
 dlga_tavern_npc2_talk_5:close_window|Parece bom, obrigado.
-dlga_start:local_traveller_talk|Muito bem, {sor/senhora}.
-dlga_local_traveller_talk:local_traveller_talk_2|Muito bem, quem é você?
-dlga_local_traveller_talk_2:local_traveller_talk_3|Eu? Por quê? Sou apenas um mero viajante. Westeros, Essos, viajei por todo o mundo conhecido. Se eu te conhecesse melhor, teria alguns segredos para te contar. Ha, mas não se preocupe com isso, {sor/senhora}.
+dlga_start:local_traveller_talk|Saudações, {sor/senhora}.
+dlga_local_traveller_talk:local_traveller_talk_2|Saudações, amigo. Quem é você?
+dlga_local_traveller_talk_2:local_traveller_talk_3|Eu? Por quê? Sou apenas um mero viajante. Westeros, Essos, viajei por todo o mundo conhecido. Se eu {o/a} conhecesse melhor, teria alguns segredos para te contar. Ha, mas não se preocupe com isso, {sor/senhora}.
 dlga_local_traveller_talk_2:close_window|Eu? Por quê? Sou apenas um mero viajante, {sor/senhora}. Westeros, Essos, viajei por todo o mundo conhecido. Se eu te conhecesse melhor, teria alguns segredos que poderia contar. Ha, mas não se preocupe com isso.
 dlga_local_traveller_talk_3:local_traveller_talk_4|Eu poderia garantir coisas boas se você me contasse seus 'segredos'...
 dlga_local_traveller_talk_4:local_traveller_talk_5|Ha, bem, você é um personagem persuasivo, não é ?! Muito bem. Enquanto viajava para Qohor, conheci um ferreiro de armas que poderia reforjar lâminas valirianas. Eu não consigo lembrar o nome dele, no entanto.
 dlga_local_traveller_talk_5:local_traveller_talk_6|Mais alguma coisa?
 dlga_local_traveller_talk_5:close_window|Parece bom, terei que visitar este ferreiro algum dia, eh. Obrigado.
 dlga_local_traveller_talk_6:close_window|Ha, você não é tão persuasivo, {sor/senhora}.
-dlga_start:tavern_npc3_talk|Hic... diabos..lo, {sor/senhora}.
+dlga_start:tavern_npc3_talk|Hic... diabos...olá, {sor/senhora}.
 dlga_tavern_npc3_talk:tavern_npc3_talk_2|Umm, olá...
-dlga_tavern_npc3_talk_2:tavern_npc3_talk_3|Meu... w... ifes vão... me matar. Arrotos! Pode .. ser você quer hmm.... ah sim, você quer comprar Valy.... amigo Valyrian Steel? Só... quinze mil bruxas... erm... veados!
+dlga_tavern_npc3_talk_2:tavern_npc3_talk_3|Minha... es...es...posa vai... me matar. *Arrotos!* Pode... ser que você queira hmm.... ah sim, você quer comprar Aço.... Aço Valiriano, amig{o/a}? Só... quinze mil bruxas... erm... veados!
 dlga_tavern_npc3_talk_3:tavern_npc3_talk_4|Parece justo, claro, por que não.
 dlga_tavern_npc3_talk_3:close_window|Não, obrigado.
-dlga_tavern_npc3_talk_4:close_window|Ok, g .. ood deal. Obrigado, tchau. B .. AR MAN !! Mais nenhuma bebida!
+dlga_tavern_npc3_talk_4:close_window|Ok, b... om negócio. Obrigado, tchau. ES...TALAGEIRO!! Mais uma bebida!
 dlga_start:close_window.29|Me deixe em paz. Não estou aqui para conversar!
 dlga_start:gambler_talk|Salve, colega, muito bem, meu {amigo/senhora}. Talvez você queira tentar a sorte?
 dlga_gambler_talk:tavern_tk_3cards|Claro, por que não.
@@ -714,11 +714,11 @@ dlga_pycelle10:close_window|Quando você começou, você... deixa para lá.
 dlga_start:measter_menu.1|Como posso ajudá-lo, {sor/senhora}?
 dlga_measter_menu:npc32_2|É um elo de aço valiriano que você está usando?
 dlga_measter_menu:close_window|Devo sair agora.
-dlga_npc32_2:npc32_3|Ah, sim, os meistres recebem o link por seu envolvimento no aprendizado da magia.
+dlga_npc32_2:npc32_3|Ah, sim, os meistres recebem o elo pelo seu envolvimento no estudo e aprendizado da magia.
 dlga_npc32_3:npc32_4|Você acredita que a magia ainda existe?
-dlga_npc32_4:close_window|Ah, claro que não. A magia já foi uma força poderosa no mundo, mas não é mais. O pouco que resta não é mais do que um fio de fumaça que permanece no ar depois que um grande incêndio se extinguiu, e até mesmo ele está se apagando. Valíria foi a última brasa e se foi para sempre.
+dlga_npc32_4:close_window|Ah, claro que não. A magia já foi uma força poderosa no mundo, mas não é mais. O pouco que resta não é mais do que um fio de fumaça que permanece no ar depois que um grande incêndio se extingue, e até mesmo ele está se apagando. Valíria foi a última brasa, e ela se foi para sempre.
 dlga_start:hodor_talk|Hodor!
-dlga_hodor_talk:hodor_talk_2|Você está bem ??
+dlga_hodor_talk:hodor_talk_2|Você está bem??
 dlga_hodor_talk_2:hodor_talk_3|Hodor!
 dlga_hodor_talk_3:close_window|Mhm...
 dlga_start:hodor_talk.1|Você quer voar? Sim, vamos fazer você voar...
@@ -926,7 +926,7 @@ dlga_start:measter_menu.12|Boas saudações, {meu senhor/minha senhora}.
 dlga_start:nan_1|Talvez você queira ouvir uma história?
 dlga_nan_1:nan_2|Claro.
 dlga_nan_1:close_window|Não, obrigado.
-dlga_nan_2:close_window|Além da Muralha, os monstros vivem, os gigantes e os carniçais, as sombras espreitadoras e os mortos que caminham, mas eles não podem passar enquanto a Muralha permanecer forte e os homens da Patrulha da Noite forem verdadeiros. {** *}
+dlga_nan_2:close_window|Para lá da Muralha, os monstros vivem, os gigantes e os carniçais, as sombras espreitadoras e os mortos que caminham, mas eles não podem passar enquanto a Muralha permanecer forte e os homens da Patrulha da Noite existirem.
 dlga_start:close_window.35|{playername}. Não vê que estou ocupado?
 dlga_start:close_window.36|Saudações, {sor/senhora}. Parece que ainda não se passou uma semana. Estou muito ocupado agora, volte mais tarde.
 dlga_start:citadel_back_training|Ah, {playername}. Você está de volta para terminar de aprender.
@@ -2227,7 +2227,7 @@ dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Desista! Sua sit
 dlga_player_siege_castle_commander_1:player_hostage_surrender|Eu demando que você se renda em troca do retorno em segurança de {s11}.
 dlga_player_siege_castle_commander_1:player_siege_tributo|Eu ofereço um honrado acordo para acabar com o cerco. Pague-nos um tributo e vamos embora.
 dlga_player_siege_castle_commander_1:close_window|Nada. Vou te deixar agora.
-dlga_player_siege_ask_surrender:close_window|Rendição? É uma piada, certo ?? Você tem poucos homens para atacar a Fortaleza.
+dlga_player_siege_ask_surrender:close_window|Rendição? É uma piada, certo?? Você tem poucos homens para atacar a Fortaleza.
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|Eu naõ vou te dar nada. Se renda ou se prepare para morrer!
 dlga_player_siege_ask_surrender_treatment_reject:close_window|Bastardo. Nós vamos lutar até o último homem.
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|Você será vendido e seus soldados vão viver. Eu te dou a minha palavra.
@@ -2825,19 +2825,19 @@ dlga_lord_talk:lord_start_quest1|Bom dia, Vossa Graça, tenho algumas notícias 
 dlga_lord_start_quest1:lord_start_quest_11|Estou ouvindo.
 dlga_lord_start_quest_11:lord_start_quest_21|(Você entrega a carta que encontrou)
 dlga_lord_start_quest_21:close_window|De fato interessante, embora esperado. {playername}, veja você mesmo. Parece que tenho trabalho a fazer.
-dlga_lord_talk:lord_start_quest2|Meu Senhor, tenho algumas .. notícias delicadas para chamar sua atenção.
-dlga_lord_start_quest2:lord_start_quest_12|Continue ..
-dlga_lord_start_quest_12:lord_start_quest_22|Capturamos um corvo que passava. A carta que carregava exibia o selo da mão do rei. (Você entrega a carta)
-dlga_lord_start_quest_22:close_window|Hmm. Então é isso que ele pensa eh. {playername} Eu acredito que nenhuma das palavras escritas aqui jamais passará pelos seus lábios. Claro, um Lannister sempre paga suas dívidas, aqui está um saco de moedas para o seu trabalho.
-dlga_lord_talk:lord_start_quest|Excelência, tenho notícias urgentes que precisam de sua atenção!
+dlga_lord_talk:lord_start_quest2|Meu Senhor, tenho algumas... notícias delicadas que trago à sua atenção.
+dlga_lord_start_quest2:lord_start_quest_12|Continue...
+dlga_lord_start_quest_12:lord_start_quest_22|Capturamos um corvo que passava. A carta que ele carregava exibia o selo do Mão do Rei. (Você entrega a carta)
+dlga_lord_start_quest_22:close_window|Hmm. Então é isso que ele pensa, eh. {playername}, acredito que nenhuma das palavras escritas aqui jamais passará pelos seus lábios. Claro, um Lannister sempre paga suas dívidas, aqui está um saco de moedas pelo seu trabalho.
+dlga_lord_talk:lord_start_quest|Sua Graça, tenho notícias urgentes que precisam de sua atenção!
 dlga_lord_start_quest:lord_start_quest_1|Por favor, continue.
-dlga_lord_start_quest_1:lord_start_quest_2|Viajei de Porto Real com dois de seus soldados leais. Estou aqui para lhe dizer que seu Senhor Pai, Eddard Stark, foi levado sob a custódia de Lannister por motivos de alta traição.
-dlga_lord_start_quest_2:lord_start_quest_3|Agradeço sua lealdade nestes tempos de desespero, {playername}, embora a notícia já tenha chegado até nós. Espero que você se junte a nós quando marcharmos para o sul em King's Landing. Veremos se Lorde Tywin realmente caga ouro.
+dlga_lord_start_quest_1:lord_start_quest_2|Viajei de Porto Real com dois de seus soldados leais. Estou aqui para lhe dizer que o Senhor seu Pai, Eddard Stark, foi levado sob a custódia dos Lannister por motivos de alta traição.
+dlga_lord_start_quest_2:lord_start_quest_3|Agradeço sua lealdade nestes tempos de desespero, {playername}, embora a notícia já tenha chegado até nós. Espero que você se junte a nós quando marcharmos para o sul sobre Porto Real. Veremos se Lorde Tywin realmente caga ouro.
 dlga_lord_start_quest_3:lord_start_quest_4|Agora, {playername}. Se vou para a guerra no sul, tenho um pequeno problema que precisa ser resolvido, e para o qual peço sua ajuda.
-dlga_lord_start_quest_4:lord_start_quest_yes|Claro, estou disposto e, espero, capaz. O que você precisa fazer, Sua Graça?
-dlga_lord_start_quest_4:lord_start_quest_no|Desculpe, não tenho tempo para fazer recados para você, Sua Graça.
-dlga_lord_start_quest_yes:lord_start_quest_yes2|Alguma escória selvagem conseguiu passar a Muralha, e meus batedores relatam que atacaram uma pequena fazenda ao norte daqui. Preciso lidar com eles rapidamente antes que possam causar mais estragos entre meus camponeses. Meus estandartes precisam se preparar para nossa marcha para o sul, então conto com você, {playername}, para agir em meu nome neste assunto.
-dlga_lord_start_quest_yes2:close_window|Eu sugiro que você durma um pouco antes de sair. Também pode ser aconselhável viajar com um guarda-costas ou dois:Westeros é um lugar perigoso para viajar sozinho.
+dlga_lord_start_quest_4:lord_start_quest_yes|Claro, estou dispost{o/a} e, espero, capaz. O que você quer que eu faça, Sua Graça?
+dlga_lord_start_quest_4:lord_start_quest_no|Desculpe, não tenho tempo para entregar recados para você, Sua Graça.
+dlga_lord_start_quest_yes:lord_start_quest_yes2|Alguma escória selvagem conseguiu atravessar a Muralha, e meus batedores relataram que eles atacaram uma pequena fazenda ao norte daqui. Preciso lidar com eles rapidamente antes que possam causar mais estragos entre meus camponeses. Meus porta-estandartes precisam se preparar para nossa marcha para o sul, então conto com você, {playername}, para agir em meu nome neste assunto.
+dlga_lord_start_quest_yes2:close_window|Sugiro que durma um pouco antes de ir. Também é aconselhável viajar com um guarda-costas ou dois: Westeros é um lugar perigoso para se viajar sozinh{o/a}.
 dlga_lord_start_quest_no:close_window|Tudo bem então. Você se adapta a si mesmo.
 dlga_lord_talk:lord_starting_quest2_succeed|Vossa Graça, despachei os invasores selvagens e protegi os fazendeiros com sucesso.
 dlga_lord_starting_quest2_succeed:lord_starting_quest2_succeed2|Excelentes notícias. Aqui estão algumas moedas por seus esforços.
@@ -2981,15 +2981,15 @@ dlga_lord_give_order_call_to_arms_verify_2:lord_give_order_call_to_arms|Sim. Dev
 dlga_lord_give_order_call_to_arms_verify_2:lord_pretalk|Pensando bem, não será necessário reunir todo mundo.
 dlga_lord_give_order_call_to_arms:lord_pretalk|Tudo bem, então enviarei uma mensagem dizendo a todos que venham aqui.
 dlga_lord_talk:lord_give_order_disband_army_verify|Quero terminar essa campanha e deixar que todos retornem aos seus afazeres.
-dlga_lord_give_order_disband_army_verify:lord_give_order_disband_army_2|Você quer terminar a atual campanha e liberar todos os lordes de suas obrigações?
-dlga_lord_give_order_disband_army_2:lord_give_order_disband_army|Sim. Não precisamos de todas as nossas telas aqui.
-dlga_lord_give_order_disband_army_2:lord_pretalk|Pensando bem, será melhormos juntos no momento.
-dlga_lord_give_order_disband_army:lord_pretalk|Tudo bem, farei todos saberem que estão liberado de suas obrigações.
-dlga_lord_talk:lord_talk_ask_something|Desejo lhe perguntar algo.
-dlga_lord_talk_ask_something:lord_talk_ask_something_2|Sim?
-dlga_lord_talk_ask_something_2:lord_talk_ask_skill|Deixe-me ver suas habilidades.
-dlga_lord_talk_ask_skill:lord_pretalk|Mostrarei a você...
-dlga_lord_talk_ask_something_again:lord_talk_ask_something_2|Mais alguma coisa?
+dlga_lord_give_order_disband_army_verify:lord_give_order_disband_army_2|Você quer terminar a campanha atual e liberar todos os lordes de suas obrigações?
+dlga_lord_give_order_disband_army_2:lord_give_order_disband_army|Sim. Já não necessitamos de todas as nossas forças aqui.
+dlga_lord_give_order_disband_army_2:lord_pretalk|Pensando bem, será melhor ficarmos todos juntos no momento.
+dlga_lord_give_order_disband_army:lord_pretalk|Certo. Direi a todos que estão liberados de suas obrigações.
+dlga_lord_talk:lord_talk_ask_something|Gostaria de lhe fazer uma pergunta.
+dlga_lord_talk_ask_something:lord_talk_ask_something_2|Sim? Do que se trata?
+dlga_lord_talk_ask_something_2:lord_talk_ask_skill|Suas habilidades melhoraram desde o tempo em que viajávamos como companheiros?
+dlga_lord_talk_ask_skill:lord_pretalk|Deixe-me mostrar para você...
+dlga_lord_talk_ask_something_again:lord_talk_ask_something_2|Algo mais?
 dlga_lord_talk_ask_something_2:lord_talk_ask_location|Preciso saber onde alguém se encontra.
 dlga_lord_talk_ask_something_2:lord_tell_objective|O que você e seus homens estão fazendo?
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_strategy|O que acontece no reino?
@@ -3468,7 +3468,7 @@ dlga_spouse_mate:close_window|{playername} pare, você está me deixando vermelh
 dlga_spouse_mate:close_window.1|Como desejar, meu amor
 dlga_spouse_mate:close_window.2|Se não houver alternativa {marido/esposa}.
 dlga_spouse_mate:close_window.3|Desculpe {playername}, estou com dor de cabeça. Talvez algo no jantar afete minha constituição. Tente dormir.
-dlga_spouse_mate:close_window.4|Estou cansado. Você não tem inimigos para matar ou algo assim ??
+dlga_spouse_mate:close_window.4|Estou cansado. Você não tem inimigos para matar ou algo assim??
 dlga_spouse_talk:close_window|Falaremos mais tarde {reg59?marido:esposa}.
 dlga_wedding_ceremony_bride_vow:wedding_ceremony_player_vow|Meu marido, eu me comprometo a ser sua esposa, para ficar com você nos momentos bons e ruins. Que os céus sorriam sobre nós e nos abençoem com filhos, gado e terra.
 dlga_wedding_ceremony_player_vow:wedding_ceremony_vows_complete|Eu prometo o mesmo. Sejamos marido e mulher.
@@ -4503,8 +4503,8 @@ dlga_master_craftsman_auction_decide:master_craftsman_liquidation|Isso parece ra
 dlga_master_craftsman_auction_decide:master_craftsman_pretalk|Hum. Vamos aguentar isso.
 dlga_master_craftsman_liquidation:close_window|Como quiser. Foi uma honra ter estado em seu emprego.
 dlga_master_craftsman_talk:close_window.1|Isso é tudo por enquanto.
-dlga_start:bardo_talk|Ave, {reg59?milady:milorde}. Sou o bardo do reino. Eu posso te recitar um poema ou posso criar canções e poemas sobre sua honra e valor.
-dlga_bardo_pretalk:bardo_talk|Minha arte e habilidade não o decepcionarão, meu senhor. O que mais você precisa?
+dlga_start:bardo_talk|Saudações, {reg59?milady:milorde}. Sou o Bardo do Reino. Eu posso te recitar um poema ou posso criar canções e poemas sobre sua honra e valor.
+dlga_bardo_pretalk:bardo_talk|Minha arte e habilidade não {o/a} decepcionarão, {meu senhor/minha senhora}. O que mais você precisa?
 dlga_bardo_talk:bardo_sing|Eu quero que você cante sobre mim. Eu preciso ser conhecido e famoso.
 dlga_bardo_talk:bardo_sing_lady|Quero que escreva um poema para uma senhora.
 dlga_bardo_sing_lady:bardo_sing_lady2|Vai custar 500 veados de prata. Qual é o nome da dama?
@@ -4514,9 +4514,9 @@ dlga_bardo_sing:bardo_sing2|Meu senhor, vou escrever um poema tão épico que to
 dlga_bardo_sing2:bardo_pretalk|Pegue o dinheiro. Não é nada para um herói poderoso como eu.
 dlga_bardo_sing2:close_window|Você pede o mesmo preço que uma viúva feliz, e, sem dúvida, eu gostaria que seu desempenho fosse melhor.
 dlga_bardo_talk:bardo_cancion|Você pode cantar para mim e meus homens?
-dlga_bardo_talk:close_window|Um bardo? Músicas? Por que você não sai e ganha seu pão como o resto de nós?
+dlga_bardo_talk:close_window|Nah, tenho coisas a fazer. Adeus.
 dlga_bardo_cancion:bardo_cancion2|Vai custar-lhe 100 moedas, eu posso cantar...
-dlga_bardo_cancion2:close_window|Sua melhor música.
+dlga_bardo_cancion2:close_window|Chuvas de Castamere.
 dlga_bardo_cancion2:close_window.1|Cantiga 9
 dlga_bardo_cancion2:close_window.2|Cantiga 105
 dlga_bardo_cancion2:bardo_pretalk|Deixa pra lá. Quero perguntar-te outra coisa.
@@ -4548,7 +4548,7 @@ dlga_pagano_angry:close_window|Então, que seja. Mas lembre-se, quando o inverno
 dlga_pagano_talk:pagano_ayuda|Ainda sou fiel aos custumes antigos, pois respeito e presto homenagem aos Deuses Antigos, juro orar na próxima Árvore-Coração.
 dlga_pagano_talk:pagano_ayuda.1|Se seus Deuses Antigos podem realmente nos salvar daquilo que o frio traz, começarei a orar para aquelas árvores com rostos.
 dlga_pagano_talk:close_window|Não preciso de nenhum deus neste momento.
-dlga_pagano_ayuda:pagano_ayuda2|Bom, *ele sorri, satisfeito* você também deve nos ajudar. O inverno está chegando e as pessoas devem saber o mal que o frio traz consigo. Você vê que os Deuses Antigos só têm poder onde os rostos das árvores-coração podem ver. Você deve doar 300 veados de prata *ele coloca as mãos em seus ombros*. Desta forma, posso avisar outros no Sul, os Deuses te olharão agradecidos, {playername}. Mas você também deve financiar minhas viagens, isso custará 1000 veados de prata.
+dlga_pagano_ayuda:pagano_ayuda2|Bom, *ele sorri, satisfeito* você também pode nos ajudar. O inverno está chegando e as pessoas devem saber o mal que o frio traz consigo. Você bem sabe que os Deuses Antigos só têm poder onde os rostos das árvores-coração podem ver. Você poderia doar 300 veados de prata *ele coloca as mãos em seus ombros*. Desta forma, posso avisar as pessoas do Sul, os Deuses te olharão agradecidos, {playername}. Mas caso queira você também pode financiar minhas viagens, isso custará 1000 veados de prata.
 dlga_pagano_ayuda2:pagano_sins|Sim claro. Aqui estão suas 300 moedas.
 dlga_pagano_sins:pagano_pretalk|Obrigado. Vou contar a seus homens algumas histórias dos Deuses Antigos.
 dlga_pagano_ayuda2:pagano_pretalk|Obrigado, eu estive para lá da muralha e vi o que o frio traz. Aqui estão suas 1000 moedas. Você deve avisar o máximo de pessoas que puder.
@@ -4994,11 +4994,11 @@ dlga_arena_master_fight_result:arena_master_pre_talk.3|Foi uma boa luta. Você c
 dlga_arena_master_fight_result:arena_master_pre_talk.4|Sua performance foi incrível! Você é sem dúvida um guerreiro habilidoso. Não é qualquer um que consegue derrotar {reg8} pessoas nas lutas. É claro, você merece um prêmio por essa performance:{reg10} veados de prata. Bom, não?
 dlga_arena_master_fight_result:arena_master_pre_talk.5|Essa foi uma luta muito boa, {playername}. Você tem ótimos movimentos, excelentes táticas. E também incluída no prêmio de {reg10} veados de prata por derrubar {reg8} oponentes.
 dlga_arena_master_fight_result:arena_master_pre_talk.6|Parabéns! Sua luta foi algo memorável! Você conseguiu derrotar todos os outros. E é claro, ganhou o grande prêmio, que é:{reg10} veados de prata.
-dlga_start:arena_master_pre_talk|Olá, {playername} .É bom ver você novamente.
-dlga_arena_master_pre_talk:arena_master_talk|O quê você gostaria de fazer?
-dlga_arena_master_talk:arena_master_melee_pretalk|Sobre as modificações corpo-a-corpo...
-dlga_arena_master_talk:arena_master_spar_teams|Eu gostaria de lutar com alguns dos meus homens.
-dlga_arena_master_talk:arena_master_ask_tournaments|Haverá algum torneio na cidade?
+dlga_start:arena_master_pre_talk|Olá, {playername}. É bom ver você novamente.
+dlga_arena_master_pre_talk:arena_master_talk|O que gostaria de fazer?
+dlga_arena_master_talk:arena_master_melee_pretalk|Sobre as lutas corpo a corpo...
+dlga_arena_master_talk:arena_master_spar_teams|Eu gostaria de treinar com alguns dos meus homens.
+dlga_arena_master_talk:arena_master_ask_tournaments|Haverá em breve algum torneio nas cidades próximas?
 dlga_arena_master_talk:close_window|Preciso ir agora. Adeus.
 dlga_arena_master_spar_teams:arena_master_spar_teams_choose|Certamente. A arena está disponível no momento. Claro, você terá que fornecer seu próprio equipamento, o que significa que não haverá uniformes de equipe. Mas tirando isso, de quantas equipes você gostaria?
 dlga_arena_master_spar_teams_choose:arena_master_spar_team_one|Dois.
@@ -5140,16 +5140,16 @@ dlga_lannister_men1:lannister_men_attack|Não fazemos parte da sua luta, deixe-n
 dlga_lannister_men1:lannister_men_attack.1|Eu vi seus homens massacrarem aqueles que eram leais a Ned Stark. Vou vingar os mortos e você vai pagar com seu sangue!
 dlga_lannister_men2:close_window|Hmph! Siga seu caminho, seu chorão inútil.
 dlga_lannister_men_attack:close_window|Recebemos ordens de levá-los de volta a Porto Real, infelizmente para você não foi dito se será vivo ou não!
-dlga_poachers_introduce:poachers1|Oi, você! Fomos nós que pegamos aquele pássaro, agora devolva, ou então!
+dlga_poachers_introduce:poachers1|Ei, você! Fomos nós que pegamos aquele pássaro, agora devolva, ou então!
 dlga_poachers1:poachers1_attack|Acho que os Lannisters colocaram uma bela moeda em cada corvo disparado do céu?
 dlga_poachers1:poachers1_attack1|Ok, pegue! Não é algo em que eu queira estar envolvido.
 dlga_poachers1:poachers1_attack2|Ok, pegue! Não é algo em que eu queira estar envolvido.
-dlga_poachers1:poachers1_attack3|Acho que os Lannisters colocaram uma bela moeda em cada corvo disparado do céu?
+dlga_poachers1:poachers1_attack3|Acho que os Lannisters colocaram uma bela moeda em cada corvo acertado do céu?
 dlga_poachers1_attack1:close_window|Hah, sabíamos que você não tinha isso em você! Amigo.
 dlga_poachers1_attack2:close_window|Hah, sabíamos que você não tinha isso em você! Amigo.
 dlga_poachers1_attack3:close_window|É melhor encontrá-lo, senão estaremos de volta para buscá-lo.
-dlga_poachers1_attack:close_window|Isso mesmo! Tenho certeza de que também conseguiremos um bom dinheiro por sua cabeça em um espigão.
-dlga_sparrows_introduce:sparrows1|HALT !! Você cometeu crimes contra a fé e agora deve confessar seus pecados de expiação.
+dlga_poachers1_attack:close_window|Isso mesmo! Tenho certeza de que também conseguiremos um bom dinheiro por sua cabeça em uma estaca.
+dlga_sparrows_introduce:sparrows1|ALTO!! Você cometeu crimes contra a fé e agora deve confessar seus pecados de expiação.
 dlga_sparrows1:sparrows_attack|Nós confessamos !! Nós confessamos !! (você cai no chão choramingando)
 dlga_sparrows1:sparrows_attack.1|Pecados da expiação ?! Pah .. Vamos ver se seus deuses podem salvá-lo agora, pardal!
 dlga_sparrows_attack:close_window|Assim seja.
@@ -5201,25 +5201,25 @@ dlga_prisoner_chat:close_window|
 dlga_prisoner_chat:close_window.1|Desculpe, ainda não tenho espaço para você. Você terá que esperar mais um pouco.
 dlga_prisoner_chat:prisoner_chat_lord|{s1}
 dlga_prisoner_chat:prisoner_chat_commoner|Você aí!
-dlga_prisoner_chat_commoner:prisoner_chat_menu|Eu ?! (Gole!)
-dlga_prisoner_chat_lord:prisoner_chat_noble|Sim, {Lord/Lady} {s1}?
-dlga_prisoner_chat_noble:prisoner_chat_noble_prerelease|Você está livre para ir.
-dlga_prisoner_chat_noble:prisoner_chat_noble_prekeep|Você continuará sendo meu prisioneiro.
+dlga_prisoner_chat_commoner:prisoner_chat_menu|Eu?! (Gulp!)
+dlga_prisoner_chat_lord:prisoner_chat_noble|Sim, {Lorde/Lady} {s1}?
+dlga_prisoner_chat_noble:prisoner_chat_noble_prerelease|Eu te liberto. Você está livre para ir.
+dlga_prisoner_chat_noble:prisoner_chat_noble_prekeep||Você permanecerá meu prisioneiro por enquanto.
 dlga_prisoner_chat_noble:prisoner_chat_treason|Você cometeu alta traição!
 dlga_prisoner_chat_noble:prisoner_chat_treason2|Você cometeu crimes que são puníveis com a morte!
-dlga_prisoner_chat_noble_prerelease:prisoner_chat_noble_release|Apesar do que você pode ter ouvido, eu sou {um homem/uma mulher} de honra. Você está livre para ir.
+dlga_prisoner_chat_noble_prerelease:prisoner_chat_noble_release|Apesar do que você possa ter ouvido, sou {um homem/uma mulher} de honra. Você está livre para ir.
 dlga_prisoner_chat_noble_release:close_window|Eu não esquecerei esse ato de honra!
-dlga_prisoner_chat_noble_prekeep:prisoner_chat_noble_keep|Você vai entender se eu te mantiver refém até que sua família possa... compensar-me por certas despesas e sofrimentos que enfrentei para mantê-lo alimentado e... seguro... nas últimas semanas. {** *}
-dlga_prisoner_chat_noble_keep:close_window|Realmente, isto está abaixo de você.
-dlga_prisoner_chat_noble_keep:close_window.1|Eu acredito que você sofrerá quando eu caça-lo como o cão que é!
+dlga_prisoner_chat_noble_prekeep:prisoner_chat_noble_keep|Sei que entenderá se eu te mantiver refém até que sua família possa pagar... me compensar por certas despesas e sofrimentos que enfrentei para mantê-lo alimentado e... seguro... nas últimas semanas.
+dlga_prisoner_chat_noble_keep:close_window|Na verdade, você não está em posição disso.
+dlga_prisoner_chat_noble_keep:close_window.1|E eu sei que você entenderá quando eu te caçar como {o cão/a puta} que você é!
 dlga_prisoner_chat_menu:prisoner_chat_release|Por mais miserável que você seja, não posso deixar de sentir pena de você.
-dlga_prisoner_chat_menu:prisoner_chat_die1|Ver você me deixa doente! Você .. Morra .. Agora!
+dlga_prisoner_chat_menu:prisoner_chat_die1|Ver você me deixa doente! Você.. Morra.. Agora!
 dlga_prisoner_chat_menu:prisoner_eat|Quero um pouco de carne humana!
-dlga_prisoner_eat:prisoner_eat_1|Você é um animal !!
+dlga_prisoner_eat:prisoner_eat_1|Você é um animal!!
 dlga_prisoner_eat_1:close_window|Pronto. Agora vamos festejar com a sua carne!
-dlga_prisoner_chat_menu:close_window|Volte na fila, escória!
-dlga_prisoner_chat_release:prisoner_chat_release2|Estou me sentindo magnânimo hoje. Vá embora, antes que eu mude de ideia!
-dlga_prisoner_chat_release2:close_window|Oh, obrigado, {sor/senhora}. Bênçãos para você!
+dlga_prisoner_chat_menu:close_window|Volte para a fila, escória!
+dlga_prisoner_chat_release:prisoner_chat_release2|Estou me sentindo generos{o/a} hoje. Vá embora, antes que eu mude de ideia!
+dlga_prisoner_chat_release2:close_window|Oh, obrigado, {senhor/senhora}. Bênçãos para você!
 dlga_prisoner_chat_die1:prisoner_chat_die2|Eu vos ensinarei como usar suas armas, assim, não vão se render na próxima vez, covardes!
 dlga_prisoner_chat_die2:prisoner_chat_die3|Por favor, {reg59?Madame:Senhor}, não me mate. Não há honra em matar alguém que não pode nem mesmo se defender.
 dlga_prisoner_chat_die3:prisoner_chat_die4|Talvez não haja honra niss, Mas eu me sentirei melhor se tirar sua cabeça de seu pescoço!

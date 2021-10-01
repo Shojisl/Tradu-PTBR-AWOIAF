@@ -414,7 +414,7 @@ str_2_intro|Peço desculpas, estava apenas sonhando. Há um jovem escudeiro que 
 str_3_intro|Eu sou Sor Shadrich do Vale Sombrio e do Rato Louco, seja rápido, devo chegar à Pedra do Dragão.
 str_4_intro|Você tem coragem, mas eu posso consertar isso. Mantenha distância ou vou castrá-lo como os dois últimos sulistas que colocaram as mãos em mim.
 str_5_intro|Eu sou Hagan, o Belo e estou procurando tripulantes para meu navio. <ela olha para você, despindo-o com os olhos> Sim, parece que você ainda tem alguns dos equipamentos de que só este capitão precisa.
-str_6_intro|Você precisa dos meus serviços {sor/senhora}? Você parece bastante saudável, mas conte-me seus sintomas, tenho certeza de que posso curá-lo.
+str_6_intro|Precisa dos meus serviços, {sor/senhora}? Você parece bastante saudável, mas diga-me seus sintomas, tenho certeza de que posso curá-l{o/a}.
 str_son_intro|n/a
 str_daughter_intro|n/a
 str_event_intro|n/a
@@ -451,7 +451,7 @@ str_2_intro_response_1|Você é filha de um rei?
 str_3_intro_response_1|Pedra do Dragão, o que está acontecendo aí?
 str_4_intro_response_1|Uau, acalme-se senhora. Voce tem um nome
 str_5_intro_response_1|Desculpe, mas as mulheres não podem pegar em armas nas Ilhas de Ferro?
-str_6_intro_response_1|Desculpe, eu estava apenas tentando me apresentar. Você é um curandeiro?
+str_6_intro_response_1|Perdoe-me, só estava tentando me apresentar. Você é uma curandeira?
 str_son_intro_response_1|n/a
 str_daughter_intro_response_1|n/a
 str_event_intro_response_1|n/a
@@ -488,7 +488,7 @@ str_2_intro_response_2|Obviamente, você ainda está sonhando.
 str_3_intro_response_2|Então não vou atrasar você.
 str_4_intro_response_2|Obviamente, você é apenas mais um selvagem louco.
 str_5_intro_response_2|Uau, acho melhor sair...
-str_6_intro_response_2|Desculpas, pensei que você fosse a prostituta local.
+str_6_intro_response_2|Desculpe, pensei que você fosse a prostituta local.
 str_son_intro_response_2|n/a
 str_daughter_intro_response_2|n/a
 str_event_intro_response_2|n/a
@@ -525,7 +525,7 @@ str_2_backstory_a|Meu pai é Robert Baratheon minha mãe era uma mera plebeu. En
 str_3_backstory_a|Há um boato de que Stannis Baratheon pretende marchar em Porto Real. Enquanto outros correm para o choque de armas em torneios para mostrar valor falso, eu prefiro correr para a guerra e a batalha.
 str_4_backstory_a|Eu sou Val do Povo Livre, a cunhada de Mance Rayder, estou procurando uma pessoa que possa nos ajudar contra os Caminhantes Brancos. Você me olha com aquele olhar louco. Esse mesmo olhar que todos os sulistas me dão. Eu posso dizer que você não acredita em mim.
 str_5_backstory_a|Diga isso ao Capitão Greyjoy, ela riria dessa piada pouco antes de colocar seu bebê entre suas costelas.
-str_6_backstory_a|Sou um Órfão do Sangue Verde, a maioria de nós conhece um pouco das antigas artes de cura de Rhoyne, embora eu seja especificamente treinado para ser um curandeiro.
+str_6_backstory_a|Sou uma Órfã do Sangueverde, a maioria de nós conhece um pouco das antigas artes de cura de Roine, embora eu seja especificamente treinada para ser uma curandeira.
 str_son_backstory_a|n/a
 str_daughter_backstory_a|n/a
 str_event_backstory_a|n/a
@@ -636,7 +636,7 @@ str_2_backstory_later|Prazer em vê-lo novamente, você mudou de ideia?
 str_3_backstory_later|Talvez seja hora de você decidir que precisa da minha espada.
 str_4_backstory_later|Talvez os Deuses Antigos estejam tentando lhe dizer que você deve ajudar meu povo, com nossas reuniões contínuas.
 str_5_backstory_later|Encontrar uma boa ajuda é sempre difícil, minha oferta continua de pé.
-str_6_backstory_later|Incrível que você ainda esteja vivo. Achei que um arranhão infectaria e já teria matado você.
+str_6_backstory_later|É incrível que ainda esteja viv{o/a}. Achei que um arranhão já teria infectado e matado você.
 str_son_backstory_later|n/a
 str_daughter_backstory_later|n/a
 str_event_backstory_later|n/a
@@ -747,7 +747,7 @@ str_2_signup|Meu braço da espada está ótimo, estou acostumado a lutar contra 
 str_3_signup|Em primeiro lugar, devo pedir-lhe que não fuja de uma batalha, ganhe ou perca, toda batalha oferece a um homem uma chance de ganhar a glória.
 str_4_signup|Não atravessei a muralha para contar histórias. Se eu não conseguir convencer as pessoas a ajudar, estaremos todos mortos quando o inverno chegar.
 str_5_signup|Acho que posso trabalhar para alguém como você.
-str_6_signup|Ficarei feliz em atendê-lo.
+str_6_signup|Eu ficaria feliz em servi-l{o/a}.
 str_son_signup|n/a
 str_daughter_signup|n/a
 str_event_signup|n/a
@@ -784,7 +784,7 @@ str_2_signup_2|Vou precisar de alguns equipamentos antes de partirmos.
 str_3_signup_2|Só então prometerei a você minha lâmina.
 str_4_signup_2|Então, você está disposto a ajudar ou estou perdendo meu tempo aqui?
 str_5_signup_2|Só não seja um maricas e fuja das batalhas, eu preciso da fama.
-str_6_signup_2|Mas, primeiro, deixe-me dizer uma coisa, minhas habilidades são muito superiores às de um Meistre. Não só posso curar os feridos, como também curar algumas das feridas mais horríveis e evitar que me assustem.
+str_6_signup_2|Mas, primeiro, deixe-me dizer uma coisa, minhas habilidades são muito superiores às de um Meistre. Não só posso curar os feridos, como também cuidar de alguns dos ferimentos mais horríveis e evitar cicatrizes.
 str_son_signup_2|n/a
 str_daughter_signup_2|n/a
 str_event_signup_2|n/a
@@ -858,7 +858,7 @@ str_2_signup_response_2|Pensando bem, você é apenas uma garota.
 str_3_signup_response_2|Na verdade, mudei de ideia.
 str_4_signup_response_2|Não tenho tempo para uma mulher delirante, não importa o quão bonita ela seja.
 str_5_signup_response_2|Desejo-lhe boa sorte.
-str_6_signup_response_2|Desculpe, mas não estou interessado.
+str_6_signup_response_2|Desculpe, mas não estou interessad{o/a}.
 str_son_signup_response_2|n/a
 str_daughter_signup_response_2|n/a
 str_event_signup_response_2|n/a
@@ -895,7 +895,7 @@ str_2_payment|Vou precisar de veados de {reg3}. Você sabe, pelo meu equipamento
 str_3_payment|Peço que você me pague {reg3} veados adiantado, isso vai cobrir minha vida caso você morra enquanto eu estiver a seu serviço, não quero ser um pobre cavaleiro.
 str_4_payment|Posso ser seu enviado, mas primeiro você deve prometer levantar um exército para ajudar meu povo e me pagar veados de {reg3} como uma demonstração de sua boa fé para que eu possa comprar algumas armas para meu povo.
 str_5_payment|O que acha de {reg3} veados e um salário semanal?
-str_6_payment|Não vou sair barato, porém, preciso de 9.000 veados na frente e um salário semanal.
+str_6_payment|Não vou sair barato, sendo assim, preciso de 9000 veados adiantados e um salário semanal.
 str_son_payment|n/a
 str_daughter_payment|n/a
 str_event_payment|n/a
@@ -932,7 +932,7 @@ str_2_payment_response|Sim, sim, aqui estão seus veados de {reg3}.
 str_3_payment_response|Muito bem, Sor Shadrich, pegue seu equipamento, estamos saindo.
 str_4_payment_response|É um negócio justo.
 str_5_payment_response|Um preço justo. Bem vindo a bordo.
-str_6_payment_response|É melhor você valer a pena seus 9.000 veados.
+str_6_payment_response|É melhor você valer a pena cada um de seus 9000 veados.
 str_son_payment_response|n/a
 str_daughter_payment_response|n/a
 str_event_payment_response|n/a
@@ -969,7 +969,7 @@ str_2_morality_speech|Se é assim que você cumpre suas promessas, não tenho es
 str_3_morality_speech|Seu rato comum fugirá do sangue e da batalha. O rato louco os procura!
 str_4_morality_speech|Você também me fez uma promessa, é isso que posso esperar das suas promessas?
 str_5_morality_speech|Apenas uma palavra para você, meu senhor….
-str_6_morality_speech|Você precisa encontrar um coveiro, não um curandeiro. Esse descuido descuidado com a vida deve acabar se eu quiser ficar sob o seu comando!
+str_6_morality_speech|Você precisa encontrar um coveiro, não um curandeiro. Esse seu desapego descuidado pela vida deve acabar se quiser que eu fique sob o seu comando!
 str_son_morality_speech|{Pai/Mãe}. Devemos realmente {s21}?
 str_daughter_morality_speech|{Pai/Mãe}. Devemos realmente {s21}?
 str_event_morality_speech|Deveríamos realmente {s21}?
@@ -1006,7 +1006,7 @@ str_2_2ary_morality_speech|Por que você escolheu {s21}.
 str_3_2ary_morality_speech|Por que você escolheu {s21}.
 str_4_2ary_morality_speech|Por que você escolheu {s21}.
 str_5_2ary_morality_speech|Por que você escolheu {s21}.
-str_6_2ary_morality_speech|{Sor/Senhora} - você pode escolher {s21}, mas eu preferiria não ter parte nisso.
+str_6_2ary_morality_speech|{Sor/Senhora}, você pode escolher {s21}, mas eu preferiria não ter parte nisso.
 str_son_2ary_morality_speech|{Pai/Mãe}. Por que você escolheu {s21}.
 str_daughter_2ary_morality_speech|{Pai/Mãe}. Por que você escolheu {s21}.
 str_event_2ary_morality_speech|Por que você escolheu {s21}.
@@ -2678,8 +2678,8 @@ str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_
 str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21|{s5} é governado por {s6}.^^Eles ocupam: {s8}.^^Seus vassalos são: {s10}.^^^{s21}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4} morto ou gravemente ferido, {reg5} menor ferido, {reg6} derrotado
 str_reg4_killed_reg5_routed|{reg4} morto ou gravemente ferido, {reg5} derrotado
-str_reg4_killed_reg5_wounded|{reg4} morto ou gravemente ferido, {reg5} feridos menores
-str_reg4_wounded_reg5_routed|{reg4} feridos menores, {reg5} encaminhados
+str_reg4_killed_reg5_wounded|{reg4} morto ou gravemente ferido, {reg5} levemente ferido
+str_reg4_wounded_reg5_routed|{reg4} levemente ferido, {reg5} derrotado
 str_s42|{s42}
 str_s4_awarded_to_s5|{s4} concedido a {s5}
 str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|Calculando sortie para {s4}, força de {reg3} vs {reg4} inimigos
@@ -3986,7 +3986,7 @@ str_com_morale_reg0|{s1}^^Moral: {reg0}
 str_com_relation_reg12|{s1}^^Relação: {reg12}
 str_camp_pillage|Inimigo no acampamento!
 str_camp_pillage2|O inimigo está no acampamento e acessou seu baú do tesouro. Eles estão saqueando seu dinheiro!^{s4} cervos foram perdidos.
-str_tactical_controls|Use o teclado NUMÉRICO para selecionar uma divisão. Pressione 0 para selecionar toda a sua força.^^Use F1-F4 para ordenar as divisões selecionadas. Mantenha a tecla F1 pressionada para posicionar as divisões selecionadas. Pode-se mirar em uma divisão inimiga por meio deste mecanismo.^^Pressionar a tecla ENTER frequentemente inicia uma câmera de estratégia aérea.^^Pressionar a tecla BACKSPACE frequentemente inicia uma Tela de Comando de Batalha com 'radar'.
+str_tactical_controls|Use o teclado NUMÉRICO para selecionar uma divisão. Pressione 0 para selecionar toda a sua força.^^Use F1-F4 para ordenar as divisões selecionadas. Mantenha a tecla F1 pressionada para posicionar as divisões selecionadas. Pode-se mirar em uma divisão inimiga por meio deste mecanismo.^^Pressionar a tecla ENTER inicia uma câmera de estratégia aérea.^^Pressionar a tecla BACKSPACE inicia uma Tela de Comando de Batalha com o "minimapa".
 str_division_placement|Quando UMA divisão é selecionada, o centro de sua primeira fila é colocado no local indicado.^^Quando MUITAS divisões são selecionadas, elas são separadas e espalhadas como se o jogador estivesse no local indicado.^^Pode-se memorize a colocação das divisões selecionadas em relação ao jogador pressionando F2, F7. O padrão é infantaria à esquerda, cavalaria à direita e ataque à distância.
 str_formations|As Formações Avançadas no Menu de Batalha são:^^- RANKS com melhores tropas na frente^- SHIELD WALL, fileiras com escudos na frente e armas mais longas atrás^- WEDGE com melhores tropas na frente^- QUADRADO em nenhuma ordem particular^- NENHUMA FORMAÇÃO^^Mesmo no último caso, o jogador pode fazer formações de até quatro linhas, ordenando Estande Perto o suficiente.
 str_circunvalation_complete|Seus homens trabalharam duro e suas defesas estão completas, impedindo que qualquer alimento seja recebido por terra ou mar.

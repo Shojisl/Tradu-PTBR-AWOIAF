@@ -12,7 +12,7 @@ mno_go_back_dot|Retornar.
 menu_reports|Renome do personagem: {reg5}^Medidor de honra: {reg6}^Moral do grupo: {reg8}^Tamanho máximo do grupo: {reg7}^
 mno_dplmc_show_economic_report|Ver relatório de prosperidade.
 mno_spy_report|Ver relatório espionagem.
-mno_troop_quarters|Quartel das Tropas.
+mno_troop_quarters|Alojamento de Tropas.
 mno_reset_static_wars|Desligar as Guerras Estáticas.
 mno_lord_relations|Ver lista de lordes conhecidos segundo relação.
 mno_courtship_relations|Ver as relações de cortejo.
@@ -246,7 +246,7 @@ menu_demoler_lairm|Tem certeza de que deseja demolir seu refúgio?
 mno_demoler_yes|Sim ({reg1} veados).
 mno_demoler_no|Retornar.
 menu_salt_mine|Você chega a um pequeno acampamento de mineração. As Terras Ocidentais não são a parte maior, mais populosa ou mais fértil do reino, mas são as mais ricas. Cheia de colinas e penhascos, a terra está pontilhada de minas, das quais se derramam ouro e prata em quantidades surpreendentes.^^^{s1}
-mno_enter|Andar pelo acampamento.
+mno_enter|Se aproximar.
 mno_enter_door|Sair para o acampamento.
 mno_work_mines|Voluntário para trabalhar nas minas{s1}.
 mno_add_prisoners|Deixe alguns prisioneiros para trabalhar nas minas ou posicione alguns guardas aqui.
@@ -305,9 +305,9 @@ menu_iniau_hideout|Você chegou na floresta profunda.
 menu_quarry1|Você chegou em uma pedreira.
 mno_work_quarry|Desejo trabalhar na pedreira{s1}.
 menu_temple_visit|Você chegou em um templo de R'hllor.
-mno_enter_interior|Visitar os salões do templo.
+mno_enter_interior|Entrar.
 mno_enter_interior_door|Ir para o salão do templo.
-mno_monasterio_recruit|Perguntar se alguém aqui se juntará a você.
+mno_monasterio_recruit|Perguntar se alguém aqui quer se juntar a você.
 mno_pray|Orar e doar 150 veados de prata ao templo.
 mno_donate|Orar e fazer uma doação generosa de 500 veados para o templo.
 mno_convertir|Se converter para R'hllor. Isso exigirá vários dias e 4000 veados.

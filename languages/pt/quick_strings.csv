@@ -1752,7 +1752,7 @@ qstr_Smoking_Log_Inn|Estalagem Tronco Fumegante
 qstr_Drunken_Dornishman_I|Estalagem Dornês Bêbado
 qstr_Visit_the_Inn|Visitar a Estalagem
 qstr_Visit_the_training_g|Ir ao campo de treinamento
-qstr_Tour_the_grounds|Passear pelos Jardins
+qstr_Tour_the_grounds|Passear pelo Pátio
 qstr_Visit_your_Enterpris|Visitar sua empresa
 qstr_Attempt_to_visit_a_l|Tentar visitar uma lady
 qstr_Trade_with_locals|Negociar com habitantes locais
@@ -1931,7 +1931,7 @@ qstr__None| Nenhum
 qstr__Next_pay_day:_{s1}|Próximo dia de pagamento: {s1}
 qstr_{s1}^^Affiliated_to_|{s1}^^Afiliado a {s5}
 qstr_You_can_t_have_more_|Você não pode ter mais de dois trimestres de tropas ativas.
-qstr_No_companions_in_par|Sem companheiros na festa!
+qstr_No_companions_in_par|Sem companheiros no grupo!
 qstr_You_came_into_the_wo|Você veio ao mundo como {reg3?filha:filho} de uma nobreza em declínio, possuindo apenas a casa em que viviam. No entanto, apesar das dificuldades de sua família, eles lhe deram uma boa educação e o treinaram desde a infância para os rigores da aristocracia e da vida na corte.
 qstr_You_were_born_the_{r|Você nasceu {reg3?filha:filho} de comerciantes viajantes, sempre se movendo de um lugar para outro em busca de lucro. Embora seus pais fossem mais ricos do que a maioria e o tivessem educado da melhor forma possível, você encontrou poucas oportunidades de fazer amigos na estrada, vivendo principalmente para os momentos em que poderia vender algo para alguém.
 qstr_As_a_child_your_fami|Quando criança, sua família ganhava muito com o salário de seu pai como guarda do lorde local. Não era uma existência fácil, e você era pobre demais para receber muita educação. Você aprendeu principalmente a se defender nas ruas, com ou sem arma na mão.
@@ -2262,16 +2262,16 @@ qstr_^R_hllor_is_dominant|^R'hllor é adorado predominantemente aqui.
 qstr_^R_hllor_is_worshipp|^R'hllor é adorado aqui, embora não por muitos.
 qstr_^The_Faith_of_the_Seven_|^A Fé dos Sete é predominantemente adorada aqui.
 qstr_^The_Faith_of_the_Seven_i|^A Fé dos Sete é adorada aqui, embora não por muitos.
-qstr__As_you_reach_the_ca|Ao chegar ao castelo, você é saudado por seus homens.^{S15}
+qstr__As_you_reach_the_ca|Ao chegar ao castelo, você é saudado por seus homens.^{s15}
 qstr_{s11}^{s15}|{s11}^{s15}
-qstr__As_you_reach_the_cas|Ao chegar ao castelo, você é saudado por homens leais a {s7}.^{S15}
-qstr__This_castle_seems_t|Este castelo parece não pertencer a ninguém.^{S15}
+qstr__As_you_reach_the_cas|Ao chegar ao castelo, você é saudado por homens leais a {s7}.^{s15}
+qstr__This_castle_seems_t|Este castelo parece não pertencer a ninguém.^{s15}
 qstr_You_are_greeted_by_m|Você é premiado por homens leais a você.^{s15}
 qstr_You_are_greeted_by_me|Você é premiado por homens leais ao {s7}.^{s15}
 qstr_You_are_greeted_by_men|Você é saudado por homens leais a {s8} o Senhor de Winterfell, Senhor Supremo e Guardião do Norte.^{s15}
 qstr_You_are_greeted_by_men_|Você é saudado por homens leais a {s8} o Senhor de Correrrio e o Senhor Supremo do Tridente e das Terras Fluviais.^{s15}
 qstr_You_are_greeted_by_men_l|Você é saudado por homens leais a {s7}.^{s15}
-qstr__This_town_seems_to_|Esta cidade parece pertencer a ninguém.^{S15}
+qstr__This_town_seems_to_|Esta cidade parece pertencer a ninguém.^{s15}
 qstr__You_have_successful|Você se infiltrou com sucesso.
 qstr_{s13}_A_tournament_w|{s13} Um torneio será realizado aqui em breve.
 qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
@@ -2813,7 +2813,7 @@ qstr_Your_child_has_grown_|Seu filho se tornou uma mulher jovem.
 qstr_Foragers|Forrageadores
 qstr_Scouts|Batedores
 qstr_{reg65?my_Lady:my_Lo|{reg65?minha Senhora:meu Senhor}
-qstr_{reg65?My_Lady:My_Lo|{reg65?minha Senhora:meu Senhor}
+qstr_{reg65?My_Lady:My_Lo|{reg65?Minha Senhora:Meu Senhor}
 qstr_{reg65?madame:ser}|{reg65?senhora:sor}
 qstr_{reg65?Madame:Ser}|{reg65?Senhora:Sor}
 qstr_Dire_Wolf|Lobo Gigante
