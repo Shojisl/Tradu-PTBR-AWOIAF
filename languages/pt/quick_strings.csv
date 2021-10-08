@@ -1842,39 +1842,39 @@ qstr_You_suffer_a_serious_|Você sofre uma lesão em um de seus membros (-1 agil
 qstr_You_suffer_a_serious_i|Você sofre uma lesão em seu corpo. (-1 força)
 qstr_Your_weapon_was_dama|Sua arma foi danificada!
 qstr_Your_weapon_broke!|Sua arma quebrou!
-qstr_You_have_received_{r|Você irlandês {reg5} dano crítico!
-qstr_You_have_received_{re|Você chamada {reg5} dano crítico na cabeça e perde a visão por um instante!
-qstr_You_have_caused_{reg|Você causou {reg5} de dano crítico!
-qstr_You_have_caused_{reg5|Você causou {reg5} de dano crítico pelas costas.
-qstr_You_have_received_{reg|Você ler {reg5} de dano crítico na cabeça e perderá a visão muito em breve!
-qstr_You_take_1_damage_fr|Você perde 1 ponto de vida pela perda de sangue (Você toma 1 dano pela perda de sangue)
-qstr_You_stumble_and_fall|Você tropeça e cai.
-qstr_You_are_so_tired_you|Você está tão cansado que mal pode mover um músculo. Você pôde infligir apenas metade do dano, e não pode correr.
+qstr_You_have_received_{r|Você recebeu {reg5} de dano crítico na cabeça e perderá a visão em breve!
+qstr_You_have_received_{re|Você recebeu {reg5} de dano crítico em seu corpo!
+qstr_You_have_caused_{reg|Você causou {reg5} dano extra crítico!
+qstr_You_have_caused_{reg5|Você causou {reg5} de dano crítico pelas costas!
+qstr_You_have_received_{reg|Você recebeu {reg5} de dano crítico pelas costas!
+qstr_You_take_1_damage_fr|Você recebeu 1 de dano devido ao sangramento.
+qstr_You_stumble_and_fall|Você tropeçou e caiu
+qstr_You_are_so_tired_you|Você está tão cansad{o/a} que mal pode mover um músculo. Você pôde infligir apenas metade do dano, e não pode correr.
 qstr_You_call_your_horse.|Você chama seu cavalo...
 qstr_Camera_follow_terrai|Câmera seguindo o modo terreno ON.
 qstr_Camera_follow_terrain|Câmera seguindo o modo terreno OFF.
 qstr_Camera_rotate_before|Câmera rotatória antes pan ON.
 qstr_Camera_rotate_before_|Câmera rotatória antes pan OFF.
-qstr_{s0}^^A_Battle_Comma|{s0}^^Uma exibição de comando de batalha está sempre disponível, pressionado o {s1} chave.
-qstr_Strategy_Camera|Câmera estratégica
-qstr_Tactical_Controls|Controles táticos
-qstr_Death_Camera|Câmera de morte
+qstr_{s0}^^A_Battle_Comma|Um Tela de Comando da Batalha geralmente está disponível pressionando a tecla {s1}.
+qstr_Strategy_Camera|Câmera Estratégica
+qstr_Tactical_Controls|Controles Táticos
+qstr_Death_Camera|Câmera de Morte
 qstr_You_have_fallen.__Pr|Você caiu. (Pressione TAB para sair)
-qstr_Division_Placement|Posição da divisão.
-qstr_Advanced_Formations|Formações avançadas
+qstr_Division_Placement|Posicionamento de Divisões.
+qstr_Advanced_Formations|Formações Avançadas
 qstr_Formations_turned_OF|Formações desativadas no menu de opções
 qstr_Division_{reg1}_{s2}_g|Divisão {reg1} {s2} vai para a sua posição memorizada...
-qstr_Division_{reg1}_{s2}_f|Divisão {reg1} {s2} formar linhas (memorizadas).
-qstr_Division_{reg1}_{s2}_fo|Divisão {reg1} {s2} formar {reg0} linhas (memorizadas).
-qstr_Division_{reg1}_{s2}_for|Divisão {reg1} {s2} forma a linha.
-qstr_Division_{reg1}_{s2}_form|Divisão {reg1} {s2} forma {reg0} linhas.
+qstr_Division_{reg1}_{s2}_f|Divisão {reg1} {s2} formar fileira (memorizado).
+qstr_Division_{reg1}_{s2}_fo|Divisão {reg1} {s2} formar {reg0} fileiras (memorizado).
+qstr_Division_{reg1}_{s2}_for|Divisão {reg1} {s2} formar fileira.
+qstr_Division_{reg1}_{s2}_form|Divisão {reg1} {s2} formar {reg0} fileiras.
 qstr_To_your_positions!|Para suas posições!
 qstr_You_whistle_for_your|Você assobia para o seu cavalo.
 qstr_You_unleash_a_fearso|Você solta um grito terrível!
 qstr_You_rally_your_men!_|Você reúne seus homens! (tropas feridas recuperam {reg1}% pontos de vida)
-qstr__You_have_beaten_the|Você derrotou o velho herói, começou sua jornada para a lenda.
-qstr_The_Raiders_push_you|Os Raiders o empurram para trás e você apenas consegue escapar com vida.
-qstr_It_looks_as_though_t|Parece que os Raiders foram eliminados.
+qstr__You_have_beaten_the|Você derrotou o velho herói e começou sua jornada para se tornar uma lenda.
+qstr_The_Raiders_push_you|Os Invasores fazem você recuar, e você apenas consegue escapar com vida.
+qstr_It_looks_as_though_t|Parece que os Invasores foram eliminados.
 qstr_The_raiding_party_le|O líder do grupo invasor foi morto. Procurando em seus pertences, você encontra:
 qstr_You_must_push_back_t|Você deve repelir os invasores.^^(Pressione K)
 qstr_The_mutineers_push_y|Os amotinados empurram você para trás e você apenas consegue escapar com vida.
@@ -2242,7 +2242,7 @@ qstr_The_village_is_being|A aldeia está sendo invadida. Você é forçado a par
 qstr_The_village_is_being_|A aldeia está sendo infestada por bandidos. Você é forçado a parar de trabalhar.
 qstr__You_improve_your_re|Você melhora sua fama com esta vila
 qstr__Alas_you_don_t_impr|Infelizmente, você não melhora sua fama com esta aldeia
-qstr_Here_are_the_results|Aqui estão os resultados do seu trabalho árduo: Você se cansa, mas ganha {reg1} exp e alguns {s1}. {s2}. A vida de camponês é difícil, mas você se sente humilde.
+qstr_Here_are_the_results|Aqui estão os resultados do seu trabalho árduo: Você está exaust{o/a}, mas ganha {reg1} exp e alguns {s1}. {s2}. A vida de camponês é difícil, mas você se sente humilde.
 qstr_No_one_here_seems_to|Ninguém parece estar disposto a se juntar ao seu grupo.
 qstr_One_{s3}_volunteers_|Um {s3} se voluntaria para seguir você.
 qstr_{reg5}_{s3}_voluntee|{reg5} {s3} se voluntariam para seguir você.
@@ -2268,7 +2268,7 @@ qstr__As_you_reach_the_cas|Ao chegar ao castelo, você é saudado por homens lea
 qstr__This_castle_seems_t|Este castelo parece não pertencer a ninguém.^{s15}
 qstr_You_are_greeted_by_m|Você é premiado por homens leais a você.^{s15}
 qstr_You_are_greeted_by_me|Você é premiado por homens leais ao {s7}.^{s15}
-qstr_You_are_greeted_by_men|Você é saudado por homens leais a {s8} o Senhor de Winterfell, Senhor Supremo e Guardião do Norte.^{s15}
+qstr_You_are_greeted_by_men|Você é saudado por homens leais a {s8} o Senhor de Winterfell, Senhor Supremo e Protetor do Norte.^{s15}
 qstr_You_are_greeted_by_men_|Você é saudado por homens leais a {s8} o Senhor de Correrrio e o Senhor Supremo do Tridente e das Terras Fluviais.^{s15}
 qstr_You_are_greeted_by_men_l|Você é saudado por homens leais a {s7}.^{s15}
 qstr__This_town_seems_to_|Esta cidade parece pertencer a ninguém.^{s15}
@@ -2648,13 +2648,13 @@ qstr_It_appears_{s32}_had|Parece que {s32} não foi publicado em um assassinato 
 qstr_Your_troops_enjoyed_|Suas tropas aproveitaram o entretenimento de hoje que você e seus companheiros proporcionaram.
 qstr_Your_troops_would_be|Suas tropas ficariam mais felizes se tivessem algum entretenimento. (Você deve se apresentar em uma cidade)
 qstr_1|1
-qstr_You_gain_{reg0}_silv|Você ganha {reg0} veados de prata por mendigar. Você perde {s2} reputação e {s3} renome
-qstr_You_keep_working_har|Continue trabalhando duro para esta vila...
+qstr_You_gain_{reg0}_silv|Você ganhou {reg0} veados de prata por mendigar. Você perde {s2} de reputação e {s3} de renome
+qstr_You_keep_working_har|Continue trabalhando duro para esta aldeia...
 qstr_Your_strenuous_villa|Seu árduo trabalho na aldeia termina.
 qstr_Looting_and_burying_|Saqueando e enterrando os mortos.
 qstr_Burying_the_dead.|Enterrando os mortos.
 qstr_Looting_the_dead.|Roubando os mortos.
-qstr__Your_contract_with_|Seu contrato com {s1} expirou.
+qstr__Your_contract_with_| Seu contrato com {s1} expirou.
 qstr_Your_spy_in_{s5}_has|Seu espião em {s5} envenenou o poço com sucesso.
 qstr_Rats_have_infested_t|Os ratos infestaram os estoques de alimentos em {s5}.
 qstr_A_pox_has_inflicted_|Uma varíola infligiu os rebanhos de gado de {s5}.
@@ -2802,7 +2802,7 @@ qstr_Notice!|Observe!
 qstr_The_released_prisoners|Os prisioneiros libertados permaneceram leais e se juntarão ao seu partido
 qstr_You_have_{reg0}_days_|Você tem {reg0} dias restantes até ser declarado como desertor!
 qstr_You_have_now_been_de|Você foi declarado desertor!
-qstr_Your_troops_feel_ref|Suas tropas sentem renovados a partir do repouso da noite.
+qstr_Your_troops_feel_ref|Suas tropas se sentem revigoradas do descanso da noite.
 qstr_Your_men_need_rest_o|Seus homens precisam descansar ou sua moral vai diminuir.
 qstr_Your_men_urgently_ne|Seus homens precisam descansar com urgência ou sua moral vai diminuir.
 qstr_You_must_visit_your_|Você deve visitar {sua esposa/seu esposo}. Seu bebê nasceu.
@@ -3048,7 +3048,7 @@ qstr_{s16}_and_{s17}|{s16} e {s17}
 qstr_Very_well_I_ll_accep|Muito bem, vou aceitá-lo de volta às minhas fileiras se estiver pronto para fazer seu juramento solene mais uma vez.
 qstr_A_pardon_will_only_b|O perdão só será possível se você ceder {s17} para mim. Você concorda com esses termos?
 qstr_No._There_s_no_chanc|Não. Não há chance de paz entre nós. Eu não estou interessado.
-qstr_You_must_find_the_fa|Você deve encontrar a fazenda ao norte de Winterfell e remover os invasores selvagens. Quando terminar, volte para King Robb Stark.
+qstr_You_must_find_the_fa|Você deve encontrar a fazenda ao norte de Winterfell e lidar com os invasores Selvagens. Quando terminar, volte para o Rei Robb Stark.
 qstr_King_Robb_Stark_has_a|O Rei Robb Stark pediu que você viajasse para o Castelo Negro, encontre o Lorde Comandante e veja se ele consegue esclarecer a situação atual.
 qstr_You_must_return_to_t|Você deve retornar ao Lorde Comandante e explicar as más notícias.
 qstr_Quest_updated:_Bolst|Missão atualizada: Reforce o Negro

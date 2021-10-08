@@ -596,33 +596,33 @@ mno_yono_no|Não.
 menu_close|Nada.
 menu_town|{s30}
 mno_castle_castle|Visitar o salão do senhor.
-mno_castle_castle_door|Ir para o salão do senhor
-mno_join_tournament|Unir-se à competição.
+mno_castle_castle_door|Salão do senhor
+mno_join_tournament|Unir-se às Competições.
 mno_town_castle|Visitar o salão do senhor.
-mno_town_castle_door|Ir para o salão do senhor
+mno_town_castle_door|Salão do senhor
 mno_town_center|Caminhar pelas ruas.
-mno_town_center_door|Para o centro da cidade
+mno_town_center_door|Centro da Cidade
 mno_town_tavern|{s1}
-mno_town_tavern_door|Para a taverna
+mno_town_tavern_door|Taverna
 mno_town_merchant|Falar com um mercador.
-mno_town_merchant_door|Para o mercador
+mno_town_merchant_door|Loja
 mno_town_arena|Visitar os campos de treinamento.
-mno_town_arena_door|Para a arena
-mno_town_dungeon|Nunca: Entrar na prisão.
-mno_town_dungeon_door|Para a prisão
+mno_town_arena_door|Arena
+mno_town_dungeon|Nunca: Entrar nos calabouços.
+mno_town_dungeon_door|Calabouço
 mno_castle_inspect|Caminhar pelo pátio.
-mno_castle_inspect_door|Sair
+mno_castle_inspect_door|Pátio
 mno_town_enterprise|Visitar {s3}.
-mno_town_enterprise_door|Para sua empresa
+mno_town_enterprise_door|Empresa
 mno_visit_lady|Tentar visitar uma donzela.
-mno_visit_lady_door|Para o jardim
+mno_visit_lady_door|Jardins
 mno_trade_with_merchants|Negociar com os locais.
 mno_travel|Viajar para outro porto.
 mno_travel_door|Equipar seu grupo.
 mno_walled_center_manage|Gerenciar {reg0?cidade:castelo}.
 mno_walled_center_move_court|Mover sua corte para cá.
 mno_castle_station_troops|Gerenciar guarnição.
-mno_castle_wait|Esperar um pouco aqui.
+mno_castle_wait|Esperar um pouco aqui{s1}.
 mno_castle_wait_door|Cama.
 mno_town_alley|Outras atividades.
 mno_town_visit_port|Olhar os barcos.
@@ -632,7 +632,7 @@ mno_set_sail|Zarpar do porto.
 mno_set_sail_door|Zarpar.
 mno_town_leave|Sair.
 mno_town_leave_door|Deixar esta área.
-menu_cannot_enter_court|Há um banquete em andamento, mas você não tem status suficiente para ser convidado a entrar. Talvez aumentar seu renome faria com que você fosse permitido, ou você também pode tentar se destacar em um torneio enquanto o banquete está acontecendo...
+menu_cannot_enter_court|Há um banquete em andamento, mas você não tem status suficiente para ser convidado a entrar. Talvez aumentar seu renome faria com que você fosse permitid{o/a}, ou você também pode tentar se destacar em um torneio enquanto o banquete está acontecendo...
 menu_lady_visit|Quem você deseja visitar?
 mno_visit_lady_1|Visitar {s12}
 mno_visit_lady_2|Visitar {s12}
@@ -1564,7 +1564,7 @@ menu_find_raven_event_menu|Você encontra o corvo e percebe há um pequeno peda�
 mno_find_raven_choice_1|Levar a carta ao Rei Stannis Baratheon.
 mno_find_raven_choice_2|Jogar a carta fora e nunca mais mencioná-la novamente.
 mno_find_raven_choice_3|Levar a carta ao Lorde Tywin Lannister.
-menu_ned_dead_event_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de pergaminho envolto em um fio dourado.^^     A carta diz:^^^     Declaro que o Lorde Eddard Stark, Senhor de Winterfell e Guardião do Norte foi decapitado devido a atos de traição para com seu Rei. Dessa forma, o herdeiro de Eddard, Lorde Robb Stark, foi declarado o Rei do Norte.
+menu_ned_dead_event_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de pergaminho envolto em um fio dourado.^^     A carta diz:^^^     Declaro que o Lorde Eddard Stark, Senhor de Winterfell e Protetor do Norte foi decapitado devido a atos de traição para com seu Rei. Dessa forma, o herdeiro de Eddard, Lorde Robb Stark, foi declarado o Rei do Norte.
 menu_red_wedding_event_menu|Você captura um corvo que estava passando e nota um pequeno pedaço de papel esfarrapado amarrado a ele.^^     A carta diz:^^^     O Senhor Supremo Edmure Tully deverá se casar nas Gêmas dentro dos próximos dias. Com a participação do anfitrião, o Rei Robb Stark, estaremos realizando um banquete em comemoração. Este é um convite formal para {playername} participar destas festividades.^  Deve-se notar que todos os convidados de honra serão bem-vindos dentro das muralhas de Lord Walder Frey e em sua mesa. Ele estende a você sua hospitalidade e proteção à luz dos Sete.^^^Você participará como um leal a...
 mno_red_wedding_choice_1|Tully ou Stark.
 mno_red_wedding_choice_2|Frey.

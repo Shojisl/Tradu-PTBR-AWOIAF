@@ -3010,14 +3010,14 @@ dlga_lord_marriage_permission_engagement_date:close_window.1|Infelizmente, há u
 dlga_lord_marriage_permission_endowment_answer_delay:lord_pretalk|Não importa - levar o tempo necessário para levantar o dinheiro. Quero sua senhora a ser bem cuidada.
 dlga_lord_marriage_permission_endowment_answer_delay:lord_pretalk.1|Isso é uma vergonha, mas eu sinto negligência em meu dever se eu a sua vontade sua Senhoria enfrentar um futuro incerto.
 dlga_lord_talk_ask_something_2:lord_courtship_permission|{s10} Tenho um honra de visitar com {s14} {s12}?
-dlga_lord_courtship_permission:lord_pretalk|Segundo o que ouvi, você já falou com ela - sem a minha autorização. Permitam-me que vos diga isto:Eu sou seu senhor e guardião e tenho planos para ela. Não vou ridicularizar as suas costas como um homem que não consegue controlar uma mulher de sua casa. Gostaria de pedir para não discutir este artigo comigo novamente.
-dlga_lord_courtship_permission:lord_pretalk.1|{s14}
-dlga_lord_courtship_permission:lord_pretalk.2|{s12}
-dlga_lord_talk_ask_something_2:lord_talk_ask_marriage_1|O que seria necessário para cimentar uma aliança duradoura com sua casa?
-dlga_lord_talk_ask_something_2:lord_pretalk|Não se preocupe.
+dlga_lord_courtship_permission:lord_pretalk|{s12}
+dlga_lord_courtship_permission:lord_pretalk.1|Pelo que eu andei escutando, você já falou com ela... sem a minha permissão. Permita-me dizer-lhe o seguinte: eu sou seu senhor e protetor, e tenho meus próprios planos para ela. Não serei zombado pelas costas como um homem que não pode controlar as mulheres de sua casa. Peço que não discuta esse assunto comigo novamente.
+dlga_lord_courtship_permission:lord_pretalk.2|{s14}
+dlga_lord_talk_ask_something_2:lord_talk_ask_marriage_1|O que seria necessário para construir uma aliança duradoura com a sua casa?
+dlga_lord_talk_ask_something_2:lord_pretalk|Não importa.
 dlga_lord_talk_ask_location:lord_talk_ask_location_2|Muito bem, pode ser que eu tenha alguma resposta para você, ou pode ser que não. Sobre quem deseja perguntar?
 dlga_lord_talk_ask_location_2:lord_talk_ask_location_3|{s1}.
-dlga_lord_talk_ask_location_2:lord_talk_ask_location|{s1}
+dlga_lord_talk_ask_location_2:lord_talk_ask_location|{s1}.
 dlga_lord_talk_ask_location_3:lady_pretalk|{s1}.
 dlga_lord_talk_ask_location_3:lord_pretalk|{s1}.
 dlga_lord_talk_ask_about_war:lord_talk_ask_about_war_2|{s12}.
@@ -3209,7 +3209,7 @@ dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2.1|Meus agradeciment
 dlga_lord_ask_leave_service_end_2:close_window|Adeus, então, {playername}, e que a sorte está ao seu lado.
 dlga_lord_active_mission_1:lord_lend_companion_end|Ah, você quer seu companheiro de volta? Entendo...
 dlga_lord_active_mission_1:lord_pretalk|{Playername}, eu devo implorar sua paciência. Ainda preciso do seu companheiro. Por favor, volte mais tarde, quando as coisas se resolverem.
-dlga_lord_active_mission_1:lord_active_mission_2|Sim. Você fez algum progresso nisso?
+dlga_lord_active_mission_1:lord_active_mission_2|Sim. Você fez algum progresso?
 dlga_lord_active_mission_2:lord_generic_mission_thank|De fato. Eu trouxe você {reg1} {s1} como prisioneiro.
 dlga_lord_active_mission_2:capture_enemy_hero_thank|Oh, na verdade. Eu capturei um senhor de {s13} para você.
 dlga_capture_enemy_hero_thank:capture_enemy_hero_thank_2|Muito obrigado meu amigo. Ele vai servir muito bem para uma pechincha. Você fez um bom trabalho aqui. Por favor, aceite estas {reg5} veados de prata por sua ajuda.
@@ -3928,7 +3928,7 @@ dlga_start:bounty_1.4|Eu te conheço? Meu comandante enviou você?!
 dlga_start:bounty_1.5|Eu te conheço? Meu mestre enviou você?!
 dlga_bounty_1:bounty_2|Estou procurando um fugitivo chamado {s4}. Você se encaixa na descrição.
 dlga_bounty_1:close_window|Nada. Desculpe incomodá-lo.
-dlga_bounty_2:bounty_3|Como posso saber se você não é um caçador de recompensas? !! ​​
+dlga_bounty_2:bounty_3|Como posso saber se você não é um caçador de recompensas?!! ​​
 dlga_bounty_3:bounty_4|Posso garantir que...
 dlga_bounty_4:close_window|Tudo bem, cometi um erro! Um erro!! Um homem não pode começar de novo?!! Eu tenho que continuar pagando?!! HÃ?!?! Talvez eu deva cometer outro erro!!!
 dlga_member_chat:sacrificed_messenger_1|Sim, {sor/senhora}?
@@ -4096,28 +4096,28 @@ dlga_tavernkeeper_coin6:tavernkeeper_pretalk|Droga, é {s2}... Aqui está o seu 
 dlga_tavernkeeper_coin6a:tavernkeeper_pretalk|Aqui estão seus veados {reg6}.
 dlga_tavernkeeper_talk:tavernkeeper_request_mission_ask|Há alguma recompensa anunciada?
 dlga_tavernkeeper_talk:tavernkeeper_active_mission_1|Sobre a recompensa que você me encarregou...
-dlga_tavernkeeper_active_mission_1:tavernkeeper_active_mission_2|Sim, você fez algum progresso nisso?
+dlga_tavernkeeper_active_mission_1:tavernkeeper_active_mission_2|Sim, você fez algum progresso?
 dlga_tavernkeeper_active_mission_2:tavernkeeper_hunt_down_fugitive_success|Encontrei {s4} escondido em {s3} e dei a ele sua punição.
 dlga_tavernkeeper_active_mission_2:tavernkeeper_hunt_down_fugitive_fail|Lamento, mas eles escaparam.
 dlga_tavernkeeper_active_mission_2:tavernkeeper_active_mission_3|Ainda estou trabalhando nisso.
 dlga_tavernkeeper_active_mission_2:tavernkeeper_mission_failed|Lamento, mas não poderei fazer esta missão.
 dlga_tavernkeeper_active_mission_3:tavernkeeper_pretalk|Entendo. Bem, por que você ainda está aqui?
 dlga_tavernkeeper_mission_failed:tavernkeeper_pretalk|{s43}
-dlga_tavernkeeper_hunt_down_fugitive_success:tavernkeeper_hunt_down_fugitive_success_2|Muito bem, {playername}! É bom saber que podemos confiar em você para lidar com as coisas com um nível apropriado de tato. Uma recompensa que prometi, e uma recompensa que você terá. 300 veados de prata e nem um cobre a menos!
-dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_accept|Deixe-me pegar o dinheiro, {s65}. Obrigada.
-dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_reject|Este é o dinheiro sangrento. Eu não posso aceitar isso.
-dlga_tavernkeeper_hunt_down_fugitive_reward_accept:tavernkeeper_pretalk|Claro, {playername}. Olha Você aqui.
+dlga_tavernkeeper_hunt_down_fugitive_success:tavernkeeper_hunt_down_fugitive_success_2|Muito bem, {playername}! É bom saber que podemos confiar em você para lidar com as coisas com um nível apropriado de tato. Uma recompensa eu prometi, e uma recompensa que você terá. 300 veados de prata e nem um cobre a menos!
+dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_accept|Aceitarei o dinheiro, {s65}. Obrigad{o/a}.
+dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_reject|É dinheiro manchado de sangue. Não posso aceitar isso.
+dlga_tavernkeeper_hunt_down_fugitive_reward_accept:tavernkeeper_pretalk|Claro, {playername}. Aqui está.
 dlga_tavernkeeper_hunt_down_fugitive_reward_reject:tavernkeeper_pretalk|Você é um {s25} para quem a justiça é sua própria recompensa, hein? Como você deseja, {playername}, como você deseja. Um sentimento honroso, para ser verdade.
 dlga_tavernkeeper_hunt_down_fugitive_fail:tavernkeeper_pretalk|É um dia triste quando {s44} consegue evitar a mão da justiça mais uma vez. Achei que você seria capaz de fazer isso, {playername}. Obviamente, eu estava errado.
 dlga_tavernkeeper_request_mission_ask:tavernkeeper_tell_mission|Então você se considera um caçador de recompensas, hein?
-dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told|Tenho algo em que você pode ajudar, um problema com o vilão sem lei conhecido como {s4}. Ele supostamente assassinou alguém ou roubou algo, ou... o que seja, e está fugindo de seu julgamento desde então. Há uma recompensa de 300 veados de prata por sua cabeça. Associados do assassino que, embora ele não faça mal a ele... acham que este fora-da-lei pode ter se refugiado com seus parentes em {s3}. Você pode ser capaz de caçá-lo e dar a ele o que eles merecem... ^ e reivindicar a recompensa para você, é claro.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told|Tenho algo que você poderia ajudar, um problema com o fora-da-lei conhecido como {s4}. Ele supostamente assassinou alguém ou roubou algo, ou... o que seja, e está fugindo de seu julgamento desde então. Há uma recompensa de 300 veados de prata por sua cabeça. Associados do assassino que, embora ele não faça mal a eles... acham que este fora-da-lei pode ter se refugiado com seus parentes em {s3}. Você pode ser capaz de caçá-lo e dar a ele o que ele merece... ^e reivindicar a recompensa para você, é claro.
 dlga_tavernkeeper_tell_mission:tavernkeeper_pretalk|Sinto muito, mas não tenho nenhuma recompensa para você agora.
 dlga_tavernkeeper_mission_hunt_down_fugitive_told:tavernkeeper_mission_hunt_down_fugitive_accepted|Vou reivindicar esta recompensa.
-dlga_tavernkeeper_mission_hunt_down_fugitive_told:tavernkeeper_mission_hunt_down_fugitive_rejected|Estou muito ocupado para ir atrás deles no momento.
+dlga_tavernkeeper_mission_hunt_down_fugitive_told:tavernkeeper_mission_hunt_down_fugitive_rejected|Estou muito ocupad{o/a} para ir atrás dele no momento.
 dlga_tavernkeeper_mission_hunt_down_fugitive_accepted:close_window|Isso é excelente, {playername}. Seus associados ficarão muito gratos por tê-lo.... encontrado. E, claro, a recompensa pela cabeça dele será sua se você puder... err, encontrá-lo. Bem, boa caça para você.
-dlga_tavernkeeper_mission_hunt_down_fugitive_rejected:tavernkeeper_pretalk|Como desejar, {playername}. Suponho que haja muitos caçadores de recompensas por aí para fazer o trabalho. . .
+dlga_tavernkeeper_mission_hunt_down_fugitive_rejected:tavernkeeper_pretalk|Como desejar, {playername}. Suponho que haja muitos caçadores de recompensas por aí para fazer o trabalho...
 dlga_measter_menu:tavernkeeper_messenger_system1|Você tem corvos? Preciso enviar uma mensagem.
-dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|Nós podemos fazer isso. Quem você quer que envie isso? Eu ouvi que os seguintes estão por perto:
+dlga_tavernkeeper_messenger_system1:tavernkeeper_messenger_system2|Claro. Para quem você quer enviar? Ouvi dizer que os seguintes estão por perto:
 dlga_tavernkeeper_messenger_system2:measter_menu|Não, nenhum desses. Talvez mais tarde.
 dlga_tavernkeeper_messenger_system3:tavernkeeper_messenger_system4|Muito bem. Qual é a mensagem?
 dlga_tavernkeeper_messenger_system4:close_window|É isto...
@@ -4744,65 +4744,65 @@ dlga_start:merchant_caravan_intro_1|Saudações. Você deve ser nossa escolta, c
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Sim. Meu nome é {playername}. eu vou escoltar vocês {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bem, é bom saber que não viajaremos sozinhos. O que você quer que façamos agora?
 dlga_start:escort_merchant_caravan_talk|Eh. Nós chegamos até aqui... O que você quer que façamos?
-dlga_escort_merchant_caravan_talk:merchant_caravan_follow_lead|Siga-me, lhes garantirei uma rota segura.
-dlga_merchant_caravan_follow_lead:close_window|Bem. Nós estaremos logo atrás de você.
+dlga_escort_merchant_caravan_talk:merchant_caravan_follow_lead|Siga-me. Os levarei por uma rota segura.
+dlga_merchant_caravan_follow_lead:close_window|Ótimo. Nós estaremos logo atrás de você.
 dlga_escort_merchant_caravan_talk:merchant_caravan_stay_here|Você fica aqui por um tempo. Vou prosseguir e verificar a estrada.
 dlga_merchant_caravan_stay_here:close_window|Bem. Estaremos esperando por você.
-dlga_merchant_quest_requested:merchant_quest_brief.4|Na verdade, eu estava procurando um aventureiro capaz como você. Há um grupo de bandidos causando problemas. Eles se apossaram de nossa cidade e estão alimentando das minhas caravanas. Conseguiram acabar com todos os soldados e milícias até agora. Se ninguém acabar com eles logo, eu vou ser arruinado.
-dlga_merchant_quest_brief:troublesome_bandits_quest_brief|Eu vou recompensá-lo generosamente se você perseguir aqueles bandidos cuzões. É um trabalho perigoso. Porém eu acredito que você é a {reg59?Escolha:escolha} certa. O que me diz?
-dlga_troublesome_bandits_quest_brief:merchant_quest_taken_bandits|Muito bem. Vou perseguir aqueles bandidos.
-dlga_merchant_quest_taken_bandits:close_window|Você irá? Esplêndido. Boa sorte para você.
-dlga_troublesome_bandits_quest_brief:merchant_quest_stall|Desculpepa. Não tenho tempo para isso agora.
-dlga_merchant_quest_requested:merchant_quest_brief.5|Na verdade, eu estava procurando um {reg59?ajudante:homem} confiável que pode realizar uma missão importante. Um grupo de bandidos sequestrou uma filha de um amigo meu e a está querendo um resgate. Meu amigo está pronto para pagá-los, mas ainda precisamos de alguém para levar o dinheiro a esses desgraçados e trazer uma garota de volta à segurança.
-dlga_merchant_quest_brief:kidnapped_girl_quest_brief|O valor que os bandidos pedem como resgate é {reg12} veados de prata. Eu lhe darei esse dinheiro, uma vez que você aceite fazer uma missão. Você tem 15 dias para levar o dinheiro aos bandidos que está esperando perto da aldeia de {s4}. Aqueles bastardos disseram que vão matar a pobrezinha se eles não conseguirem o dinheiro o mais rápido possível. Você vai receber um pagamento de {reg8} veados de prata quando trazer a garota em segurança de volta.
+dlga_merchant_quest_requested:merchant_quest_brief.4|Na realidade, estava buscando uma pessoa capaz como você. Um grupo de bandidos particularmente problemáticos invadiram os arredores de nossa cidade e estão atacando os visitantes e nossas caravanas. Até agora eles têm evitado todos os soldados e milicianos. Se alguém não lhes tirar logo o couro, irei à falência...
+dlga_merchant_quest_brief:troublesome_bandits_quest_brief|Pagarei a você {reg8} veados de prata se você perseguir aqueles bandidos problemáticos. É um trabalho perigoso. Mas acredito que você é {o homem/a pessoa} ideal para realizá-lo. O que me diz?
+dlga_troublesome_bandits_quest_brief:merchant_quest_taken_bandits|Muito bem. Caçarei esses bandidos.
+dlga_merchant_quest_taken_bandits:close_window|Fará isso? Esplêndido. Que tenha boa sorte.
+dlga_troublesome_bandits_quest_brief:merchant_quest_stall|Desculpe. Não tenho tempo para isso agora.
+dlga_merchant_quest_requested:merchant_quest_brief.5|Na verdade, eu estava procurando um {homem/ajudante} confiável para realizar uma missão importante. Um grupo de bandidos sequestrou uma filha de um amigo meu e agora estão querendo um resgate. Meu amigo está disposto a pagá-los, mas ainda precisamos de alguém para levar o dinheiro para esses desgraçados e trazer a garota de volta em segurança.
+dlga_merchant_quest_brief:kidnapped_girl_quest_brief|O valor que os bandidos pedem como resgate é {reg12} veados de prata. Eu lhe darei esse dinheiro, uma vez que você aceitar fazer a missão. Você tem 15 dias para levar o dinheiro aos bandidos que estão esperando perto da aldeia de {s4}. Aqueles bastardos disseram que vão matar a pobre moça se eles não conseguirem o dinheiro o mais rápido possível. Você vai receber um pagamento de {reg8} veados de prata quando trazer a garota de volta em segurança.
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Tudo bem, vou levar o dinheiro do resgate aos bandidos e trazer de volta a garota.
-dlga_kidnapped_girl_quest_taken:close_window|Boa. Eu sabia que poderíamos confiar em você. Aqui está o dinheiro do resgate, {reg12} veados de prata. Conte-o antes de roupa-lo. E, por favor, não tente fazer nada precipitado. Tenha em mente que o bem-estar da garota é mais importante do que qualquer outra coisa...
-dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Desculpepa. Não tenho tempo para isso agora.
-dlga_start:close_window.91|Muito obrigado por me trazer de volta! Mal posso esperar para ver minha família. Adeus.
-dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Sim. Venha comigo. Nós estamos indo para casa.
-dlga_kidnapped_girl_liberated_map_2a:close_window|Infelizmente, você não tem espaço em sua tropa para mim.
-dlga_kidnapped_girl_liberated_map_2a:close_window.1|Sério? Muito obrigada!
-dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2b|Espere aqui um pouco mais. Logotipo da Eu voltarei.
-dlga_kidnapped_girl_liberated_map_2b:close_window|Oh, por favor {reg59?senhora:senhor}, não me deixe aqui sozinha!
-dlga_start:kidnapped_girl_liberated_map|Oh {reg59?senhora:senhor}. Obrigada por me salvar. Eu vou ver minha família agora?
-dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2a|Sim. Venha comigo. Nós estamos indo para casa.
-dlga_kidnapped_girl_liberated_battle_2a:kidnapped_girl_liberated_battle_2b|Infelizmente, você não tem espaço em sua tropa para mim.
-dlga_kidnapped_girl_liberated_battle_2a:close_window|Sério? Muito obrigada!
-dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2b|Espere aqui um pouco mais. Logotipo da Eu voltarei.
-dlga_kidnapped_girl_liberated_battle_2b:close_window|Oh, por favor {reg59?senhora:senhor}, não me deixe aqui sozinha!
+dlga_kidnapped_girl_quest_taken:close_window|Perfeito! Sabia que poderíamos confiar em você. Aqui está o dinheiro do resgate, {reg12} veados de prata. Conte-o antes de efetuar o pagamento. E, por favor, não tente fazer nada precipitado. Tenha em mente que o bem-estar da garota é mais importante do que qualquer outra coisa...
+dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Sinto muito. Não tenho tempo para isso agora.
+dlga_start:close_window.91|Muito obrigada por me trazer de volta! Mal posso esperar para ver minha família. Adeus.
+dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Sim. Venha comigo. Nós vamos para casa.
+dlga_kidnapped_girl_liberated_map_2a:close_window|Infelizmente, você não tem espaço em suas tropas para mim.
+dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh, verdade? Muitíssimo obrigada!
+dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2b|Espere aqui um pouco mais. Voltarei para lhe buscar.
+dlga_kidnapped_girl_liberated_map_2b:close_window|Oh, por favor {sor/senhora}, não me deixe aqui sozinha!
+dlga_start:kidnapped_girl_liberated_map|Oh, {sor/senhora}. Agradeço-lhe tanto por ter me resgatado... Irá me levar para minha família agora?
+dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2a|Sim, venha comigo. Nós vamos para casa.
+dlga_kidnapped_girl_liberated_battle_2a:kidnapped_girl_liberated_battle_2b|Infelizmente, você não tem espaço em suas tropas para mim.
+dlga_kidnapped_girl_liberated_battle_2a:close_window|Oh, verdade? Muitíssimo obrigada!
+dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2b|Espere aqui um pouco mais. Voltarei para buscá-la.
+dlga_kidnapped_girl_liberated_battle_2b:close_window|Oh, por favor {sor/senhora}, não me deixe aqui sozinha!
 dlga_start:kidnapped_girl_liberated_map.1|Posso ir com você agora?
-dlga_start:bandits_awaiting_ransom_intro_1|Você é aquele que trouxe o resgate? Rápido, de a merda do dinheiro agora.
-dlga_start:bandits_awaiting_ransom_intro_1.1|Você voltou? Rápido, de o dinheiro agora.
+dlga_start:bandits_awaiting_ransom_intro_1|Você é {o/a} infeliz que trouxe o resgate? Rápido, dê-nos o dinheiro agora.
+dlga_start:bandits_awaiting_ransom_intro_1.1|Voltou? Rápido, dê-nos o dinheiro agora.
 dlga_bandits_awaiting_ransom_intro_1:bandits_awaiting_ransom_pay|Aqui, pegue o dinheiro. Agora deixe a garota ir.
 dlga_bandits_awaiting_ransom_pay:close_window|Heh. Você trouxe o dinheiro. Agora pode levar a menina, foi um prazer fazer negócios com você...
 dlga_bandits_awaiting_ransom_intro_1:bandits_awaiting_ransom_b|De jeito nenhum! Você liberta a garota primeiro.
-dlga_bandits_awaiting_ransom_b:bandits_awaiting_ransom_b2|Seu merda! Pare com esses joguinhos e passe o dinheiro!
+dlga_bandits_awaiting_ransom_b:bandits_awaiting_ransom_b2|{Seu merda/Vadia}! Pare com esses joguinhos e passe o dinheiro!
 dlga_bandits_awaiting_ransom_b2:bandits_awaiting_ransom_pay|Tudo bem. Aqui está o seu dinheiro, agora solte a garota.
-dlga_bandits_awaiting_ransom_b2:bandits_awaiting_ransom_no_money|Eu deixei o dinheiro em um lugar seguro. Deixe-me ir buscá-lo.
-dlga_bandits_awaiting_ransom_no_money:close_window|Você está testando nossa paciência ou algo assim? Vá e traga esse dinheiro aqui, rápido!
+dlga_bandits_awaiting_ransom_b2:bandits_awaiting_ransom_no_money|Deixei o dinheiro em um lugar seguro. Deixe que eu vá buscá-lo.
+dlga_bandits_awaiting_ransom_no_money:close_window|Está testando nossa paciência ou algo assim? Vá e traga o dinheiro, rápido!
 dlga_bandits_awaiting_ransom_b2:bandits_awaiting_ransom_fight|Não tenho intenção de pagar nada. Exijo que você libere a garota agora!
-dlga_bandits_awaiting_ransom_fight:close_window|Você não exigirá nada quando estiver morto.
-dlga_start:bandits_awaiting_remeet|O que é isso? Você nos deu o dinheiro. Não temos mais negócios.
+dlga_bandits_awaiting_ransom_fight:close_window|Você não exigirá nada quando estiver mort{o/a}.
+dlga_start:bandits_awaiting_remeet|O que foi? Você já nos deu o dinheiro. Não temos nenhum assunto pendente.
 dlga_bandits_awaiting_remeet:close_window|Desculpe incomodá-lo. Voltarei para o meu caminho.
 dlga_bandits_awaiting_remeet:bandits_awaiting_remeet_2|Temos mais um negócio. Você vai me devolver o dinheiro.
-dlga_bandits_awaiting_remeet_2:close_window|Ah, esse negócio! Claro.
-dlga_start:kidnapped_girl_encounter_1|Oh {reg59?senhora:senhor}. Obrigada por me salvar. Eu vou ver minha família agora?
+dlga_bandits_awaiting_remeet_2:close_window|Oh, esse negócio! Claro. Vamos resolver isso.
+dlga_start:kidnapped_girl_encounter_1|Oh, {sor/senhora}. Agradeço-lhe tanto que tenha me resgatado. Irá me levar para minha família agora?
 dlga_kidnapped_girl_encounter_1:kidnapped_girl_join|Sim. Venha comigo, vou te levar para casa.
-dlga_kidnapped_girl_join:close_window|Infelizmente. Você não tem espaço na sua tropa para mim.
-dlga_kidnapped_girl_join:close_window.1|Oh, muito obrigada!
-dlga_kidnapped_girl_encounter_1:kidnapped_girl_wait|Espere aqui um pouco mais, voltarei logo.
-dlga_kidnapped_girl_wait:close_window|Oh, por favor {reg59?senhora:senhor}, não me deixe aqui sozinha!
+dlga_kidnapped_girl_join:close_window|Infelizmente. Você não tem espaço na suas tropas para mim.
+dlga_kidnapped_girl_join:close_window.1|Oh, muitíssimo obrigada!
+dlga_kidnapped_girl_encounter_1:kidnapped_girl_wait|Espere aqui um pouco mais. Voltarei para buscá-la.
+dlga_kidnapped_girl_wait:close_window|Oh, por favor {sor/senhora}, não me deixe aqui sozinha!
 dlga_merchant_quest_about_job_2:lost_kidnapped_girl|Infelizmente, perdi a garota no caminho até aqui...
 dlga_lost_kidnapped_girl:lost_kidnapped_girl_2|Ah não! Como vou contar isso ao meu amigo?
 dlga_lost_kidnapped_girl_2:lost_kidnapped_girl_3|Eu sinto Muito. Não posso fazer nada sobre isso.
-dlga_lost_kidnapped_girl_3:lost_kidnapped_girl_4|Você me decepcionou {playername}. Eu confiei em você. Vou deixar as pessoas saberem da sua incompetência nessa tarefa. Além disso, eu quero de volta os {reg8} veados de prata que eu lhe dei para o resgate.
+dlga_lost_kidnapped_girl_3:lost_kidnapped_girl_4|Você me decepcionou, {playername}. Eu confiei em você. Vou deixar as pessoas saberem da sua incompetência nessa tarefa. Além disso, eu quero de volta os {reg8} veados de prata que eu lhe dei para o resgate.
 dlga_lost_kidnapped_girl_4:merchant_quest_about_job_5a|Sim, aqui está...
 dlga_merchant_quest_about_job_5a:close_window|Pelo menos você tem a decência de devolver o dinheiro.
-dlga_lost_kidnapped_girl_4:merchant_quest_about_job_5b|Desculpepa. Eu não tenho esse valor comigo.
-dlga_merchant_quest_about_job_5b:close_window|Você espera que eu acredite nisso? Você vai pagar essa taxa de resposta de volta! Vá e traga o dinheiro agora!
-dlga_merchant_quest_requested:merchant_quest_persuade_peace_1|Essa guerra entre {s15} e {s14} está separando uma cidade perto das ruínas. Nossas caravanas são atacadas antes que possam chegar ao seu destino. Nossos mercadores têm medo de deixar as muralhas da cidade. E, como se não fosse suficiente, os impostos para manter a guerra levam os pedaços de nossas economias. Se a paz não vier em breve, não podemos aguentar por mais tempo.
-dlga_merchant_quest_persuade_peace_1:merchant_quest_brief|Você está certo, mas quem pode parar essa loucura chamada guerra?
-dlga_merchant_quest_persuade_peace_1:merchant_quest_persuade_peace_reject|É seu dever ajudar os nobres em suas guerras. Você não deve reclamar sobre isso.
+dlga_lost_kidnapped_girl_4:merchant_quest_about_job_5b|Desculpe. Eu não tenho esse valor comigo.
+dlga_merchant_quest_about_job_5b:close_window|Espera mesmo que eu acredite nisso? Você vai me devolver o dinheiro do resgate! Traga-o para mim agora!
+dlga_merchant_quest_requested:merchant_quest_persuade_peace_1|Esta guerra entre o {s15} e o {s14} tem levado nossa cidade à beira da ruína. Nossas caravanas são assaltadas antes que cheguem ao seu destino. Nossos mercadores temem abandonar a segurança dos muros de nossa cidade. E como se tudo isso não bastasse, os impostos para manter a guerra consomem todo o resto de nossas receitas. Se a paz não chegar logo, não poderemos resistir muito tempo.
+dlga_merchant_quest_persuade_peace_1:merchant_quest_brief|Você está certo, mas quem poderia parar essa loucura chamada guerra?
+dlga_merchant_quest_persuade_peace_1:merchant_quest_persuade_peace_reject|É seu dever ajudar os nobres em suas guerras. Você não deveria se queixar disso.
 dlga_merchant_quest_persuade_peace_reject:close_window|Hah. Os nobres lutam suas guerras por ganância e sonhos de glória. E é gente pobre e honrada como nós que tem que saber o verdadeiro fardo. Mas você, obviamente, não vai querer ouvir sobre isso.
 dlga_merchant_quest_brief:merchant_quest_persuade_peace_3|Não foi utilizado para reconciliar os dois lados e chegar a um acordo. No entanto, há líderes poderosos em ambos os lados, confidenciais estão em prosseguir uma guerra. Esses homens fazem com que todos os outros não prestem atenção na palavra de homens sensatos, mas a continuarem lutando. Embora esses líderes permaneçam influentes, nenhum acordo de paz pode ser alcançado.
 dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4|Quem são esses guerreiros que bloqueiam o caminho da paz?
@@ -4879,7 +4879,7 @@ dlga_village_elder_talk:village_elder_get_cattle_gift|Eu tenho {reg25} cabeças 
 dlga_village_elder_get_cattle_gift:village_elder_pretalk|Sim, definitivamente. Nosso povo será extremamente grato por tão generoso presente.
 dlga_village_elder_trade_talk:village_elder_pretalk|Mudei de ideia. Eu não quero comprar nada.
 dlga_village_elder_talk:village_elder_ask_enemies|Você viu algum inimigo por aqui recentemente?
-dlga_village_elder_ask_enemies:village_elder_pretalk|Me desculpe, {reg59?senhora:sor}. Nós não vimos nem ouvimos falar de nenhum grupo de guerreiros nessa área.
+dlga_village_elder_ask_enemies:village_elder_pretalk|Me desculpe, {sor/senhora}. Nós não vimos nem ouvimos falar de nenhum grupo de guerra nessa área.
 dlga_village_elder_ask_enemies:village_elder_tell_enemies|Hmm. Deixe-me pensar sobre isso...
 dlga_village_elder_tell_enemies:village_elder_tell_enemies|{s1} {s2}
 dlga_village_elder_tell_enemies:village_elder_pretalk|Não, {reg59?senhora:senhor}. Nós não vimos nenhum grupo de guerreiros nessa área há algum tempo.
@@ -4908,9 +4908,9 @@ dlga_village_elder_ask_set_fire_6:village_elder_ask_set_fire_9|Muito bem. Você 
 dlga_village_elder_ask_set_fire_7:village_elder_talk|Não posso fazer algo tão perigoso por 200 veados de prata.
 dlga_village_elder_ask_set_fire_9:village_elder_ask_set_fire_10|Continue com seus preparativos. Em uma hora eu preciso desse fogo.
 dlga_village_elder_ask_set_fire_9:village_elder_ask_set_fire_11|Faça isso a meia-noite. Eu vou esperar exatamente uma hora.
-dlga_village_elder_ask_set_fire_10:close_window|Muito bem, {reg59?milady:senhor}. Nós vamos fazer nossos preparativos. Agora você faça os seus.
-dlga_village_elder_ask_set_fire_11:close_window|Como quiser, {reg59?milady:senhor}. Que os céus protejam você.
-dlga_village_elder_talk:village_elder_recruit_start|Estou à procura de homens que estão dispostos a seguir. Estou recrutando...
+dlga_village_elder_ask_set_fire_10:close_window|Muito bem, {sor/lady}. Nós vamos fazer nossos preparativos. Agora você faça os seus.
+dlga_village_elder_ask_set_fire_11:close_window|Como quiser, {sor/lady}. Que os Deuses protejam você.
+dlga_village_elder_talk:village_elder_recruit_start|Preciso de ajuda para encontrar homens que queiram se juntar a mim. Claro, há uma recompensa de 100 moedas para você.
 dlga_village_elder_talk:close_window|[Sair]
 dlga_village_elder_buy_cattle:village_elder_buy_cattle_2|Nós temos {reg5} cabeça de gado, cada uma custa {reg6} veados de prata. quantas você quer comprar?
 dlga_village_elder_buy_cattle:village_elder_buy_cattle_2.1|Receio que não temos gado na aldeia, {reg59?senhora:senhor}.
@@ -4922,10 +4922,10 @@ dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.4|Cinco.
 dlga_village_elder_buy_cattle_2:village_elder_pretalk|Esqueça.
 dlga_village_elder_buy_cattle_complete:village_elder_pretalk|Eu direi aos pastores para reunir os animais e trazê-los para você, {reg59?senhora:senhor}. Estou certo de que você ficará satisfeito com sua compra.
 dlga_village_elder_recruit_start:village_elder_talk|Acho que ninguém estaria interessado, {sor/senhora}. Posso fazer mais alguma coisa por você?
-dlga_village_elder_recruit_start:village_elder_recruit_decision|Posso pensar em {reg5} que suspeito que aproveitaria a chance. Se você pudesse pagar {reg0} veados de prata {reg7?Cada um por seu equipamento:por seu equipamento}. Isso combina com você?
-dlga_village_elder_recruit_decision:village_elder_pretalk|Diga a {reg7?eles:ele} para se preparar.
+dlga_village_elder_recruit_start:village_elder_recruit_decision|Já que perguntou, ocorre-me que há {reg5} que eu suponho {reg7?que possam:que pode} se interessar. Você pode pagar {reg0} veados de prata {reg7?pelo equipamento deles:pelo equipamento dele}. Parece bom para você?
+dlga_village_elder_recruit_decision:village_elder_pretalk|Diga a {reg7?eles:ele} que tudo deve estar preparado imediatamente.
 dlga_village_elder_recruit_decision:village_elder_pretalk.1|Não, agora não.
-dlga_village_elder_active_mission_1:village_elder_active_mission_2|Sim, {reg59?senhora:senhor}, você obteve algum progresso?
+dlga_village_elder_active_mission_1:village_elder_active_mission_2|Sim, {sor/senhora}, você obteve algum progresso?
 dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|De fato. eu lhe trouxe {reg5} sacos de sementes.
 dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|{reg59?Minha boa senhora:Meu bom senhor}. Você nos salvou da fome e do desespero. Nós não podemos te agradecer o bastante, mas você sempre estará em nossas orações. A aldeia de {s13} não esquecer o que você fez por nós.
 dlga_village_elder_deliver_grain_thank_2:village_elder_talk|{reg59?Minha boa senhora:Meu bom senhor}, por favor, há algo que eu posso fazer por você?
@@ -5000,15 +5000,15 @@ dlga_arena_master_talk:arena_master_melee_pretalk|Sobre as lutas corpo a corpo..
 dlga_arena_master_talk:arena_master_spar_teams|Eu gostaria de treinar com alguns dos meus homens.
 dlga_arena_master_talk:arena_master_ask_tournaments|Haverá em breve algum torneio nas cidades próximas?
 dlga_arena_master_talk:close_window|Preciso ir agora. Adeus.
-dlga_arena_master_spar_teams:arena_master_spar_teams_choose|Certamente. A arena está disponível no momento. Claro, você terá que fornecer seu próprio equipamento, o que significa que não haverá uniformes de equipe. Mas tirando isso, de quantas equipes você gostaria?
-dlga_arena_master_spar_teams_choose:arena_master_spar_team_one|Dois.
+dlga_arena_master_spar_teams:arena_master_spar_teams_choose|Certamente. A arena está disponível no momento. Claro, você terá que fornecer seu próprio equipamento, o que significa que não haverá uniformes de equipe. Mas tirando isso, quantas equipes você gostaria?
+dlga_arena_master_spar_teams_choose:arena_master_spar_team_one|Duas.
 dlga_arena_master_spar_teams_choose:arena_master_spar_team_one.1|Três.
 dlga_arena_master_spar_teams_choose:arena_master_spar_team_one.2|Quatro.
-dlga_arena_master_spar_teams_choose:arena_master_pre_talk|Deixa pra lá. Eu mudei de ideia.
-dlga_arena_master_spar_team_one:arena_master_spar_team_two|A Equipe Um está lotada. A equipe dois é a próxima.
-dlga_arena_master_spar_team_one:arena_master_spar_team_one_choose|Há {reg1?are:is} atualmente {reg0} {reg1?troops:troop} no Team One. Qual tropa você gostaria de adicionar?
-dlga_arena_master_spar_team_one_choose:arena_master_spar_team_one_add|{s11}. ({reg0} restante.)
-dlga_arena_master_spar_team_one_add:arena_master_spar_team_one|{s11} foi adicionado ao Team One.
+dlga_arena_master_spar_teams_choose:arena_master_pre_talk|Deixa pra lá. Mudei de ideia.
+dlga_arena_master_spar_team_one:arena_master_spar_team_two|A Equipe Um está cheia. A Equipe Dois é a próxima.
+dlga_arena_master_spar_team_one:arena_master_spar_team_one_choose|Há atualmente {reg0} {reg1?tropas:tropa} na Equipe Um. Qual tropa você gostaria de adicionar?
+dlga_arena_master_spar_team_one_choose:arena_master_spar_team_one_add|{s11}. ({reg0} restantes.)
+dlga_arena_master_spar_team_one_add:arena_master_spar_team_one|{s11} foi adicionado à Equipe Um.
 dlga_arena_master_spar_team_one_choose:arena_master_spar_team_two|Concluí com o Time Um. Vamos passar para a Equipe Dois.
 dlga_arena_master_spar_team_one_choose:arena_master_pre_talk|Deixa pra lá. Estou cancelando tudo.
 dlga_arena_master_spar_team_two:arena_master_spar_team_three|A Equipe Dois está lotada. A equipe três é a próxima.
@@ -5286,8 +5286,8 @@ dlga_kingsguard_inparty:close_window.1|É bom ter você ao meu lado.
 dlga_start:town_dweller_talk|{Meu senhor/Minha senhora}?
 dlga_start:town_dweller_talk.1|Bom dia, {sor/senhora}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|Estou a procura de um homem chamado {s4}. Disseram-me que ele poderia estar se escondendo aqui.
-dlga_town_dweller_talk:town_dweller_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Disseram que eles podem estar escondidos aqui.
-dlga_town_dweller_ask_fugitive:close_window|Estranhos vem e vão em nossa aldeia, {reg59?madame:senhor}. Se ele estiver se escondendo aqui, você certamente achará se procurar.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.1|Estou procurando um fugitivo chamado {s4}. Foi dito que ele pode estar escondido aqui.
+dlga_town_dweller_ask_fugitive:close_window|Muitos estranhos passam por nossa aldeia, {sor/senhora}. Se ele está escondido aqui, tenho certeza de que poderá encontrá-lo dando uma olhada.
 dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town|{s4}
 dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town.1|Ouvi dizer que a Patrulha da Noite está recrutando outros hoje em dia, quer entrar?
 dlga_town_dweller_talk:varys_agent_actual_response|Sou um comerciante e posso vender alguns sonhos muito felizes!
@@ -5322,17 +5322,17 @@ dlga_town_dweller_poor:town_dweller_poor_not_paid|Então claramente, você deve 
 dlga_town_dweller_poor_not_paid:close_window|Sim, {reg59?senhora:senhor}. Farei aquilo que o senhor me disse.
 dlga_town_dweller_poor_paid:close_window|{reg59?Minha senhora:Meu senhor}, você é tão bom e generoso. Direi a todos como nos familiarizados.
 dlga_town_dweller_ask_situation:close_window|Obrigado pela sua gentileza, {reg59?senhora:senhor}. Com a sua ajuda, nossas vidas serão as melhores. Rezarei por ti todos os dias.
-dlga_town_dweller_ask_situation:town_dweller_talk|Os tempos estão difíceis, {reg59?senhora:senhor}. Trabalhamos duro todos os dias, no entanto dormimos com fome a maioria das noites.
-dlga_town_dweller_ask_situation:town_dweller_talk.1|Tempos difíceis, {reg59?madam:senhor}, porém temos que contar nossas benções.
-dlga_town_dweller_ask_situation:town_dweller_talk.2|Não estamos indo tão mal, {reg59?senhora:senhor}. Devemos contar nossas benções.
-dlga_town_dweller_talk:town_dweller_ask_trade|Qual é seu ofício?
+dlga_town_dweller_ask_situation:town_dweller_talk|Os tempos estão difíceis, {sor/senhora}. Trabalhamos do amanhecer ao anoitecer, e ainda assim vamos dormir com fome quase todas as noites.
+dlga_town_dweller_ask_situation:town_dweller_talk.1|Tempos difíceis, {sor/senhora}, Mas devemos dar graças pelo que temos.
+dlga_town_dweller_ask_situation:town_dweller_talk.2|Não estamos indo tão mal, {sor/senhora}. Devemos dar graças pelo que temos.
+dlga_town_dweller_talk:town_dweller_ask_trade|A que se dedica?
 dlga_town_dweller_ask_trade:town_dweller_talk|{s14}
-dlga_town_dweller_talk:town_dweller_ask_rumor|Qual o último rumor nas redondezas?
-dlga_town_dweller_ask_rumor:town_dweller_talk|Eu não sei nada que seria de seu interesse.
+dlga_town_dweller_talk:town_dweller_ask_rumor|Quais são os rumores por aqui ultimamente?
+dlga_town_dweller_ask_rumor:town_dweller_talk|Não ouvi nada que seria de seu interesse.
 dlga_town_dweller_ask_rumor:town_dweller_talk.1|{s61}
 dlga_town_dweller_ask_rumor:town_dweller_talk.2|Não ouvi nada de interessante ultimamente.
 dlga_town_dweller_talk:close_window|[Sair]
-dlga_start:player_castle_guard_talk|Sim, {reg59?senhora:senhor}?
+dlga_start:player_castle_guard_talk|Sim, {sor/senhora}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|Como vai a vigia, soldado?
 dlga_player_castle_guard_talk:picto2_action|Vou doar 200 veados de prata para as famílias dos meus homens caídos em sua ajuda.
 dlga_picto2_action:close_window|Seus homens vão se sentir melhor agora.
