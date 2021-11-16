@@ -361,7 +361,7 @@ mno_siege_assault_camp|Seu Acampamento de Cerco.
 mno_wait_24_hours|Esperar até amanhã.
 menu_siege_plan|Você se encontra com seus conselheiros para planejar o cerco e tentar conquistar {s4} com o menor número de vítimas possível. Sua estratégia será causar fome e diminuir a moral.^^{s15} {s17} {s18} {s19} {s20}
 mno_build_circunvalation|Defesas: construir postos de controle em torno de {s4}.
-mno_close_circunvalation|Postos de controle finalizados. Agora ordene uma vigilância ativa.
+mno_close_circunvalation|Postos de controle finalizados. Agora ordene uma patrulha ativa.
 mno_town_investigar|Investigar as defesas: tentar entrar sorrateiramente. (Rastreamento)
 mno_traicion_interna|Encontrar um traidor dentro das defesas de {s4}.
 mno_traicion_interna3|Alguma notícia dos homens enviados em busca de um traidor?
@@ -510,7 +510,7 @@ menu_siege_join_defense|{s4}^^Suas baixas: {s8}^^Baixas aliadas: {s9}^^Baixas in
 menu_enter_your_own_castle|{s10}
 menu_village|{s10} {s12}^{s11}^{s6}{s7}^^{s15}
 mno_village_manage|Gerenciar esta aldeia.
-mno_dplmc_village_elder_meeting|Conhecer o Ancião da Aldeia.
+mno_dplmc_village_elder_meeting|Visitar o Ancião da Aldeia.
 mno_dplmc_village_elder_meeting_denied|Você ainda não conheceu o ancião da aldeia.
 mno_recruit_volunteers|Recrutamento voluntário.
 mno_recruit_forzosamente|Recrutamento forçado.
@@ -622,7 +622,7 @@ mno_travel_door|Equipar seu grupo.
 mno_walled_center_manage|Gerenciar {reg0?cidade:castelo}.
 mno_walled_center_move_court|Mover sua corte para cá.
 mno_castle_station_troops|Gerenciar guarnição.
-mno_castle_wait|Esperar um pouco aqui{s1}.
+mno_castle_wait|Esperar um pouco aqui.
 mno_castle_wait_door|Cama.
 mno_town_alley|Outras atividades.
 mno_town_visit_port|Olhar os barcos.
@@ -659,7 +659,7 @@ mno_alchemists_guild|Visitar o Salão da Guilda dos Alquimistas.
 mno_house_of_black_and_white|Visitar a Casa do Preto e Branco.
 mno_town_recruit|Perguntar se alguém deseja se juntar a você.
 mno_entertaiment|Tentar fazer uma apresentação musical ou um discurso.
-mno_dplmc_guild_master_meeting|Conhecer o Mestre da Guilda.
+mno_dplmc_guild_master_meeting|Visitar o Mestre da Guilda.
 mno_dplmc_guild_master_meeting_denied|Você ainda não conheceu o Mestre da Guilda.
 menu_town_tournament_won|Você venceu o torneio de {s3}! Você se sente cheio de orgulho enquanto a multidão grita seu nome. Além da honra, fama e gloria, você recebeu um prêmio de {reg9} veados de prata. {s8}
 menu_town_tournament_won_by_another|Como o único {reg3?lutador:homem} a permanecer sem ser derrotado, {s1} ganha a vitória e glória desse torneio.

@@ -409,11 +409,11 @@ str_thoros_intro|Você busca o Senhor da Luz, R'hllor? Então você me encontrar
 str_dacey_intro|Olá, {sor/minha senhora}. Você parece bem viajado, por acaso ouviu algum boato sobre minha prima, Jorah Mormont?
 str_wunwun_intro|n/a
 str_dongo_intro|n/a
-str_1_intro|Estou procurando um grupo covarde de Dothraki que saquearam, estupraram e assassinaram os inquilinos do feudo de meu pai enquanto estavam sob a bandeira dos Bravos Companheiros. Já cortei seis deles, mas eles mataram meu cavalo, escudeiro, e meu pai, Sor Garibald Gray IV, antes de fugir.
+str_1_intro|Procuro um grupo covarde de Dothraki que saquearam, estupraram e assassinaram os inquilinos do feudo de meu pai enquanto estavam sob a bandeira dos Bravos Companheiros. Seis deles já provaram minha lâmina, mas eles mataram meu cavalo, escudeiro, e meu pai, Sor Garibald Gray IV, antes de fugirem.
 str_2_intro|Peço desculpas, estava apenas sonhando. Há um jovem escudeiro que amo. Eu sonho que um dia ele se tornará um Cavaleiro do Vale com terras e se casará comigo, mas para todos eu sou uma criança bastarda, temo que isso nunca aconteça. Mesmo o primogênito de um rei pode ter nada mais do que um sonho.
 str_3_intro|Eu sou Sor Shadrich do Vale Sombrio e do Rato Louco, seja rápido, devo chegar à Pedra do Dragão.
 str_4_intro|Você tem coragem, mas eu posso consertar isso. Mantenha distância ou vou castrá-lo como os dois últimos sulistas que colocaram as mãos em mim.
-str_5_intro|Eu sou Hagan, o Belo e estou procurando tripulantes para meu navio. <ela olha para você, despindo-o com os olhos> Sim, parece que você ainda tem alguns dos equipamentos de que só este capitão precisa.
+str_5_intro|Me chamo Hagen, a Bela e estou procurando tripulantes para meu navio. *ela olha para você, despindo-{o/a} com os olhos* Eh, parece que você possui um pouco do que esta capitã aqui precisa.
 str_6_intro|Precisa dos meus serviços, {sor/senhora}? Você parece bastante saudável, mas diga-me seus sintomas, tenho certeza de que posso curá-l{o/a}.
 str_son_intro|n/a
 str_daughter_intro|n/a
@@ -446,11 +446,11 @@ str_thoros_intro_response_1|O mesmo Thoros de Myr que escalou as paredes de Pyke
 str_dacey_intro_response_1|Ouvi dizer que ele serve uma garota Targaryen, o que o traz aqui?
 str_wunwun_intro_response_1|n/a.
 str_dongo_intro_response_1|n/a
-str_1_intro_response_1|Desculpe, não vi nenhum.
+str_1_intro_response_1|Desculpe, não vi nenhum Dothraki.
 str_2_intro_response_1|Você é filha de um rei?
 str_3_intro_response_1|Pedra do Dragão, o que está acontecendo aí?
 str_4_intro_response_1|Uau, acalme-se senhora. Voce tem um nome
-str_5_intro_response_1|Desculpe, mas as mulheres não podem pegar em armas nas Ilhas de Ferro?
+str_5_intro_response_1|Perdão, mas as mulheres não podem pegar em armas nas Ilhas de Ferro, não é?
 str_6_intro_response_1|Perdoe-me, só estava tentando me apresentar. Você é uma curandeira?
 str_son_intro_response_1|n/a
 str_daughter_intro_response_1|n/a
@@ -487,7 +487,7 @@ str_1_intro_response_2|Vou deixar você continuar com sua missão.
 str_2_intro_response_2|Obviamente, você ainda está sonhando.
 str_3_intro_response_2|Então não vou atrasar você.
 str_4_intro_response_2|Obviamente, você é apenas mais um selvagem louco.
-str_5_intro_response_2|Uau, acho melhor sair...
+str_5_intro_response_2|Uau, acho melhor ir...
 str_6_intro_response_2|Desculpe, pensei que você fosse a prostituta local.
 str_son_intro_response_2|n/a
 str_daughter_intro_response_2|n/a
@@ -524,7 +524,7 @@ str_1_backstory_a|Temo que os desgraçados tenham fugido. Desculpas, meu nome é
 str_2_backstory_a|Meu pai é Robert Baratheon minha mãe era uma mera plebeu. Enquanto ele e Eddard eram criados por Jon Arryn, Robert teve mais do que momentos de prazer com minha mãe.
 str_3_backstory_a|Há um boato de que Stannis Baratheon pretende marchar em Porto Real. Enquanto outros correm para o choque de armas em torneios para mostrar valor falso, eu prefiro correr para a guerra e a batalha.
 str_4_backstory_a|Eu sou Val do Povo Livre, a cunhada de Mance Rayder, estou procurando uma pessoa que possa nos ajudar contra os Caminhantes Brancos. Você me olha com aquele olhar louco. Esse mesmo olhar que todos os sulistas me dão. Eu posso dizer que você não acredita em mim.
-str_5_backstory_a|Diga isso ao Capitão Greyjoy, ela riria dessa piada pouco antes de colocar seu bebê entre suas costelas.
+str_5_backstory_a|Diga isso à Capitã Greyjoy, ela riria dessa piada pouco antes de colocar seu bebê entre suas costelas.
 str_6_backstory_a|Sou uma Órfã do Sangueverde, a maioria de nós conhece um pouco das antigas artes de cura de Roine, embora eu seja especificamente treinada para ser uma curandeira.
 str_son_backstory_a|n/a
 str_daughter_backstory_a|n/a
@@ -557,11 +557,11 @@ str_thoros_backstory_b|Eu estava em uma missão para capturar Gregor Clegane por
 str_dacey_backstory_b|Embora eu tema que os deuses possam ter algo planejado para mim no futuro.
 str_wunwun_backstory_b|n/a
 str_dongo_backstory_b|n/a
-str_1_backstory_b|Pretendo encontrar a Irmandade sem Banners, para vingar os crimes contra a Casa Grey e a Casa Darry. 
+str_1_backstory_b|Pretendo encontrar a Irmandade sem Bandeiras, para vingar os crimes contra a Casa Gray e a Casa Darry.
 str_2_backstory_b|Alguns até afirmam que minha concepção foi o que deu início à rebelião de Robert.
 str_3_backstory_b|Enquanto o Vale estiver em paz, terei de encontrar um trabalho digno entre outros senhores.
 str_4_backstory_b|Eles são reais e é melhor você acreditar que quando o inverno chegar, todos estaremos em apuros. Essa preciosa parede não salvará nenhum rei ou rainha desta vez.
-str_5_backstory_b|Eu costumava ser o timoneiro do Capitão Greyjoy em seu navio de bandeira 'Black Wind', então ela me disse que é hora de eu fazer meu próprio nome.
+str_5_backstory_b|Eu costumava ser a timoneira da Capitã Greyjoy em seu dracar "Vento Negro", então ela me disse que é hora de eu fazer meu próprio nome.
 str_6_backstory_b|Infelizmente, os tempos estão difíceis e preciso encontrar trabalho para sustentar minha família.
 str_son_backstory_b|n/a
 str_daughter_backstory_b|n/a
@@ -598,7 +598,7 @@ str_1_backstory_c|Suponho que você não tenha visto a Irmandade sem Banners ou 
 str_2_backstory_c|Realmente não faz diferença, eu sonho coisas que nunca acontecerão a menos que eu encontre uma oportunidade de elevar meu status.
 str_3_backstory_c|Talvez você queira viajar comigo?
 str_4_backstory_c|Precisamos espalhar a palavra. Obtenha ajuda e convença o Senhor Comandante a permitir a passagem gratuita para o Povo Livre. Estaremos praticamente mortos ficando onde estamos.
-str_5_backstory_c|Aqui estou, embora, para ser honesto, tenha sido difícil encontrar bons recrutas. Eu poderia usar mais alguns cervos e talvez mais algumas batalhas para realmente fazer um nome para mim.
+str_5_backstory_c|Então, aqui estou, embora, para ser honesta, tenha sido difícil encontrar bons recrutas. Eu poderia conseguir mais alguns veados e talvez realizar mais algumas batalhas para realmente fazer um nome para mim.
 str_6_backstory_c|Talvez você esteja precisando de alguém para ajudar a livrar seus soldados feridos da infecção?
 str_son_backstory_c|n/a
 str_daughter_backstory_c|n/a
@@ -1317,9 +1317,9 @@ str_dirk_rehire_speech|Devem ser os próprios deuses nos trazendo de volta!
 str_npc1_home_intro|Estamos muito perto de Bravos, onde vivi e trabalhei como a primeira espada de Bravos. A cidade está ligada por uma centena de ilhas, é um espetáculo para ser visto. Definitivamente, você deve fazer uma visita lá logo, se possível.
 str_npc2_home_intro|Estamos nos aproximando de Porto Real. A capital de Westeros.
 str_npc3_home_intro|Consegue sentir o cheiro? Não? Oh, umm eu também não.
-str_npc4_home_intro|Porto Real. Nunca pensei que veria de novo. Não depois do meu problema com a vigilância da cidade, de qualquer maneira. Bom lugar para morar se você tiver moedas, mas um inferno se não tiver.
-str_npc5_home_intro|Stoney Sept... Este lugar traz de volta memórias duradouras. Eu já te disse que lutei na Batalha dos Sinos, uma das batalhas mais importantes da Rebelião de Robert? Foi lutado aqui, nesta cidade.
-str_npc6_home_intro|Estamos nos aproximando do Harvest Hall, a sede da Casa Selmy.
+str_npc4_home_intro|Porto Real. Nunca pensei que a veria de novo. Não depois do meu problema com a patrulha da cidade, de qualquer maneira. Bom lugar para morar se você tiver moedas, mas um inferno se não tiver.
+str_npc5_home_intro|Septo de Pedra... Este lugar traz de volta memórias duradouras. Eu já te disse que lutei na Batalha dos Sinos, uma das batalhas mais importantes da Rebelião de Robert? Foi lutado aqui, nesta cidade.
+str_npc6_home_intro|Estamos nos aproximando do Solar de Colheitas, a sede da Casa Selmy.
 str_npc7_home_intro|Você conhece a história deste enorme castelo, Harrenhal? Harren, o Negro, Rei das Ilhas de Ferro e das Terras Fluviais, construiu Harrenhal como um monumento a si mesmo, pretendendo que fosse o maior de todos os castelos de Westeros e que superasse qualquer outro.
 str_npc8_home_intro|Você se pergunta por que eles me chamam de Brienne de Tarth?
 str_npc9_home_intro|Maidenpool, bom lugar para descansar depois de uma longa caminhada na estrada. É a sede da Casa Mooton, com aquele William Mooton gordinho e aquele peixe vermelho nas tetas dos soldados. O Ganso Fedorento é onde você quer ir para comprar um quarto e conseguir um pouco de comida e outros prazeres.
@@ -1361,7 +1361,7 @@ str_npc7_home_description|A construção do seu sonho demorou cerca de quarenta 
 str_npc8_home_description|A ilha de Tarth e há Evanfall Hall.
 str_npc9_home_description|A cidade também tem um porto, com navios indo e vindo, mesmo durante a guerra. A Baía dos Caranguejos fica nas proximidades. Este lugar é meio que minha casa longe de casa, perto de Crackclaw Point, entende? Gosto daqui, embora não consiga realmente explicar a natureza do meu afeto.
 str_npc10_home_description|Uma bela cidade. Também uma das portas mais importantes. Navios comerciais de Westeros, Ilhas de Verão, Cidades Livres e outros lugares vêm aqui. Sempre uma multidão nos portos.
-str_npc11_home_description|Mas prefiro falar das grandes obras que acontecem aqui. Todas as estradas levam a Lannisport, e essas estradas são pavimentadas com ouro! As Terras Ocidentais têm uma grande abundância de minas de ouro, e Rochedo Casterly fica sobre o maior filão. A cidade não é tão grande quanto o desembarque de King, mas tem muito menos favelas e muito mais negócios. A vigilância da cidade não é tão corrupta quanto as capas douradas de Porto Real e são muito mais confiáveis ​​também.
+str_npc11_home_description|Mas prefiro falar das grandes obras que acontecem aqui. Todas as estradas levam a Lannisport, e essas estradas são pavimentadas com ouro! As Terras Ocidentais têm uma grande abundância de minas de ouro, e Rochedo Casterly fica sobre o maior filão. A cidade não é tão grande quanto o desembarque de King, mas tem muito menos favelas e muito mais negócios. A patrulha da cidade não é tão corrupta quanto os mantos dourados de Porto Real e são muito mais confiáveis ​​também.
 str_npc12_home_description|Eu era um escudeiro naquela época, pegando espadas e cuidando dos cavalos. O Rei Aerys tinha ido para Valdocaso para resolver a questão de a cidade não pagar impostos, mas os Darklyns que governavam lá o levaram como prisioneiro. Um grande anfitrião foi trazido aos portões pela Mão, Tywin Lannister. Mas todos aqueles homens eram em vão, os Darklyns abririam a garganta do rei no momento em que atacassem.
 str_npc13_home_description|Nós invadimos e saqueamos suas aldeias, roubamos gado e mulheres, capturamos um bom resgate de nobreza. Não aceitaremos nenhuma regra sobre nós. Somos pessoas livres e viveremos e morreremos livres. E ninguém se atreve a nos atacar em NOSSAS montanhas, porque eles sabem que vamos matá-los todos até o fim!
 str_npc14_home_description|Ele acabou sendo derrotado e desmascarado pelo Príncipe Duncan Targaryen. Por isso, Sor Barristan ganhou o apelido de 'Ousado'. Difícil de acreditar, mas é verdade.
@@ -3539,7 +3539,7 @@ str_quick_battle_troop_3|Segundo filho de um nobre menor que vivia perto de Uxkh
 str_quick_battle_troop_4|Konrad é um mercenário profissional da distante terra de Balion, muito além do vasto oceano ocidental. Tendo passado a maior parte de seus anos em campanha e visto inúmeras batalhas, Konrad passou a amar sua vida como um soldado da fortuna. Embora ele uma vez tenha seu nariz achatado por um golpe de maça e tenha recebido muitos ferimentos, ele sobreviveu a esta existência dura por meio da força de seu braço, astúcia inata e pura sorte. Ouvindo sobre as lucrativas oportunidades de carreira que aguardavam um homem com seus talentos em Westeros e Essos, Cedric alugou um navio e cruzou o mar com seus homens em busca de novas guerras para lutar. Um mercenário sem vínculos com nenhum dos estados de Westerosi, ele fica mais do que feliz em oferecer seus serviços a qualquer senhor com uma carteira de moedas bem gorda.
 str_quick_battle_troop_5|Sverre é um dos chamados invasores do mar - freebooters e homens sem lei do reino gelado de Jumne além do Mar do Norte, também conhecido como o lar ancestral dos Nórdicos. Já quando jovem, ele participou de muitos ataques contra seus primos distantes na região de Wercheg e os Vaegirs. No entanto, Sverre sempre foi um rapaz astuto e não demorou muito para perceber que Westeros era uma terra muito mais próspera do que a sua, e que ele poderia ter uma vida melhor aqui do que entre seu próprio povo. Durante um ataque a Jayek, Sverre fugiu enquanto seus camaradas estavam ocupados saqueando a vila e fazendo prisioneiros. Fazendo-se passar por um caipira das montanhas Chalbek, Sverre rapidamente construiu uma reputação de lutador feroz e agora busca sua fortuna à frente de um bando de mercenários.
 str_quick_battle_troop_6|Vindo de Charnye, nos confins da tundra Vaegir, Borislav é um caçador. Por toda a sua vida ele rastreou os animais selvagens por sua carne e pele, vivendo da terra assim como seus antepassados ​​tinham feito em dias mais felizes, antes das guerras sem fim. Agora, o jogo é rápido para se assustar com os sons constantes da batalha, e a matança desenfreada de animais pelos soldados deixou vazias aquelas florestas que não foram queimadas. Enfrentando a fome, Borislav escolheu transformar sua grande habilidade com arco e lança, aprendida na caça de cervos, lobos e ursos, para a prática de caçar homens, e sua mão firme e olho afiado ceifaram muitas vidas. Borislav não se preocupa muito com as disputas de reinos, e só está realmente interessado em manter a si mesmo e seus homens alimentados.
-str_quick_battle_troop_7|Stavros nasceu na cidade-estado independente de Zendar e passou grande parte de sua vida adulta servindo na vigilância da cidade sob o famoso policial Hareck. A liderança e destreza de Stavros foram fundamentais para livrar a área dos temidos piratas do rio, mas mesmo ele foi impotente contra a calamidade que se abateu sobre a cidade. Quando Zendar foi arrasado por uma grande horda de invasores do mar, Stavros fugiu da cidade em chamas em uma multidão de refugiados. Após um breve período de vagas e trabalhos estranhos, ele encontrou um lugar em uma empresa mercenária, eventualmente ascendendo para se tornar seu líder devido à sua dedicação e aptidão tática. Ele agora dedica a maior parte de seus esforços a trabalhar com caçadores de homens e autoridades locais contra os invasores do mar e outros bandidos, tentando manter a terra segura para os viajantes.
+str_quick_battle_troop_7|Stavros nasceu na cidade-estado independente de Zendar e passou grande parte de sua vida adulta servindo na patrulha da cidade sob o famoso policial Hareck. A liderança e destreza de Stavros foram fundamentais para livrar a área dos temidos piratas do rio, mas mesmo ele foi impotente contra a calamidade que se abateu sobre a cidade. Quando Zendar foi arrasado por uma grande horda de invasores do mar, Stavros fugiu da cidade em chamas em uma multidão de refugiados. Após um breve período de vagas e trabalhos estranhos, ele encontrou um lugar em uma empresa mercenária, eventualmente ascendendo para se tornar seu líder devido à sua dedicação e aptidão tática. Ele agora dedica a maior parte de seus esforços a trabalhar com caçadores de homens e autoridades locais contra os invasores do mar e outros bandidos, tentando manter a terra segura para os viajantes.
 str_quick_battle_troop_8|Crescendo com uma das tribos nômades nas profundezas do deserto além das terras de Sarranid, Gamara aprendeu cedo como caçar com funda e lança. No entanto, a vida simples e as condições impiedosas no deserto não a satisfaziam, e ela ardia de desejo de ver o grande mundo além do qual ouvira tantas histórias maravilhosas. A vida não é fácil para uma jovem aventureira, e Gamara teve que aprender rapidamente os costumes de Westeros. Pegando as armas e armaduras de um soldado que a atacou após uma disputa, Gamara agora esconde sua beleza sob o traje Sarranid grosso, e muitos nem mesmo suspeitam que ela seja uma mulher - certamente como uma força no campo de batalha ela é tão perigosa quanto qualquer outra homem. Ela reuniu à sua volta um grupo de seguidores e, juntos, eles vagam pela terra devastada pela guerra em busca da glória.
 str_quick_battle_troop_9|Aethrod não é uma pessoa nobre. Ele mudou de nome duas vezes e é culpado pela maioria dos crimes no território Vaegir. Verdade ou não, ele afirma nunca ter tirado a vida de um inocente, e se considera um cidadão patriota, trazendo várias vezes seu bando ou renegados em auxílio de sua facção, quando esta é ameaçada. Em tempos de paz, no entanto, a maioria dos senhores deve ter cuidado quando está nas proximidades devido à sua personalidade ousada e disposição para desafiar um lorde. Nascido e irritado nas favelas de Reyvadin, ele aprendeu a usar um arco desde cedo e fugiu de casa aos quatorze anos. Agora, aos trinta e dois anos, suas habilidades de arco e flecha são quase perfeitas e, embora ele não consiga cavalgar bem, ele consegue acertar um na mais distante das distâncias. Duro como unhas e afiado como um falcão, ele é uma verdadeira lenda local.
 str_quick_battle_troop_10|Ser filha de um dos líderes de bandidos mais famosos do reino Sarranid nem sempre é fácil, mas Zaira parece ter se saído muito bem. Ao contrário da maioria das mulheres, ela cresceu aprendendo os caminhos do guerreiro do deserto e é mortal tanto com a espada quanto com o arco. Enquanto as outras meninas de sua idade aprendiam a cuidar da casa, Zaira aprendeu como estripar melhor um comerciante antes de pegar seu dinheiro. Aos dezesseis anos, Zaira matou mais homens do que a média dos veteranos do exército do sultão. Pouco antes de seu vigésimo aniversário, seu pai foi morto em uma briga com outro líder bandido. Como filha única, Zaira agora assumia o controle da banda de seu pai. Depois de vingar seu pai, ela rapidamente continuou de onde ele havia deixado. Agora ela está em uma boa maneira de estabelecer sua própria reputação como um líder bandido.
@@ -4424,17 +4424,17 @@ str_disable_complex_formations|Desativar formações complexas:
 str_have_formations_face_enemy|Auto gire o exército para enfrentar o inimigo:
 str_players_enemies_only_attack|Os inimigos do jogador só atacam:
 str_music_in_battles|Substitua a música nas batalhas:
-str_charge_animation|Ativar animação de carga na batalha:
+str_charge_animation|Ativar animação de ataque na batalha:
 str_shot_distance|Exibir a distância percorrida do projétil:
 str_damage_to_player|Danos ao jogador:
 str_damage_to_lords|Dano do herói:
 str_damage_dealt_from_lords|Dano causado ao herói:
 str_damage_to_friends|Danos a amigos:
-str_combat_ai|AI de combate:
-str_campaign_ai|Campanha AI:
-str_movement_and_combat_speed|Velocidade tática:
+str_combat_ai|IA de combate:
+str_campaign_ai|IA da Campanha:
+str_movement_and_combat_speed|Velocidade Tática:
 str_battle_size|Tamanho da batalha:
-str_difficulty_setting|Configuração de dificuldade
+str_difficulty_setting|Configuração de Dificuldade
 str_realism_feature|Recurso de realismo
 str_special_setting|Configuração especial
 str_formation_feature|Configuração de formação
@@ -4667,7 +4667,7 @@ str_quantity_bandit_parties|Bandidos:
 str_whitewalkers_invade_text|Invasão do caminhante branco:
 str_game_difficulty_warning|Aviso de dificuldade do jogo
 str_game_difficulty_warning_desc|No nível de IA da campanha atual, {s1} dos bandidos serão mais fortes do que os do jogador após o início. Eles terão até {reg1} tropas.^^Redefina esse nível no menu de opções ESC, se desejar. Os desertores não serão afetados e os bandidos marítimos sempre partem com um mínimo de um navio (30 homens).
-str_player_division|Divisão de jogadores:
+str_player_division|Divisão do jogador:
 str_poll_cooldown|Atraso entre enquetes (segundos)
 str_polls_disabled_for_reg1|As pesquisas são desabilitadas por {reg1} segundos.
 str_poll_cooldown_is_now_reg1|O atraso entre as pesquisas agora está definido para {reg1} segundos.

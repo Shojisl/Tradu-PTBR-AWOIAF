@@ -250,7 +250,7 @@ dlga_start:nw_r_01|Ah, que bom ver você, irmão.
 dlga_start:nw_r_04|Saudações, viajante. O que posso fazer para você?
 dlga_nw_r_01:nw_r_02|Como vai o recrutamento?
 dlga_nw_r_01:nw_r_03|Precisa de ajuda?
-dlga_nw_r_02:close_window|Bah! Apenas canalhas e sacos de lixo, como de costume. Estes são tempos sombrios para a Vigilância, irmão.
+dlga_nw_r_02:close_window|Bah! Apenas canalhas e sacos de lixo, como de costume. Estes são tempos sombrios para a Patrulha, irmão.
 dlga_nw_r_03:close_window|Nah, eu posso cuidar disso. Você deveria estar cuidando de seus próprios deveres, não deveria?
 dlga_nw_r_04:nw_r_05|Desejo entrar na Patrulha da Noite.
 dlga_nw_r_04:nw_r_06|Você pode desistir de seu aço ou morrer uma morte lenta!
@@ -772,9 +772,9 @@ dlga_petyr1:petyr2|Mindinho para a maioria, um apelido divertido, não acha?
 dlga_petyr2:petyr3|Possivelmente.
 dlga_petyr2:petyr4|Pahaha! Dedo mindinho?! Aposto que não é a única coisa pequena sobre você!
 dlga_petyr3:close_window|Foi-me dado por um rapaz Tully, bastante criativo na sua época. Ele escolheu para mim pelo meu tamanho, isso e pelo fato de ter crescido na menor península do Vale. O nome era cruel o suficiente para ficar, mas comecei a gostar muito dele.
-dlga_petyr4:close_window|Zombe de mim o quanto quiser, querido {menino/menina}. Mas lembre-se disto:eu sempre consigo o que quero, então tome cuidado.
-dlga_event_triggered:wildling_farm|Você acha que pode fazer a diferença ?! Você não pode! O inverno está chegando... e essas coisas com ele... fique deste lado da parede, a menos que queira ser levado pelo frio!
-dlga_wildling_farm:wildling_farm2|Você observa enquanto o selvagem dá suas últimas respirações...
+dlga_petyr4:close_window|Zombe de mim o quanto quiser, querid{o/a} {menino/menina}. Mas lembre-se disto: eu sempre consigo o que quero, então tome cuidado.
+dlga_event_triggered:wildling_farm|Acha que pode fazer a diferença?! Você não pode! O inverno está chegando... e as coisas que vêm com ele... fique deste lado da muralha, a menos que queira ser levado pelo frio!
+dlga_wildling_farm:wildling_farm2|*Você observa enquanto o selvagem dá seus últimos suspiros......*
 dlga_wildling_farm2:close_window|Você deve levar esta notícia ao Rei Robb imediatamente. Ele pode ter uso dele.
 dlga_event_triggered:war_for_dawn_intro_rhllor|Fui enviado pelo Sumo Sacerdote Benerro para espalhar que a Guerra do Amanhecer está sobre nós e buscar sua ajuda. Hordas de mortos-vivos foram vistos nas chamas vindas do norte.
 dlga_war_for_dawn_intro_rhllor:war_for_dawn_intro_rhllor_reply|Se não agirmos rapidamente, a luz do homem certamente se extinguirá. Devemos nos unir como irmãos de fé e nos unir contra o maldito Grande Outro e sua praga de mortos-vivos. Como um irmão na fé, você ajudará a liderar os exércitos dos homens e permanecer conosco contra o flagelo dos mortos-vivos?
@@ -2844,7 +2844,7 @@ dlga_lord_starting_quest2_succeed:lord_starting_quest2_succeed2|Excelentes notí
 dlga_lord_starting_quest2_succeed2:lord_starting_quest2_succeed3|Há uma outra coisa, Sua Graça. Falei com um invasor selvagem antes de morrer. Ele estava... apavorado, como se estivesse fugindo de alguma coisa. Ele me implorou para queimar seu corpo depois que ele morresse.
 dlga_lord_starting_quest2_succeed3:lord_starting_quest2_succeed4|Esses selvagens são um povo supersticioso. Algo mais foi mencionado?
 dlga_lord_starting_quest2_succeed4:lord_starting_quest2_succeed5|Só que o inverno está chegando, e junto com ele a morte. Ele também murmurou algo sobre os Caminhantes Brancos.
-dlga_lord_starting_quest2_succeed5:lord_starting_quest2_succeed6|Parecem mais histórias de Old Nans. Vá para Castle Black, encontre o Lord Commander e veja se ele pode lançar alguma luz sobre a situação. Oh, e dê a ele este pergaminho.
+dlga_lord_starting_quest2_succeed5:lord_starting_quest2_succeed6|Isso soa mais como as histórias da Velha Ama. Vá para Castelo Negro, encontre o Lorde Comandante e veja se ele pode lançar alguma luz sobre a situação. Oh, e dê a ele este pergaminho.
 dlga_lord_starting_quest2_succeed6:lord_talk|Sim, Vossa Graça, partirei assim que estiver pronto.
 dlga_lord_talk:lord_starting_quest2_fail|Vossa Graça, eram muitos. Os fazendeiros, crianças, mulheres... estão todos mortos. Receio ter falhado com você.
 dlga_lord_starting_quest2_fail:lord_starting_quest2_fail2|Então fui muito rápido em presumir que você era um líder capaz. Não preciso mais de você e de suas falhas, {playername}.
@@ -2865,12 +2865,12 @@ dlga_lord_talk:lord_10_bridge_of_skulls_s|Meu Senhor, Repelimos o ataque à pont
 dlga_lord_10_bridge_of_skulls_s:lord_10_bridge_of_skulls_s1|Muito bom {playername}. Agora você deve descansar um pouco, deve estar exausto. Assim que estiver pronto, você deve retornar ao Rei do Norte e dizer a ele que preciso de mais homens. Temo que a Muralha não agüente muito mais.
 dlga_lord_10_bridge_of_skulls_s1:close_window|Claro, meu Senhor. Vou sair imediatamente.
 dlga_lord_talk:lord_10_starting_quest|Meu Senhor, fui enviado a pedido do Rei Robb Stark. Ele me pediu para entregar esta mensagem.
-dlga_lord_10_starting_quest:lord_10_starting_quest1|Hmm .. deixe-me ver. Bem, {menino/menina}, parece que você deve ajudar os homens da Patrulha da Noite.
-dlga_lord_10_starting_quest1:lord_10_starting_quest2|O quê ?! Não pode. Ele não... iria?
-dlga_lord_10_starting_quest2:lord_10_starting_quest3|Heheh não se preocupe {menino/menina}, você apenas retornará uma mensagem para o Rei do Norte. Diga a ele que temos capturado selvagens, mais a cada mês. Eles estão fugindo para o sul. Os que pegamos... dizem que viram os Caminhantes Brancos.
-dlga_lord_10_starting_quest3:lord_10_starting_quest4|A Patrulha da Noite é a única coisa que fica entre o reino e o que está além. E se tornou um exército de meninos indisciplinados e velhos cansados. Somos menos de mil agora. Não podemos equipar os outros castelos da Muralha. Não podemos patrulhar adequadamente o deserto. Mal temos recursos suficientes para manter nossos rapazes armados e alimentados.
+dlga_lord_10_starting_quest:lord_10_starting_quest1|Hmm... deixe-me ver. Bem, {garoto/garota}, parece que você deve ajudar os homens da Patrulha da Noite.
+dlga_lord_10_starting_quest1:lord_10_starting_quest2|O quê?! Não pode ser. Ele não... iria?
+dlga_lord_10_starting_quest2:lord_10_starting_quest3|Heheh não se preocupe {garoto/garota}, você apenas retornará uma mensagem para o Rei do Norte. Diga a ele que temos capturado selvagens, mais a cada mês. Eles estão fugindo para o sul. Os que pegamos... dizem que viram os Caminhantes Brancos.
+dlga_lord_10_starting_quest3:lord_10_starting_quest4|A Patrulha da Noite é a única coisa que fica entre o reino e o que está para lá. E se tornou um exército de rapazes indisciplinados e velhos cansados. Somos menos de mil agora. Não podemos guarnecer os outros castelos da Muralha. Não podemos patrulhar adequadamente as terras selvagens. Mal temos recursos suficientes para manter nossos rapazes armados e alimentados.
 dlga_lord_10_starting_quest4:lord_10_starting_quest5|Você deve insistir que o Rei Robb Stark envie mais homens imediatamente. Quando o inverno chegar, os deuses nos ajudarão se não estivermos prontos.
-dlga_lord_10_starting_quest5:lord_10_starting_quest6|Há outra coisa que você poderia nos ajudar com {playername}. Nossos batedores relataram um grupo de invasores selvagens indo em direção à Ponte dos Crânios. Você deve entrar em contato com nosso anfitrião e garantir que eles não passem por essa ponte. Para chegar lá, você deve seguir a parede oeste até chegar à beira da água. Boa sorte, {playername}.
+dlga_lord_10_starting_quest5:lord_10_starting_quest6|Há outra coisa em que você pode nos ajudar, {playername}. Nossos batedores relataram um grupo de invasores selvagens indo em direção à Ponte das Caveiras. Você deve entrar em contato com nosso anfitrião e garantir que eles não passem por essa ponte. Para chegar lá, você deve seguir a muralha para oeste até chegar à costa. Boa sorte, {playername}.
 dlga_lord_10_starting_quest6:close_window|Muito bem, irei embora imediatamente.
 dlga_lord_talk:lord_10_lands_of_always_winter_s|Meu Senhor, temos notícias terríveis. Essas criaturas... os rumores de que você falou, são tudo verdade.
 dlga_lord_10_lands_of_always_winter_s:lord_10_lands_of_always_winter_s1|Se eles forem realmente verdadeiros, então mais certamente virão. Devemos preparar {playername}! Depende de você como proceder daqui em diante, mas imploro que reúna o reino e traga um exército contra a parede assim que puder. Será apenas uma questão de tempo até que essas criaturas apareçam novamente.
@@ -2896,8 +2896,8 @@ dlga_combined_political_quests:lord_pretalk.2|Hmm .. Tenho uma ideia, mas isso r
 dlga_lord_talk:lord_ask_resign_marshalship|Desejo renunciar ao cargo de marechal.
 dlga_lord_ask_resign_marshalship:lord_pretalk|Tudo bem. Sendo assim, terei de encontrar outra pessoa.
 dlga_lord_request_enlistment:nw_join_01|Então, você deseja se juntar ao Watch eh.
-dlga_nw_join_01:nw_join_03|Participar da Vigilância não é brincadeira, garoto. Você está absolutamente falando sério que deseja nos ajudar em nossos deveres?
-dlga_nw_join_01:nw_join_02|Lamento dizer, mas só aceitamos homens aqui na Vigilância. Você não pode se juntar a nós.
+dlga_nw_join_01:nw_join_03|Participar da Patrulha não é brincadeira, garoto. Você está absolutamente falando sério que deseja nos ajudar em nossos deveres?
+dlga_nw_join_01:nw_join_02|Lamento dizer, mas só aceitamos homens aqui na Patrulha. Você não pode se juntar a nós.
 dlga_nw_join_02:lord_pretalk|Droga, então irei ajudá-lo de outras maneiras.
 dlga_nw_join_03:nw_join_04|Estou falando sério.
 dlga_nw_join_03:lord_pretalk|Não, me perdoe, não sei o que estava pensando.
@@ -2911,7 +2911,7 @@ dlga_nw_join_06:nw_join_11|Sim, muito parecido com a maioria dos que se juntam a
 dlga_nw_join_07:nw_join_11|Podemos usar toda a ajuda que pudermos obter. Junte-se a nós e faça o juramento, e quando sua vigília começar, será como um verdadeiro irmão da Patrulha da Noite.
 dlga_nw_join_08:nw_join_11|Bem, é uma coisa boa de se ouvir. A Patrulha da Noite está sempre precisando de almas capazes. Diga-me, o que você gosta? O arco ou a lâmina?
 dlga_nw_join_09:nw_join_11|Sim, agora que pensei sobre isso. Causou uma grande comoção em pouco tempo, então você causou. Se você deseja se tornar um irmão da Patrulha da Noite, melhor ainda. Perdemos alguns dos nossos melhores em uma escaramuça outro dia, então você pode levar o equipamento deles. O relógio não desperdiça nada.
-dlga_nw_join_10:nw_join_11|Bom, é sempre maravilhoso ver um poderoso senhor juntar-se à Vigilância. Vamos recebê-lo em nossas fileiras como nada menos que um oficial sênior - os deuses antigos e novos sabem que precisamos de tudo o que pudermos.
+dlga_nw_join_10:nw_join_11|Bom, é sempre maravilhoso ver um poderoso senhor juntar-se à Patrulha. Vamos recebê-lo em nossas fileiras como nada menos que um oficial sênior, os deuses antigos e novos sabem que precisamos de tudo o que pudermos.
 dlga_nw_join_11:close_window|Obrigado, meu senhor.
 dlga_lord_talk:ff_join_q_01|Destruí a patrulha da Patrulha da Noite e trago sua armadura como prova.
 dlga_ff_join_q_01:ff_join_q_02|De fato. Estou impressionado, {playername}. Você pode ficar com a armadura; Não tenho uso para isso. Melhor ir e queimá-lo em algum lugar.
@@ -3398,7 +3398,7 @@ dlga_lord_mission_told:lord_mission_rejected|Temo dizer que eu não posso aceita
 dlga_lord_mission_accepted:close_window|Excelente, {playername}, excelente. Eu tenho toda a confiança em você.
 dlga_lord_mission_rejected:close_window|Então é assim? Bom, suponho que você apenas não está preparado para uma tarefa. Eu devo procurar por alguém com mais fibra.
 dlga_lord_talk:lord_request_enlistment|Meu Senhor, gostaria de me alistar em seu exército.
-dlga_lord_talk:lord_request_enlistment.1|Meu Senhor, desejo me juntar à Vigilância.
+dlga_lord_talk:lord_request_enlistment.1|Meu Senhor, desejo me juntar à Patrulha.
 dlga_lord_talk:lord_request_retire|Meu Senhor, gostaria de me aposentar do serviço.
 dlga_lord_talk:lord_request_vacation|Meu Senhor, gostaria de solicitar uma licença pessoal
 dlga_lord_talk:ask_return_from_leave|Meu Senhor, estou pronto para retornar ao seu comando.
@@ -3407,7 +3407,7 @@ dlga_lord_talk:prisoner_chat_let_go|Você está livre para ir.
 dlga_prisoner_chat_let_go:close_window|{s43}
 dlga_lord_talk:lord_leave|Essa audiência acabou. Eu sairei agora.
 dlga_lord_talk:lord_wall_prisoners|Tenho alguns prisioneiros que você pode querer?
-dlga_lord_wall_prisoners:lord_talk|Claro, precisamos de toda a ajuda possível para manter as paredes.
+dlga_lord_wall_prisoners:lord_talk|Claro, precisamos de toda a ajuda possível para manter a muralha.
 dlga_lord_talk:lord_leave.1|Devo pedir licença.
 dlga_lord_leave:lord_leave_give_quest|Depois de você ir, {playername}, Tenho algo a lhe pedir... Podemos ser inimigos nesta guerra, mas eu oro para que você acredite, como eu, que ainda podemos ser civilizados um com o outro. Assim, eu esperava que você fosse gentil o suficiente para me ajudar em algo importante para mim.
 dlga_lord_leave_give_quest:enemy_lord_tell_mission|Estou ouvindo.
@@ -3416,7 +3416,7 @@ dlga_lord_leave_prison:close_window|Nós nos encontraremos de novo.
 dlga_lord_leave:close_window|Adeus, minha senhora. Serei seu mais ardente admirador.
 dlga_lord_leave:close_window.1|Claro, {playername}. Adeus,
 dlga_lord_leave:close_window.2|Boa jornada, {playername}.
-dlga_lord_leave:close_window.3|Sim sim. Adeus.
+dlga_lord_leave:close_window.3|Sim, sim. Adeus.
 dlga_lord_leave:close_window.4|Nós nos encontraremos novamente.
 dlga_member_chat:lady_journey_1|Você está gostando da viagem, {s65}?
 dlga_lady_journey_1:close_window|Estou indo muito bem, {playername}. TObrigado pela preocupação.
@@ -4056,9 +4056,9 @@ dlga_deserter_paid_talk:deserter_paid_talk_2a|Desculpe pelo incômodo. Vou segui
 dlga_deserter_paid_talk_2a:close_window|Huh. Pare de brincar por ai e vá fazer algum dinheiro. Eu quero ver esse bolso cheio na próxima vez que eu ver você.
 dlga_deserter_paid_talk:deserter_paid_talk_2b|Não. É sua vez de me pagar agora.
 dlga_deserter_paid_talk_2b:close_window|Que diabos você está falando? Você quer problemas? Então os terá!
-dlga_start:deserter_talk|Nós somos livres e lutaremos apenas por nós mesmos de agora em diante. Agora nôs dê seu ouro ou saboreie nosso aço.
-dlga_deserter_talk:close_window|Quando eu terminar com você, se arrependerá de ter terminado seu lorde.
-dlga_deserter_talk:deserter_barter|Não é necessário lutar. Estou pronto para pagar pela passagem.
+dlga_start:deserter_talk|Somos guerreiros livres. A partir de agora só lutaremos por nós mesmos. Agora dê-nos sua prata ou provará do nosso aço!
+dlga_deserter_talk:close_window|Quando acabar com você, lamentará ter abandonado seu senhor.
+dlga_deserter_talk:deserter_barter|Não há por que lutar. Posso pagar pelo direito de passagem.
 dlga_deserter_talk:deserter_recruit|Eu darei a você muito dinheiro e boa proteção se você se juntar ao meu grupo.
 dlga_deserter_recruit:deserter_recruit_2|De qualquer forma, você deve nos pagar {reg5} veados de prata, então nos juntaremos a você.
 dlga_deserter_recruit_3a:close_window|OK, estamos à sua disposição a partir de agora.
@@ -4136,13 +4136,13 @@ dlga_tavernkeeper_job_ask:tavernkeeper_job_search|Hmm... Bem, {s10} está freque
 dlga_tavernkeeper_talk:tavernkeeper_herrero|Onde eu posso conseguir armas e armaduras especiais?
 dlga_tavernkeeper_herrero:tavernkeeper_herrero2|Hmm... Bem, tem talentosos ferreiros que podem fazê-las. Mas, se você quer saber seus nomes, você deve me pagar 50 veados de prata pela informação.
 dlga_tavernkeeper_herrero2:tavernkeeper_herrero3|Certo. Fale!
-dlga_tavernkeeper_herrero2:close_window|Você é um rato. Adeus!
-dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|Bem, várias cidades se orgulham de seus ferreiros:Eadwine de Dunwic, ^ Donnchadh de Scuin, ^ Paega de Witan Ceaster, ^ Lifris de Bosvenegh, ^ Fearchair de Ceall Cainnbilberg, Atli de Tannbili ^ de Dunwic , ^ Egil de Dubh Linn, ^ Godgyfu Cirren Ceaster, ^ e Uormuin de Caer Dyf.
+dlga_tavernkeeper_herrero2:close_window|Acho que vou arriscar sem a sua ganância, obrigado. Até a próxima!
+dlga_tavernkeeper_herrero3:tavernkeeper_herrero4|Você deve viajar para Qohor em Essos, fale com o ferreiro de lá. Ele pode ajudá-l{o/a}.
 dlga_tavernkeeper_herrero4:close_window|Obrigado, adeus!
 dlga_tavernkeeper_job_search:tavernkeeper_job_result|Deixe eu pensar...
-dlga_tavernkeeper_job_result:tavernkeeper_job_search|Eu ouvi isso {s7} {s9} {s10} Você talvez queira falar com {reg4? her:him}.
-dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|Talvez haja outros trabalhos, claro - lordes e anciões frequentemente tem outras tarefas da qual nós não ouvimos sobre. Também, as aldeias em volta daqui frequentemente precisam de ajuda, apesar de que eles te pagam mais com fatias de queijo e amizade do que com dinheiro vivo.
-dlga_tavernkeeper_job_result_2:close_window|Eu manterei meus ouvidos abertos para outras oportunidades. Você pode perguntar de novo de vez em quando.
+dlga_tavernkeeper_job_result:tavernkeeper_job_search|Escutei algo sobre o {s7}... que {s9}{s10} Você deveria falar com {reg4?ela:ele}.
+dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|Pode haver outros trabalhos, é claro. Lordes e mestres da guilda muitas vezes têm outras tarefas das quais não se ouve falar. Além disso, os povoados por aqui frequentemente requerem todo tipo de ajuda, ainda que seguramente é mais provável que eles paguem você com um pedaço de queijo e boa vontade do que o frio e duro veado de prata.
+dlga_tavernkeeper_job_result_2:close_window|Manterei meus ouvidos atentos para o caso de surgirem novas oportunidades. Você deveria voltar a perguntar por aqui de vez em quando.
 dlga_tavernkeeper_talk:close_window|Preciso ir agora.
 dlga_start:wandering_crows_intro|Olá, {sor/senhora}. As tropas na parede estão se esgotando. Estou aqui para tentar recrutar mais. Vou levar todos os prisioneiros que você tiver.
 dlga_wandering_crows_intro:wandering_crows_intro_2|..E o que está nele para mim?
@@ -4420,20 +4420,20 @@ dlga_start:mercenary_tavern_talk|Você precisa de mercenários, {sor/senhora}? {
 dlga_start:mercenary_after_recruited|Quaisquer ordens, {reg59?madam:senhor}?
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|Faça seus preparativos. Nós iremos ao amanhecer.
 dlga_mercenary_after_recruited:mercenary_after_recruited_2.1|Não tenha pressa. Nós ficaremos nesta cidade por um tempo.
-dlga_mercenary_after_recruited_2:close_window|Sim {reg59?senhora:senhor}. Estaremos prontos quando você nos disser para sair.
-dlga_mercenary_tavern_talk:mercenary_tavern_talk_hire|Tudo bem, vou contratá-lo. Aqui estão {reg5} veados de prata.
+dlga_mercenary_after_recruited_2:close_window|Sim, {sor/senhora}. Estaremos prontos quando você nos disser para sair.
+dlga_mercenary_tavern_talk:mercenary_tavern_talk_hire|Muito bem. Contratarei todos vocês. Aqui estão os {reg5} veados de prata.
 dlga_mercenary_tavern_talk:mercenary_tavern_talk_hire.1|Tudo bem, mas só posso contratar {reg6} de vocês. Aqui estão {reg5} veados de prata.
 dlga_mercenary_tavern_talk_hire:close_window|{s17}
 dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead|Isso parece bom, mas não posso contratar mais homens no momento.
-dlga_tavern_mercenary_cant_lead:close_window|É uma pena. Bem, {reg3?We will:I will} Estarei aqui por um tempo, se você precisar contratar alguém.
+dlga_tavern_mercenary_cant_lead:close_window|Que pena. Bem, {reg3?estaremos:estarei} por aqui durante um tempo, caso precise contratar alguém.
 dlga_mercenary_tavern_talk:tavern_mercenary_cant_lead.1|Isso parece bom, mas não posso liderar mais homens agora.
-dlga_mercenary_tavern_talk:spy_presentacion|Spy? O que você pode me oferecer?
-dlga_spy_presentacion:mercenary_tavern_talk|Eu? - ele inclina a cabeça em direção ao seu ouvido e sussurra -. Somos muito úteis. Podemos nos infiltrar e descobrir as defesas da cidade e do castelo ou podemos sabotar aqui. Também podemos transmitir suas mensagens ou você pode nos transformar em uma unidade de combate especializada em emboscar as tropas inimigas. (Lembre-se:clique com o botão direito no lugar ou festa para usar um espião.)
+dlga_mercenary_tavern_talk:spy_presentacion|Espião? O que você pode me oferecer?
+dlga_spy_presentacion:mercenary_tavern_talk|Eu? *ele inclina a cabeça em direção ao seu ouvido e sussurra* Somos muito úteis. Podemos nos infiltrar e descobrir as defesas de cidades e castelos ou podemos sabotar aqui. Também podemos transmitir suas mensagens ou você pode nos transformar em uma unidade de combate especializada em emboscar as tropas inimigas. (Lembre-se: clique com o botão direito no lugar ou grupo para usar um espião.)
 dlga_mercenary_tavern_talk:leader_presentacion|Hum, o que você pode me oferecer?
-dlga_leader_presentacion:mercenary_tavern_talk|Eu? Eu posso liderar homens. Isso significa que você pode me dar algumas de suas tropas e eu os liderarei em meu próprio partido, em seu nome e de acordo com suas ordens. Posso patrulhar áreas para você, atacar inimigos ou garantir uma posição, entre outras coisas.
-dlga_mercenary_tavern_talk:close_window|Desculpe. Eu não preciso de mais homens no momento.
-dlga_start:trainer_intro_1|Bom dia para você {reg59?moça:rapaz}. Você parece outro aventureiro que veio tentar a {reg59?Ela:dele} chance nessas terras. Bem, confie no que digo. Você não pode sobreviver por muito tempo, a menos que você saiba como se virar em uma luta.
-dlga_trainer_intro_1:trainer_intro_2|Obrigado pelo aviso. Esse lugar parece um campo de treinamento. Eu posso aprender sobre lutar aqui?
+dlga_leader_presentacion:mercenary_tavern_talk|Eu? Posso liderar homens. Isso significa que você pode me dar algumas de suas tropas e eu os liderarei em meu próprio grupo, em seu nome e de acordo com suas ordens. Posso patrulhar áreas para você, atacar inimigos ou garantir uma posição, entre outras coisas.
+dlga_mercenary_tavern_talk:close_window|Desculpe. Não necessito de mais homens no momento.
+dlga_start:trainer_intro_1|Bom dia, {rapaz/moça}. Pelo aspecto, você deve ser alguém que vem em busca de aventuras nestas terras. Bem, acredite quando digo que você não será capaz de sobreviver aqui por muito tempo, a menos que saiba como lutar para sair de um aperto.
+dlga_trainer_intro_1:trainer_intro_2|Obrigad{o/a} pelo conselho. Este lugar parece ser um campo de treinamento. Poderia aprender a lutar aqui?
 dlga_trainer_intro_2:trainer_intro_3|De fato, você pode. Eu sou um soldado veterano... Lutei em várias guerras no meu tempo. Mas hoje em dia, eu treino novatos nessa área. Eu posso encontrar alguns oponentes para praticar se você quiser. Ou se você tiver alguma dúvida teórica sobre combate, sinta-se livre para perguntar.
 dlga_trainer_intro_3:trainer_intro_4a|Sim, eu tenho algumas dúvidas.
 dlga_trainer_intro_3:trainer_intro_4b|Na verdade, posso seguir em frente para praticar.
@@ -4957,9 +4957,9 @@ dlga_village_elder_tell_deliver_cattle_mission_3:village_elder_deliver_cattle_mi
 dlga_village_elder_tell_deliver_cattle_mission_3:village_elder_deliver_cattle_mission_reject|Temo que não tenho tempo para isso. Você achar ajuda em outro lugar.
 dlga_village_elder_deliver_cattle_mission_accept:close_window|Obrigado, {reg59?madame:senhor}. Rezaremos por você, dia e noite.
 dlga_village_elder_deliver_cattle_mission_reject:close_window|Sim, {reg59?madame:senhor}, é claro. Eu sinto muito por tê-lo incomodado com nossos problemas.
-dlga_village_elder_tell_mission:village_elder_pretalk|Obrigado, {reg59?madame:senhor}, Mas nós não precisamos de nada no momento.
-dlga_start:goods_merchant_talk|{reg59?minha senhora:meu senhor}, você honra minha humilde loja com sua presença.
-dlga_start:goods_merchant_talk.1|Bem-vindo {reg59?madame:senhor}. O quê posso fazer por você?
+dlga_village_elder_tell_mission:village_elder_pretalk|Obrigado, {sor/senhora}, mas não precisamos de nada por hora.
+dlga_start:goods_merchant_talk|{Meu senhor/Minha senhora}, você honra minha humilde loja com sua presença.
+dlga_start:goods_merchant_talk.1|Bem-vind{o/a}, {sor/senhora}. O quê posso fazer por você?
 dlga_goods_merchant_pretalk:goods_merchant_talk|Algo mais?
 dlga_goods_merchant_talk:goods_trade_requested|Quero comprar alguns itens... E quem sabe vender outros.
 dlga_goods_trade_requested:goods_trade_completed|Claro, claro... Aqui, dê uma olhada em meu estoque...

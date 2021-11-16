@@ -692,14 +692,14 @@ qstr_Trait:|Traço:
 qstr_Natural_Leader__Pres|Líder Natural (pressione a tecla U na batalha)
 qstr_Warrior__Press_Key_B|Guerreiro (pressione a tecla B na batalha)
 qstr_Scars:|Cicatrizes:
-qstr_Wounds:|Feridas:
+qstr_Wounds:|Ferimentos:
 qstr_Enemies_Killed:|Inimigos mortos:
 qstr_Enemies_Wounded:|Inimigos feridos:
 qstr_Allies_Killed:|Aliados mortos:
 qstr_Allies_Wounded:|Aliados feridos:
 qstr_Story|História
 qstr_Attributes/Skills|Atributos/Habilidades
-qstr_Wounds|Feridas
+qstr_Wounds|Ferimentos
 qstr_Quest|Missão
 qstr_Party|Tropas
 qstr_Relations|Relações
@@ -715,7 +715,7 @@ qstr_Settlements_Owned_by|Assentamentos de sua propriedade: {reg0}
 qstr_Hostile_Lords:_{reg0|Lordes hostis: {reg0}
 qstr_Inventory:_{reg0}_st|Inventário: {reg0} veados
 qstr_You_need_to_be_the_r|Você precisa ser o governante de sua facção, a fim de acessar o painel de controle do reino.
-qstr_^^^^Wounds_Informati|^^^^Feridas Informação:^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}
+qstr_^^^^Wounds_Informati|^^^^Informação dos Ferimentos:^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}
 qstr_Kingdom_Report|Relatório do Reino
 qstr_{reg59?Queen:King}:|{reg59?Rainha:Rei}:
 qstr_{reg59?Queen:King}_s|Cidades {reg59?da Rainha:do Rei}:
@@ -1011,14 +1011,14 @@ qstr_You_lose_reputation.|Você perdeu reputação.
 qstr_Now_player_reputatio|Agora a reputação do jogador é {reg1}
 qstr_{s1}_has_declared_wa|{s1} declarou guerra contra {s2}.
 qstr_The_{s15}_complies_w|O {s15} obedeceu sua aliança com o {s17} ao atacar o {s16}.
-qstr_{s1}_and_{s2}_have_m|{s1} e {s2} fizeram as pazes um com o outro.
-qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?estava:está} em {s3}.
-qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?estava:está} viajando para {s3}, quando {reg4?ela:ele} {reg3?estava:deveria estar} perto de {s4}{reg3?:no momento}.
-qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?estava:está} em campo, e {reg4?ela:ele} {reg3?estava:deveria estar} perto de {s3}{reg3?:no momento}.
+qstr_{s1}_and_{s2}_have_m|{s1} e {s2} firmaram um tratado de paz.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?encontrava-se:encontra-se atualmente} em {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?encontrava-se:encontra-se} viajando para {s3} e {reg3?devia estar:deve estar} próximo de {s4}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?encontrava-se:encontra-se} em campo aberto e {reg3?devia estar:deve estar} próximo de {s3}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?encontrava-se:encontra-se} cativo em {s3}.
-qstr_{s2}_{reg3?was:has_b|{s2} {reg3?havia sido:foi} tomado como prisioneiro por {reg4?seus:seus} inimigos.
-qstr_{reg3?{s2}_s_locatio|{reg3?A localização de {s2} é desconhecida:Eu não sei onde {s2} está}.
-qstr_{s6}_has_joined_your|{s6} uniu-se ao seu exército.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?havia sido:foi} {reg4?capturada:capturado} por seus inimigos.
+qstr_{reg3?{s2}_s_locatio|{reg3?A localização de {s2} é desconhecida:Não sei onde {s2} está}.
+qstr_{s6}_has_joined_your|{s6} uniu-se a seu exército.
 qstr_You_now_owe_{reg2}_s|Agora você deve {reg2} veados de prata a {s1}.
 qstr_Royal_guardian|Guarda Real
 qstr_Renown_value_for_thi|O valor de renome para esta batalha é {reg8}.
@@ -1703,8 +1703,8 @@ qstr_{s1}On_limbs.___{reg1|{s1}Nas pernas. (-{reg1} agilidade)^^
 qstr_Scars:^^none|Cicatrizes:^^nenhuma
 qstr_Scars:^^{s1}These_in|Cicatrizes:^^{s1}Essas lesões tornaram-se permanentes. Elas agora não podem ser curadas.
 qstr_Lifetime_wounds:_{re|Ferimentos ao longo da vida: {reg1} até agora.
-qstr_Current_party_size_l|Limite do tamanho do exército: {reg0}.^^Renome: {reg34}^Liderança combinada: {s2} {reg32}^Carisma: {s3} {reg33}^Feudos: {s6} {reg35}^Navios (apenas no mar): {s7} {reg2}^^{playername} pode gerenciar completamente {reg36} tropas.^Atualmente {reg59?ela:ele} tem {reg37}.
-qstr_^No_food:___{reg7}|^Sem comida: - {reg7}
+qstr_Current_party_size_l|Limite do tamanho do exército: {reg0}.^^Renome: {reg34}^Liderança combinada: {s2}{reg32}^Carisma: {s3}{reg33}^Feudos: {s6}{reg35}^Navios (apenas no mar): {s7}{reg2}^^{playername} pode gerenciar completamente {reg36} tropas.^Atualmente {reg59?ela:ele} tem {reg37}.
+qstr_^No_food:___{reg7}|^Sem comida: -{reg7}
 qstr_^Wage_debt:___{reg7}|^Dívida salarial:  -{reg7}
 qstr_Currently_falling_fr|Atualmente caindo de: +
 qstr_Currently_rising_fro|Atualmente subindo de:
@@ -1875,13 +1875,13 @@ qstr_You_rally_your_men!_|Você reúne seus homens! (tropas feridas recuperam {r
 qstr__You_have_beaten_the|Você derrotou o velho herói e começou sua jornada para se tornar uma lenda.
 qstr_The_Raiders_push_you|Os Invasores fazem você recuar, e você apenas consegue escapar com vida.
 qstr_It_looks_as_though_t|Parece que os Invasores foram eliminados.
-qstr_The_raiding_party_le|O líder do grupo invasor foi morto. Procurando em seus pertences, você encontra:
+qstr_The_raiding_party_le|O líder do grupo invasor foi morto. Procurando em seus pertences, você consegue:
 qstr_You_must_push_back_t|Você deve repelir os invasores.^^(Pressione K)
 qstr_The_mutineers_push_y|Os amotinados empurram você para trás e você apenas consegue escapar com vida.
 qstr_It_looks_as_though_th|Parece que os amotinados foram resolvidos.
 qstr_Head_back_to_the_Com|Volte ao Comandante e diga a ele que os amotinados foram resolvidos.
 qstr_Quest_updated:_Mutin|Missão atualizada: Motim em Craster's Keep.
-qstr_Karl_Tanner_the_part|Karl Tanner, o líder do partido foi morto. Procurando em seus pertences, você encontra:
+qstr_Karl_Tanner_the_part|Karl Tanner, o líder do grupo, foi morto. Procurando em seus pertences, você consegue:
 qstr_You_must_kill_the_mu|Você deve matar os vigias noturnos amotinados.^^(Pressione K)
 qstr_You_were_injured_try|Você se feriu ao tentar suprimir o ataque.
 qstr_Although_you_have_ma|Embora você tenha conseguido suprimir o ataque, parece que o Rei Robb Stark foi morto.
@@ -1890,7 +1890,7 @@ qstr_You_have_helped_slay|Você ajudou a matar todos os soldados do Norte.
 qstr_King_Robb_Stark_has_|Rei Robb Stark caiu!!
 qstr_The_Wildlings_push_y|Os Wildlings empurram você para trás e você apenas consegue escapar com vida.
 qstr_It_looks_as_though_the|Parece que os Wildlings foram eliminados. Saia da caverna com os prisioneiros.
-qstr_You_ve_killed_the_tr|Você matou o líder da tribo. Procurando em seus pertences, você encontra:
+qstr_You_ve_killed_the_tr|Você matou o líder da tribo. Procurando em seus pertences, você consegue:
 qstr_It_seems_you_ve_happ|Parece que você encontrou um pequeno clã Wildling. Embora eles não pareçam ser do tipo amigável.^^(Pressione K)
 qstr_You_have_entered_Hol|Você entrou em Hollow Hill. Este esconderijo serve como sede da Brotherhood Without Banners.^^(Pressione K)
 qstr__The_rattle_of_spike|O barulho de espinhos na pedra é ensurdecedor. Abaixo, você pode ver as pessoas trabalhando arduamente sob o comando de um capataz.^^(Pressione K)
@@ -2150,7 +2150,7 @@ qstr__Your_Persuasion_str|Sua força de Persuasão é {reg5}.^{S5}
 qstr_The_{reg6?town_s:cas|Os suprimentos de comida {reg6?da cidade:do castelo} devem durar por mais {reg3} dias.
 qstr_The_{reg6?town_s:cast|Os suprimentos de comida {reg6?da cidade:do castelo} esgotaram-se e os defensores estão famintos.
 qstr_Your_men_are_buildin|Seus homens estão construindo postos de controle e pequenos acampamentos ao redor de {s4} para impedir que alguém entre ou saia.^^
-qstr_Your_perimeter_contr|Seu controle de perímetro está pronto. Você definiu um perímetro para vigilância ao redor de {s4}. Ninguém pode entrar ou sair sem o conhecimento de seus homens.^Isso será benéfico, especialmente quando você tiver que negociar a rendição do castelo com seu comandante.^^
+qstr_Your_perimeter_contr|Seu controle de perímetro está pronto. Você definiu um perímetro para patrulha ao redor de {s4}. Ninguém pode entrar ou sair sem o conhecimento de seus homens.^Isso será benéfico, especialmente quando você tiver que negociar a rendição do castelo com seu comandante.^^
 qstr_Your_men_are_ready_f|Seus homens estão prontos para o ataque.^^
 qstr_As_a_disciplined_arm|Como um exército disciplinado, seus homens fizeram latrinas, dutos e um lago para o banho semanal. Um acampamento saudável previne doenças.^^
 qstr_Your_men_have_finish|Seus homens terminaram de construir manteletes. Agora você pode usá-los para proteger seus soldados no ataque de vanguarda e sua força principal para a carga final.^^
@@ -3053,7 +3053,7 @@ qstr_King_Robb_Stark_has_a|O Rei Robb Stark pediu que você viajasse para o Cast
 qstr_You_must_return_to_t|Você deve retornar ao Lorde Comandante e explicar as más notícias.
 qstr_Quest_updated:_Bolst|Missão atualizada: Reforce o Negro
 qstr_You_must_return_to_K|Você deve retornar ao Rei Robb Stark e discutir o caso dos Lordes Comandantes por mais tropas.
-qstr_You_must_liaise_with|Você deve entrar em contato com o anfitrião dos Guardiões da Noite na Ponte das Caveiras e suprimir os invasores. A Ponte dos Crânios pode ser encontrada a oeste da Torre das Sombras.
+qstr_You_must_liaise_with|Você deve entrar em contato com o anfitrião da Patrulha da Noite na Ponte das Caveiras e suprimir os invasores. A Ponte das Caveiras pode ser encontrada a oeste da Torre Sombria.
 qstr_You_must_gather_a_sm|Você deve reunir uma pequena força e possivelmente uma arma valiriana e explorar as terras do inverno sempre. Retorne ao Lord Commander para relatar suas descobertas.
 qstr_Jon_Snow_has_joined_|Jon Snow juntou-se à sua festa.
 qstr_You_must_head_to_Cra|Você deve ir para Craster's Keep e lidar com os amotinados.
@@ -3129,7 +3129,7 @@ qstr_You_hand_over_your_p|Você entrega seus prisioneiros e os vê serem mandado
 qstr_The_Guild_master_of_|O mestre da Guilda de {s13} pediu a você para lidar com bandidos na zona rural circundante.
 qstr_{s9}_of_{s3}_asked_y|{s9} de {s3} pediu que entregue {reg5} unidades de {s6} para o bar em {s4} dentro de 7 dias.
 qstr_Escort_the_merchant_|Escolte a caravana de mercadores para a cidade de {s8}.
-qstr_Merchant_{s9}_of_{s4|Mercador {s9} de {s4} lhe pediu que casse os bandidos arruaceiros nas vizinhanças da cidade.
+qstr_Merchant_{s9}_of_{s4|O mercador {s9} de {s4} lhe pediu que para caçar os bandidos problemáticos nas proximidades da cidade.
 qstr_The_Guild_master_of_{| O mestre da Guilda de {s4} deu a você {reg12} veados de prata para pagar o resgate de uma garota sequestrada por bandidos. Você deve encontrar os bandidos perto de {s3} e pagar a taxa de resgate. Depois disso, você deve trazer a garota de volta para {s4}.
 qstr_The_Guild_master_of_{s|O mestre da Guilda de {s4} prometeu a você {reg12} veados de prata se você pudesse se certificar de que {s12} e {s13} não representariam mais uma ameaça a um acordo de paz entre {s15} e {s14}. Para fazer isso, você deve convencê-los ou certificar-se de que caiam em cativeiro e permanecer assim até que um acordo de paz seja feito.
 qstr_The_Guild_master_of_{s1|O mestre da Guilda de {s14} pediu a você para lidar com um grupo de bandidos que aterrorizava as ruas de {s14}. Eles só saem à noite e só atacam viajantes solitários nas ruas.
